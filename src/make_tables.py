@@ -59,7 +59,7 @@ def sup_sources():
     bb = pd.read_csv(PROC / "bdo_ballots.csv", keep_default_na=False)
     for (y, a), g in bb.groupby(["year", "award"]):
         src = g.source.iloc[0].split(":")[0]
-        label = {"jasa": "companion study (France Football)", "lequipe": "L'Équipe (Wayback copy)",
+        label = {"companion": "companion study (France Football)", "lequipe": "L'Équipe (Wayback copy)",
                  "wikipedia": "Wikipedia per-country table"}.get(src, src)
         rows.append([y, f"{AWARD[a]} (Ballon d'Or)", "", "", len(g), label])
     return tabular(["Year", "Award", "Coaches", "Captains", "Journalists", "Source"], rows, "llrrrl")

@@ -1,15 +1,15 @@
-"""Convert the JASA project's Ballon d'Or ballots (men 2019 and 2024) to the schema of parse_bdo.py.
+"""Convert the companion study's Ballon d'Or ballots (men 2019 and 2024) to the schema of parse_bdo.py.
 
-python -I nhb/src/jasa_bdo.py  ->  nhb/data/processed/bdo_ballots_jasa.csv, bdo_jasa_issues.csv
+python -I nhb/src/companion_bdo.py  ->  nhb/data/processed/bdo_ballots_companion.csv, bdo_companion_issues.csv
 
-Input (read only, never modified): /u/wangxiao/AI_Research/soccer/model_input/{2019,2024}/
+Input (read only, never modified): the companion study's model_input/{2019,2024}/, next to nhb/
 - rankings_long.csv: voter (the juror's country; French names in 2019, English in 2024), rank, player
   (a short key such as "VanDijk"), points (6-4-3-2-1 in 2019; 15-12-...-1 in 2024);
 - voter_source.csv: voter, continent, source (2019: "real (France Football 04.12.2019)", the print
   issue; 2024: "France Football 2024 (99 FIFA-ranked voters)");
 - model_players.csv: player key -> full_name (30 nominees per year).
 Neither year names the juror or the outlet, so those columns stay blank. Each pick is written as the
-JASA full name of the player key; bdo_nominees.py maps it to a person like any other spelling. Checks:
+companion-study full name of the player key; bdo_nominees.py maps it to a person like any other spelling. Checks:
 ranks 1..k once per voter, printed points equal to the scheme's points for the rank, the same voters
 in both files, every player key in model_players.csv. Failures go to the issues file, never fixed.
 """
@@ -23,13 +23,13 @@ from countries_fr import resolve_fr  # noqa: E402
 from parse_bdo import COLUMNS, K_OF_YEAR, KMAX, SCHEME, canon_resolver  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-JASA = ROOT.parent / "model_input"
+COMPANION = ROOT.parent / "model_input"
 PROC = ROOT / "data" / "processed"
 YEARS = (2019, 2024)
 
 
 def convert(year, resolve):
-    d = JASA / str(year)
+    d = COMPANION / str(year)
     long = pd.read_csv(d / "rankings_long.csv", keep_default_na=False)
     voters = pd.read_csv(d / "voter_source.csv", keep_default_na=False)
     players = pd.read_csv(d / "model_players.csv", keep_default_na=False)
@@ -47,7 +47,7 @@ def convert(year, resolve):
         g = g.sort_values("rank")
         row = {"year": year, "award": "MP", "country_raw": voter,
                "country": resolve_fr(voter) or resolve(voter) or "", "juror": "", "outlet": "", "k": k,
-               "source": f"jasa:model_input/{year}/rankings_long.csv ({src_of.get(voter, 'no voter_source row')})",
+               "source": f"companion:model_input/{year}/rankings_long.csv ({src_of.get(voter, 'no voter_source row')})",
                "flag": ""}
         for i in range(1, KMAX + 1):
             row[f"pick{i}"] = ""
@@ -78,8 +78,8 @@ def main():
         rows += r
         issues += i
         print(f"{year}: {len(r)} voters, {len(i)} issues", file=sys.stderr)
-    pd.DataFrame(rows, columns=COLUMNS).to_csv(PROC / "bdo_ballots_jasa.csv", index=False)
-    pd.DataFrame(issues, columns=["year", "award", "voter", "reason"]).to_csv(PROC / "bdo_jasa_issues.csv",
+    pd.DataFrame(rows, columns=COLUMNS).to_csv(PROC / "bdo_ballots_companion.csv", index=False)
+    pd.DataFrame(issues, columns=["year", "award", "voter", "reason"]).to_csv(PROC / "bdo_companion_issues.csv",
                                                                                index=False)
     for i in issues:
         print(f"  {i}", file=sys.stderr)

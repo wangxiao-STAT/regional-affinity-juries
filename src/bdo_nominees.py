@@ -5,7 +5,7 @@ python -I nhb/src/bdo_nominees.py  ->  nhb/data/processed/bdo_nominee_names.csv,
 Each contest (men 2019, 2022-2025; women 2023-2025) has a closed list of 30 nominees, taken from the
 ranking table of the Wikipedia "{year} Ballon d'Or" page (parse_bdo.wiki_tables). Every spelling seen in
 the ballots (L'Équipe short names such as "Vinicius Jr.", "D. Doué", "Te. Chawinga"; Wikipedia
-per-country column headers; JASA full names; L'Équipe ranking names) is mapped to one nominee of the
+per-country column headers; companion-study full names; L'Équipe ranking names) is mapped to one nominee of the
 same contest:
 1. same nominees.key() (accent- and order-free tokens, with nominees.ALIASES);
 2. otherwise every token of the spelling matches a different token of exactly one nominee's name:
@@ -48,7 +48,7 @@ LETTERS = str.maketrans({"ø": "o", "Ø": "O", "æ": "ae", "Æ": "Ae", "đ": "d"
 # (year, award, spelling) -> Wikipedia name, for spellings the rules cannot place; each checked against
 # the contest's nominee list (the only nominee with that surname)
 MANUAL = {
-    (2019, "MP", "Alisson Becker"): "Alisson",               # JASA full name; Wikipedia uses the mononym
+    (2019, "MP", "Alisson Becker"): "Alisson",               # companion-study full name; Wikipedia uses the mononym
     (2022, "MP", "Son Heug-min"): "Son Heung-min",           # typo in L'Équipe's 2022 ranking box
     (2023, "WP", "Alba Redon do"): "Alba Redondo",           # typo (split word) in L'Équipe's 2023 ranking box
     (2025, "WP", "Leonhardsen Maanum"): "Frida Maanum",      # full surname Leonhardsen Maanum
@@ -193,7 +193,7 @@ def spellings():
         if raw:
             p, w = seen.get((y, a, raw), (0, set()))
             seen[(y, a, raw)] = (p + n, w | {where})
-    for f, where in (("bdo_ballots_raw.csv", "ballots"), ("bdo_ballots_jasa.csv", "ballots"),
+    for f, where in (("bdo_ballots_raw.csv", "ballots"), ("bdo_ballots_companion.csv", "ballots"),
                      ("bdo_wiki_ballots.csv", "wiki_country_table")):
         b = pd.read_csv(PROC / f, keep_default_na=False)
         for c in [c for c in b.columns if c.startswith("pick")]:

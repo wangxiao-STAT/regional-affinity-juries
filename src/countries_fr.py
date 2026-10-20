@@ -1,6 +1,6 @@
 """French country names (L'Équipe / France Football juror lists) -> canonical names of countries.csv.
 
-Used by parse_bdo.py and jasa_bdo.py; `python -I nhb/src/countries_fr.py` checks that every target is a
+Used by parse_bdo.py and companion_bdo.py; `python -I nhb/src/countries_fr.py` checks that every target is a
 canonical name in nhb/data/processed/countries.csv and prints any that is not.
 
 L'Équipe prints the juror's country in French, in mixed case (2022, women's lists) or capitals

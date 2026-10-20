@@ -145,7 +145,7 @@ men's jury is drawn from the FIFA top 100 and the women's from the top 50.
 |---|---|---|
 | 1 | `fetch_bdo.py` | `raw/ballondor/{YEAR}_{MP,WP}/page.html`, `raw/ballondor/{YEAR}_wiki/wikipedia.json` (each with `source.json`) |
 | 2 | `parse_bdo.py` (uses `countries_fr.py`) | `bdo_ballots_raw.csv`, `bdo_wiki_ballots.csv`, `bdo_official_points.csv`, `bdo_parse_issues.csv` |
-| 3 | `jasa_bdo.py` | `bdo_ballots_jasa.csv`, `bdo_jasa_issues.csv` |
+| 3 | `companion_bdo.py` | `bdo_ballots_companion.csv`, `bdo_companion_issues.csv` |
 | 4 | `bdo_nominees.py` | `bdo_nominee_names.csv` (spelling → person), `bdo_nominee_meta.csv` |
 | 5 | `build_bdo.py` | `bdo_ballots.csv` (one row per juror, picks as persons) |
 | 6 | `validate_bdo.py` | `bdo_validation.csv`, `bdo_validation_summary.csv`, `bdo_crosscheck.csv` |
@@ -163,10 +163,10 @@ men's jury is drawn from the FIFA top 100 and the women's from the top 50.
 
 | Contest | Jurors | k | Juror names | Source |
 |---|---|---|---|---|
-| Men 2019 | 176 | 5 | no | JASA data (France Football print issue, 4 Dec 2019) |
+| Men 2019 | 176 | 5 | no | companion-study data (France Football print issue, 4 Dec 2019) |
 | Men 2022 | 93 | 5 | yes | L'Équipe/FF page, Wayback 20250322040635 |
 | Men 2023 | 92 | 5 | no | Wikipedia "Ballon D'Or Detailed Votes by Country" |
-| Men 2024 | 99 | 10 | no | JASA data |
+| Men 2024 | 99 | 10 | no | companion-study data |
 | Men 2025 | 100 | 10 | yes | L'Équipe page, Wayback 20260510112921 |
 | Women 2023 | 47 | 5 | yes | L'Équipe page, Wayback 20240227144843 |
 | Women 2024 | 49 | 10 | yes | L'Équipe page, Wayback 20260914175433 |
@@ -179,15 +179,15 @@ Points are 6-4-3-2-1 for k = 5 and 15-12-10-8-7-5-4-3-2-1 for k = 10.
 - **L'Équipe / France Football pages.** These are Wayback raw captures (`id_`), so they come
   without the toolbar. The women's 2024 and 2025 captures were stored gzip-encoded and are
   decoded on download.
-- **JASA ballots, men 2019 and 2024.** They are read, never modified, from
-  `/u/wangxiao/AI_Research/soccer/model_input/{2019,2024}/`:
+- **Companion-study ballots, men 2019 and 2024.** They are read, never modified, from
+  the companion study's `model_input/{2019,2024}/` (next to `nhb/`):
   - `rankings_long.csv` holds voter, rank, player key and points: 880 rows (176 × 5) and
     990 rows (99 × 10);
   - `voter_source.csv` holds voter, continent and source;
   - `model_players.csv` gives the 30 nominees, with player key and full_name.
 
   The voter is the country, in French for 2019 and in English for 2024. Each pick is written as
-  the JASA full name.
+  the companion-study full name.
 - **Wikipedia "{year} Ballon d'Or".** These pages come from the MediaWiki parse API: 2019 and
   2022–2024 are in `raw/ballondor/{YEAR}_wiki/` and 2025 in `raw/wikipedia/ballondor_2025.json`.
   They supply three things: the nominee lists, the official points for every nominee, and nominee
@@ -247,8 +247,8 @@ Points are 6-4-3-2-1 for k = 5 and 15-12-10-8-7-5-4-3-2-1 for k = 10.
     ballots 0). L'Équipe gives her 0, and Wikipedia's total exceeds 47 full ballots by one point,
     so the Wikipedia cell is wrong.
   - Men 2019 differs by one point for two players: Ronaldo has 475 against the official 476, and
-    Sterling 31 against 30. The JASA project logs the same difference. Some 2019 ballot in the
-    JASA source must have Sterling one point too high and Ronaldo one too low. Four ballots fit:
+    Sterling 31 against 30. The companion study logs the same difference. Some 2019 ballot in the
+    companion-study source must have Sterling one point too high and Ronaldo one too low. Four ballots fit:
     Australia, Norway and the Philippines (Sterling directly above Ronaldo) and Pakistan (Sterling
     fifth, no Ronaldo). The print page is needed to tell which, so the data are left unchanged.
 - **Juror counts.** The parsed counts equal the counts the sources state: 176 (2019), 93 (2022:
@@ -263,7 +263,7 @@ Points are 6-4-3-2-1 for k = 5 and 15-12-10-8-7-5-4-3-2-1 for k = 10.
   - Bonmatí named 49 times and Caldentey 44 (women 2025).
 - **Integrity.** No ballot names a player twice or leaves a slot empty, and there is one ballot
   per country.
-- **Cross-source.** Juror by juror, the JASA 2024 ballots (99) and the L'Équipe 2025 ballots (100)
+- **Cross-source.** Juror by juror, the companion-study 2024 ballots (99) and the L'Équipe 2025 ballots (100)
   are identical to Wikipedia's per-country tables.
 
 ### Known limits

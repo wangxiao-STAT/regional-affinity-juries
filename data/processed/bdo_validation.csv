@@ -91,7 +91,7 @@ year,award,source,official_rank,person,official,parsed,diff,cause
 2024,WP,lequipe,30,Grace Geyoro,1,1,0,
 2019,MP,wikipedia,1,Lionel Messi,686,686,0,
 2019,MP,wikipedia,2,Virgil van Dijk,679,679,0,
-2019,MP,wikipedia,3,Cristiano Ronaldo,476,475,-1,"The JASA 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one more than the official totals (476 and 30); the JASA project logs the same difference (KNOWN_POINT_DISCREPANCY). Some ballot must have Sterling one point higher and Ronaldo one lower than printed. Four ballots fit: Australia, Norway and the Philippines (Sterling directly above Ronaldo) and Pakistan (Sterling fifth, Ronaldo absent). The print page is needed to tell which; the data are left as in the JASA source."
+2019,MP,wikipedia,3,Cristiano Ronaldo,476,475,-1,"The companion study's 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one more than the official totals (476 and 30); the companion study logs the same difference (KNOWN_POINT_DISCREPANCY). Some ballot must have Sterling one point higher and Ronaldo one lower than printed. Four ballots fit: Australia, Norway and the Philippines (Sterling directly above Ronaldo) and Pakistan (Sterling fifth, Ronaldo absent). The print page is needed to tell which; the data are left as in the companion study's source."
 2019,MP,wikipedia,4,Sadio Mané,347,347,0,
 2019,MP,wikipedia,5,Mohamed Salah,178,178,0,
 2019,MP,wikipedia,6,Kylian Mbappé,89,89,0,
@@ -100,7 +100,7 @@ year,award,source,official_rank,person,official,parsed,diff,cause
 2019,MP,wikipedia,9,Bernardo Silva,41,41,0,
 2019,MP,wikipedia,10,Riyad Mahrez,33,33,0,
 2019,MP,wikipedia,11,Frenkie de Jong,31,31,0,
-2019,MP,wikipedia,12,Raheem Sterling,30,31,1,"The JASA 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one more than the official totals (476 and 30); the JASA project logs the same difference (KNOWN_POINT_DISCREPANCY). Some ballot must have Sterling one point higher and Ronaldo one lower than printed. Four ballots fit: Australia, Norway and the Philippines (Sterling directly above Ronaldo) and Pakistan (Sterling fifth, Ronaldo absent). The print page is needed to tell which; the data are left as in the JASA source."
+2019,MP,wikipedia,12,Raheem Sterling,30,31,1,"The companion study's 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one more than the official totals (476 and 30); the companion study logs the same difference (KNOWN_POINT_DISCREPANCY). Some ballot must have Sterling one point higher and Ronaldo one lower than printed. Four ballots fit: Australia, Norway and the Philippines (Sterling directly above Ronaldo) and Pakistan (Sterling fifth, Ronaldo absent). The print page is needed to tell which; the data are left as in the companion study's source."
 2019,MP,wikipedia,13,Eden Hazard,25,25,0,
 2019,MP,wikipedia,14,Kevin De Bruyne,14,14,0,
 2019,MP,wikipedia,15,Matthijs de Ligt,13,13,0,

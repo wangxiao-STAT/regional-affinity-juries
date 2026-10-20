@@ -11,7 +11,7 @@ python -I nhb/src/validate_bdo.py  ->  prints the checks; nhb/data/processed/bdo
 3. Statements in the L'Équipe articles that the ballots must reproduce (first-place counts, ballots
    naming a player, the one juror without the winner).
 4. Integrity: no juror names a player twice, no empty slot within 1..k, one ballot per country.
-5. Cross-source agreement, juror by juror: men 2024 (JASA data) and men 2025 (L'Équipe) against
+5. Cross-source agreement, juror by juror: men 2024 (companion-study data) and men 2025 (L'Équipe) against
    Wikipedia's per-country tables (bdo_wiki_ballots.csv).
 """
 import sys
@@ -26,10 +26,10 @@ ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "processed"
 PICKS = [f"pick{i}" for i in range(1, KMAX + 1)]
 STATED_JURORS = {
-    (2019, "MP"): (176, "France Football print issue of 4 Dec 2019, as recorded in the JASA data dictionary"),
+    (2019, "MP"): (176, "France Football print issue of 4 Dec 2019, as recorded in the companion study's data dictionary"),
     (2022, "MP"): (93, "L'Équipe 2022: Benzema 'premier du classement des jurés 89 fois sur 93'"),
     (2023, "MP"): (None, "no stated count (L'Équipe page paywalled)"),
-    (2024, "MP"): (99, "JASA voter_source.csv: 'France Football 2024 (99 FIFA-ranked voters)'"),
+    (2024, "MP"): (99, "companion-study voter_source.csv: 'France Football 2024 (99 FIFA-ranked voters)'"),
     (2025, "MP"): (100, "L'Équipe 2025: 'l'unanimité parmi les 100 jurés'"),
     (2023, "WP"): (47, "L'Équipe 2023: Bonmatí 'citée à la première place 42 fois sur 47'"),
     (2024, "WP"): (49, "L'Équipe 2024: 'l'intégralité des votes des 49 jurés'"),
@@ -65,12 +65,12 @@ CLAIMS = [   # (year, award, what, function of the contest's ballots, stated val
 
 
 # Differences traced to their cause; any other nonzero difference fails the run.
-_SWAP_2019 = ("The JASA 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one "
-              "more than the official totals (476 and 30); the JASA project logs the same difference "
+_SWAP_2019 = ("The companion study's 2019 ballots (France Football print issue) give Ronaldo one point fewer and Sterling one "
+              "more than the official totals (476 and 30); the companion study logs the same difference "
               "(KNOWN_POINT_DISCREPANCY). Some ballot must have Sterling one point higher and Ronaldo one lower "
               "than printed. Four ballots fit: Australia, Norway and the Philippines (Sterling directly above "
               "Ronaldo) and Pakistan (Sterling fifth, Ronaldo absent). The print page is needed to tell which; "
-              "the data are left as in the JASA source.")
+              "the data are left as in the companion study's source.")
 EXPLAINED = {
     (2019, "MP", "wikipedia", "Cristiano Ronaldo"): (-1, _SWAP_2019),
     (2019, "MP", "wikipedia", "Raheem Sterling"): (1, _SWAP_2019),

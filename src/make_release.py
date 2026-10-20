@@ -1,6 +1,6 @@
 """Build the public code-and-data deposit in a separate directory.
 
-python -I nhb/src/make_release.py <out_dir>     (an existing <out_dir> is updated in place; .git is kept)
+python -I nhb/src/make_release.py <out_dir>     (an existing <out_dir> is rebuilt; its .git is kept)
 
 Copies src/, tests/, jobs/ (with the working directory replaced by $REPO), data/README.md, the
 download manifest, the processed tables and the result tables, and writes nothing back into nhb/.
@@ -30,11 +30,11 @@ NAME_COLUMNS = {
     "fifa_coach_nationality_all.csv": {"voter": "F", "coach_id": "C"},
     "fifa_coach_nationality.csv": {"voter": "F"},
     "bdo_ballots.csv": {"juror": "B"},
-    "bdo_ballots_jasa.csv": {"juror": "B"},
+    "bdo_ballots_companion.csv": {"juror": "B"},
     "bdo_ballots_raw.csv": {"juror": "B"},
     "bdo_wiki_ballots.csv": {"juror": "B"},
     "bdo_long.csv": {"voter": "B"},
-    "bdo_jasa_issues.csv": {"voter": "B"},
+    "bdo_companion_issues.csv": {"voter": "B"},
 }
 DROP_COLUMNS = {
     "fifa_ballots.csv": ["line"],
@@ -77,6 +77,8 @@ def pseudonymise(tables):
 def main():
     out = Path(sys.argv[1]).resolve()
     out.mkdir(parents=True, exist_ok=True)
+    for sub in ("src", "tests", "jobs", "data", "results"):     # start clean so renamed files do not linger
+        shutil.rmtree(out / sub, ignore_errors=True)
     for sub in ("src", "tests"):
         shutil.copytree(ROOT / sub, out / sub, dirs_exist_ok=True,
                         ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
