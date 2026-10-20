@@ -105,7 +105,7 @@ def main():
             shutil.copy2(f, dest)
     # README, licences and .gitignore of the deposit are kept in release/
     for src, dest in (("README.md", "README.md"), ("LICENSE", "LICENSE"), ("data_LICENSE", "data/LICENSE"),
-                      ("gitignore", ".gitignore")):
+                      ("gitignore", ".gitignore"), ("CITATION.cff", "CITATION.cff")):
         shutil.copy2(ROOT / "release" / src, out / dest)
     print(f"release written to {out}: {len(tables)} processed tables", file=sys.stderr)
 

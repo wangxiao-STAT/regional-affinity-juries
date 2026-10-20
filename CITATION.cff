@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "Regional affinity, not compatriot favouritism, tips close votes of expert juries: code and data"
+authors:
+  - family-names: Hu
+    given-names: Guanyu
+    affiliation: Michigan State University
+  - family-names: Wang
+    given-names: Xiao
+    affiliation: Purdue University
+repository-code: "https://github.com/wangxiao-STAT/regional-affinity-juries"
+license: MIT
+keywords:
+  - expert juries
+  - favouritism
+  - ranked ballots
+  - Plackett-Luce
+  - FIFA
+  - Ballon d'Or
