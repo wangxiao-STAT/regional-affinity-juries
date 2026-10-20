@@ -1,0 +1,422 @@
+year,award,raw,picks,seen_in,wiki_name,person,fifa_person,rule
+2019,MP,Alisson,0,official_wikipedia,Alisson,Alisson,,key
+2019,MP,Alisson Becker,27,ballots,Alisson,Alisson,,manual
+2019,MP,Antoine Griezmann,5,ballots;official_wikipedia,Antoine Griezmann,Antoine Griezmann,Griezmann Antoine,key
+2019,MP,Bernardo Silva,20,ballots;official_wikipedia,Bernardo Silva,Bernardo Silva,Bernardo Silva,key
+2019,MP,Cristiano Ronaldo,151,ballots;official_wikipedia,Cristiano Ronaldo,Cristiano Ronaldo,Cristiano Ronaldo,key
+2019,MP,Donny van de Beek,0,official_wikipedia,Donny van de Beek,Donny van de Beek,,key
+2019,MP,Dusan Tadic,3,ballots,Dušan Tadić,Dušan Tadić,,key
+2019,MP,Dušan Tadić,0,official_wikipedia,Dušan Tadić,Dušan Tadić,,key
+2019,MP,Eden Hazard,13,ballots;official_wikipedia,Eden Hazard,Eden Hazard,Hazard Eden,key
+2019,MP,Frenkie de Jong,15,ballots;official_wikipedia,Frenkie de Jong,Frenkie de Jong,De Jong Frenkie,key
+2019,MP,Georginio Wijnaldum,1,ballots;official_wikipedia,Georginio Wijnaldum,Georginio Wijnaldum,,key
+2019,MP,Hugo Lloris,1,ballots;official_wikipedia,Hugo Lloris,Hugo Lloris,,key
+2019,MP,João Félix,0,official_wikipedia,João Félix,João Félix,,key
+2019,MP,Kalidou Koulibaly,1,ballots;official_wikipedia,Kalidou Koulibaly,Kalidou Koulibaly,,key
+2019,MP,Karim Benzema,1,ballots;official_wikipedia,Karim Benzema,Karim Benzema,Karim Benzema,key
+2019,MP,Kevin De Bruyne,8,ballots;official_wikipedia,Kevin De Bruyne,Kevin De Bruyne,Kevin De Bruyne,key
+2019,MP,Kylian Mbappé,42,ballots;official_wikipedia,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2019,MP,Lionel Messi,166,ballots;official_wikipedia,Lionel Messi,Lionel Messi,Lionel Messi,key
+2019,MP,Marc-André ter Stegen,2,ballots;official_wikipedia,Marc-André ter Stegen,Marc-André ter Stegen,,key
+2019,MP,Marquinhos,0,official_wikipedia,Marquinhos,Marquinhos,,key
+2019,MP,Matthijs de Ligt,8,ballots;official_wikipedia,Matthijs de Ligt,Matthijs de Ligt,De Ligt Matthijs,key
+2019,MP,Mohamed Salah,75,ballots;official_wikipedia,Mohamed Salah,Mohamed Salah,Mohamed Salah,key
+2019,MP,Pierre-Emerick Aubameyang,2,ballots;official_wikipedia,Pierre-Emerick Aubameyang,Pierre-Emerick Aubameyang,Aubameyang Pierre-Emerick,key
+2019,MP,Raheem Sterling,19,ballots;official_wikipedia,Raheem Sterling,Raheem Sterling,,key
+2019,MP,Riyad Mahrez,16,ballots;official_wikipedia,Riyad Mahrez,Riyad Mahrez,Mahrez Riyad,key
+2019,MP,Robert Lewandowski,19,ballots;official_wikipedia,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,key
+2019,MP,Roberto Firmino,7,ballots;official_wikipedia,Roberto Firmino,Roberto Firmino,,key
+2019,MP,Sadio Mané,112,ballots;official_wikipedia,Sadio Mané,Sadio Mané,Sadio Mané,key
+2019,MP,Sergio Agüero,5,ballots;official_wikipedia,Sergio Agüero,Sergio Agüero,Agüero Sergio,key
+2019,MP,Son Heung-min,4,ballots;official_wikipedia,Son Heung-min,Son Heung-min,,key
+2019,MP,Trent Alexander-Arnold,3,ballots;official_wikipedia,Trent Alexander-Arnold,Trent Alexander-Arnold,,key
+2019,MP,Virgil van Dijk,154,ballots;official_wikipedia,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,key
+2022,MP,Antonio Rüdiger,0,official_lequipe;official_wikipedia,Antonio Rüdiger,Antonio Rüdiger,,key
+2022,MP,Benzema,93,ballots,Karim Benzema,Karim Benzema,Karim Benzema,tokens
+2022,MP,Bernardo Silva,0,official_lequipe;official_wikipedia,Bernardo Silva,Bernardo Silva,Bernardo Silva,key
+2022,MP,Casemiro,1,ballots;official_lequipe;official_wikipedia,Casemiro,Casemiro,,key
+2022,MP,Christopher Nkunku,0,official_lequipe;official_wikipedia,Christopher Nkunku,Christopher Nkunku,,key
+2022,MP,Courtois,29,ballots,Thibaut Courtois,Thibaut Courtois,Courtois Thibaut,tokens
+2022,MP,Cristiano Ronaldo,0,official_lequipe;official_wikipedia,Cristiano Ronaldo,Cristiano Ronaldo,Cristiano Ronaldo,key
+2022,MP,Darwin Nunez,0,official_lequipe,Darwin Núñez,Darwin Núñez,,key
+2022,MP,Darwin Núñez,0,official_wikipedia,Darwin Núñez,Darwin Núñez,,key
+2022,MP,De Bruyne,65,ballots,Kevin De Bruyne,Kevin De Bruyne,Kevin De Bruyne,tokens
+2022,MP,Diaz,1,ballots,Luis Díaz,Luis Díaz,,tokens
+2022,MP,Dusan Vlahovic,0,official_lequipe,Dušan Vlahović,Dušan Vlahović,,key
+2022,MP,Dušan Vlahović,0,official_wikipedia,Dušan Vlahović,Dušan Vlahović,,key
+2022,MP,Erling Haaland,0,official_lequipe;official_wikipedia,Erling Haaland,Erling Haaland,Erling Haaland,key
+2022,MP,Fabinho,2,ballots;official_lequipe;official_wikipedia,Fabinho,Fabinho,,key
+2022,MP,Haaland,12,ballots,Erling Haaland,Erling Haaland,Erling Haaland,tokens
+2022,MP,Haller,1,ballots,Sébastien Haller,Sébastien Haller,,tokens
+2022,MP,Harry Kane,0,official_lequipe;official_wikipedia,Harry Kane,Harry Kane,Harry Kane,key
+2022,MP,Joao Cancelo,0,official_lequipe,João Cancelo,João Cancelo,,key
+2022,MP,Joshua Kimmich,0,official_lequipe;official_wikipedia,Joshua Kimmich,Joshua Kimmich,,key
+2022,MP,João Cancelo,0,official_wikipedia,João Cancelo,João Cancelo,,key
+2022,MP,Karim Benzema,0,official_lequipe;official_wikipedia,Karim Benzema,Karim Benzema,Karim Benzema,key
+2022,MP,Kevin De Bruyne,0,official_lequipe;official_wikipedia,Kevin De Bruyne,Kevin De Bruyne,Kevin De Bruyne,key
+2022,MP,Kylian Mbappé,0,official_lequipe;official_wikipedia,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2022,MP,Leao,2,ballots,Rafael Leão,Rafael Leão,,tokens
+2022,MP,Lewandowski,67,ballots,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,tokens
+2022,MP,Luis Diaz,0,official_lequipe,Luis Díaz,Luis Díaz,,key
+2022,MP,Luis Díaz,0,official_wikipedia,Luis Díaz,Luis Díaz,,key
+2022,MP,Luka Modric,0,official_lequipe,Luka Modrić,Luka Modrić,Luka Modrić,key
+2022,MP,Luka Modrić,0,official_wikipedia,Luka Modrić,Luka Modrić,Luka Modrić,key
+2022,MP,Mahrez,1,ballots,Riyad Mahrez,Riyad Mahrez,Mahrez Riyad,tokens
+2022,MP,Mané,61,ballots,Sadio Mané,Sadio Mané,Sadio Mané,tokens
+2022,MP,Mbappé,44,ballots,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,tokens
+2022,MP,Mike Maignan,0,official_lequipe;official_wikipedia,Mike Maignan,Mike Maignan,,key
+2022,MP,Modric,8,ballots,Luka Modrić,Luka Modrić,Luka Modrić,tokens
+2022,MP,Mohamed Salah,0,official_lequipe;official_wikipedia,Mohamed Salah,Mohamed Salah,Mohamed Salah,key
+2022,MP,Phil Foden,0,official_lequipe;official_wikipedia,Phil Foden,Phil Foden,,key
+2022,MP,Rafael Leao,0,official_lequipe,Rafael Leão,Rafael Leão,,key
+2022,MP,Rafael Leão,0,official_wikipedia,Rafael Leão,Rafael Leão,,key
+2022,MP,Riyad Mahrez,0,official_lequipe;official_wikipedia,Riyad Mahrez,Riyad Mahrez,Mahrez Riyad,key
+2022,MP,Robert Lewandowski,0,official_lequipe;official_wikipedia,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,key
+2022,MP,Sadio Mané,0,official_lequipe;official_wikipedia,Sadio Mané,Sadio Mané,Sadio Mané,key
+2022,MP,Salah,44,ballots,Mohamed Salah,Mohamed Salah,Mohamed Salah,tokens
+2022,MP,Son,2,ballots,Son Heung-min,Son Heung-min,,tokens
+2022,MP,Son Heug-min,0,official_lequipe,Son Heung-min,Son Heung-min,,manual
+2022,MP,Son Heung-min,0,official_wikipedia,Son Heung-min,Son Heung-min,,key
+2022,MP,Sébastien Haller,0,official_lequipe;official_wikipedia,Sébastien Haller,Sébastien Haller,,key
+2022,MP,Thibaut Courtois,0,official_lequipe;official_wikipedia,Thibaut Courtois,Thibaut Courtois,Courtois Thibaut,key
+2022,MP,Trent Alexander-Arnold,0,official_lequipe;official_wikipedia,Trent Alexander-Arnold,Trent Alexander-Arnold,,key
+2022,MP,Van Dijk,1,ballots,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,tokens
+2022,MP,Vinicius Jr.,30,ballots;official_lequipe,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,tokens
+2022,MP,Vinícius Júnior,0,official_wikipedia,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,key
+2022,MP,Virgil Van Dijk,0,official_lequipe,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,key
+2022,MP,Virgil van Dijk,0,official_wikipedia,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,key
+2022,MP,Vlahovic,1,ballots,Dušan Vlahović,Dušan Vlahović,,tokens
+2023,MP,Alvarez,12,ballots;wiki_country_table,Julián Álvarez,Julián Álvarez,Julián Álvarez,tokens
+2023,MP,André Onana,0,official_wikipedia,André Onana,André Onana,,key
+2023,MP,Antoine Griezmann,0,official_wikipedia,Antoine Griezmann,Antoine Griezmann,Griezmann Antoine,key
+2023,MP,Bellingham,4,ballots;wiki_country_table,Jude Bellingham,Jude Bellingham,Jude Bellingham,tokens
+2023,MP,Benzema,3,ballots;wiki_country_table,Karim Benzema,Karim Benzema,Karim Benzema,tokens
+2023,MP,Bernardo Silva,9,ballots;official_wikipedia;wiki_country_table,Bernardo Silva,Bernardo Silva,Bernardo Silva,key
+2023,MP,Bounou,5,ballots;wiki_country_table,Yassine Bounou,Yassine Bounou,,tokens
+2023,MP,Bukayo Saka,0,official_wikipedia,Bukayo Saka,Bukayo Saka,,key
+2023,MP,De Bruyne,46,ballots;wiki_country_table,Kevin De Bruyne,Kevin De Bruyne,Kevin De Bruyne,tokens
+2023,MP,E. Martinez,4,ballots;wiki_country_table,Emiliano Martínez,Emiliano Martínez,,tokens
+2023,MP,Emiliano Martínez,0,official_wikipedia,Emiliano Martínez,Emiliano Martínez,,key
+2023,MP,Erling Haaland,0,official_wikipedia,Erling Haaland,Erling Haaland,Erling Haaland,key
+2023,MP,Griezmann,1,ballots;wiki_country_table,Antoine Griezmann,Antoine Griezmann,Griezmann Antoine,tokens
+2023,MP,Gvardiol,1,ballots;wiki_country_table,Joško Gvardiol,Joško Gvardiol,,tokens
+2023,MP,Gündogan,6,ballots;wiki_country_table,İlkay Gündoğan,İlkay Gündoğan,İlkay Gündoğan,tokens
+2023,MP,Haaland,88,ballots;wiki_country_table,Erling Haaland,Erling Haaland,Erling Haaland,tokens
+2023,MP,Harry Kane,0,official_wikipedia,Harry Kane,Harry Kane,Harry Kane,key
+2023,MP,Jamal Musiala,0,official_wikipedia,Jamal Musiala,Jamal Musiala,,key
+2023,MP,Joško Gvardiol,0,official_wikipedia,Joško Gvardiol,Joško Gvardiol,,key
+2023,MP,Jude Bellingham,0,official_wikipedia,Jude Bellingham,Jude Bellingham,Jude Bellingham,key
+2023,MP,Julián Álvarez,0,official_wikipedia,Julián Álvarez,Julián Álvarez,Julián Álvarez,key
+2023,MP,Kane,3,ballots;wiki_country_table,Harry Kane,Harry Kane,Harry Kane,tokens
+2023,MP,Karim Benzema,0,official_wikipedia,Karim Benzema,Karim Benzema,Karim Benzema,key
+2023,MP,Kevin De Bruyne,0,official_wikipedia,Kevin De Bruyne,Kevin De Bruyne,Kevin De Bruyne,key
+2023,MP,Khvicha Kvaratskhelia,0,official_wikipedia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,key
+2023,MP,Kim Min-jae,0,official_wikipedia,Kim Min-jae,Kim Min-jae,,key
+2023,MP,Kvaratskhelia,4,ballots;wiki_country_table,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,tokens
+2023,MP,Kylian Mbappé,0,official_wikipedia,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2023,MP,L. Martinez,2,ballots;wiki_country_table,Lautaro Martínez,Lautaro Martínez,,tokens
+2023,MP,Lautaro Martínez,0,official_wikipedia,Lautaro Martínez,Lautaro Martínez,,key
+2023,MP,Lewandowski,9,ballots;wiki_country_table,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,tokens
+2023,MP,Lionel Messi,0,official_wikipedia,Lionel Messi,Lionel Messi,Lionel Messi,key
+2023,MP,Luka Modrić,0,official_wikipedia,Luka Modrić,Luka Modrić,Luka Modrić,key
+2023,MP,Martin Ødegaard,0,official_wikipedia,Martin Ødegaard,Martin Ødegaard,,key
+2023,MP,Mbappé,84,ballots;wiki_country_table,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,tokens
+2023,MP,Messi,86,ballots;wiki_country_table,Lionel Messi,Lionel Messi,Lionel Messi,tokens
+2023,MP,Min-jae Kim,2,ballots;wiki_country_table,Kim Min-jae,Kim Min-jae,,key
+2023,MP,Modric,11,ballots;wiki_country_table,Luka Modrić,Luka Modrić,Luka Modrić,tokens
+2023,MP,Mohamed Salah,0,official_wikipedia,Mohamed Salah,Mohamed Salah,Mohamed Salah,key
+2023,MP,Nicolò Barella,0,official_wikipedia,Nicolò Barella,Nicolò Barella,,key
+2023,MP,Onana,1,ballots;wiki_country_table,André Onana,André Onana,,tokens
+2023,MP,Osimhen,15,ballots;wiki_country_table,Victor Osimhen,Victor Osimhen,Victor Osimhen,tokens
+2023,MP,Randal Kolo Muani,0,official_wikipedia,Randal Kolo Muani,Randal Kolo Muani,,key
+2023,MP,Robert Lewandowski,0,official_wikipedia,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,key
+2023,MP,Rodri,30,ballots;official_wikipedia;wiki_country_table,Rodri,Rodri,Rodri,key
+2023,MP,Rúben Dias,0,official_wikipedia,Rúben Dias,Rúben Dias,,key
+2023,MP,Saka,1,ballots;wiki_country_table,Bukayo Saka,Bukayo Saka,,tokens
+2023,MP,Salah,8,ballots;wiki_country_table,Mohamed Salah,Mohamed Salah,Mohamed Salah,tokens
+2023,MP,Victor Osimhen,0,official_wikipedia,Victor Osimhen,Victor Osimhen,Victor Osimhen,key
+2023,MP,Vinicius Jr.,25,ballots;wiki_country_table,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,tokens
+2023,MP,Vinícius Júnior,0,official_wikipedia,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,key
+2023,MP,Yassine Bounou,0,official_wikipedia,Yassine Bounou,Yassine Bounou,,key
+2023,MP,İlkay Gündoğan,0,official_wikipedia,İlkay Gündoğan,İlkay Gündoğan,İlkay Gündoğan,key
+2023,WP,Aitana Bonmati,0,official_lequipe,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,key
+2023,WP,Aitana Bonmatí,0,official_wikipedia,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,key
+2023,WP,Alba Redon do,0,official_lequipe,Alba Redondo,Alba Redondo,,manual
+2023,WP,Alba Redondo,0,official_wikipedia,Alba Redondo,Alba Redondo,,key
+2023,WP,Alexandra Popp,0,official_lequipe;official_wikipedia,Alexandra Popp,Alexandra Popp,Alexandra Popp,key
+2023,WP,Amanda Ilestedt,0,official_lequipe;official_wikipedia,Amanda Ilestedt,Amanda Ilestedt,Amanda Ilestedt,key
+2023,WP,Asisat Oshoala,0,official_lequipe;official_wikipedia,Asisat Oshoala,Asisat Oshoala,,key
+2023,WP,Bonmati,46,ballots,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,tokens
+2023,WP,Bright,8,ballots,Millie Bright,Millie Bright,,tokens
+2023,WP,Caicedo,9,ballots,Linda Caicedo,Linda Caicedo,Linda Caicedo,tokens
+2023,WP,Carmona,12,ballots,Olga Carmona,Olga Carmona,,tokens
+2023,WP,Daly,6,ballots,Rachel Daly,Rachel Daly,Rachel Daly,tokens
+2023,WP,Daphne van Domselaar,0,official_lequipe;official_wikipedia,Daphne van Domselaar,Daphne van Domselaar,,key
+2023,WP,Debinha,0,official_lequipe;official_wikipedia,Debinha,Debinha,Debinha,key
+2023,WP,Diani,5,ballots,Kadidiatou Diani,Kadidiatou Diani,Kadidiatou Diani,tokens
+2023,WP,Earps,18,ballots,Mary Earps,Mary Earps,,tokens
+2023,WP,Ewa Pajor,0,official_lequipe;official_wikipedia,Ewa Pajor,Ewa Pajor,Ewa Pajor,key
+2023,WP,Fridolina Rolfö,0,official_lequipe;official_wikipedia,Fridolina Rolfö,Fridolina Rolfö,,key
+2023,WP,Georgia Stanway,0,official_lequipe;official_wikipedia,Georgia Stanway,Georgia Stanway,,key
+2023,WP,Guijarro,9,ballots,Patricia Guijarro,Patricia Guijarro,,tokens
+2023,WP,Guro Reiten,0,official_lequipe;official_wikipedia,Guro Reiten,Guro Reiten,,key
+2023,WP,Hasegawa,1,ballots,Yui Hasegawa,Yui Hasegawa,,tokens
+2023,WP,Hayley Raso,0,official_lequipe;official_wikipedia,Hayley Raso,Hayley Raso,,key
+2023,WP,Hinata Miyazawa,0,official_lequipe;official_wikipedia,Hinata Miyazawa,Hinata Miyazawa,Hinata Miyazawa,key
+2023,WP,Ilestedt,6,ballots,Amanda Ilestedt,Amanda Ilestedt,Amanda Ilestedt,tokens
+2023,WP,Jill Roord,0,official_lequipe;official_wikipedia,Jill Roord,Jill Roord,,key
+2023,WP,Kadidiatou Diani,0,official_lequipe;official_wikipedia,Kadidiatou Diani,Kadidiatou Diani,Kadidiatou Diani,key
+2023,WP,Katie McCabe,0,official_lequipe;official_wikipedia,Katie McCabe,Katie McCabe,,key
+2023,WP,Kerr,27,ballots,Sam Kerr,Sam Kerr,Sam Kerr,tokens
+2023,WP,Khadija Shaw,0,official_lequipe;official_wikipedia,Khadija Shaw,Khadija Shaw,Khadija Shaw,key
+2023,WP,Lena Oberdorf,0,official_lequipe;official_wikipedia,Lena Oberdorf,Lena Oberdorf,Lena Oberdorf,key
+2023,WP,Leon Mapi,5,ballots,Mapi León,Mapi León,Mapi León,key
+2023,WP,Linda Caicedo,0,official_lequipe;official_wikipedia,Linda Caicedo,Linda Caicedo,Linda Caicedo,key
+2023,WP,Mapi Leon,1,ballots;official_lequipe,Mapi León,Mapi León,Mapi León,key
+2023,WP,Mapi León,0,official_wikipedia,Mapi León,Mapi León,Mapi León,key
+2023,WP,Mary Earps,0,official_lequipe;official_wikipedia,Mary Earps,Mary Earps,,key
+2023,WP,McCabe,4,ballots,Katie McCabe,Katie McCabe,,tokens
+2023,WP,Millie Bright,0,official_lequipe;official_wikipedia,Millie Bright,Millie Bright,,key
+2023,WP,Miyazawa,7,ballots,Hinata Miyazawa,Hinata Miyazawa,Hinata Miyazawa,tokens
+2023,WP,Oberdorf,4,ballots,Lena Oberdorf,Lena Oberdorf,Lena Oberdorf,tokens
+2023,WP,Olga Carmona,0,official_lequipe;official_wikipedia,Olga Carmona,Olga Carmona,,key
+2023,WP,Oshoala,3,ballots,Asisat Oshoala,Asisat Oshoala,,tokens
+2023,WP,Pajor,3,ballots,Ewa Pajor,Ewa Pajor,Ewa Pajor,tokens
+2023,WP,Paralluelo,17,ballots,Salma Paralluelo,Salma Paralluelo,Salma Paralluelo,tokens
+2023,WP,Patricia Guijarro,0,official_lequipe;official_wikipedia,Patricia Guijarro,Patricia Guijarro,,key
+2023,WP,Popp,12,ballots,Alexandra Popp,Alexandra Popp,Alexandra Popp,tokens
+2023,WP,Rachel Daly,0,official_lequipe;official_wikipedia,Rachel Daly,Rachel Daly,Rachel Daly,key
+2023,WP,Raso,2,ballots,Hayley Raso,Hayley Raso,,tokens
+2023,WP,Redondo,2,ballots,Alba Redondo,Alba Redondo,,tokens
+2023,WP,Reiten,3,ballots,Guro Reiten,Guro Reiten,,tokens
+2023,WP,Renard,1,ballots,Wendie Renard,Wendie Renard,Wendie Renard,tokens
+2023,WP,Rolfö,15,ballots,Fridolina Rolfö,Fridolina Rolfö,,tokens
+2023,WP,Salma Paralluelo,0,official_lequipe;official_wikipedia,Salma Paralluelo,Salma Paralluelo,Salma Paralluelo,key
+2023,WP,Sam Kerr,0,official_lequipe;official_wikipedia,Sam Kerr,Sam Kerr,Sam Kerr,key
+2023,WP,Shaw,2,ballots,Khadija Shaw,Khadija Shaw,Khadija Shaw,tokens
+2023,WP,Smith,2,ballots,Sophia Smith,Sophia Smith,Sophia Smith,tokens
+2023,WP,Sophia Smith,0,official_lequipe;official_wikipedia,Sophia Smith,Sophia Smith,Sophia Smith,key
+2023,WP,Stanway,5,ballots,Georgia Stanway,Georgia Stanway,,tokens
+2023,WP,Wendie Renard,0,official_lequipe;official_wikipedia,Wendie Renard,Wendie Renard,Wendie Renard,key
+2023,WP,Yui Hasegawa,0,official_lequipe;official_wikipedia,Yui Hasegawa,Yui Hasegawa,,key
+2024,MP,Ademola Lookman,22,ballots;official_wikipedia;wiki_country_table,Ademola Lookman,Ademola Lookman,,key
+2024,MP,Alex Grimaldo,0,wiki_country_table,Álex Grimaldo,Álex Grimaldo,,key
+2024,MP,Antonio Rudiger,0,wiki_country_table,Antonio Rüdiger,Antonio Rüdiger,,key
+2024,MP,Antonio Rüdiger,4,ballots;official_wikipedia,Antonio Rüdiger,Antonio Rüdiger,,key
+2024,MP,Artem Dovbyk,0,official_wikipedia,Artem Dovbyk,Artem Dovbyk,,key
+2024,MP,Bukayo Saka,5,ballots;official_wikipedia;wiki_country_table,Bukayo Saka,Bukayo Saka,,key
+2024,MP,Cole Palmer,4,ballots;official_wikipedia;wiki_country_table,Cole Palmer,Cole Palmer,Cole Palmer,key
+2024,MP,Dani Carvajal,78,ballots;official_wikipedia;wiki_country_table,Dani Carvajal,Dani Carvajal,Dani Carvajal,key
+2024,MP,Dani Olmo,24,ballots;official_wikipedia;wiki_country_table,Dani Olmo,Dani Olmo,,key
+2024,MP,Declan Rice,1,ballots;official_wikipedia;wiki_country_table,Declan Rice,Declan Rice,Declan Rice,key
+2024,MP,Emiliano Martinez,0,wiki_country_table,Emiliano Martínez,Emiliano Martínez,,key
+2024,MP,Emiliano Martínez,7,ballots;official_wikipedia,Emiliano Martínez,Emiliano Martínez,,key
+2024,MP,Erling Haaland,83,ballots;official_wikipedia;wiki_country_table,Erling Haaland,Erling Haaland,Erling Haaland,key
+2024,MP,Federico Valverde,17,ballots;official_wikipedia;wiki_country_table,Federico Valverde,Federico Valverde,Federico Valverde,key
+2024,MP,Florian Wirtz,31,ballots;official_wikipedia;wiki_country_table,Florian Wirtz,Florian Wirtz,Florian Wirtz,key
+2024,MP,Granit Xhaka,14,ballots;official_wikipedia;wiki_country_table,Granit Xhaka,Granit Xhaka,,key
+2024,MP,Hakan Calhanoglu,0,wiki_country_table,Hakan Çalhanoğlu,Hakan Çalhanoğlu,,key
+2024,MP,Hakan Çalhanoğlu,2,ballots;official_wikipedia,Hakan Çalhanoğlu,Hakan Çalhanoğlu,,key
+2024,MP,Harry Kane,49,ballots;official_wikipedia;wiki_country_table,Harry Kane,Harry Kane,Harry Kane,key
+2024,MP,Jude Bellingham,99,ballots;official_wikipedia;wiki_country_table,Jude Bellingham,Jude Bellingham,Jude Bellingham,key
+2024,MP,Kylian Mbappe,0,wiki_country_table,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2024,MP,Kylian Mbappé,77,ballots;official_wikipedia,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2024,MP,Lamine Yamal,74,ballots;official_wikipedia;wiki_country_table,Lamine Yamal,Lamine Yamal,Lamine Yamal,key
+2024,MP,Lautaro Martinez,0,wiki_country_table,Lautaro Martínez,Lautaro Martínez,,key
+2024,MP,Lautaro Martínez,69,ballots;official_wikipedia,Lautaro Martínez,Lautaro Martínez,,key
+2024,MP,Martin Odegaard,0,wiki_country_table,Martin Ødegaard,Martin Ødegaard,,key
+2024,MP,Martin Ødegaard,8,ballots;official_wikipedia,Martin Ødegaard,Martin Ødegaard,,key
+2024,MP,Mats Hummels,0,official_wikipedia,Mats Hummels,Mats Hummels,,key
+2024,MP,Nico Williams,20,ballots;official_wikipedia;wiki_country_table,Nico Williams,Nico Williams,,key
+2024,MP,Phil Foden,44,ballots;official_wikipedia;wiki_country_table,Phil Foden,Phil Foden,,key
+2024,MP,Rodri,94,ballots;official_wikipedia;wiki_country_table,Rodri,Rodri,Rodri,key
+2024,MP,Ruben Dias,0,wiki_country_table,Rúben Dias,Rúben Dias,,key
+2024,MP,Rúben Dias,4,ballots;official_wikipedia,Rúben Dias,Rúben Dias,,key
+2024,MP,Toni Kroos,56,ballots;official_wikipedia;wiki_country_table,Toni Kroos,Toni Kroos,Toni Kroos,key
+2024,MP,Vinicius Junior,0,wiki_country_table,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,key
+2024,MP,Vinícius Júnior,96,ballots;official_wikipedia,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,key
+2024,MP,Vitinha,2,ballots;official_wikipedia;wiki_country_table,Vitinha,Vitinha,Vitinha,key
+2024,MP,William Saliba,4,ballots;official_wikipedia;wiki_country_table,William Saliba,William Saliba,,key
+2024,MP,Álex Grimaldo,2,ballots;official_wikipedia,Álex Grimaldo,Álex Grimaldo,,key
+2024,WP,Ada Hegerberg,0,official_lequipe;official_wikipedia,Ada Hegerberg,Ada Hegerberg,Ada Hegerberg,key
+2024,WP,Aitana Bonmati,0,official_lequipe,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,key
+2024,WP,Aitana Bonmatí,0,official_wikipedia,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,key
+2024,WP,Alexia Putellas,0,official_lequipe;official_wikipedia,Alexia Putellas,Alexia Putellas,Alexia Putellas,key
+2024,WP,Alyssa Naeher,0,official_lequipe;official_wikipedia,Alyssa Naeher,Alyssa Naeher,,key
+2024,WP,Banda,18,ballots,Barbra Banda,Barbra Banda,Barbra Banda,tokens
+2024,WP,Barbra Banda,0,official_lequipe;official_wikipedia,Barbra Banda,Barbra Banda,Barbra Banda,key
+2024,WP,Bonmati,49,ballots,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,tokens
+2024,WP,Bronze,10,ballots,Lucy Bronze,Lucy Bronze,Lucy Bronze,tokens
+2024,WP,Caldentey,23,ballots,Mariona Caldentey,Mariona Caldentey,Mariona Caldentey,tokens
+2024,WP,Caroline Graham Hansen,0,official_lequipe;official_wikipedia,Caroline Graham Hansen,Caroline Graham Hansen,Caroline Graham Hansen,key
+2024,WP,Chawinga,18,ballots,Tabitha Chawinga,Tabitha Chawinga,Tabitha Chawinga,tokens
+2024,WP,Ewa Pajor,0,official_lequipe;official_wikipedia,Ewa Pajor,Ewa Pajor,Ewa Pajor,key
+2024,WP,Gabi Portilho,0,official_lequipe;official_wikipedia,Gabi Portilho,Gabi Portilho,,key
+2024,WP,Geyoro,1,ballots,Grace Geyoro,Grace Geyoro,,tokens
+2024,WP,Giugliano,4,ballots,Manuela Giugliano,Manuela Giugliano,,tokens
+2024,WP,Giulia Gwinn,0,official_lequipe;official_wikipedia,Giulia Gwinn,Giulia Gwinn,,key
+2024,WP,Glodis Viggosdottir,0,official_lequipe,Glódís Viggósdóttir,Glódís Viggósdóttir,,key
+2024,WP,Glódís Viggósdóttir,0,official_wikipedia,Glódís Viggósdóttir,Glódís Viggósdóttir,,key
+2024,WP,Grace Geyoro,0,official_lequipe;official_wikipedia,Grace Geyoro,Grace Geyoro,,key
+2024,WP,Graham Hansen,36,ballots,Caroline Graham Hansen,Caroline Graham Hansen,Caroline Graham Hansen,tokens
+2024,WP,Guijarro,20,ballots,Patricia Guijarro,Patricia Guijarro,,tokens
+2024,WP,Gwinn,10,ballots,Giulia Gwinn,Giulia Gwinn,,tokens
+2024,WP,Hasegawa,4,ballots,Yui Hasegawa,Yui Hasegawa,,tokens
+2024,WP,Hegerberg,16,ballots,Ada Hegerberg,Ada Hegerberg,Ada Hegerberg,tokens
+2024,WP,Hemp,3,ballots,Lauren Hemp,Lauren Hemp,Lauren Hemp,tokens
+2024,WP,Horan,31,ballots,Lindsey Horan,Lindsey Heaps,Lindsey Heaps,tokens
+2024,WP,James,16,ballots,Lauren James,Lauren James,Lauren James,tokens
+2024,WP,Katoto,20,ballots,Marie-Antoinette Katoto,Marie-Antoinette Katoto,,tokens
+2024,WP,Khadija Shaw,0,official_lequipe;official_wikipedia,Khadija Shaw,Khadija Shaw,Khadija Shaw,key
+2024,WP,Lauren Hemp,0,official_lequipe;official_wikipedia,Lauren Hemp,Lauren Hemp,Lauren Hemp,key
+2024,WP,Lauren James,0,official_lequipe;official_wikipedia,Lauren James,Lauren James,Lauren James,key
+2024,WP,Lea Schüller,0,official_lequipe;official_wikipedia,Lea Schüller,Lea Schüller,,key
+2024,WP,Lindsey Horan,0,official_lequipe;official_wikipedia,Lindsey Horan,Lindsey Heaps,Lindsey Heaps,key
+2024,WP,Lucy Bronze,0,official_lequipe;official_wikipedia,Lucy Bronze,Lucy Bronze,Lucy Bronze,key
+2024,WP,Mallory Swanson,0,official_lequipe;official_wikipedia,Mallory Swanson,Mallory Swanson,Mallory Swanson,key
+2024,WP,Manuela Giugliano,0,official_lequipe;official_wikipedia,Manuela Giugliano,Manuela Giugliano,,key
+2024,WP,Marie-Antoinette Katoto,0,official_lequipe;official_wikipedia,Marie-Antoinette Katoto,Marie-Antoinette Katoto,,key
+2024,WP,Mariona Caldentey,0,official_lequipe;official_wikipedia,Mariona Caldentey,Mariona Caldentey,Mariona Caldentey,key
+2024,WP,Mayra Ramirez,0,official_lequipe,Mayra Ramírez,Mayra Ramírez,,key
+2024,WP,Mayra Ramírez,0,official_wikipedia,Mayra Ramírez,Mayra Ramírez,,key
+2024,WP,Naeher,11,ballots,Alyssa Naeher,Alyssa Naeher,,tokens
+2024,WP,Nüsken,4,ballots,Sjoeke Nüsken,Sjoeke Nüsken,,tokens
+2024,WP,Pajor,1,ballots,Ewa Pajor,Ewa Pajor,Ewa Pajor,tokens
+2024,WP,Paralluelo,31,ballots,Salma Paralluelo,Salma Paralluelo,Salma Paralluelo,tokens
+2024,WP,Patricia Guijarro,0,official_lequipe;official_wikipedia,Patricia Guijarro,Patricia Guijarro,,key
+2024,WP,Portilho,10,ballots,Gabi Portilho,Gabi Portilho,,tokens
+2024,WP,Putellas,26,ballots,Alexia Putellas,Alexia Putellas,Alexia Putellas,tokens
+2024,WP,Ramirez,8,ballots,Mayra Ramírez,Mayra Ramírez,,tokens
+2024,WP,Rodman,24,ballots,Trinity Rodman,Trinity Rodman,Trinity Rodman,tokens
+2024,WP,Salma Paralluelo,0,official_lequipe;official_wikipedia,Salma Paralluelo,Salma Paralluelo,Salma Paralluelo,key
+2024,WP,Schüller,9,ballots,Lea Schüller,Lea Schüller,,tokens
+2024,WP,Shaw,19,ballots,Khadija Shaw,Khadija Shaw,Khadija Shaw,tokens
+2024,WP,Sjoeke Nüsken,0,official_lequipe;official_wikipedia,Sjoeke Nüsken,Sjoeke Nüsken,,key
+2024,WP,Smith,32,ballots,Sophia Smith,Sophia Smith,Sophia Smith,tokens
+2024,WP,Sophia Smith,0,official_lequipe;official_wikipedia,Sophia Smith,Sophia Smith,Sophia Smith,key
+2024,WP,Swanson,24,ballots,Mallory Swanson,Mallory Swanson,Mallory Swanson,tokens
+2024,WP,Tabitha Chawinga,0,official_lequipe;official_wikipedia,Tabitha Chawinga,Tabitha Chawinga,Tabitha Chawinga,key
+2024,WP,Tarciane,5,ballots;official_lequipe;official_wikipedia,Tarciane,Tarciane,,key
+2024,WP,Trinity Rodman,0,official_lequipe;official_wikipedia,Trinity Rodman,Trinity Rodman,Trinity Rodman,key
+2024,WP,Viggosdottir,7,ballots,Glódís Viggósdóttir,Glódís Viggósdóttir,,tokens
+2024,WP,Yui Hasegawa,0,official_lequipe;official_wikipedia,Yui Hasegawa,Yui Hasegawa,,key
+2025,MP,Achraf Hakimi,0,official_wikipedia,Achraf Hakimi,Achraf Hakimi,Achraf Hakimi,key
+2025,MP,Alexis Mac Allister,0,official_wikipedia,Alexis Mac Allister,Alexis Mac Allister,,key
+2025,MP,Bellingham,8,ballots;wiki_country_table,Jude Bellingham,Jude Bellingham,Jude Bellingham,tokens
+2025,MP,Cole Palmer,0,official_wikipedia,Cole Palmer,Cole Palmer,Cole Palmer,key
+2025,MP,D. Doué,20,ballots,Désiré Doué,Désiré Doué,,tokens
+2025,MP,Declan Rice,0,official_wikipedia,Declan Rice,Declan Rice,Declan Rice,key
+2025,MP,Dembélé,100,ballots;wiki_country_table,Ousmane Dembélé,Ousmane Dembélé,Ousmane Dembélé,tokens
+2025,MP,Denzel Dumfries,0,official_wikipedia,Denzel Dumfries,Denzel Dumfries,,key
+2025,MP,Donnarumma,38,ballots;wiki_country_table,Gianluigi Donnarumma,Gianluigi Donnarumma,,tokens
+2025,MP,Doué,0,wiki_country_table,Désiré Doué,Désiré Doué,,tokens
+2025,MP,Dumfries,6,ballots;wiki_country_table,Denzel Dumfries,Denzel Dumfries,,tokens
+2025,MP,Désiré Doué,0,official_wikipedia,Désiré Doué,Désiré Doué,,key
+2025,MP,Erling Haaland,0,official_wikipedia,Erling Haaland,Erling Haaland,Erling Haaland,key
+2025,MP,Fabian Ruiz,5,ballots,Fabián Ruiz,Fabián Ruiz,,key
+2025,MP,Fabián,0,wiki_country_table,Fabián Ruiz,Fabián Ruiz,,tokens
+2025,MP,Fabián Ruiz,0,official_wikipedia,Fabián Ruiz,Fabián Ruiz,,key
+2025,MP,Florian Wirtz,0,official_wikipedia,Florian Wirtz,Florian Wirtz,Florian Wirtz,key
+2025,MP,Gianluigi Donnarumma,0,official_wikipedia,Gianluigi Donnarumma,Gianluigi Donnarumma,,key
+2025,MP,Guirassy,8,ballots;wiki_country_table,Serhou Guirassy,Serhou Guirassy,,tokens
+2025,MP,Gyökeres,21,ballots;wiki_country_table,Viktor Gyökeres,Viktor Gyökeres,,tokens
+2025,MP,Haaland,6,ballots;wiki_country_table,Erling Haaland,Erling Haaland,Erling Haaland,tokens
+2025,MP,Hakimi,68,ballots;wiki_country_table,Achraf Hakimi,Achraf Hakimi,Achraf Hakimi,tokens
+2025,MP,Harry Kane,1,ballots;official_wikipedia,Harry Kane,Harry Kane,Harry Kane,key
+2025,MP,Joao Neves,10,ballots,João Neves,João Neves,,key
+2025,MP,João Neves,0,official_wikipedia,João Neves,João Neves,,key
+2025,MP,Jude Bellingham,0,official_wikipedia,Jude Bellingham,Jude Bellingham,Jude Bellingham,key
+2025,MP,Kane,35,ballots;wiki_country_table,Harry Kane,Harry Kane,Harry Kane,tokens
+2025,MP,Khvicha Kvaratskhelia,0,official_wikipedia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,key
+2025,MP,Kvaratskhelia,29,ballots;wiki_country_table,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,Khvicha Kvaratskhelia,tokens
+2025,MP,Kylian Mbappé,0,official_wikipedia,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,key
+2025,MP,L. Martinez,17,ballots,Lautaro Martínez,Lautaro Martínez,,tokens
+2025,MP,L. Martínez,0,wiki_country_table,Lautaro Martínez,Lautaro Martínez,,tokens
+2025,MP,Lamine Yamal,100,ballots;official_wikipedia,Lamine Yamal,Lamine Yamal,Lamine Yamal,key
+2025,MP,Lautaro Martínez,0,official_wikipedia,Lautaro Martínez,Lautaro Martínez,,key
+2025,MP,Lewandowski,13,ballots;wiki_country_table,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,tokens
+2025,MP,Mac Allister,6,ballots;wiki_country_table,Alexis Mac Allister,Alexis Mac Allister,,tokens
+2025,MP,Mbappé,79,ballots;wiki_country_table,Kylian Mbappé,Kylian Mbappé,Kylian Mbappé,tokens
+2025,MP,McTominay,13,ballots;wiki_country_table,Scott McTominay,Scott McTominay,,tokens
+2025,MP,Mendes,1,ballots;wiki_country_table,Nuno Mendes,Nuno Mendes,Nuno Mendes,tokens
+2025,MP,Michael Olise,0,official_wikipedia,Michael Olise,Michael Olise,,key
+2025,MP,Mohamed Salah,0,official_wikipedia,Mohamed Salah,Mohamed Salah,Mohamed Salah,key
+2025,MP,Neves,0,wiki_country_table,João Neves,João Neves,,tokens
+2025,MP,Nuno Mendes,42,ballots;official_wikipedia,Nuno Mendes,Nuno Mendes,Nuno Mendes,key
+2025,MP,Olise,2,ballots;wiki_country_table,Michael Olise,Michael Olise,,tokens
+2025,MP,Ousmane Dembélé,0,official_wikipedia,Ousmane Dembélé,Ousmane Dembélé,Ousmane Dembélé,key
+2025,MP,Palmer,54,ballots;wiki_country_table,Cole Palmer,Cole Palmer,Cole Palmer,tokens
+2025,MP,Pedri,31,ballots;official_wikipedia;wiki_country_table,Pedri,Pedri,Pedri,key
+2025,MP,Raphinha,86,ballots;official_wikipedia;wiki_country_table,Raphinha,Raphinha,Raphinha,key
+2025,MP,Rice,4,ballots;wiki_country_table,Declan Rice,Declan Rice,Declan Rice,tokens
+2025,MP,Robert Lewandowski,0,official_wikipedia,Robert Lewandowski,Robert Lewandowski,Robert Lewandowski,key
+2025,MP,Salah,89,ballots;wiki_country_table,Mohamed Salah,Mohamed Salah,Mohamed Salah,tokens
+2025,MP,Scott McTominay,0,official_wikipedia,Scott McTominay,Scott McTominay,,key
+2025,MP,Serhou Guirassy,0,official_wikipedia,Serhou Guirassy,Serhou Guirassy,,key
+2025,MP,Van Dijk,4,ballots;wiki_country_table,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,tokens
+2025,MP,Viktor Gyökeres,0,official_wikipedia,Viktor Gyökeres,Viktor Gyökeres,,key
+2025,MP,Vinicius Jr.,13,ballots,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,tokens
+2025,MP,Vinícius,0,wiki_country_table,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,tokens
+2025,MP,Vinícius Júnior,0,official_wikipedia,Vinícius Júnior,Vinícius Júnior,Vinícius Jr,key
+2025,MP,Virgil van Dijk,0,official_wikipedia,Virgil van Dijk,Virgil van Dijk,Virgil van Dijk,key
+2025,MP,Vitinha,89,ballots;official_wikipedia;wiki_country_table,Vitinha,Vitinha,Vitinha,key
+2025,MP,Wirtz,2,ballots;wiki_country_table,Florian Wirtz,Florian Wirtz,Florian Wirtz,tokens
+2025,MP,Yamal,0,wiki_country_table,Lamine Yamal,Lamine Yamal,Lamine Yamal,tokens
+2025,WP,Aitana Bonmatí,0,official_wikipedia,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,key
+2025,WP,Alessia Russo,0,official_wikipedia,Alessia Russo,Alessia Russo,Alessia Russo,key
+2025,WP,Alexia Putellas,0,official_wikipedia,Alexia Putellas,Alexia Putellas,Alexia Putellas,key
+2025,WP,Amanda Gutierres,0,official_wikipedia,Amanda Gutierres,Amanda Gutierres,,key
+2025,WP,Baltimore,15,ballots,Sandy Baltimore,Sandy Baltimore,Sandy Baltimore,tokens
+2025,WP,Banda,14,ballots,Barbra Banda,Barbra Banda,Barbra Banda,tokens
+2025,WP,Barbra Banda,0,official_wikipedia,Barbra Banda,Barbra Banda,Barbra Banda,key
+2025,WP,Bonmati,49,ballots,Aitana Bonmatí,Aitana Bonmatí,Aitana Bonmatí,tokens
+2025,WP,Bronze,30,ballots,Lucy Bronze,Lucy Bronze,Lucy Bronze,tokens
+2025,WP,Bühl,8,ballots,Klara Bühl,Klara Bühl,,tokens
+2025,WP,Caldentey,44,ballots,Mariona Caldentey,Mariona Caldentey,Mariona Caldentey,tokens
+2025,WP,Cantore,2,ballots,Sofia Cantore,Sofia Cantore,,tokens
+2025,WP,Caroline Graham Hansen,0,official_wikipedia,Caroline Graham Hansen,Caroline Graham Hansen,Caroline Graham Hansen,key
+2025,WP,Caroline Weir,0,official_wikipedia,Caroline Weir,Caroline Weir,,key
+2025,WP,Catley,1,ballots,Steph Catley,Steph Catley,,tokens
+2025,WP,Chloe Kelly,0,official_wikipedia,Chloe Kelly,Chloe Kelly,Chloe Kelly,key
+2025,WP,Clara Mateo,0,official_wikipedia,Clara Mateo,Clara Mateo,,key
+2025,WP,Clàudia Pina,0,official_wikipedia,Clàudia Pina,Clàudia Pina,Clàudia Pina,key
+2025,WP,Cristiana Girelli,0,official_wikipedia,Cristiana Girelli,Cristiana Girelli,,key
+2025,WP,Dumornay,5,ballots,Melchie Dumornay,Melchie Dumornay,Melchie Dumornay,tokens
+2025,WP,Emily Fox,0,official_wikipedia,Emily Fox,Emily Fox,,key
+2025,WP,Esther González,0,official_wikipedia,Esther González,Esther González,,key
+2025,WP,Ewa Pajor,0,official_wikipedia,Ewa Pajor,Ewa Pajor,Ewa Pajor,key
+2025,WP,Fox,2,ballots,Emily Fox,Emily Fox,,tokens
+2025,WP,Frida Maanum,0,official_wikipedia,Frida Maanum,Frida Maanum,,key
+2025,WP,Girelli,10,ballots,Cristiana Girelli,Cristiana Girelli,,tokens
+2025,WP,Gonzalez,5,ballots,Esther González,Esther González,,tokens
+2025,WP,Graham Hansen,24,ballots,Caroline Graham Hansen,Caroline Graham Hansen,Caroline Graham Hansen,tokens
+2025,WP,Guijarro,25,ballots,Patricia Guijarro,Patricia Guijarro,,tokens
+2025,WP,Gutierres,5,ballots,Amanda Gutierres,Amanda Gutierres,,tokens
+2025,WP,Hampton,23,ballots,Hannah Hampton,Hannah Hampton,,tokens
+2025,WP,Hannah Hampton,0,official_wikipedia,Hannah Hampton,Hannah Hampton,,key
+2025,WP,Harder,4,ballots,Pernille Harder,Pernille Harder,Pernille Harder,tokens
+2025,WP,Heaps,3,ballots,Lindsey Heaps,Lindsey Heaps,Lindsey Heaps,tokens
+2025,WP,Johanna Rytting Kaneryd,0,official_wikipedia,Johanna Rytting Kaneryd,Johanna Rytting Kaneryd,,key
+2025,WP,Kelly,34,ballots,Chloe Kelly,Chloe Kelly,Chloe Kelly,tokens
+2025,WP,Klara Bühl,0,official_wikipedia,Klara Bühl,Klara Bühl,,key
+2025,WP,Leah Williamson,0,official_wikipedia,Leah Williamson,Leah Williamson,Leah Williamson,key
+2025,WP,Leonhardsen Maanum,2,ballots,Frida Maanum,Frida Maanum,,manual
+2025,WP,Lindsey Heaps,0,official_wikipedia,Lindsey Heaps,Lindsey Heaps,Lindsey Heaps,key
+2025,WP,Lucy Bronze,0,official_wikipedia,Lucy Bronze,Lucy Bronze,Lucy Bronze,key
+2025,WP,Mariona Caldentey,0,official_wikipedia,Mariona Caldentey,Mariona Caldentey,Mariona Caldentey,key
+2025,WP,Marta,18,ballots;official_wikipedia,Marta,Marta,Marta,key
+2025,WP,Mateo,2,ballots,Clara Mateo,Clara Mateo,,tokens
+2025,WP,Melchie Dumornay,0,official_wikipedia,Melchie Dumornay,Melchie Dumornay,Melchie Dumornay,key
+2025,WP,Pajor,29,ballots,Ewa Pajor,Ewa Pajor,Ewa Pajor,tokens
+2025,WP,Patricia Guijarro,0,official_wikipedia,Patricia Guijarro,Patricia Guijarro,,key
+2025,WP,Pernille Harder,0,official_wikipedia,Pernille Harder,Pernille Harder,Pernille Harder,key
+2025,WP,Pina,22,ballots,Clàudia Pina,Clàudia Pina,Clàudia Pina,tokens
+2025,WP,Putellas,44,ballots,Alexia Putellas,Alexia Putellas,Alexia Putellas,tokens
+2025,WP,Russo,44,ballots,Alessia Russo,Alessia Russo,Alessia Russo,tokens
+2025,WP,Rytting Kaneryd,3,ballots,Johanna Rytting Kaneryd,Johanna Rytting Kaneryd,,tokens
+2025,WP,Sandy Baltimore,0,official_wikipedia,Sandy Baltimore,Sandy Baltimore,Sandy Baltimore,key
+2025,WP,Sofia Cantore,0,official_wikipedia,Sofia Cantore,Sofia Cantore,,key
+2025,WP,Steph Catley,0,official_wikipedia,Steph Catley,Steph Catley,,key
+2025,WP,Te. Chawinga,8,ballots,Temwa Chawinga,Temwa Chawinga,Temwa Chawinga,tokens
+2025,WP,Temwa Chawinga,0,official_wikipedia,Temwa Chawinga,Temwa Chawinga,Temwa Chawinga,key
+2025,WP,Williamson,25,ballots,Leah Williamson,Leah Williamson,Leah Williamson,tokens

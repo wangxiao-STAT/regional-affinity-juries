@@ -1,0 +1,465 @@
+year,award,key,person,picks,wiki_name,wiki_score,wiki_title,nation,clubs,club_countries,source
+2010,MP,alonso xabi,Alonso Xabi,19.0,Xabi Alonso,1.52%,Xabi Alonso,Spain,Real Madrid,Spain,awards_2010.json
+2010,MP,alves dani,Dani Alves,2.0,Dani Alves,0.05%,Dani Alves,Brazil,Barcelona,Spain,awards_2010.json
+2010,MP,andres iniesta,Iniesta Andrés,200.0,Andrés Iniesta,17.36%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2010.json
+2010,MP,arjen robben,Robben Arjen,20.0,Arjen Robben,1.16%,Arjen Robben,Netherlands,Bayern Munich,Germany,awards_2010.json
+2010,MP,asamoah gyan,Gyan Asamoah,12.0,Asamoah Gyan,0.46%,Asamoah Gyan,Ghana,Sunderland,England,awards_2010.json
+2010,MP,bastian schweinsteiger,Schweinsteiger Bastian,14.0,Bastian Schweinsteiger,0.75%,Bastian Schweinsteiger,Germany,Bayern Munich,Germany,awards_2010.json
+2010,MP,carles puyol,Puyol Carles,21.0,Carles Puyol,1.43%,Carles Puyol,Spain,Barcelona,Spain,awards_2010.json
+2010,MP,casillas iker,Casillas Iker,43.0,Iker Casillas,2.90%,Iker Casillas,Spain,Real Madrid,Spain,awards_2010.json
+2010,MP,cesar julio,Júlio César,6.0,Júlio César,0.22%,"Júlio César (football goalkeeper, born 1979)",Brazil,Internazionale,Italy,awards_2010.json
+2010,MP,cesc fabregas,Fàbregas Cesc,4.0,Cesc Fàbregas,0.22%,Cesc Fàbregas,Spain,Arsenal,England,awards_2010.json
+2010,MP,cristiano ronaldo,Cristiano Ronaldo,52.0,Cristiano Ronaldo,3.92%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2010.json
+2010,MP,david villa,Villa David,27.0,David Villa,2.25%,David Villa,Spain,Valencia | Barcelona,Spain | Spain,awards_2010.json
+2010,MP,didier drogba,Drogba Didier,26.0,Didier Drogba,1.68%,Didier Drogba,Ivory Coast,Chelsea,England,awards_2010.json
+2010,MP,diego forlan,Forlán Diego,139.0,Diego Forlán,7.61%,Diego Forlán,Uruguay,Atlético Madrid,Spain,awards_2010.json
+2010,MP,etoo samuel,Eto'o Samuel,26.0,Samuel Eto'o,1.37%,Samuel Eto'o,Cameroon,Internazionale,Italy,awards_2010.json
+2010,MP,klose miroslav,Klose Miroslav,5.0,Miroslav Klose,0.19%,Miroslav Klose,Germany,Bayern Munich,Germany,awards_2010.json
+2010,MP,lahm philipp,Lahm Philipp,2.0,Philipp Lahm,0.05%,Philipp Lahm,Germany,Bayern Munich,Germany,awards_2010.json
+2010,MP,lionel messi,Lionel Messi,241.0,Lionel Messi,22.65%,Lionel Messi,Argentina,Barcelona,Spain,awards_2010.json
+2010,MP,maicon,Maicon,11.0,Maicon,0.57%,"Maicon (footballer, born 1981)",Brazil,Internazionale,Italy,awards_2010.json
+2010,MP,mesut ozil,Özil Mesut,24.0,Mesut Özil,1.21%,Mesut Özil,Germany,Real Madrid,Spain,awards_2010.json
+2010,MP,muller thomas,Müller Thomas,18.0,Thomas Müller,0.91%,Thomas Müller,Germany,Bayern Munich,Germany,awards_2010.json
+2010,MP,sneijder wesley,Sneijder Wesley,183.0,Wesley Sneijder,14.48%,Wesley Sneijder,Netherlands,Internazionale,Italy,awards_2010.json
+2010,MP,xavi,Xavi,176.0,Xavi,16.48%,"Xavi (footballer, born 1980)",Spain,Barcelona,Spain,awards_2010.json
+2010,WP,abby wambach,Wambach Abby,71.0,Abby Wambach,6.25%,Abby Wambach,United States,Washington Freedom,United States,awards_2010.json
+2010,WP,abily camille,Abily Camille,37.0,Camille Abily,3.38%,Camille Abily,France,FC Gold Pride | Lyon,United States | France,awards_2010.json
+2010,WP,bajramaj fatmire,Bajramaj Fatmire,81.0,Fatmire Bajramaj,9.96%,Fatmire Bajramaj,Germany,Turbine Potsdam,Germany,awards_2010.json
+2010,WP,birgit prinz,Prinz Birgit,120.0,Birgit Prinz,15.18%,Birgit Prinz,Germany,1. FFC Frankfurt,Germany,awards_2010.json
+2010,WP,caroline seger,Seger Caroline,35.0,Caroline Seger,3.64%,Caroline Seger,Sweden,Philadelphia Independence,United States,awards_2010.json
+2010,WP,christine sinclair,Christine Sinclair,43.0,Christine Sinclair,4.42%,Christine Sinclair,Canada,FC Gold Pride,United States,awards_2010.json
+2010,WP,hope solo,Solo Hope,52.0,Hope Solo,3.85%,Hope Solo,United States,Saint Louis Athletica | Atlanta Beat,United States | United States,awards_2010.json
+2010,WP,ji so yun,So-Yun Ji,59.0,Ji So-yun,5.24%,Ji So-yun,South Korea,Hanyang Women's College,South Korea,awards_2010.json
+2010,WP,kelly smith,Smith Kelly,79.0,Kelly Smith,9.29%,Kelly Smith,England,Boston Breakers,United States,awards_2010.json
+2010,WP,marta,Marta,212.0,Marta,38.20%,Marta (footballer),Brazil,FC Gold Pride,United States,awards_2010.json
+2011,MP,abidal eric,Abidal Éric,11.0,Eric Abidal,0.36%,Eric Abidal,France,Barcelona,Spain,awards_2011.json
+2011,MP,aguero sergio,Agüero Sergio,10.0,Sergio Agüero,0.48%,Sergio Agüero,Argentina,Atlético Madrid | Manchester City,Spain | England,awards_2011.json
+2011,MP,alonso xabi,Alonso Xabi,8.0,Xabi Alonso,0.48%,Xabi Alonso,Spain,Real Madrid,Spain,awards_2011.json
+2011,MP,alves dani,Dani Alves,4.0,Dani Alves,0.34%,Dani Alves,Brazil,Barcelona,Spain,awards_2011.json
+2011,MP,andres iniesta,Iniesta Andrés,119.0,Andrés Iniesta,6.01%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2011.json
+2011,MP,bastian schweinsteiger,Schweinsteiger Bastian,13.0,Bastian Schweinsteiger,0.50%,Bastian Schweinsteiger,Germany,Bayern Munich,Germany,awards_2011.json
+2011,MP,benzema karim,Karim Benzema,6.0,Karim Benzema,0.34%,Karim Benzema,France,Real Madrid,Spain,awards_2011.json
+2011,MP,casillas iker,Casillas Iker,22.0,Iker Casillas,1.29%,Iker Casillas,Spain,Real Madrid,Spain,awards_2011.json
+2011,MP,cesc fabregas,Fàbregas Cesc,6.0,Cesc Fàbregas,0.29%,Cesc Fàbregas,Spain,Arsenal | Barcelona,England | Spain,awards_2011.json
+2011,MP,cristiano ronaldo,Cristiano Ronaldo,322.0,Cristiano Ronaldo,21.60%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2011.json
+2011,MP,david villa,Villa David,12.0,David Villa,0.53%,David Villa,Spain,Barcelona,Spain,awards_2011.json
+2011,MP,diego forlan,Forlán Diego,32.0,Diego Forlán,1.43%,Diego Forlán,Uruguay,Atlético Madrid | Internazionale,Spain | Italy,awards_2011.json
+2011,MP,etoo samuel,Eto'o Samuel,24.0,Samuel Eto'o,1.34%,Samuel Eto'o,Cameroon,Internazionale | Anzhi Makhachkala,Italy | Russia,awards_2011.json
+2011,MP,gerard pique,Piqué Gerard,7.0,Gerard Piqué,0.22%,Gerard Piqué,Spain,Barcelona,Spain,awards_2011.json
+2011,MP,lionel messi,Lionel Messi,435.0,Lionel Messi,47.88%,Lionel Messi,Argentina,Barcelona,Spain,awards_2011.json
+2011,MP,luis suarez,Suárez Luis,42.0,Luis Suárez,1.48%,Luis Suárez (Uruguayan footballer),Uruguay,Ajax | Liverpool,Netherlands | England,awards_2011.json
+2011,MP,mesut ozil,Özil Mesut,18.0,Mesut Özil,0.76%,Mesut Özil,Germany,Real Madrid,Spain,awards_2011.json
+2011,MP,muller thomas,Müller Thomas,15.0,Thomas Müller,0.64%,Thomas Müller,Germany,Bayern Munich,Germany,awards_2011.json
+2011,MP,nani,Nani,5.0,Nani,0.26%,Nani (footballer),Portugal,Manchester United,England,awards_2011.json
+2011,MP,neymar,Neymar,25.0,Neymar,1.12%,Neymar,Brazil,Santos,Brazil,awards_2011.json
+2011,MP,rooney wayne,Rooney Wayne,65.0,Wayne Rooney,2.31%,Wayne Rooney,England,Manchester United,England,awards_2011.json
+2011,MP,sneijder wesley,Sneijder Wesley,14.0,Wesley Sneijder,0.72%,Wesley Sneijder,Netherlands,Internazionale,Italy,awards_2011.json
+2011,MP,xavi,Xavi,172.0,Xavi,9.23%,"Xavi (footballer, born 1980)",Spain,Barcelona,Spain,awards_2011.json
+2011,WP,abby wambach,Wambach Abby,127.0,Abby Wambach,13.26%,Abby Wambach,United States,magicJack,United States,awards_2011.json
+2011,WP,alex morgan,Alex Morgan,50.0,Alex Morgan,4.34%,Alex Morgan,United States,Western New York Flash,United States,awards_2011.json
+2011,WP,aya miyama,Miyama Aya,105.0,Aya Miyama,12.18%,Aya Miyama,Japan,Okayama Yunogo Belle,Japan,awards_2011.json
+2011,WP,bompastor sonia,Bompastor Sonia,33.0,Sonia Bompastor,2.99%,Sonia Bompastor,France,Lyon,France,awards_2011.json
+2011,WP,garefrekes kerstin,Garefrekes Kerstin,52.0,Kerstin Garefrekes,4.73%,Kerstin Garefrekes,Germany,1. FFC Frankfurt,Germany,awards_2011.json
+2011,WP,homare sawa,Sawa Homare,169.0,Homare Sawa,28.51%,Homare Sawa,Japan,INAC Kobe Leonessa,Japan,awards_2011.json
+2011,WP,hope solo,Solo Hope,82.0,Hope Solo,7.83%,Hope Solo,United States,magicJack,United States,awards_2011.json
+2011,WP,lotta schelin,Schelin Lotta,56.0,Lotta Schelin,4.85%,Lotta Schelin,Sweden,Lyon,France,awards_2011.json
+2011,WP,louisa necib,Necib Louisa,41.0,Louisa Nécib,3.21%,Louisa Nécib,France,Lyon,France,awards_2011.json
+2011,WP,marta,Marta,155.0,Marta,17.28%,Marta (footballer),Brazil,Western New York Flash,United States,awards_2011.json
+2012,MP,aguero sergio,Agüero Sergio,10.0,Sergio Agüero,0.30%,Sergio Agüero,Argentina,Manchester City,England,awards_2012.json
+2012,MP,alonso xabi,Alonso Xabi,22.0,Xabi Alonso,1.09%,Xabi Alonso,Spain,Real Madrid,Spain,awards_2012.json
+2012,MP,andrea pirlo,Pirlo Andrea,53.0,Andrea Pirlo,2.66%,Andrea Pirlo,Italy,Juventus,Italy,awards_2012.json
+2012,MP,andres iniesta,Iniesta Andrés,202.0,Andrés Iniesta,10.91%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2012.json
+2012,MP,balotelli mario,Balotelli Mario,3.0,Mario Balotelli,0.07%,Mario Balotelli,Italy,Manchester City,England,awards_2012.json
+2012,MP,benzema karim,Karim Benzema,1.0,Karim Benzema,0.11%,Karim Benzema,France,Real Madrid,Spain,awards_2012.json
+2012,MP,buffon gianluigi,Buffon Gianluigi,6.0,Gianluigi Buffon,0.35%,Gianluigi Buffon,Italy,Juventus,Italy,awards_2012.json
+2012,MP,busquets sergio,Busquets Sergio,3.0,Sergio Busquets,0.20%,Sergio Busquets,Spain,Barcelona,Spain,awards_2012.json
+2012,MP,casillas iker,Casillas Iker,56.0,Iker Casillas,3.18%,Iker Casillas,Spain,Real Madrid,Spain,awards_2012.json
+2012,MP,cristiano ronaldo,Cristiano Ronaldo,363.0,Cristiano Ronaldo,23.68%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2012.json
+2012,MP,didier drogba,Drogba Didier,46.0,Didier Drogba,2.60%,Didier Drogba,Ivory Coast,Chelsea | Shanghai Shenhua,England | China,awards_2012.json
+2012,MP,falcao radamel,Falcao Radamel,87.0,Radamel Falcao,3.67%,Radamel Falcao,Colombia,Atlético Madrid,Spain,awards_2012.json
+2012,MP,gerard pique,Piqué Gerard,3.0,Gerard Piqué,0.11%,Gerard Piqué,Spain,Barcelona,Spain,awards_2012.json
+2012,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,25.0,Zlatan Ibrahimović,1.24%,Zlatan Ibrahimović,Sweden,Milan | Paris Saint-Germain,Italy | France,awards_2012.json
+2012,MP,lionel messi,Lionel Messi,457.0,Lionel Messi,41.60%,Lionel Messi,Argentina,Barcelona,Spain,awards_2012.json
+2012,MP,manuel neuer,Neuer Manuel,6.0,Manuel Neuer,0.21%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2012.json
+2012,MP,mesut ozil,Özil Mesut,11.0,Mesut Özil,0.41%,Mesut Özil,Germany,Real Madrid,Spain,awards_2012.json
+2012,MP,neymar,Neymar,18.0,Neymar,0.61%,Neymar,Brazil,Santos,Brazil,awards_2012.json
+2012,MP,persie robin van,van Persie Robin,36.0,Robin van Persie,1.45%,Robin van Persie,Netherlands,Arsenal | Manchester United,England | England,awards_2012.json
+2012,MP,ramos sergio,Sergio Ramos,4.0,Sergio Ramos,0.22%,Sergio Ramos,Spain,Real Madrid,Spain,awards_2012.json
+2012,MP,rooney wayne,Rooney Wayne,8.0,Wayne Rooney,0.39%,Wayne Rooney,England,Manchester United,England,awards_2012.json
+2012,MP,toure yaya,Touré Yaya,15.0,Yaya Touré,0.76%,Yaya Touré,Ivory Coast,Manchester City,England,awards_2012.json
+2012,MP,xavi,Xavi,78.0,Xavi,4.08%,"Xavi (footballer, born 1980)",Spain,Barcelona,Spain,awards_2012.json
+2012,WP,abby wambach,Wambach Abby,157.0,Abby Wambach,20.67%,Abby Wambach,United States,w/o club,,awards_2012.json
+2012,WP,abily camille,Abily Camille,87.0,Camille Abily,7.70%,Camille Abily,France,Lyon,France,awards_2012.json
+2012,WP,alex morgan,Alex Morgan,99.0,Alex Morgan,10.87%,Alex Morgan,United States,Seattle Sounders,United States,awards_2012.json
+2012,WP,aya miyama,Miyama Aya,82.0,Aya Miyama,7.51%,Aya Miyama,Japan,Yunogo Belle,Japan,awards_2012.json
+2012,WP,carli lloyd,Lloyd Carli,59.0,Carli Lloyd,7.99%,Carli Lloyd,United States,w/o club,,awards_2012.json
+2012,WP,christine sinclair,Christine Sinclair,101.0,Christine Sinclair,10.33%,Christine Sinclair,Canada,Western New York Flash,United States,awards_2012.json
+2012,WP,fukumoto miho,Fukumoto Miho,61.0,Miho Fukumoto,7.32%,Miho Fukumoto,Japan,Yunogo Belle,Japan,awards_2012.json
+2012,WP,homare sawa,Sawa Homare,102.0,Homare Sawa,10.85%,Homare Sawa,Japan,INAC Kobe Leonessa,Japan,awards_2012.json
+2012,WP,marta,Marta,119.0,Marta,13.50%,Marta (footballer),Brazil,Tyresö FF,Sweden,awards_2012.json
+2012,WP,megan rapinoe,Rapinoe Megan,37.0,Megan Rapinoe,2.89%,Megan Rapinoe,United States,Seattle Sounders,United States,awards_2012.json
+2013,MP,andrea pirlo,Pirlo Andrea,21.0,Andrea Pirlo,1.11%,Andrea Pirlo,Italy,Juventus,Italy,awards_2013.json
+2013,MP,andres iniesta,Iniesta Andrés,37.0,Andrés Iniesta,2.08%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2013.json
+2013,MP,arjen robben,Robben Arjen,35.0,Arjen Robben,1.77%,Arjen Robben,Netherlands,Bayern Munich,Germany,awards_2013.json
+2013,MP,bale gareth,Bale Gareth,25.0,Gareth Bale,1.32%,Gareth Bale,Wales,Tottenham Hotspur | Real Madrid,England | Spain,awards_2013.json
+2013,MP,bastian schweinsteiger,Schweinsteiger Bastian,11.0,Bastian Schweinsteiger,0.43%,Bastian Schweinsteiger,Germany,Bayern Munich,Germany,awards_2013.json
+2013,MP,cavani edinson,Cavani Edinson,10.0,Edinson Cavani,0.36%,Edinson Cavani,Uruguay,Napoli | Paris Saint-Germain,Italy | France,awards_2013.json
+2013,MP,cristiano ronaldo,Cristiano Ronaldo,413.0,Cristiano Ronaldo,27.99%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2013.json
+2013,MP,eden hazard,Hazard Eden,6.0,Eden Hazard,0.16%,Eden Hazard,Belgium,Chelsea,England,awards_2013.json
+2013,MP,falcao radamel,Falcao Radamel,25.0,Radamel Falcao,1.08%,Radamel Falcao,Colombia,Atlético Madrid | Monaco,Spain | France,awards_2013.json
+2013,MP,franck ribery,Ribéry Franck,319.0,Franck Ribéry,23.36%,Franck Ribéry,France,Bayern Munich,Germany,awards_2013.json
+2013,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,117.0,Zlatan Ibrahimović,5.29%,Zlatan Ibrahimović,Sweden,Paris Saint-Germain,France,awards_2013.json
+2013,MP,lahm philipp,Lahm Philipp,18.0,Philipp Lahm,0.82%,Philipp Lahm,Germany,Bayern Munich,Germany,awards_2013.json
+2013,MP,lewandowski robert,Robert Lewandowski,23.0,Robert Lewandowski,0.92%,Robert Lewandowski,Poland,Borussia Dortmund,Germany,awards_2013.json
+2013,MP,lionel messi,Lionel Messi,379.0,Lionel Messi,24.72%,Lionel Messi,Argentina,Barcelona,Spain,awards_2013.json
+2013,MP,luis suarez,Suárez Luis,9.0,Luis Suárez,0.39%,Luis Suárez (Uruguayan footballer),Uruguay,Liverpool,England,awards_2013.json
+2013,MP,manuel neuer,Neuer Manuel,2.0,Manuel Neuer,0.08%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2013.json
+2013,MP,mesut ozil,Özil Mesut,15.0,Mesut Özil,0.71%,Mesut Özil,Germany,Real Madrid | Arsenal,Spain | England,awards_2013.json
+2013,MP,muller thomas,Müller Thomas,9.0,Thomas Müller,0.43%,Thomas Müller,Germany,Bayern Munich,Germany,awards_2013.json
+2013,MP,neymar,Neymar,65.0,Neymar,3.17%,Neymar,Brazil,Santos | Barcelona,Brazil | Spain,awards_2013.json
+2013,MP,persie robin van,van Persie Robin,38.0,Robin van Persie,1.79%,Robin van Persie,Netherlands,Manchester United,England,awards_2013.json
+2013,MP,silva thiago,Silva Thiago,4.0,Thiago Silva,0.24%,Thiago Silva,Brazil,Paris Saint-Germain,France,awards_2013.json
+2013,MP,toure yaya,Touré Yaya,22.0,Yaya Touré,0.99%,Yaya Touré,Ivory Coast,Manchester City,England,awards_2013.json
+2013,MP,xavi,Xavi,20.0,Xavi,0.82%,"Xavi (footballer, born 1980)",Spain,Barcelona,Spain,awards_2013.json
+2013,WP,abby wambach,Wambach Abby,179.0,Abby Wambach,,Abby Wambach,United States,Western New York Flash,United States,awards_2013.json
+2013,WP,alex morgan,Alex Morgan,138.0,Alex Morgan,,Alex Morgan,United States,Portland Thorns,United States,awards_2013.json
+2013,WP,angerer nadine,Angerer Nadine,175.0,Nadine Angerer,,Nadine Angerer,Germany,Frankfurt | Brisbane Roar,Germany | Australia,awards_2013.json
+2013,WP,christine sinclair,Christine Sinclair,54.0,Christine Sinclair,,Christine Sinclair,Canada,Portland Thorns,United States,awards_2013.json
+2013,WP,fischer nilla,Fischer Nilla,64.0,Nilla Fischer,,Nilla Fischer,Sweden,Linköpings | Wolfsburg,Sweden | Germany,awards_2013.json
+2013,WP,gossling lena,Goessling Lena,115.0,Lena Goeßling,,Lena Goeßling,Germany,Wolfsburg,Germany,awards_2013.json
+2013,WP,kumagai saki,Saki Kumagai,88.0,Saki Kumagai,,Saki Kumagai,Japan,Frankfurt | Lyon,Germany | France,awards_2013.json
+2013,WP,lotta schelin,Schelin Lotta,104.0,Lotta Schelin,,Lotta Schelin,Sweden,Lyon,France,awards_2013.json
+2013,WP,marta,Marta,157.0,Marta,,Marta (footballer),Brazil,Tyresö,Sweden,awards_2013.json
+2013,WP,ogimi yuki,Ogimi Yuki,63.0,Yūki Ōgimi,,Yūki Ōgimi,Japan,Turbine Potsdam | Chelsea,Germany | England,awards_2013.json
+2014,MP,andres iniesta,Iniesta Andrés,13.0,Andrés Iniesta,0.67%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2014.json
+2014,MP,angel di maria,Di Maria Angel,31.0,Ángel Di María,1.29%,Ángel Di María,Argentina,Real Madrid | Manchester United,Spain | England,awards_2014.json
+2014,MP,arjen robben,Robben Arjen,145.0,Arjen Robben,7.17%,Arjen Robben,Netherlands,Bayern Munich,Germany,awards_2014.json
+2014,MP,bale gareth,Bale Gareth,17.0,Gareth Bale,1.00%,Gareth Bale,Wales,Real Madrid,Spain,awards_2014.json
+2014,MP,bastian schweinsteiger,Schweinsteiger Bastian,14.0,Bastian Schweinsteiger,0.57%,Bastian Schweinsteiger,Germany,Bayern Munich,Germany,awards_2014.json
+2014,MP,benzema karim,Karim Benzema,19.0,Karim Benzema,0.75%,Karim Benzema,France,Real Madrid,Spain,awards_2014.json
+2014,MP,costa diego,Costa Diego,24.0,Diego Costa,1.02%,Diego Costa,Spain,Atlético Madrid | Chelsea,Spain | England,awards_2014.json
+2014,MP,courtois thibaut,Courtois Thibaut,7.0,Thibaut Courtois,0.51%,Thibaut Courtois,Belgium,Atlético Madrid | Chelsea,Spain | England,awards_2014.json
+2014,MP,cristiano ronaldo,Cristiano Ronaldo,440.0,Cristiano Ronaldo,37.66%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2014.json
+2014,MP,eden hazard,Hazard Eden,15.0,Eden Hazard,0.47%,Eden Hazard,Belgium,Chelsea,England,awards_2014.json
+2014,MP,gotze mario,Goetze Mario,11.0,Mario Götze,0.84%,Mario Götze,Germany,Bayern Munich,Germany,awards_2014.json
+2014,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,21.0,Zlatan Ibrahimović,1.00%,Zlatan Ibrahimović,Sweden,Paris Saint-Germain,France,awards_2014.json
+2014,MP,james rodriguez,Rodríguez James,32.0,James Rodríguez,1.47%,James Rodríguez,Colombia,Monaco | Real Madrid,France | Spain,awards_2014.json
+2014,MP,javier mascherano,Mascherano Javier,11.0,Javier Mascherano,0.55%,Javier Mascherano,Argentina,Barcelona,Spain,awards_2014.json
+2014,MP,kroos toni,Toni Kroos,28.0,Toni Kroos,1.43%,Toni Kroos,Germany,Bayern Munich | Real Madrid,Germany | Spain,awards_2014.json
+2014,MP,lahm philipp,Lahm Philipp,60.0,Philipp Lahm,2.90%,Philipp Lahm,Germany,Bayern Munich,Germany,awards_2014.json
+2014,MP,lionel messi,Lionel Messi,288.0,Lionel Messi,15.76%,Lionel Messi,Argentina,Barcelona,Spain,awards_2014.json
+2014,MP,manuel neuer,Neuer Manuel,251.0,Manuel Neuer,15.72%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2014.json
+2014,MP,muller thomas,Müller Thomas,107.0,Thomas Müller,5.42%,Thomas Müller,Germany,Bayern Munich,Germany,awards_2014.json
+2014,MP,neymar,Neymar,58.0,Neymar,2.21%,Neymar,Brazil,Barcelona,Spain,awards_2014.json
+2014,MP,paul pogba,Pogba Paul,8.0,Paul Pogba,0.40%,Paul Pogba,France,Juventus,Italy,awards_2014.json
+2014,MP,ramos sergio,Sergio Ramos,8.0,Sergio Ramos,0.33%,Sergio Ramos,Spain,Real Madrid,Spain,awards_2014.json
+2014,MP,toure yaya,Touré Yaya,24.0,Yaya Touré,0.86%,Yaya Touré,Ivory Coast,Manchester City,England,awards_2014.json
+2014,WP,abby wambach,Wambach Abby,171.0,Abby Wambach,13.33%,Abby Wambach,United States,Western New York Flash,United States,awards_2014.json
+2014,WP,angerer nadine,Angerer Nadine,145.0,Nadine Angerer,13.16%,Nadine Angerer,Germany,Portland Thorns | Brisbane Roar,United States | Australia,awards_2014.json
+2014,WP,aya miyama,Miyama Aya,114.0,Aya Miyama,10.48%,Aya Miyama,Japan,Okayama Yunogo Belle,Japan,awards_2014.json
+2014,WP,boquete veronica,Boquete Veronica,77.0,Verónica Boquete,6.15%,Verónica Boquete,Spain,Portland Thorns | 1. FFC Frankfurt,United States | Germany,awards_2014.json
+2014,WP,fischer nilla,Fischer Nilla,78.0,Nilla Fischer,5.45%,Nilla Fischer,Sweden,VfL Wolfsburg,Germany,awards_2014.json
+2014,WP,kawasumi nahomi,Kawasumi Nahomi,81.0,Nahomi Kawasumi,6.51%,Nahomi Kawasumi,Japan,Seattle Reign | INAC Kobe Leonessa,United States | Japan,awards_2014.json
+2014,WP,kessler nadine,Kessler Nadine,152.0,Nadine Keßler,17.52%,Nadine Keßler,Germany,VfL Wolfsburg,Germany,awards_2014.json
+2014,WP,lotta schelin,Schelin Lotta,75.0,Lotta Schelin,6.06%,Lotta Schelin,Sweden,Lyon,France,awards_2014.json
+2014,WP,louisa necib,Necib Louisa,96.0,Louisa Necib,7.18%,Louisa Necib,France,Lyon,France,awards_2014.json
+2014,WP,marta,Marta,163.0,Marta,14.16%,Marta (footballer),Brazil,Tyresö FF | FC Rosengård,Sweden | Sweden,awards_2014.json
+2015,MP,aguero sergio,Agüero Sergio,20.0,Sergio Agüero,0.86%,Sergio Agüero,Argentina,Manchester City,England,awards_2015.json
+2015,MP,alexis sanchez,Sanchez Alexis,25.0,Alexis Sánchez,1.18%,Alexis Sánchez,Chile,Arsenal,England,awards_2015.json
+2015,MP,andres iniesta,Iniesta Andrés,23.0,Andrés Iniesta,1.24%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2015.json
+2015,MP,arjen robben,Robben Arjen,9.0,Arjen Robben,0.2930%,Arjen Robben,Netherlands,Bayern Munich,Germany,awards_2015.json
+2015,MP,arturo vidal,Vidal Arturo,16.0,Arturo Vidal,0.58%,Arturo Vidal,Chile,Juventus | Bayern Munich,Italy | Germany,awards_2015.json
+2015,MP,bale gareth,Bale Gareth,11.0,Gareth Bale,0.65%,Gareth Bale,Wales,Real Madrid,Spain,awards_2015.json
+2015,MP,benzema karim,Karim Benzema,6.0,Karim Benzema,0.40%,Karim Benzema,France,Real Madrid,Spain,awards_2015.json
+2015,MP,bruyne de kevin,Kevin De Bruyne,9.0,Kevin De Bruyne,0.47%,Kevin De Bruyne,Belgium,VfL Wolfsburg | Manchester City,Germany | England,awards_2015.json
+2015,MP,cristiano ronaldo,Cristiano Ronaldo,386.0,Cristiano Ronaldo,27.76%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2015.json
+2015,MP,eden hazard,Hazard Eden,31.0,Eden Hazard,1.33%,Eden Hazard,Belgium,Chelsea,England,awards_2015.json
+2015,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,22.0,Zlatan Ibrahimović,1.13%,Zlatan Ibrahimović,Sweden,Paris Saint-Germain,France,awards_2015.json
+2015,MP,ivan rakitic,Rakitic Ivan,2.0,Ivan Rakitić,0.05%,Ivan Rakitić,Croatia,Barcelona,Spain,awards_2015.json
+2015,MP,james rodriguez,Rodríguez James,12.0,James Rodríguez,0.45%,James Rodríguez,Colombia,Real Madrid,Spain,awards_2015.json
+2015,MP,javier mascherano,Mascherano Javier,11.0,Javier Mascherano,0.79%,Javier Mascherano,Argentina,Barcelona,Spain,awards_2015.json
+2015,MP,kroos toni,Toni Kroos,9.0,Toni Kroos,0.2931%,Toni Kroos,Germany,Real Madrid,Spain,awards_2015.json
+2015,MP,lewandowski robert,Robert Lewandowski,83.0,Robert Lewandowski,4.17%,Robert Lewandowski,Poland,Bayern Munich,Germany,awards_2015.json
+2015,MP,lionel messi,Lionel Messi,425.0,Lionel Messi,41.33%,Lionel Messi,Argentina,Barcelona,Spain,awards_2015.json
+2015,MP,luis suarez,Suárez Luis,78.0,Luis Suárez,3.38%,Luis Suárez (Uruguayan footballer),Uruguay,Barcelona,Spain,awards_2015.json
+2015,MP,manuel neuer,Neuer Manuel,33.0,Manuel Neuer,1.97%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2015.json
+2015,MP,muller thomas,Müller Thomas,56.0,Thomas Müller,2.21%,Thomas Müller,Germany,Bayern Munich,Germany,awards_2015.json
+2015,MP,neymar,Neymar,189.0,Neymar,7.86%,Neymar,Brazil,Barcelona,Spain,awards_2015.json
+2015,MP,paul pogba,Pogba Paul,20.0,Paul Pogba,0.72%,Paul Pogba,France,Juventus,Italy,awards_2015.json
+2015,MP,toure yaya,Touré Yaya,18.0,Yaya Touré,0.89%,Yaya Touré,Ivory Coast,Manchester City,England,awards_2015.json
+2015,WP,amandine henry,Henry Amandine,81.0,Amandine Henry,,Amandine Henry,France,Lyon,France,awards_2015.json
+2015,WP,angerer nadine,Angerer Nadine,105.0,Nadine Angerer,,Nadine Angerer,Germany,Brisbane Roar | Portland Thorns,Australia | United States,awards_2015.json
+2015,WP,aya miyama,Miyama Aya,142.0,Aya Miyama,9.88%,Aya Miyama,Japan,Okayama Yunogo Belle,Japan,awards_2015.json
+2015,WP,bachmann ramona,Bachmann Ramona,46.0,Ramona Bachmann,,Ramona Bachmann,Switzerland,FC Rosengård,Sweden,awards_2015.json
+2015,WP,buchanan kadeisha,Buchanan Kadeisha,39.0,Kadeisha Buchanan,,Kadeisha Buchanan,Canada,West Virginia Mountaineers,United States,awards_2015.json
+2015,WP,carli lloyd,Lloyd Carli,272.0,Carli Lloyd,35.28%,Carli Lloyd,United States,Houston Dash,United States,awards_2015.json
+2015,WP,celia sasic,Šašic Célia,155.0,Célia Šašić,12.60%,Célia Šašić,Germany,1. FFC Frankfurt,Germany,awards_2015.json
+2015,WP,eugenie le sommer,Le Sommer Eugénie,67.0,Eugénie Le Sommer,,Eugénie Le Sommer,France,Lyon,France,awards_2015.json
+2015,WP,hope solo,Solo Hope,134.0,Hope Solo,,Hope Solo,United States,Seattle Reign,United States,awards_2015.json
+2015,WP,megan rapinoe,Rapinoe Megan,90.0,Megan Rapinoe,,Megan Rapinoe,United States,Seattle Reign,United States,awards_2015.json
+2016,MP,aguero sergio,Agüero Sergio,5.0,Sergio Agüero,0.38%,Sergio Agüero,Argentina,Manchester City,England,awards_2016.json
+2016,MP,alexis sanchez,Sanchez Alexis,19.0,Alexis Sánchez,1.19%,Alexis Sánchez,Chile,Arsenal,England,awards_2016.json
+2016,MP,andres iniesta,Iniesta Andrés,21.0,Andrés Iniesta,1.69%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2016.json
+2016,MP,antoine griezmann,Griezmann Antoine,157.0,Antoine Griezmann,7.53%,Antoine Griezmann,France,Atlético Madrid,Spain,awards_2016.json
+2016,MP,bale gareth,Bale Gareth,67.0,Gareth Bale,4.62%,Gareth Bale,Wales,Real Madrid,Spain,awards_2016.json
+2016,MP,bruyne de kevin,Kevin De Bruyne,8.0,Kevin De Bruyne,0.46%,Kevin De Bruyne,Belgium,Manchester City,England,awards_2016.json
+2016,MP,buffon gianluigi,Buffon Gianluigi,25.0,Gianluigi Buffon,1.85%,Gianluigi Buffon,Italy,Juventus,Italy,awards_2016.json
+2016,MP,cristiano ronaldo,Cristiano Ronaldo,375.0,Cristiano Ronaldo,34.54%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2016.json
+2016,MP,dimitri payet,Payet Dimitri,4.0,Dimitri Payet,0.17%,Dimitri Payet,France,West Ham United,England,awards_2016.json
+2016,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,8.0,Zlatan Ibrahimović,0.50%,Zlatan Ibrahimović,Sweden,Paris Saint-Germain | Manchester United,France | England,awards_2016.json
+2016,MP,jamie vardy,Vardy Jamie,17.0,Jamie Vardy,0.81%,Jamie Vardy,England,Leicester City,England,awards_2016.json
+2016,MP,kante ngolo,N’Golo Kanté,10.0,N'Golo Kanté,0.40%,N'Golo Kanté,France,Leicester City | Chelsea,England | England,awards_2016.json
+2016,MP,kroos toni,Toni Kroos,17.0,Toni Kroos,1.25%,Toni Kroos,Germany,Real Madrid,Spain,awards_2016.json
+2016,MP,lewandowski robert,Robert Lewandowski,21.0,Robert Lewandowski,0.93%,Robert Lewandowski,Poland,Bayern Munich,Germany,awards_2016.json
+2016,MP,lionel messi,Lionel Messi,332.0,Lionel Messi,26.42%,Lionel Messi,Argentina,Barcelona,Spain,awards_2016.json
+2016,MP,luis suarez,Suárez Luis,73.0,Luis Suárez,5.11%,Luis Suárez (Uruguayan footballer),Uruguay,Barcelona,Spain,awards_2016.json
+2016,MP,luka modric,Luka Modrić,9.0,Luka Modrić,0.89%,Luka Modrić,Croatia,Real Madrid,Spain,awards_2016.json
+2016,MP,mahrez riyad,Mahrez Riyad,25.0,Riyad Mahrez,2.20%,Riyad Mahrez,Algeria,Leicester City,England,awards_2016.json
+2016,MP,manuel neuer,Neuer Manuel,20.0,Manuel Neuer,0.80%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2016.json
+2016,MP,mesut ozil,Özil Mesut,13.0,Mesut Özil,0.86%,Mesut Özil,Germany,Arsenal,England,awards_2016.json
+2016,MP,neymar,Neymar,106.0,Neymar,6.23%,Neymar,Brazil,Barcelona,Spain,awards_2016.json
+2016,MP,paul pogba,Pogba Paul,11.0,Paul Pogba,0.47%,Paul Pogba,France,Juventus | Manchester United,Italy | England,awards_2016.json
+2016,MP,ramos sergio,Sergio Ramos,10.0,Sergio Ramos,0.70%,Sergio Ramos,Spain,Real Madrid,Spain,awards_2016.json
+2016,WP,abily camille,Abily Camille,71.0,Camille Abily,5.04%,Camille Abily,France,Lyon,France,awards_2016.json
+2016,WP,amandine henry,Henry Amandine,78.0,Amandine Henry,5.96%,Amandine Henry,France,Portland Thorns,United States,awards_2016.json
+2016,WP,behringer melanie,Behringer Melanie,140.0,Melanie Behringer,12.34%,Melanie Behringer,Germany,Bayern Munich,Germany,awards_2016.json
+2016,WP,carli lloyd,Lloyd Carli,203.0,Carli Lloyd,20.68%,Carli Lloyd,United States,Houston Dash,United States,awards_2016.json
+2016,WP,christine sinclair,Christine Sinclair,89.0,Christine Sinclair,5.99%,Christine Sinclair,Canada,Portland Thorns,United States,awards_2016.json
+2016,WP,dabritz sara,Däbritz Sara,75.0,Sara Däbritz,8.19%,Sara Däbritz,Germany,Bayern Munich,Germany,awards_2016.json
+2016,WP,dzsenifer marozsan,Dzsenifer Marozsán,125.0,Dzsenifer Marozsán,11.68%,Dzsenifer Marozsán,Germany,1. FFC Frankfurt | Lyon,Germany | France,awards_2016.json
+2016,WP,kumagai saki,Saki Kumagai,92.0,Saki Kumagai,6.94%,Saki Kumagai,Japan,Lyon,France,awards_2016.json
+2016,WP,lotta schelin,Schelin Lotta,98.0,Lotta Schelin,6.58%,Lotta Schelin,Sweden,Lyon,France,awards_2016.json
+2016,WP,marta,Marta,139.0,Marta,16.60%,Marta (footballer),Brazil,FC Rosengård,Sweden,awards_2016.json
+2017,MP,alexis sanchez,Sanchez Alexis,10.0,Alexis Sánchez,0.45%,Alexis Sánchez,Chile,Arsenal,England,awards_2017.json
+2017,MP,andres iniesta,Iniesta Andrés,11.0,Andrés Iniesta,0.82%,Andrés Iniesta,Spain,Barcelona,Spain,awards_2017.json
+2017,MP,antoine griezmann,Griezmann Antoine,9.0,Antoine Griezmann,0.67%,Antoine Griezmann,France,Atlético Madrid,Spain,awards_2017.json
+2017,MP,arturo vidal,Vidal Arturo,9.0,Arturo Vidal,0.51%,Arturo Vidal,Chile,Bayern Munich,Germany,awards_2017.json
+2017,MP,aubameyang emerick pierre,Aubameyang Pierre-Emerick,24.0,Pierre-Emerick Aubameyang,1.10%,Pierre-Emerick Aubameyang,Gabon,Borussia Dortmund,Germany,awards_2017.json
+2017,MP,bonucci leonardo,Bonucci Leonardo,12.0,Leonardo Bonucci,0.47%,Leonardo Bonucci,Italy,Juventus | Milan,Italy | Italy,awards_2017.json
+2017,MP,buffon gianluigi,Buffon Gianluigi,153.0,Gianluigi Buffon,6.82%,Gianluigi Buffon,Italy,Juventus,Italy,awards_2017.json
+2017,MP,carvajal dani,Dani Carvajal,3.0,Dani Carvajal,0.62%,Dani Carvajal,Spain,Real Madrid,Spain,awards_2017.json
+2017,MP,cristiano ronaldo,Cristiano Ronaldo,414.0,Cristiano Ronaldo,43.16%,Cristiano Ronaldo,Portugal,Real Madrid,Spain,awards_2017.json
+2017,MP,dybala paulo,Dybala Paulo,18.0,Paulo Dybala,1.07%,Paulo Dybala,Argentina,Juventus,Italy,awards_2017.json
+2017,MP,eden hazard,Hazard Eden,24.0,Eden Hazard,1.03%,Eden Hazard,Belgium,Chelsea,England,awards_2017.json
+2017,MP,harry kane,Harry Kane,7.0,Harry Kane,0.33%,Harry Kane,England,Tottenham Hotspur,England,awards_2017.json
+2017,MP,ibrahimovic zlatan,Ibrahimovic Zlatan,13.0,Zlatan Ibrahimović,0.82%,Zlatan Ibrahimović,Sweden,Manchester United,England,awards_2017.json
+2017,MP,kante ngolo,N’Golo Kanté,27.0,N'Golo Kanté,1.35%,N'Golo Kanté,France,Chelsea,England,awards_2017.json
+2017,MP,keylor navas,Navas Keylor,6.0,Keylor Navas,0.56%,Keylor Navas,Costa Rica,Real Madrid,Spain,awards_2017.json
+2017,MP,kroos toni,Toni Kroos,32.0,Toni Kroos,2.70%,Toni Kroos,Germany,Real Madrid,Spain,awards_2017.json
+2017,MP,lewandowski robert,Robert Lewandowski,13.0,Robert Lewandowski,0.77%,Robert Lewandowski,Poland,Bayern Munich,Germany,awards_2017.json
+2017,MP,lionel messi,Lionel Messi,291.0,Lionel Messi,19.25%,Lionel Messi,Argentina,Barcelona,Spain,awards_2017.json
+2017,MP,luis suarez,Suárez Luis,13.0,Luis Suárez,1.19%,Luis Suárez (Uruguayan footballer),Uruguay,Barcelona,Spain,awards_2017.json
+2017,MP,luka modric,Luka Modrić,55.0,Luka Modrić,3.33%,Luka Modrić,Croatia,Real Madrid,Spain,awards_2017.json
+2017,MP,manuel neuer,Neuer Manuel,8.0,Manuel Neuer,0.58%,Manuel Neuer,Germany,Bayern Munich,Germany,awards_2017.json
+2017,MP,marcelo,Marcelo,27.0,Marcelo,2.09%,"Marcelo (footballer, born 1988)",Brazil,Real Madrid,Spain,awards_2017.json
+2017,MP,neymar,Neymar,138.0,Neymar,6.97%,Neymar,Brazil,Barcelona | Paris Saint-Germain,Spain | France,awards_2017.json
+2017,MP,ramos sergio,Sergio Ramos,60.0,Sergio Ramos,3.34%,Sergio Ramos,Spain,Real Madrid,Spain,awards_2017.json
+2017,WP,bronze lucy,Lucy Bronze,71.0,Lucy Bronze,5.04%,Lucy Bronze,England,Manchester City,England,awards_2017.json
+2017,WP,carli lloyd,Lloyd Carli,165.0,Carli Lloyd,16.28%,Carli Lloyd,United States,Houston Dash | Manchester City,United States | England,awards_2017.json
+2017,WP,castellanos deyna,Castellanos Deyna,55.0,Deyna Castellanos,11.69%,Deyna Castellanos,Venezuela,Florida State Seminoles | Santa Clarita Blue Heat,United States | United States,awards_2017.json
+2017,WP,dzsenifer marozsan,Dzsenifer Marozsán,152.0,Dzsenifer Marozsán,11.47%,Dzsenifer Marozsán,Germany,Lyon,France,awards_2017.json
+2017,WP,harder pernille,Pernille Harder,142.0,Pernille Harder,11.06%,Pernille Harder (footballer),Denmark,Linköpings FC | VfL Wolfsburg,Sweden | Germany,awards_2017.json
+2017,WP,jodie taylor,Taylor Jodie,87.0,Jodie Taylor,5.79%,Jodie Taylor,England,Arsenal,England,awards_2017.json
+2017,WP,kerr sam,Sam Kerr,58.0,Samantha Kerr,4.88%,Sam Kerr,Australia,Perth Glory | Sky Blue FC,Australia | United States,awards_2017.json
+2017,WP,lieke martens,Martens Lieke,223.0,Lieke Martens,21.72%,Lieke Martens,Netherlands,FC Rosengård | Barcelona,Sweden | Spain,awards_2017.json
+2017,WP,miedema vivianne,Vivianne Miedema,84.0,Vivianne Miedema,6.28%,Vivianne Miedema,Netherlands,Bayern Munich | Arsenal,Germany | England,awards_2017.json
+2017,WP,renard wendie,Wendie Renard,88.0,Wendie Renard,5.79%,Wendie Renard,France,Lyon,France,awards_2017.json
+2018,MP,antoine griezmann,Griezmann Antoine,139.0,Antoine Griezmann,6.69%,Antoine Griezmann,France,Atlético Madrid,Spain,awards_2018.json
+2018,MP,bruyne de kevin,Kevin De Bruyne,70.0,Kevin De Bruyne,3.54%,Kevin De Bruyne,Belgium,Manchester City,England,awards_2018.json
+2018,MP,cristiano ronaldo,Cristiano Ronaldo,285.0,Cristiano Ronaldo,19.08%,Cristiano Ronaldo,Portugal,Real Madrid | Juventus,Spain | Italy,awards_2018.json
+2018,MP,eden hazard,Hazard Eden,100.0,Eden Hazard,5.65%,Eden Hazard,Belgium,Chelsea,England,awards_2018.json
+2018,MP,harry kane,Harry Kane,17.0,Harry Kane,0.98%,Harry Kane,England,Tottenham Hotspur,England,awards_2018.json
+2018,MP,kylian mbappe,Kylian Mbappé,203.0,Kylian Mbappé,10.52%,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2018.json
+2018,MP,lionel messi,Lionel Messi,121.0,Lionel Messi,9.81%,Lionel Messi,Argentina,Barcelona,Spain,awards_2018.json
+2018,MP,luka modric,Luka Modrić,401.0,Luka Modrić,29.05%,Luka Modrić,Croatia,Real Madrid,Spain,awards_2018.json
+2018,MP,mohamed salah,Mohamed Salah,129.0,Mohamed Salah,11.23%,Mohamed Salah,Egypt,Liverpool,England,awards_2018.json
+2018,MP,raphael varane,Varane Raphael,53.0,Raphaël Varane,3.45%,Raphaël Varane,France,Real Madrid,Spain,awards_2018.json
+2018,WP,ada hegerberg,Ada Hegerberg,145.0,Ada Hegerberg,12.60%,Ada Hegerberg,Norway,Lyon,France,awards_2018.json
+2018,WP,amandine henry,Henry Amandine,106.0,Amandine Henry,8.11%,Amandine Henry,France,Lyon,France,awards_2018.json
+2018,WP,bronze lucy,Lucy Bronze,122.0,Lucy Bronze,8.65%,Lucy Bronze,England,Lyon,France,awards_2018.json
+2018,WP,dzsenifer marozsan,Dzsenifer Marozsán,153.0,Dzsenifer Marozsán,12.86%,Dzsenifer Marozsán,Germany,Lyon,France,awards_2018.json
+2018,WP,harder pernille,Pernille Harder,130.0,Pernille Harder,10.08%,Pernille Harder (footballer),Denmark,VfL Wolfsburg,Germany,awards_2018.json
+2018,WP,kerr sam,Sam Kerr,103.0,Sam Kerr,6.78%,Sam Kerr,Australia,Perth Glory | Sky Blue FC | Chicago Red Stars,Australia | United States | United States,awards_2018.json
+2018,WP,kumagai saki,Saki Kumagai,114.0,Saki Kumagai,6.66%,Saki Kumagai,Japan,Lyon,France,awards_2018.json
+2018,WP,marta,Marta,151.0,Marta,14.73%,Marta (footballer),Brazil,Orlando Pride,United States,awards_2018.json
+2018,WP,megan rapinoe,Rapinoe Megan,140.0,Megan Rapinoe,11.64%,Megan Rapinoe,United States,Seattle Reign,United States,awards_2018.json
+2018,WP,renard wendie,Wendie Renard,105.0,Wendie Renard,7.89%,Wendie Renard,France,Lyon,France,awards_2018.json
+2019,MP,cristiano ronaldo,Cristiano Ronaldo,285.0,Cristiano Ronaldo,36,Cristiano Ronaldo,Portugal,Juventus,Italy,awards_2019.json
+2019,MP,de frenkie jong,De Jong Frenkie,56.0,Frenkie de Jong,16,Frenkie de Jong,Netherlands,Ajax | Barcelona,Netherlands | Spain,awards_2019.json
+2019,MP,de ligt matthijs,De Ligt Matthijs,38.0,Matthijs de Ligt,9,Matthijs de Ligt,Netherlands,Ajax | Juventus,Netherlands | Italy,awards_2019.json
+2019,MP,dijk van virgil,Virgil van Dijk,304.0,Virgil van Dijk,38,Virgil van Dijk,Netherlands,Liverpool,England,awards_2019.json
+2019,MP,eden hazard,Hazard Eden,78.0,Eden Hazard,16,Eden Hazard,Belgium,Chelsea | Real Madrid,England | Spain,awards_2019.json
+2019,MP,harry kane,Harry Kane,28.0,Harry Kane,5,Harry Kane,England,Tottenham Hotspur,England,awards_2019.json
+2019,MP,kylian mbappe,Kylian Mbappé,100.0,Kylian Mbappé,17,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2019.json
+2019,MP,lionel messi,Lionel Messi,328.0,Lionel Messi,46,Lionel Messi,Argentina,Barcelona,Spain,awards_2019.json
+2019,MP,mane sadio,Sadio Mané,143.0,Sadio Mané,23,Sadio Mané,Senegal,Liverpool,England,awards_2019.json
+2019,MP,mohamed salah,Mohamed Salah,146.0,Mohamed Salah,26,Mohamed Salah,Egypt,Liverpool,England,awards_2019.json
+2019,WP,ada hegerberg,Ada Hegerberg,85.0,Ada Hegerberg,15,Ada Hegerberg,Norway,Lyon,France,awards_2019.json
+2019,WP,alex morgan,Alex Morgan,193.0,Alex Morgan,42,Alex Morgan,United States,Orlando Pride,United States,awards_2019.json
+2019,WP,amandine henry,Henry Amandine,100.0,Amandine Henry,23,Amandine Henry,France,Lyon,France,awards_2019.json
+2019,WP,bronze lucy,Lucy Bronze,114.0,Lucy Bronze,29,Lucy Bronze,England,Lyon,France,awards_2019.json
+2019,WP,caroline graham hansen,Caroline Graham Hansen,25.0,Caroline Graham Hansen,0,Caroline Graham Hansen,Norway,VfL Wolfsburg | Barcelona,Germany | Spain,awards_2019.json
+2019,WP,ellen white,Ellen White,86.0,Ellen White,7,Ellen White (footballer),England,Birmingham City | Manchester City,England | England,awards_2019.json
+2019,WP,ertz julie,Ertz Julie,64.0,Julie Ertz,18,Julie Ertz,United States,Chicago Red Stars,United States,awards_2019.json
+2019,WP,kerr sam,Sam Kerr,44.0,Sam Kerr,0,Sam Kerr,Australia,Perth Glory | Chicago Red Stars,Australia | United States,awards_2019.json
+2019,WP,lavelle rose,Lavelle Rose,97.0,Rose Lavelle,21,Rose Lavelle,United States,Washington Spirit,United States,awards_2019.json
+2019,WP,megan rapinoe,Rapinoe Megan,324.0,Megan Rapinoe,46,Megan Rapinoe,United States,Reign FC,United States,awards_2019.json
+2019,WP,miedema vivianne,Vivianne Miedema,122.0,Vivianne Miedema,23,Vivianne Miedema,Netherlands,Arsenal,England,awards_2019.json
+2019,WP,renard wendie,Wendie Renard,72.0,Wendie Renard,9,Wendie Renard,France,Lyon,France,awards_2019.json
+2020,MP,alcantara thiago,Thiago Alcântara,95.0,Thiago,17,Thiago Alcântara,Spain,Bayern Munich | Liverpool,Germany | England,awards_2020.json
+2020,MP,bruyne de kevin,Kevin De Bruyne,161.0,Kevin De Bruyne,26,Kevin De Bruyne,Belgium,Manchester City,England,awards_2020.json
+2020,MP,cristiano ronaldo,Cristiano Ronaldo,210.0,Cristiano Ronaldo,38,Cristiano Ronaldo,Portugal,Juventus,Italy,awards_2020.json
+2020,MP,dijk van virgil,Virgil van Dijk,83.0,Virgil van Dijk,13,Virgil van Dijk,Netherlands,Liverpool,England,awards_2020.json
+2020,MP,kylian mbappe,Kylian Mbappé,110.0,Kylian Mbappé,19,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2020.json
+2020,MP,lewandowski robert,Robert Lewandowski,456.0,Robert Lewandowski,52,Robert Lewandowski,Poland,Bayern Munich,Germany,awards_2020.json
+2020,MP,lionel messi,Lionel Messi,174.0,Lionel Messi,35,Lionel Messi,Argentina,Barcelona,Spain,awards_2020.json
+2020,MP,mane sadio,Sadio Mané,186.0,Sadio Mané,29,Sadio Mané,Senegal,Liverpool,England,awards_2020.json
+2020,MP,mohamed salah,Mohamed Salah,114.0,Mohamed Salah,25,Mohamed Salah,Egypt,Liverpool,England,awards_2020.json
+2020,MP,neymar,Neymar,64.0,Neymar,16,Neymar,Brazil,Paris Saint-Germain,France,awards_2020.json
+2020,MP,ramos sergio,Sergio Ramos,77.0,Sergio Ramos,7,Sergio Ramos,Spain,Real Madrid,Spain,awards_2020.json
+2020,WP,bronze lucy,Lucy Bronze,274.0,Lucy Bronze,52,Lucy Bronze,England,Lyon | Manchester City,France | England,awards_2020.json
+2020,WP,caroline graham hansen,Caroline Graham Hansen,100.0,Caroline Graham Hansen,15,Caroline Graham Hansen,Norway,Barcelona,Spain,awards_2020.json
+2020,WP,cascarino delphine,Delphine Cascarino,184.0,Delphine Cascarino,30,Delphine Cascarino,France,Lyon,France,awards_2020.json
+2020,WP,dzsenifer marozsan,Dzsenifer Marozsán,121.0,Dzsenifer Marozsán,25,Dzsenifer Marozsán,Germany,Lyon,France,awards_2020.json
+2020,WP,harder pernille,Pernille Harder,198.0,Pernille Harder,40,Pernille Harder (footballer),Denmark,VfL Wolfsburg | Chelsea,Germany | England,awards_2020.json
+2020,WP,hermoso jennifer,Jennifer Hermoso,85.0,Jennifer Hermoso,15,Jennifer Hermoso,Spain,Barcelona,Spain,awards_2020.json
+2020,WP,ji so yun,So-Yun Ji,70.0,Ji So-yun,7,Ji So-yun,South Korea,Chelsea,England,awards_2020.json
+2020,WP,kerr sam,Sam Kerr,120.0,Sam Kerr,20,Sam Kerr,Australia,Chicago Red Stars | Chelsea,United States | England,awards_2020.json
+2020,WP,kumagai saki,Saki Kumagai,67.0,Saki Kumagai,7,Saki Kumagai,Japan,Lyon,France,awards_2020.json
+2020,WP,miedema vivianne,Vivianne Miedema,163.0,Vivianne Miedema,31,Vivianne Miedema,Netherlands,Arsenal,England,awards_2020.json
+2020,WP,renard wendie,Wendie Renard,208.0,Wendie Renard,35,Wendie Renard,France,Lyon,France,awards_2020.json
+2021,MP,benzema karim,Karim Benzema,182.0,Karim Benzema,30,Karim Benzema,France,Real Madrid,Spain,awards_2021.json
+2021,MP,bruyne de kevin,Kevin De Bruyne,73.0,Kevin De Bruyne,11,Kevin De Bruyne,Belgium,Manchester City,England,awards_2021.json
+2021,MP,cristiano ronaldo,Cristiano Ronaldo,110.0,Cristiano Ronaldo,23,Cristiano Ronaldo,Portugal,Juventus | Manchester United,Italy | England,awards_2021.json
+2021,MP,erling haaland,Erling Haaland,28.0,Erling Haaland,7,Erling Haaland,Norway,Borussia Dortmund,Germany,awards_2021.json
+2021,MP,jorginho,Jorginho,186.0,Jorginho,24,"Jorginho (footballer, born December 1991)",Italy,Chelsea,England,awards_2021.json
+2021,MP,kante ngolo,N’Golo Kanté,147.0,N'Golo Kanté,24,N'Golo Kanté,France,Chelsea,England,awards_2021.json
+2021,MP,kylian mbappe,Kylian Mbappé,67.0,Kylian Mbappé,16,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2021.json
+2021,MP,lewandowski robert,Robert Lewandowski,441.0,Robert Lewandowski,48,Robert Lewandowski,Poland,Bayern Munich,Germany,awards_2021.json
+2021,MP,lionel messi,Lionel Messi,305.0,Lionel Messi,44,Lionel Messi,Argentina,Barcelona | Paris Saint-Germain,Spain | France,awards_2021.json
+2021,MP,mohamed salah,Mohamed Salah,225.0,Mohamed Salah,39,Mohamed Salah,Egypt,Liverpool,England,awards_2021.json
+2021,MP,neymar,Neymar,15.0,Neymar,10,Neymar,Brazil,Paris Saint-Germain,France,awards_2021.json
+2021,WP,aitana bonmati,Aitana Bonmatí,109.0,Aitana Bonmatí,26,Aitana Bonmatí,Spain,Barcelona,Spain,awards_2021.json
+2021,WP,alexia putellas,Alexia Putellas,293.0,Alexia Putellas,52,Alexia Putellas,Spain,Barcelona,Spain,awards_2021.json
+2021,WP,blackstenius stina,Stina Blackstenius,68.0,Stina Blackstenius,5,Stina Blackstenius,Sweden,BK Häcken | Arsenal,Sweden | England,awards_2021.json
+2021,WP,bronze lucy,Lucy Bronze,119.0,Lucy Bronze,16,Lucy Bronze,England,Manchester City,England,awards_2021.json
+2021,WP,caroline graham hansen,Caroline Graham Hansen,101.0,Caroline Graham Hansen,12,Caroline Graham Hansen,Norway,Barcelona,Spain,awards_2021.json
+2021,WP,christine sinclair,Christine Sinclair,132.0,Christine Sinclair,28,Christine Sinclair,Canada,Portland Thorns,United States,awards_2021.json
+2021,WP,ellen white,Ellen White,88.0,Ellen White,9,Ellen White (footballer),England,Manchester City,England,awards_2021.json
+2021,WP,eriksson magdalena,Magdalena Eriksson,98.0,Magdalena Eriksson,15,Magdalena Eriksson,Sweden,Chelsea,England,awards_2021.json
+2021,WP,harder pernille,Pernille Harder,72.0,Pernille Harder,10,Pernille Harder (footballer),Denmark,Chelsea,England,awards_2021.json
+2021,WP,hermoso jennifer,Jennifer Hermoso,158.0,Jennifer Hermoso,33,Jennifer Hermoso,Spain,Barcelona,Spain,awards_2021.json
+2021,WP,ji so yun,So-Yun Ji,76.0,Ji So-yun,4,Ji So-yun,South Korea,Chelsea,England,awards_2021.json
+2021,WP,kerr sam,Sam Kerr,195.0,Sam Kerr,38,Sam Kerr,Australia,Chelsea,England,awards_2021.json
+2021,WP,miedema vivianne,Vivianne Miedema,165.0,Vivianne Miedema,30,Vivianne Miedema,Netherlands,Arsenal,England,awards_2021.json
+2022,MP,achraf hakimi,Achraf Hakimi,28.0,Achraf Hakimi,15,Achraf Hakimi,Morocco,Paris Saint-Germain,France,awards_2022.json
+2022,MP,alvarez julian,Julián Álvarez,29.0,Julián Álvarez,17,Julián Álvarez (footballer),Argentina,River Plate | Manchester City,Argentina | England,awards_2022.json
+2022,MP,bellingham jude,Jude Bellingham,18.0,Jude Bellingham,3,Jude Bellingham,England,Borussia Dortmund,Germany,awards_2022.json
+2022,MP,benzema karim,Karim Benzema,326.0,Karim Benzema,34,Karim Benzema,France,Real Madrid,Spain,awards_2022.json
+2022,MP,bruyne de kevin,Kevin De Bruyne,41.0,Kevin De Bruyne,10,Kevin De Bruyne,Belgium,Manchester City,England,awards_2022.json
+2022,MP,erling haaland,Erling Haaland,85.0,Erling Haaland,24,Erling Haaland,Norway,Borussia Dortmund | Manchester City,Germany | England,awards_2022.json
+2022,MP,jr vinicius,Vinícius Jr,18.0,Vinícius Júnior,10,Vinícius Júnior,Brazil,Real Madrid,Spain,awards_2022.json
+2022,MP,kylian mbappe,Kylian Mbappé,461.0,Kylian Mbappé,44,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2022.json
+2022,MP,lewandowski robert,Robert Lewandowski,23.0,Robert Lewandowski,7,Robert Lewandowski,Poland,Bayern Munich | Barcelona,Germany | Spain,awards_2022.json
+2022,MP,lionel messi,Lionel Messi,526.0,Lionel Messi,52,Lionel Messi,Argentina,Paris Saint-Germain,France,awards_2022.json
+2022,MP,luka modric,Luka Modrić,118.0,Luka Modrić,28,Luka Modrić,Croatia,Real Madrid,Spain,awards_2022.json
+2022,MP,mane sadio,Sadio Mané,52.0,Sadio Mané,19,Sadio Mané,Senegal,Liverpool | Bayern Munich,England | Germany,awards_2022.json
+2022,MP,mohamed salah,Mohamed Salah,12.0,Mohamed Salah,2,Mohamed Salah,Egypt,Liverpool,England,awards_2022.json
+2022,MP,neymar,Neymar,24.0,Neymar,13,Neymar,Brazil,Paris Saint-Germain,France,awards_2022.json
+2022,WP,ada hegerberg,Ada Hegerberg,83.0,Ada Hegerberg,13,Ada Hegerberg,Norway,Lyon,France,awards_2022.json
+2022,WP,aitana bonmati,Aitana Bonmatí,141.0,Aitana Bonmatí,29,Aitana Bonmatí,Spain,Barcelona,Spain,awards_2022.json
+2022,WP,alex morgan,Alex Morgan,169.0,Alex Morgan,37,Alex Morgan,United States,Orlando Pride | San Diego Wave,United States | United States,awards_2022.json
+2022,WP,alexandra popp,Alexandra Popp,123.0,Alexandra Popp,17,Alexandra Popp,Germany,VfL Wolfsburg,Germany,awards_2022.json
+2022,WP,alexia putellas,Alexia Putellas,244.0,Alexia Putellas,50,Alexia Putellas,Spain,Barcelona,Spain,awards_2022.json
+2022,WP,beth mead,Beth Mead,226.0,Beth Mead,37,Beth Mead,England,Arsenal,England,awards_2022.json
+2022,WP,debinha,Debinha,111.0,Debinha,25,Debinha,Brazil,North Carolina Courage,United States,awards_2022.json
+2022,WP,fleming jessie,Jessie Fleming,44.0,Jessie Fleming,0,Jessie Fleming,Canada,Chelsea,England,awards_2022.json
+2022,WP,keira walsh,Keira Walsh,50.0,Keira Walsh,0,Keira Walsh,England,Manchester City | Barcelona,England | Spain,awards_2022.json
+2022,WP,kerr sam,Sam Kerr,185.0,Sam Kerr,34,Sam Kerr,Australia,Chelsea,England,awards_2022.json
+2022,WP,leah williamson,Leah Williamson,97.0,Leah Williamson,17,Leah Williamson,England,Arsenal,England,awards_2022.json
+2022,WP,lena oberdorf,Lena Oberdorf,72.0,Lena Oberdorf,4,Lena Oberdorf,Germany,VfL Wolfsburg,Germany,awards_2022.json
+2022,WP,miedema vivianne,Vivianne Miedema,68.0,Vivianne Miedema,2,Vivianne Miedema,Netherlands,Arsenal,England,awards_2022.json
+2022,WP,renard wendie,Wendie Renard,91.0,Wendie Renard,9,Wendie Renard,France,Lyon,France,awards_2022.json
+2023,MP,alvarez julian,Julián Álvarez,55.0,Julián Álvarez,21,Julián Álvarez,Argentina,Manchester City,England,awards_2023.json
+2023,MP,bernardo silva,Bernardo Silva,50.0,Bernardo Silva,18,Bernardo Silva,Portugal,Manchester City,England,awards_2023.json
+2023,MP,brozovic marcelo,Marcelo Brozović,17.0,Marcelo Brozović,7,Marcelo Brozović,Croatia,Inter Milan | Al Nassr,Italy | Saudi Arabia,awards_2023.json
+2023,MP,bruyne de kevin,Kevin De Bruyne,209.0,Kevin De Bruyne,32,Kevin De Bruyne,Belgium,Manchester City,England,awards_2023.json
+2023,MP,declan rice,Declan Rice,8.0,Declan Rice,1,Declan Rice,England,West Ham United | Arsenal,England | England,awards_2023.json
+2023,MP,erling haaland,Erling Haaland,513.0,Erling Haaland,48,Erling Haaland,Norway,Manchester City,England,awards_2023.json
+2023,MP,gundogan ilkay,İlkay Gündoğan,51.0,İlkay Gündoğan,13,İlkay Gündoğan,Germany,Manchester City | Barcelona,England | Spain,awards_2023.json
+2023,MP,khvicha kvaratskhelia,Khvicha Kvaratskhelia,29.0,Khvicha Kvaratskhelia,7,Khvicha Kvaratskhelia,Georgia,Napoli,Italy,awards_2023.json
+2023,MP,kylian mbappe,Kylian Mbappé,308.0,Kylian Mbappé,35,Kylian Mbappé,France,Paris Saint-Germain,France,awards_2023.json
+2023,MP,lionel messi,Lionel Messi,382.0,Lionel Messi,48* [ a ],Lionel Messi,Argentina,Paris Saint-Germain | Inter Miami,France | United States,awards_2023.json
+2023,MP,osimhen victor,Victor Osimhen,95.0,Victor Osimhen,24,Victor Osimhen,Nigeria,Napoli,Italy,awards_2023.json
+2023,MP,rodri,Rodri,95.0,Rodri,24,"Rodri (footballer, born 1996)",Spain,Manchester City,England,awards_2023.json
+2023,WP,aitana bonmati,Aitana Bonmatí,404.0,Aitana Bonmatí,52,Aitana Bonmatí,Spain,Barcelona,Spain,awards_2023.json
+2023,WP,alex greenwood,Alex Greenwood,52.0,Alex Greenwood,5,Alex Greenwood,England,Manchester City,England,awards_2023.json
+2023,WP,amanda ilestedt,Amanda Ilestedt,35.0,Amanda Ilestedt,0,Amanda Ilestedt,Sweden,Paris Saint-Germain,France,awards_2023.json
+2023,WP,caicedo linda,Linda Caicedo,163.0,Linda Caicedo,40,Linda Caicedo,Colombia,Deportivo Cali | Real Madrid,Colombia | Spain,awards_2023.json
+2023,WP,caitlin foord,Caitlin Foord,27.0,Caitlin Foord,0,Caitlin Foord,Australia,Arsenal,England,awards_2023.json
+2023,WP,daly rachel,Rachel Daly,67.0,Rachel Daly,15,Rachel Daly,England,Aston Villa,England,awards_2023.json
+2023,WP,diani kadidiatou,Kadidiatou Diani,75.0,Kadidiatou Diani,10,Kadidiatou Diani,France,Paris Saint-Germain,France,awards_2023.json
+2023,WP,fowler mary,Mary Fowler,35.0,Mary Fowler,0,Mary Fowler (soccer),Australia,Manchester City,England,awards_2023.json
+2023,WP,hermoso jennifer,Jennifer Hermoso,176.0,Jenni Hermoso,36,Jenni Hermoso,Spain,Pachuca,Mexico,awards_2023.json
+2023,WP,hinata miyazawa,Hinata Miyazawa,91.0,Hinata Miyazawa,13,Hinata Miyazawa,Japan,MyNavi Sendai,Japan,awards_2023.json
+2023,WP,horan lindsey,Lindsey Heaps,42.0,Lindsey Horan,2,Lindsey Horan,United States,Lyon,France,awards_2023.json
+2023,WP,james lauren,Lauren James,103.0,Lauren James,18,Lauren James,England,Chelsea,England,awards_2023.json
+2023,WP,keira walsh,Keira Walsh,68.0,Keira Walsh,11,Keira Walsh,England,Manchester City | Barcelona,England | Spain,awards_2023.json
+2023,WP,kerr sam,Sam Kerr,166.0,Sam Kerr,32,Sam Kerr,Australia,Chelsea,England,awards_2023.json
+2023,WP,leon mapi,Mapi León,50.0,Mapi León,10,Mapi León,Spain,Barcelona,Spain,awards_2023.json
+2023,WP,paralluelo salma,Salma Paralluelo,165.0,Salma Paralluelo,32,Salma Paralluelo,Spain,Barcelona,Spain,awards_2023.json
+2024,MP,bellingham jude,Jude Bellingham,230.0,Jude Bellingham,37,Jude Bellingham,England,Real Madrid,Spain,awards_2024.json
+2024,MP,carvajal dani,Dani Carvajal,177.0,Dani Carvajal,31,Dani Carvajal,Spain,Real Madrid,Spain,awards_2024.json
+2024,MP,erling haaland,Erling Haaland,100.0,Erling Haaland,18,Erling Haaland,Norway,Manchester City,England,awards_2024.json
+2024,MP,federico valverde,Federico Valverde,21.0,Federico Valverde,4,Federico Valverde,Uruguay,Real Madrid,Spain,awards_2024.json
+2024,MP,florian wirtz,Florian Wirtz,36.0,Florian Wirtz,8,Florian Wirtz,Germany,Bayer Leverkusen,Germany,awards_2024.json
+2024,MP,jr vinicius,Vinícius Jr,433.0,Vinícius Júnior,48,Vinícius Júnior,Brazil,Real Madrid,Spain,awards_2024.json
+2024,MP,kroos toni,Toni Kroos,80.0,Toni Kroos,18,Toni Kroos,Germany,Real Madrid,Spain,awards_2024.json
+2024,MP,kylian mbappe,Kylian Mbappé,56.0,Kylian Mbappé,14,Kylian Mbappé,France,Paris Saint-Germain | Real Madrid,France | Spain,awards_2024.json
+2024,MP,lamine yamal,Lamine Yamal,145.0,Lamine Yamal,30,Lamine Yamal,Spain,Barcelona,Spain,awards_2024.json
+2024,MP,lionel messi,Lionel Messi,63.0,Lionel Messi,25,Lionel Messi,Argentina,Inter Miami,United States,awards_2024.json
+2024,MP,rodri,Rodri,387.0,Rodri,43,"Rodri (footballer, born 1996)",Spain,Manchester City,England,awards_2024.json
+2024,WP,aitana bonmati,Aitana Bonmatí,406.0,Aitana Bonmatí,52,Aitana Bonmatí,Spain,Barcelona,Spain,awards_2024.json
+2024,WP,banda barbra,Barbra Banda,168.0,Barbra Banda,39,Barbra Banda,Zambia,Shanghai Shengli | Orlando Pride,China | United States,awards_2024.json
+2024,WP,batlle ona,Ona Batlle,55.0,Ona Batlle,19,Ona Batlle,Spain,Barcelona,Spain,awards_2024.json
+2024,WP,bronze lucy,Lucy Bronze,99.0,Lucy Bronze,23,Lucy Bronze,England,Barcelona | Chelsea,Spain | England,awards_2024.json
+2024,WP,caldentey mariona,Mariona Caldentey,55.0,Mariona Caldentey,6,Mariona Caldentey,Spain,Barcelona | Arsenal,Spain | England,awards_2024.json
+2024,WP,caroline graham hansen,Caroline Graham Hansen,172.0,Caroline Graham Hansen,37,Caroline Graham Hansen,Norway,Barcelona,Spain,awards_2024.json
+2024,WP,chawinga tabitha,Tabitha Chawinga,95.0,Tabitha Chawinga,20,Tabitha Chawinga,Malawi,Paris Saint-Germain | Lyon,France | France,awards_2024.json
+2024,WP,girma naomi,Naomi Girma,67.0,Naomi Girma,9,Naomi Girma,United States,San Diego Wave,United States,awards_2024.json
+2024,WP,hemp lauren,Lauren Hemp,26.0,Lauren Hemp,0,Lauren Hemp,England,Manchester City,England,awards_2024.json
+2024,WP,horan lindsey,Lindsey Heaps,127.0,Lindsey Horan,26,Lindsey Heaps,United States,Lyon,France,awards_2024.json
+2024,WP,keira walsh,Keira Walsh,34.0,Keira Walsh,1,Keira Walsh,England,Barcelona,Spain,awards_2024.json
+2024,WP,khadija shaw,Khadija Shaw,97.0,Khadija Shaw,19,Khadija Shaw,Jamaica,Manchester City,England,awards_2024.json
+2024,WP,mallory swanson,Mallory Swanson,23.0,Mallory Swanson,0,Mallory Swanson,United States,Chicago Red Stars,United States,awards_2024.json
+2024,WP,paralluelo salma,Salma Paralluelo,112.0,Salma Paralluelo,22,Salma Paralluelo,Spain,Barcelona,Spain,awards_2024.json
+2024,WP,rodman trinity,Trinity Rodman,40.0,Trinity Rodman,0,Trinity Rodman,United States,Washington Spirit,United States,awards_2024.json
+2024,WP,smith sophia,Sophia Smith,68.0,Sophia Smith,4,"Sophia Smith (soccer, born 2000)",United States,Portland Thorns,United States,awards_2024.json
+2025,MP,achraf hakimi,Achraf Hakimi,182.0,Achraf Hakimi,484,Achraf Hakimi,Morocco,Paris Saint-Germain,France,ballondor_2025.json
+2025,MP,cole palmer,Cole Palmer,38.0,Cole Palmer,211,Cole Palmer,England,Chelsea,England,ballondor_2025.json
+2025,MP,dembele ousmane,Ousmane Dembélé,476.0,Ousmane Dembélé,50,Ousmane Dembélé,France,Paris Saint-Germain,France,awards_2025.json
+2025,MP,harry kane,Harry Kane,91.0,Harry Kane,112,Harry Kane,England,Bayern Munich,Germany,ballondor_2025.json
+2025,MP,kylian mbappe,Kylian Mbappé,185.0,Kylian Mbappé,35,Kylian Mbappé,France,Real Madrid,Spain,awards_2025.json
+2025,MP,lamine yamal,Lamine Yamal,277.0,Lamine Yamal,39,Lamine Yamal,Spain,Barcelona,Spain,awards_2025.json
+2025,MP,mendes nuno,Nuno Mendes,63.0,Nuno Mendes,171,"Nuno Mendes (footballer, born 2002)",Portugal,Paris Saint-Germain,France,ballondor_2025.json
+2025,MP,mohamed salah,Mohamed Salah,124.0,Mohamed Salah,657,Mohamed Salah,Egypt,Liverpool,England,ballondor_2025.json
+2025,MP,pedri,Pedri,52.0,Pedri,124,Pedri,Spain,Barcelona,Spain,ballondor_2025.json
+2025,MP,raphinha,Raphinha,104.0,Raphinha,620,Raphinha,Brazil,Barcelona,Spain,ballondor_2025.json
+2025,MP,vitinha,Vitinha,160.0,Vitinha,703,Vitinha,Portugal,Paris Saint-Germain,France,ballondor_2025.json
+2025,WP,aitana bonmati,Aitana Bonmatí,396.0,Aitana Bonmatí,,Aitana Bonmatí,Spain,Barcelona,Spain,awards_2025.json
+2025,WP,alessia russo,Alessia Russo,159.0,Alessia Russo,420,Alessia Russo,England,Arsenal,England,ballondor_2025.json
+2025,WP,alexia putellas,Alexia Putellas,135.0,Alexia Putellas,,Alexia Putellas,Spain,Barcelona,Spain,awards_2025.json
+2025,WP,baltimore sandy,Sandy Baltimore,60.0,Sandy Baltimore,42,Sandy Baltimore,France,Chelsea,England,ballondor_2025.json
+2025,WP,bjorn nathalie,Nathalie Björn,33.0,Nathalie Björn,,Nathalie Björn,Sweden,Everton | Chelsea,England | England,player_Nathalie_Bj_C3_B6rn.json
+2025,WP,bronze lucy,Lucy Bronze,122.0,Lucy Bronze,135,Lucy Bronze,England,Chelsea,England,ballondor_2025.json
+2025,WP,caldentey mariona,Mariona Caldentey,170.0,Mariona Caldentey,,Mariona Caldentey,Spain,Arsenal,England,awards_2025.json
+2025,WP,chawinga temwa,Temwa Chawinga,124.0,Temwa Chawinga,29,Temwa Chawinga,Malawi,Kansas City Current,United States,ballondor_2025.json
+2025,WP,chloe kelly,Chloe Kelly,110.0,Chloe Kelly,233,Chloe Kelly,England,Manchester City | Arsenal,England | England,ballondor_2025.json
+2025,WP,claudia pina,Clàudia Pina,53.0,Clàudia Pina,113,Clàudia Pina,Spain,Barcelona,Spain,ballondor_2025.json
+2025,WP,diani kadidiatou,Kadidiatou Diani,61.0,Kadidiatou Diani,,Kadidiatou Diani,France,Lyon,France,player_Kadidiatou_Diani.json
+2025,WP,dumornay melchie,Melchie Dumornay,72.0,Melchie Dumornay,27,Melchie Dumornay,Haiti,Lyon,France,ballondor_2025.json
+2025,WP,ewa pajor,Ewa Pajor,37.0,Ewa Pajor,139,Ewa Pajor,Poland,Barcelona,Spain,ballondor_2025.json
+2025,WP,guijarro patri,Patri Guijarro,48.0,Patri Guijarro,,Patri Guijarro,Spain,Barcelona,Spain,player_Patricia_Guijarro.json
+2025,WP,horan lindsey,Lindsey Heaps,24.0,Lindsey Heaps,5,Lindsey Heaps,United States,Lyon,France,ballondor_2025.json
+2025,WP,james lauren,Lauren James,75.0,Lauren James,,Lauren James,England,Chelsea,England,player_Lauren_James.json
+2025,WP,leah williamson,Leah Williamson,46.0,Leah Williamson,151,Leah Williamson,England,Arsenal,England,ballondor_2025.json

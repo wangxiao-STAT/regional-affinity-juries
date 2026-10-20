@@ -1,0 +1,35 @@
+model,contrast,diff,se_cluster,z
+A1_coaches,nation_own_foreign - nation_team_foreign,-1.5233353478171814,0.41131144930732255,-3.703605504739986
+A1_coaches,confed_own_foreign - confed_team_foreign,-0.3797545171183099,0.1324448134752593,-2.8672660495629603
+A1_coaches,league_own_foreign - league_team_foreign,0.3110350070673712,0.19496409890691674,1.5953450343484576
+A1_coaches,nation_team_domestic - nation_team_foreign,-0.6349873939348334,0.49696340914424864,-1.2777347028994681
+A1_coaches,confed_team_domestic - confed_team_foreign,0.11962366636545607,0.1129661329553534,1.058933887847023
+A1m_coaches,nation_own_foreign - nation_team_foreign,-1.5772474522394553,0.38339245399568955,-4.113924089536692
+A1m_coaches,confed_own_foreign - confed_team_foreign,-0.5326025735473864,0.1583754384231591,-3.3629114391105257
+A1m_coaches,league_own_foreign - league_team_foreign,0.12185355876959869,0.537836338335617,0.22656252485037645
+A1m_coaches,nation_team_domestic - nation_team_foreign,0.08179889090673509,0.4886588064483078,0.16739469304005697
+A1m_coaches,confed_team_domestic - confed_team_foreign,-0.0264049930475162,0.13764547962158719,-0.19183334694396356
+A1w_coaches,nation_own_foreign - nation_team_foreign,-1.8681643600095015,0.5900755166866836,-3.165975044176343
+A1w_coaches,confed_own_foreign - confed_team_foreign,0.05817158819937607,0.2085101107396137,0.27898689417522027
+A1w_coaches,league_own_foreign - league_team_foreign,0.13811655403221912,0.30505506271333016,0.4527594225243578
+A1w_coaches,nation_team_domestic - nation_team_foreign,-1.684823640173543,0.6896781571956979,-2.4429128610136193
+A1w_coaches,confed_team_domestic - confed_team_foreign,0.43854512391189787,0.17177863012383449,2.5529667083487193
+A1x_coaches,nation_own_foreign[MP] - nation_team_foreign[MP],-1.5772480339766326,0.3833880928456399,-4.113972403967344
+A1x_coaches,nation_own_foreign[WP] - nation_team_foreign[WP],-1.8681641568969305,0.5887407631334501,-3.173152385362304
+A1x_coaches,confed_own_foreign[MP] - confed_team_foreign[MP],-0.5326025755127024,0.15837362888212828,-3.3629498753804468
+A1x_coaches,confed_own_foreign[WP] - confed_team_foreign[WP],0.05817143942913783,0.20803846936736067,0.2796186667111885
+A1x_coaches,league_own_foreign[MP] - league_team_foreign[MP],0.12185345925381003,0.5378303005779174,0.22656488324081825
+A1x_coaches,league_own_foreign[WP] - league_team_foreign[WP],0.1381167758244774,0.3043649924744143,0.45378666811061674
+A1x_coaches,nation_team_domestic[MP] - nation_team_foreign[MP],0.08179808975289893,0.4886532297374918,0.16739496390280992
+A1x_coaches,nation_team_domestic[WP] - nation_team_foreign[WP],-1.6848240070422458,0.6881180988976922,-2.4484518133459843
+A1x_coaches,confed_team_domestic[MP] - confed_team_foreign[MP],-0.026404977120681683,0.13764390675808294,-0.19183542332237014
+A1x_coaches,confed_team_domestic[WP] - confed_team_foreign[WP],0.43854496731770864,0.1713900729418208,2.5587536068473167
+A1x_coaches,(nation_team_domestic - nation_team_foreign)[WP] - [MP],-1.7666220967951451,0.7373979750553817,-2.3957512178718203
+A1x_coaches,(nation_own_foreign - nation_team_foreign)[WP] - [MP],-0.29091612292029767,0.6771814744799528,-0.4295984664136141
+A1x_coaches,(confed_own_foreign - confed_team_foreign)[WP] - [MP],0.5907740149418402,0.269736960758544,2.190185628548969
+A2_all,nation_own_foreign - nation_team_foreign,-1.6014909342602337,0.4181497290566493,-3.8299461244975954
+A2_all,confed_own_foreign - confed_team_foreign,-0.4242680799069717,0.1399753060676674,-3.0310209123734326
+A2_all,league_own_foreign - league_team_foreign,0.3794305339245657,0.19980437822266675,1.8990101082856117
+A2_all,nation_team_domestic - nation_team_foreign,-0.7602955770137756,0.510643157568772,-1.488898001950376
+A2_all,confed_team_domestic - confed_team_foreign,0.0717070382134104,0.11723252095448082,0.6116650706611768
+A3_movers,confed_team[mover] - confed_team_foreign[other],-0.9825965103059628,0.2975843473325231,-3.3019092540106008

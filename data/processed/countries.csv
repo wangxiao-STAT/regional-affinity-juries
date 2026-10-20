@@ -1,0 +1,222 @@
+country,confederation,code
+Afghanistan,AFC,AFG
+Australia,AFC,AUS
+Bahrain,AFC,BHR
+Bangladesh,AFC,BAN
+Bhutan,AFC,BHU
+Brunei Darussalam,AFC,BRU
+Cambodia,AFC,CAM
+China PR,AFC,CHN
+Chinese Taipei,AFC,TPE
+Guam,AFC,GUM
+"Hong Kong, China",AFC,HKG
+India,AFC,IND
+Indonesia,AFC,IDN
+Iraq,AFC,IRQ
+IR Iran,AFC,IRN
+Japan,AFC,JPN
+Jordan,AFC,JOR
+Korea DPR,AFC,PRK
+Korea Republic,AFC,KOR
+Kuwait,AFC,KUW
+Kyrgyz Republic,AFC,KGZ
+Laos,AFC,LAO
+Lebanon,AFC,LBN
+Macau,AFC,MAC
+Malaysia,AFC,MAS
+Maldives,AFC,MDV
+Mongolia,AFC,MNG
+Myanmar,AFC,MYA
+Nepal,AFC,NEP
+Northern Mariana Islands,AFC,
+Oman,AFC,OMA
+Pakistan,AFC,PAK
+Palestine,AFC,PLE
+Philippines,AFC,PHI
+Qatar,AFC,QAT
+Saudi Arabia,AFC,KSA
+Singapore,AFC,SGP
+Sri Lanka,AFC,SRI
+Syria,AFC,SYR
+Tajikistan,AFC,TJK
+Thailand,AFC,THA
+Timor-Leste,AFC,TLS
+Turkmenistan,AFC,TKM
+United Arab Emirates,AFC,UAE
+Uzbekistan,AFC,UZB
+Vietnam,AFC,VIE
+Yemen,AFC,YEM
+Algeria,CAF,ALG
+Angola,CAF,ANG
+Benin,CAF,BEN
+Botswana,CAF,BOT
+Burkina Faso,CAF,BFA
+Burundi,CAF,BDI
+Cabo Verde,CAF,CPV
+Cameroon,CAF,CMR
+Central African Republic,CAF,CTA
+Chad,CAF,CHA
+Comoros,CAF,COM
+Congo,CAF,CGO
+Congo DR,CAF,COD
+Côte d'Ivoire,CAF,CIV
+Djibouti,CAF,DJI
+Egypt,CAF,EGY
+Equatorial Guinea,CAF,EQG
+Eritrea,CAF,ERI
+Eswatini,CAF,SWZ
+Ethiopia,CAF,ETH
+Gabon,CAF,GAB
+The Gambia,CAF,GAM
+Ghana,CAF,GHA
+Guinea,CAF,GUI
+Guinea-Bissau,CAF,GNB
+Kenya,CAF,KEN
+Lesotho,CAF,LES
+Liberia,CAF,LBR
+Libya,CAF,LBY
+Madagascar,CAF,MAD
+Malawi,CAF,MWI
+Mali,CAF,MLI
+Mauritania,CAF,MTN
+Mauritius,CAF,MRI
+Morocco,CAF,MAR
+Mozambique,CAF,MOZ
+Namibia,CAF,NAM
+Niger,CAF,NIG
+Nigeria,CAF,NGA
+Réunion,CAF,
+Rwanda,CAF,RWA
+São Tomé and Príncipe,CAF,STP
+Senegal,CAF,SEN
+Seychelles,CAF,SEY
+Sierra Leone,CAF,SLE
+Somalia,CAF,SOM
+South Africa,CAF,RSA
+South Sudan,CAF,SSD
+Sudan,CAF,SDN
+Tanzania,CAF,TAN
+Togo,CAF,TOG
+Tunisia,CAF,TUN
+Uganda,CAF,UGA
+Zambia,CAF,ZAM
+Zimbabwe,CAF,ZIM
+Anguilla,CONCACAF,AIA
+Antigua and Barbuda,CONCACAF,ATG
+Aruba,CONCACAF,ARU
+Bahamas,CONCACAF,BAH
+Barbados,CONCACAF,BRB
+Belize,CONCACAF,BLZ
+Bermuda,CONCACAF,BER
+Bonaire,CONCACAF,
+British Virgin Islands,CONCACAF,VGB
+Canada,CONCACAF,CAN
+Cayman Islands,CONCACAF,CAY
+Costa Rica,CONCACAF,CRC
+Cuba,CONCACAF,CUB
+Curaçao,CONCACAF,CUW
+Dominica,CONCACAF,DMA
+Dominican Republic,CONCACAF,DOM
+El Salvador,CONCACAF,SLV
+French Guiana,CONCACAF,
+Grenada,CONCACAF,GRN
+Guadeloupe,CONCACAF,
+Guatemala,CONCACAF,GUA
+Guyana,CONCACAF,GUY
+Haiti,CONCACAF,HAI
+Honduras,CONCACAF,HON
+Jamaica,CONCACAF,JAM
+Martinique,CONCACAF,
+Mexico,CONCACAF,MEX
+Montserrat,CONCACAF,MSR
+Nicaragua,CONCACAF,NCA
+Panama,CONCACAF,PAN
+Puerto Rico,CONCACAF,PUR
+Saint Kitts and Nevis,CONCACAF,SKN
+Saint Lucia,CONCACAF,LCA
+Saint Martin,CONCACAF,
+Saint Vincent and the Grenadines,CONCACAF,VIN
+Sint Maarten,CONCACAF,
+Suriname,CONCACAF,SUR
+Trinidad and Tobago,CONCACAF,TRI
+Turks and Caicos Islands,CONCACAF,TCA
+United States,CONCACAF,USA
+US Virgin Islands,CONCACAF,VIR
+Argentina,CONMEBOL,ARG
+Bolivia,CONMEBOL,BOL
+Brazil,CONMEBOL,BRA
+Chile,CONMEBOL,CHI
+Colombia,CONMEBOL,COL
+Ecuador,CONMEBOL,ECU
+Paraguay,CONMEBOL,PAR
+Peru,CONMEBOL,PER
+Uruguay,CONMEBOL,URU
+Venezuela,CONMEBOL,VEN
+American Samoa,OFC,ASA
+Cook Islands,OFC,COK
+Fiji,OFC,FIJ
+Kiribati,OFC,
+New Caledonia,OFC,NCL
+New Zealand,OFC,NZL
+Papua New Guinea,OFC,PNG
+Samoa,OFC,SAM
+Solomon Islands,OFC,SOL
+Tahiti,OFC,TAH
+Tonga,OFC,TGA
+Tuvalu,OFC,
+Vanuatu,OFC,VAN
+Albania,UEFA,ALB
+Andorra,UEFA,AND
+Armenia,UEFA,ARM
+Austria,UEFA,AUT
+Azerbaijan,UEFA,AZE
+Belarus,UEFA,BLR
+Belgium,UEFA,BEL
+Bosnia and Herzegovina,UEFA,BIH
+Bulgaria,UEFA,BUL
+Croatia,UEFA,CRO
+Cyprus,UEFA,CYP
+Czechia,UEFA,CZE
+Denmark,UEFA,DEN
+England,UEFA,ENG
+Estonia,UEFA,EST
+Faroe Islands,UEFA,FRO
+Finland,UEFA,FIN
+France,UEFA,FRA
+Georgia,UEFA,GEO
+Germany,UEFA,GER
+Gibraltar,UEFA,GIB
+Greece,UEFA,GRE
+Hungary,UEFA,HUN
+Iceland,UEFA,ISL
+Israel,UEFA,ISR
+Italy,UEFA,ITA
+Kazakhstan,UEFA,KAZ
+Kosovo,UEFA,KOS
+Latvia,UEFA,LVA
+Liechtenstein,UEFA,LIE
+Lithuania,UEFA,LTU
+Luxembourg,UEFA,LUX
+Malta,UEFA,MLT
+Moldova,UEFA,MDA
+Montenegro,UEFA,MNE
+Netherlands,UEFA,NED
+Northern Ireland,UEFA,NIR
+North Macedonia,UEFA,MKD
+Norway,UEFA,NOR
+Poland,UEFA,POL
+Portugal,UEFA,POR
+Republic of Ireland,UEFA,IRL
+Romania,UEFA,ROU
+Russia,UEFA,RUS
+San Marino,UEFA,SMR
+Scotland,UEFA,SCO
+Serbia,UEFA,SRB
+Slovakia,UEFA,SVK
+Slovenia,UEFA,SVN
+Spain,UEFA,ESP
+Sweden,UEFA,SWE
+Switzerland,UEFA,SUI
+Türkiye,UEFA,TUR
+Ukraine,UEFA,UKR
+Wales,UEFA,WAL

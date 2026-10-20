@@ -1,0 +1,1370 @@
+param,kind,value
+2010_MP|captain#Alonso Xabi,alpha,-2.8025393652717363
+2010_MP|captain#Dani Alves,alpha,-4.142298730472226
+2010_MP|captain#Iniesta Andrés,alpha,-0.8406424326455112
+2010_MP|captain#Robben Arjen,alpha,-2.936508609521255
+2010_MP|captain#Gyan Asamoah,alpha,-3.914180896329267
+2010_MP|captain#Schweinsteiger Bastian,alpha,-3.067858883502082
+2010_MP|captain#Puyol Carles,alpha,-2.516066370313133
+2010_MP|captain#Casillas Iker,alpha,-1.9404391183088658
+2010_MP|captain#Júlio César,alpha,-3.4482599945060204
+2010_MP|captain#Fàbregas Cesc,alpha,-3.9212204710203657
+2010_MP|captain#Cristiano Ronaldo,alpha,-2.1645725124824238
+2010_MP|captain#Villa David,alpha,-3.2162121533386174
+2010_MP|captain#Drogba Didier,alpha,-2.2125956350405227
+2010_MP|captain#Forlán Diego,alpha,-1.278991430782245
+2010_MP|captain#Eto'o Samuel,alpha,-2.667227398375961
+2010_MP|captain#Klose Miroslav,alpha,-4.329125083872164
+2010_MP|captain#Maicon,alpha,-3.2183918716292825
+2010_MP|captain#Özil Mesut,alpha,-2.718299760084004
+2010_MP|captain#Müller Thomas,alpha,-3.924010561933192
+2010_MP|captain#Sneijder Wesley,alpha,-1.1327362662828566
+2010_MP|captain#Xavi,alpha,-0.8209294865376818
+2010_MP|coach#Alonso Xabi,alpha,-3.303404401557934
+2010_MP|coach#Iniesta Andrés,alpha,-0.9854966741528526
+2010_MP|coach#Robben Arjen,alpha,-3.4801050371897913
+2010_MP|coach#Gyan Asamoah,alpha,-4.537061800137347
+2010_MP|coach#Schweinsteiger Bastian,alpha,-3.8809800055718062
+2010_MP|coach#Puyol Carles,alpha,-3.17419068713331
+2010_MP|coach#Casillas Iker,alpha,-3.172771523165928
+2010_MP|coach#Júlio César,alpha,-4.387053250632053
+2010_MP|coach#Fàbregas Cesc,alpha,-5.269507967996534
+2010_MP|coach#Cristiano Ronaldo,alpha,-1.7875967104565658
+2010_MP|coach#Villa David,alpha,-3.163930448135747
+2010_MP|coach#Drogba Didier,alpha,-3.143719470913049
+2010_MP|coach#Forlán Diego,alpha,-1.4756891887073351
+2010_MP|coach#Eto'o Samuel,alpha,-3.2787091060849227
+2010_MP|coach#Klose Miroslav,alpha,-4.57615202565405
+2010_MP|coach#Lahm Philipp,alpha,-4.576152025654034
+2010_MP|coach#Maicon,alpha,-3.2846620937511077
+2010_MP|coach#Özil Mesut,alpha,-3.075084262106938
+2010_MP|coach#Müller Thomas,alpha,-2.95045178083354
+2010_MP|coach#Sneijder Wesley,alpha,-1.4900824907534942
+2010_MP|coach#Xavi,alpha,-0.97519459292099
+2010_MP|media#Alonso Xabi,alpha,-3.864773208955469
+2010_MP|media#Iniesta Andrés,alpha,-0.16518993781739877
+2010_MP|media#Robben Arjen,alpha,-3.1723395250581725
+2010_MP|media#Gyan Asamoah,alpha,-3.083053514442118
+2010_MP|media#Schweinsteiger Bastian,alpha,-3.883672794699421
+2010_MP|media#Puyol Carles,alpha,-4.964748773197688
+2010_MP|media#Casillas Iker,alpha,-2.3033565336372392
+2010_MP|media#Cristiano Ronaldo,alpha,-3.359682810096305
+2010_MP|media#Villa David,alpha,-2.3764369561259637
+2010_MP|media#Drogba Didier,alpha,-4.340906774357671
+2010_MP|media#Forlán Diego,alpha,-0.4784363551079133
+2010_MP|media#Eto'o Samuel,alpha,-2.826877888755119
+2010_MP|media#Klose Miroslav,alpha,-4.982283135398724
+2010_MP|media#Lionel Messi,alpha,-0.4969936116568013
+2010_MP|media#Özil Mesut,alpha,-3.3648838386221005
+2010_MP|media#Müller Thomas,alpha,-3.372846549908824
+2010_MP|media#Xavi,alpha,-0.55133564083043
+2010_WP|captain#Wambach Abby,alpha,-2.0960666275208766
+2010_WP|captain#Abily Camille,alpha,-2.751660785855732
+2010_WP|captain#Bajramaj Fatmire,alpha,-2.0183142139679946
+2010_WP|captain#Prinz Birgit,alpha,-1.6402332991670736
+2010_WP|captain#Seger Caroline,alpha,-2.864910591412443
+2010_WP|captain#Christine Sinclair,alpha,-2.6955270061671444
+2010_WP|captain#Solo Hope,alpha,-2.6159492411465965
+2010_WP|captain#So-Yun Ji,alpha,-2.5608391131821056
+2010_WP|captain#Smith Kelly,alpha,-1.960595873872748
+2010_WP|coach#Wambach Abby,alpha,-2.032850371688118
+2010_WP|coach#Abily Camille,alpha,-2.9458727904883717
+2010_WP|coach#Bajramaj Fatmire,alpha,-2.036139669344287
+2010_WP|coach#Prinz Birgit,alpha,-1.3960127229148445
+2010_WP|coach#Seger Caroline,alpha,-3.0907764656257273
+2010_WP|coach#Christine Sinclair,alpha,-2.6039602780977353
+2010_WP|coach#Solo Hope,alpha,-2.222683311885178
+2010_WP|coach#So-Yun Ji,alpha,-2.0771470684679896
+2010_WP|coach#Smith Kelly,alpha,-2.1314300334691705
+2010_WP|media#Wambach Abby,alpha,-2.62789210851243
+2010_WP|media#Abily Camille,alpha,-3.3447694666473744
+2010_WP|media#Bajramaj Fatmire,alpha,-1.9888166926245339
+2010_WP|media#Prinz Birgit,alpha,-1.70694769983538
+2010_WP|media#Seger Caroline,alpha,-2.686971982326697
+2010_WP|media#Christine Sinclair,alpha,-2.639084394716098
+2010_WP|media#Solo Hope,alpha,-3.1562335413408436
+2010_WP|media#So-Yun Ji,alpha,-2.216843037000016
+2010_WP|media#Smith Kelly,alpha,-2.061253245765255
+2011_MP|captain#Abidal Éric,alpha,-5.45916447003627
+2011_MP|captain#Agüero Sergio,alpha,-5.097552082538581
+2011_MP|captain#Alonso Xabi,alpha,-4.893756122141787
+2011_MP|captain#Dani Alves,alpha,-5.312785480745364
+2011_MP|captain#Iniesta Andrés,alpha,-2.5075404984327796
+2011_MP|captain#Schweinsteiger Bastian,alpha,-4.943259648600124
+2011_MP|captain#Karim Benzema,alpha,-5.865527030829459
+2011_MP|captain#Casillas Iker,alpha,-4.284779015830433
+2011_MP|captain#Fàbregas Cesc,alpha,-4.894990129786088
+2011_MP|captain#Cristiano Ronaldo,alpha,-1.3917756078703138
+2011_MP|captain#Villa David,alpha,-5.40636968360073
+2011_MP|captain#Forlán Diego,alpha,-4.8272468555715875
+2011_MP|captain#Eto'o Samuel,alpha,-4.516133233637162
+2011_MP|captain#Piqué Gerard,alpha,-5.410389602408053
+2011_MP|captain#Suárez Luis,alpha,-4.824088776972823
+2011_MP|captain#Özil Mesut,alpha,-4.7448626247944325
+2011_MP|captain#Müller Thomas,alpha,-5.167029026556728
+2011_MP|captain#Nani,alpha,-6.512981951064165
+2011_MP|captain#Neymar,alpha,-4.831328620278136
+2011_MP|captain#Rooney Wayne,alpha,-3.764346654012172
+2011_MP|captain#Sneijder Wesley,alpha,-4.553361944996395
+2011_MP|captain#Xavi,alpha,-2.2718611394578847
+2011_MP|coach#Abidal Éric,alpha,-6.429795347861456
+2011_MP|coach#Agüero Sergio,alpha,-5.915175767631171
+2011_MP|coach#Alonso Xabi,alpha,-6.3808309133389525
+2011_MP|coach#Iniesta Andrés,alpha,-3.322056076470462
+2011_MP|coach#Schweinsteiger Bastian,alpha,-5.023043321688245
+2011_MP|coach#Karim Benzema,alpha,-7.122915767347601
+2011_MP|coach#Casillas Iker,alpha,-4.875409223302092
+2011_MP|coach#Cristiano Ronaldo,alpha,-2.0133116335117194
+2011_MP|coach#Villa David,alpha,-6.383438993493517
+2011_MP|coach#Forlán Diego,alpha,-4.386312388642227
+2011_MP|coach#Eto'o Samuel,alpha,-4.5951689303488585
+2011_MP|coach#Piqué Gerard,alpha,-6.38088827953066
+2011_MP|coach#Suárez Luis,alpha,-4.568121186528193
+2011_MP|coach#Özil Mesut,alpha,-4.882533885864761
+2011_MP|coach#Müller Thomas,alpha,-4.801261291296192
+2011_MP|coach#Nani,alpha,-6.38209595409792
+2011_MP|coach#Neymar,alpha,-5.461884649010809
+2011_MP|coach#Rooney Wayne,alpha,-3.8486148776232265
+2011_MP|coach#Sneijder Wesley,alpha,-5.296760548114515
+2011_MP|coach#Xavi,alpha,-2.9766082205898954
+2011_MP|media#Abidal Éric,alpha,-6.1937256002105325
+2011_MP|media#Agüero Sergio,alpha,-6.764936578501615
+2011_MP|media#Alonso Xabi,alpha,-7.977355344645107
+2011_MP|media#Dani Alves,alpha,-7.866517531653419
+2011_MP|media#Iniesta Andrés,alpha,-4.657730794985632
+2011_MP|media#Karim Benzema,alpha,-6.886277245532086
+2011_MP|media#Casillas Iker,alpha,-6.588767913095546
+2011_MP|media#Fàbregas Cesc,alpha,-7.980001122406741
+2011_MP|media#Cristiano Ronaldo,alpha,-2.6419495239948407
+2011_MP|media#Villa David,alpha,-6.030900251089896
+2011_MP|media#Forlán Diego,alpha,-5.212601620571129
+2011_MP|media#Eto'o Samuel,alpha,-6.431339544526265
+2011_MP|media#Piqué Gerard,alpha,-7.286689994904105
+2011_MP|media#Suárez Luis,alpha,-4.5835839618525025
+2011_MP|media#Özil Mesut,alpha,-6.886263970035739
+2011_MP|media#Müller Thomas,alpha,-7.985368302091468
+2011_MP|media#Nani,alpha,-7.293178008339219
+2011_MP|media#Neymar,alpha,-5.147127297716015
+2011_MP|media#Rooney Wayne,alpha,-4.84272892114917
+2011_MP|media#Sneijder Wesley,alpha,-7.994680202188062
+2011_MP|media#Xavi,alpha,-3.9050051515885347
+2011_WP|captain#Wambach Abby,alpha,-0.45089418350568583
+2011_WP|captain#Alex Morgan,alpha,-1.6859823670619507
+2011_WP|captain#Miyama Aya,alpha,-0.6322415611262019
+2011_WP|captain#Bompastor Sonia,alpha,-1.9546238677490968
+2011_WP|captain#Garefrekes Kerstin,alpha,-1.6493268192154935
+2011_WP|captain#Solo Hope,alpha,-0.7762436911552506
+2011_WP|captain#Schelin Lotta,alpha,-1.4088216186064453
+2011_WP|captain#Necib Louisa,alpha,-1.6020588064845236
+2011_WP|captain#Marta,alpha,-0.12301263515308328
+2011_WP|coach#Wambach Abby,alpha,-0.5658287150827088
+2011_WP|coach#Alex Morgan,alpha,-1.2780676417403734
+2011_WP|coach#Miyama Aya,alpha,-0.7151403440688985
+2011_WP|coach#Bompastor Sonia,alpha,-2.649799246584772
+2011_WP|coach#Garefrekes Kerstin,alpha,-1.8078201620511585
+2011_WP|coach#Solo Hope,alpha,-1.3574336880312268
+2011_WP|coach#Schelin Lotta,alpha,-1.9741929820733761
+2011_WP|coach#Necib Louisa,alpha,-2.2122153616396645
+2011_WP|coach#Marta,alpha,-0.2149083551762261
+2011_WP|media#Wambach Abby,alpha,-1.0943063226264573
+2011_WP|media#Alex Morgan,alpha,-3.1270461995996373
+2011_WP|media#Miyama Aya,alpha,-1.7586608643321364
+2011_WP|media#Bompastor Sonia,alpha,-2.5114896963082773
+2011_WP|media#Garefrekes Kerstin,alpha,-2.6431220026886604
+2011_WP|media#Solo Hope,alpha,-1.5663145942258143
+2011_WP|media#Schelin Lotta,alpha,-2.129080322622337
+2011_WP|media#Necib Louisa,alpha,-3.7559207047331733
+2011_WP|media#Marta,alpha,-0.9578692409665304
+2012_MP|captain#Agüero Sergio,alpha,-4.639761745542955
+2012_MP|captain#Alonso Xabi,alpha,-3.8985530341969805
+2012_MP|captain#Pirlo Andrea,alpha,-3.448288899069093
+2012_MP|captain#Iniesta Andrés,alpha,-2.1076039032393177
+2012_MP|captain#Balotelli Mario,alpha,-5.239179148363442
+2012_MP|captain#Karim Benzema,alpha,-6.328105650260045
+2012_MP|captain#Buffon Gianluigi,alpha,-5.59209739815067
+2012_MP|captain#Busquets Sergio,alpha,-5.615853297151131
+2012_MP|captain#Casillas Iker,alpha,-3.709538522521225
+2012_MP|captain#Cristiano Ronaldo,alpha,-1.1926542522790533
+2012_MP|captain#Drogba Didier,alpha,-3.6623536454969843
+2012_MP|captain#Falcao Radamel,alpha,-2.830746665207096
+2012_MP|captain#Piqué Gerard,alpha,-5.615714343452441
+2012_MP|captain#Ibrahimovic Zlatan,alpha,-3.88061417445003
+2012_MP|captain#Neuer Manuel,alpha,-6.35843254802817
+2012_MP|captain#Özil Mesut,alpha,-4.951679973771644
+2012_MP|captain#Neymar,alpha,-4.039994682483121
+2012_MP|captain#van Persie Robin,alpha,-3.455757470106932
+2012_MP|captain#Sergio Ramos,alpha,-5.198081264714505
+2012_MP|captain#Rooney Wayne,alpha,-4.755423853226067
+2012_MP|captain#Touré Yaya,alpha,-4.234926210099881
+2012_MP|captain#Xavi,alpha,-2.734126538795497
+2012_MP|coach#Agüero Sergio,alpha,-5.2480215002561605
+2012_MP|coach#Alonso Xabi,alpha,-4.3588021551936045
+2012_MP|coach#Pirlo Andrea,alpha,-3.9093794019734887
+2012_MP|coach#Iniesta Andrés,alpha,-2.712938178272941
+2012_MP|coach#Buffon Gianluigi,alpha,-5.681789009120757
+2012_MP|coach#Busquets Sergio,alpha,-6.76464052343235
+2012_MP|coach#Casillas Iker,alpha,-3.9650051532067363
+2012_MP|coach#Cristiano Ronaldo,alpha,-1.4460772982549308
+2012_MP|coach#Drogba Didier,alpha,-3.9883117224161384
+2012_MP|coach#Falcao Radamel,alpha,-3.0624032824361858
+2012_MP|coach#Ibrahimovic Zlatan,alpha,-4.189228541495357
+2012_MP|coach#Neuer Manuel,alpha,-5.686182904536149
+2012_MP|coach#Özil Mesut,alpha,-4.9652365861444006
+2012_MP|coach#Neymar,alpha,-4.485943747137107
+2012_MP|coach#van Persie Robin,alpha,-4.512820153793646
+2012_MP|coach#Sergio Ramos,alpha,-6.766198218752084
+2012_MP|coach#Rooney Wayne,alpha,-6.184292862125738
+2012_MP|coach#Touré Yaya,alpha,-5.386019611338236
+2012_MP|coach#Xavi,alpha,-3.471126579688847
+2012_MP|media#Agüero Sergio,alpha,-6.297828482794582
+2012_MP|media#Pirlo Andrea,alpha,-3.4188280684289136
+2012_MP|media#Iniesta Andrés,alpha,-1.7494832559628826
+2012_MP|media#Buffon Gianluigi,alpha,-6.378821898370777
+2012_MP|media#Casillas Iker,alpha,-3.044298825358728
+2012_MP|media#Cristiano Ronaldo,alpha,-0.9811679411516376
+2012_MP|media#Drogba Didier,alpha,-3.643287440268429
+2012_MP|media#Falcao Radamel,alpha,-2.9823578073956187
+2012_MP|media#Piqué Gerard,alpha,-6.377126574681721
+2012_MP|media#Ibrahimovic Zlatan,alpha,-6.3788338700182985
+2012_MP|media#Neuer Manuel,alpha,-5.692544569711783
+2012_MP|media#Özil Mesut,alpha,-6.385098597890864
+2012_MP|media#van Persie Robin,alpha,-4.18266876722867
+2012_MP|media#Rooney Wayne,alpha,-6.389855804602275
+2012_MP|media#Touré Yaya,alpha,-5.345219868341948
+2012_MP|media#Xavi,alpha,-3.467055669963292
+2012_WP|captain#Abily Camille,alpha,-0.6697824913194682
+2012_WP|captain#Alex Morgan,alpha,-0.34434810343997685
+2012_WP|captain#Miyama Aya,alpha,-0.6708264811317347
+2012_WP|captain#Lloyd Carli,alpha,-1.0046375786587762
+2012_WP|captain#Christine Sinclair,alpha,-0.38256525263081925
+2012_WP|captain#Fukumoto Miho,alpha,-1.2536940953901574
+2012_WP|captain#Sawa Homare,alpha,-0.34693676723373695
+2012_WP|captain#Marta,alpha,0.017575810548222288
+2012_WP|captain#Rapinoe Megan,alpha,-1.1856065255989436
+2012_WP|coach#Abily Camille,alpha,-1.2671093024264524
+2012_WP|coach#Alex Morgan,alpha,-0.8803745036464844
+2012_WP|coach#Miyama Aya,alpha,-0.8326949876906681
+2012_WP|coach#Lloyd Carli,alpha,-1.667016119887323
+2012_WP|coach#Christine Sinclair,alpha,-0.8468450696918649
+2012_WP|coach#Fukumoto Miho,alpha,-1.0754639755758402
+2012_WP|coach#Sawa Homare,alpha,-0.5679052699594472
+2012_WP|coach#Marta,alpha,-0.4861214423146706
+2012_WP|coach#Rapinoe Megan,alpha,-2.0921374941639788
+2012_WP|media#Abily Camille,alpha,-1.3094707310242402
+2012_WP|media#Alex Morgan,alpha,-0.7621859019031355
+2012_WP|media#Miyama Aya,alpha,-1.4563592477124607
+2012_WP|media#Lloyd Carli,alpha,-0.7224750182164641
+2012_WP|media#Christine Sinclair,alpha,-0.5176220521224862
+2012_WP|media#Fukumoto Miho,alpha,-1.2920898309157256
+2012_WP|media#Sawa Homare,alpha,-1.1769436229369392
+2012_WP|media#Marta,alpha,-0.8620340798304973
+2012_WP|media#Rapinoe Megan,alpha,-2.825158380516041
+2013_MP|captain#Pirlo Andrea,alpha,-3.155437441123617
+2013_MP|captain#Iniesta Andrés,alpha,-3.026620654346493
+2013_MP|captain#Robben Arjen,alpha,-4.038475699577132
+2013_MP|captain#Bale Gareth,alpha,-3.245695415834912
+2013_MP|captain#Schweinsteiger Bastian,alpha,-4.591442635650213
+2013_MP|captain#Cavani Edinson,alpha,-4.439542675370794
+2013_MP|captain#Hazard Eden,alpha,-4.584507126587429
+2013_MP|captain#Falcao Radamel,alpha,-3.4338738843337158
+2013_MP|captain#Ribéry Franck,alpha,-0.9056123576642491
+2013_MP|captain#Ibrahimovic Zlatan,alpha,-2.1739545102125137
+2013_MP|captain#Lahm Philipp,alpha,-4.022192428792936
+2013_MP|captain#Robert Lewandowski,alpha,-3.745653089783786
+2013_MP|captain#Lionel Messi,alpha,-0.06609442241556562
+2013_MP|captain#Suárez Luis,alpha,-3.909448206742173
+2013_MP|captain#Neuer Manuel,alpha,-5.693004055956974
+2013_MP|captain#Özil Mesut,alpha,-3.3705096172037927
+2013_MP|captain#Müller Thomas,alpha,-4.304940487477808
+2013_MP|captain#Neymar,alpha,-2.5466081011507042
+2013_MP|captain#van Persie Robin,alpha,-2.9872173783965614
+2013_MP|captain#Silva Thiago,alpha,-4.80838661906061
+2013_MP|captain#Touré Yaya,alpha,-3.73275949037872
+2013_MP|captain#Xavi,alpha,-3.3743521693278726
+2013_MP|coach#Pirlo Andrea,alpha,-3.341931732077906
+2013_MP|coach#Iniesta Andrés,alpha,-2.4140998742171456
+2013_MP|coach#Robben Arjen,alpha,-2.9520145179627595
+2013_MP|coach#Bale Gareth,alpha,-3.1112208428562265
+2013_MP|coach#Schweinsteiger Bastian,alpha,-4.018892574924369
+2013_MP|coach#Cavani Edinson,alpha,-3.757141979832502
+2013_MP|coach#Hazard Eden,alpha,-4.364330556123715
+2013_MP|coach#Falcao Radamel,alpha,-2.8062250573000687
+2013_MP|coach#Ribéry Franck,alpha,-0.6616093522086375
+2013_MP|coach#Ibrahimovic Zlatan,alpha,-1.5948741820895793
+2013_MP|coach#Lahm Philipp,alpha,-3.318560244831453
+2013_MP|coach#Robert Lewandowski,alpha,-3.108990605896616
+2013_MP|coach#Lionel Messi,alpha,-0.07205047852045894
+2013_MP|coach#Suárez Luis,alpha,-4.269536944625352
+2013_MP|coach#Neuer Manuel,alpha,-5.40786936838536
+2013_MP|coach#Özil Mesut,alpha,-4.019823264278937
+2013_MP|coach#Müller Thomas,alpha,-4.30484326300252
+2013_MP|coach#Neymar,alpha,-2.0668653684420333
+2013_MP|coach#van Persie Robin,alpha,-2.6571880854711822
+2013_MP|coach#Silva Thiago,alpha,-5.3272122070451156
+2013_MP|coach#Touré Yaya,alpha,-3.458497401426748
+2013_MP|coach#Xavi,alpha,-3.4724530797315762
+2013_MP|media#Pirlo Andrea,alpha,-5.630432608667826
+2013_MP|media#Iniesta Andrés,alpha,-4.52586309953427
+2013_MP|media#Robben Arjen,alpha,-2.7036937180117047
+2013_MP|media#Bale Gareth,alpha,-4.235047716568817
+2013_MP|media#Schweinsteiger Bastian,alpha,-4.238457053439313
+2013_MP|media#Cavani Edinson,alpha,-4.824991165665498
+2013_MP|media#Cristiano Ronaldo,alpha,-0.3685071434074822
+2013_MP|media#Falcao Radamel,alpha,-3.894741920651139
+2013_MP|media#Ibrahimovic Zlatan,alpha,-1.8138955715649205
+2013_MP|media#Lahm Philipp,alpha,-4.0014749790843975
+2013_MP|media#Robert Lewandowski,alpha,-3.8360343988581014
+2013_MP|media#Lionel Messi,alpha,-0.30606062388863137
+2013_MP|media#Suárez Luis,alpha,-5.5050804372520075
+2013_MP|media#Özil Mesut,alpha,-5.624476374252898
+2013_MP|media#Müller Thomas,alpha,-4.9301555908568275
+2013_MP|media#Neymar,alpha,-2.5559245143405422
+2013_MP|media#van Persie Robin,alpha,-3.5354397035375866
+2013_MP|media#Silva Thiago,alpha,-5.515128172001531
+2013_MP|media#Touré Yaya,alpha,-3.7109263389154123
+2013_MP|media#Xavi,alpha,-4.527346163501913
+2013_WP|captain#Alex Morgan,alpha,-0.36218940808908356
+2013_WP|captain#Angerer Nadine,alpha,-0.24675480940516453
+2013_WP|captain#Christine Sinclair,alpha,-1.227008851476348
+2013_WP|captain#Fischer Nilla,alpha,-1.4900642681495833
+2013_WP|captain#Goessling Lena,alpha,-0.850947108341626
+2013_WP|captain#Saki Kumagai,alpha,-1.0182091054919715
+2013_WP|captain#Schelin Lotta,alpha,-0.936987932947792
+2013_WP|captain#Marta,alpha,-0.13217431648675104
+2013_WP|captain#Ogimi Yuki,alpha,-1.1071095147754
+2013_WP|coach#Alex Morgan,alpha,-0.3813167082928123
+2013_WP|coach#Angerer Nadine,alpha,-0.3228349213119811
+2013_WP|coach#Christine Sinclair,alpha,-1.4685092692103596
+2013_WP|coach#Fischer Nilla,alpha,-1.407508367912457
+2013_WP|coach#Goessling Lena,alpha,-1.0212539903357403
+2013_WP|coach#Saki Kumagai,alpha,-1.0052774250149061
+2013_WP|coach#Schelin Lotta,alpha,-1.0050985520818514
+2013_WP|coach#Marta,alpha,-0.0726604099807579
+2013_WP|coach#Ogimi Yuki,alpha,-1.3859014849578408
+2013_WP|media#Wambach Abby,alpha,-0.8477931452039155
+2013_WP|media#Alex Morgan,alpha,-1.0652254839241997
+2013_WP|media#Christine Sinclair,alpha,-2.4714298006059643
+2013_WP|media#Fischer Nilla,alpha,-1.6506487008097446
+2013_WP|media#Goessling Lena,alpha,-0.44961665334176726
+2013_WP|media#Saki Kumagai,alpha,-1.2668583363560952
+2013_WP|media#Schelin Lotta,alpha,-0.8991126258649373
+2013_WP|media#Marta,alpha,-0.8758746133118946
+2013_WP|media#Ogimi Yuki,alpha,-2.0036010969402107
+2014_MP|captain#Iniesta Andrés,alpha,-3.9249274465941624
+2014_MP|captain#Di Maria Angel,alpha,-3.53049478897569
+2014_MP|captain#Robben Arjen,alpha,-1.9940823007671025
+2014_MP|captain#Bale Gareth,alpha,-4.02015238858327
+2014_MP|captain#Schweinsteiger Bastian,alpha,-4.573592745010822
+2014_MP|captain#Karim Benzema,alpha,-3.682434413570276
+2014_MP|captain#Costa Diego,alpha,-3.9276441383045078
+2014_MP|captain#Courtois Thibaut,alpha,-4.584431109752596
+2014_MP|captain#Hazard Eden,alpha,-3.4980224203366066
+2014_MP|captain#Goetze Mario,alpha,-4.886299174140244
+2014_MP|captain#Ibrahimovic Zlatan,alpha,-3.6425148803304896
+2014_MP|captain#Rodríguez James,alpha,-4.046756254867063
+2014_MP|captain#Mascherano Javier,alpha,-4.5078580728838755
+2014_MP|captain#Toni Kroos,alpha,-3.4916481872746714
+2014_MP|captain#Lahm Philipp,alpha,-3.061982707002223
+2014_MP|captain#Lionel Messi,alpha,-0.8886534267266151
+2014_MP|captain#Neuer Manuel,alpha,-1.7403447867746986
+2014_MP|captain#Müller Thomas,alpha,-2.557328143119122
+2014_MP|captain#Neymar,alpha,-2.7102361080047155
+2014_MP|captain#Pogba Paul,alpha,-6.0184102662081
+2014_MP|captain#Sergio Ramos,alpha,-4.37705399177085
+2014_MP|captain#Touré Yaya,alpha,-3.5894002058070695
+2014_MP|coach#Iniesta Andrés,alpha,-4.077806110377336
+2014_MP|coach#Di Maria Angel,alpha,-3.4514460667732414
+2014_MP|coach#Robben Arjen,alpha,-1.5233308005367117
+2014_MP|coach#Bale Gareth,alpha,-4.032754509271459
+2014_MP|coach#Schweinsteiger Bastian,alpha,-3.8661501618048706
+2014_MP|coach#Karim Benzema,alpha,-4.317082738361797
+2014_MP|coach#Costa Diego,alpha,-3.2020594605814003
+2014_MP|coach#Courtois Thibaut,alpha,-4.995742080250006
+2014_MP|coach#Hazard Eden,alpha,-5.689491361834995
+2014_MP|coach#Goetze Mario,alpha,-4.264637210401085
+2014_MP|coach#Ibrahimovic Zlatan,alpha,-3.852364987227955
+2014_MP|coach#Rodríguez James,alpha,-3.2097440303071956
+2014_MP|coach#Mascherano Javier,alpha,-4.177430284512062
+2014_MP|coach#Toni Kroos,alpha,-3.348412415784693
+2014_MP|coach#Lahm Philipp,alpha,-2.683908087108737
+2014_MP|coach#Lionel Messi,alpha,-0.5913379637799315
+2014_MP|coach#Neuer Manuel,alpha,-0.9397775041600965
+2014_MP|coach#Müller Thomas,alpha,-2.1201600113367465
+2014_MP|coach#Neymar,alpha,-2.6040578589530576
+2014_MP|coach#Pogba Paul,alpha,-5.013202338430735
+2014_MP|coach#Sergio Ramos,alpha,-4.999419078068766
+2014_MP|coach#Touré Yaya,alpha,-3.4553549228361833
+2014_MP|media#Di Maria Angel,alpha,-3.534851964243693
+2014_MP|media#Robben Arjen,alpha,-2.5119070688063765
+2014_MP|media#Bale Gareth,alpha,-4.599114480417042
+2014_MP|media#Schweinsteiger Bastian,alpha,-4.821271678454957
+2014_MP|media#Karim Benzema,alpha,-4.609879609758946
+2014_MP|media#Costa Diego,alpha,-4.839768630591528
+2014_MP|media#Courtois Thibaut,alpha,-6.223390649317018
+2014_MP|media#Hazard Eden,alpha,-5.527909466127998
+2014_MP|media#Goetze Mario,alpha,-4.816742035056187
+2014_MP|media#Ibrahimovic Zlatan,alpha,-4.612322324461743
+2014_MP|media#Rodríguez James,alpha,-3.319511734893896
+2014_MP|media#Mascherano Javier,alpha,-5.003475637035382
+2014_MP|media#Toni Kroos,alpha,-4.408983383026138
+2014_MP|media#Lahm Philipp,alpha,-3.0552254110026515
+2014_MP|media#Lionel Messi,alpha,-1.5180038774212194
+2014_MP|media#Neuer Manuel,alpha,-1.2913274728155448
+2014_MP|media#Müller Thomas,alpha,-2.353924462234448
+2014_MP|media#Neymar,alpha,-3.2097818534620624
+2014_MP|media#Pogba Paul,alpha,-4.607887452464464
+2014_MP|media#Sergio Ramos,alpha,-6.226958368535935
+2014_MP|media#Touré Yaya,alpha,-5.161812925377784
+2014_WP|captain#Angerer Nadine,alpha,-0.7338406203586415
+2014_WP|captain#Miyama Aya,alpha,-0.6362959507486384
+2014_WP|captain#Boquete Veronica,alpha,-0.9951085749157298
+2014_WP|captain#Fischer Nilla,alpha,-1.106052749534541
+2014_WP|captain#Kawasumi Nahomi,alpha,-1.2567152768243466
+2014_WP|captain#Kessler Nadine,alpha,-0.7889854880502667
+2014_WP|captain#Schelin Lotta,alpha,-1.33485495955427
+2014_WP|captain#Necib Louisa,alpha,-0.979205745256432
+2014_WP|captain#Marta,alpha,0.11899940240982035
+2014_WP|coach#Angerer Nadine,alpha,-0.299306340729655
+2014_WP|coach#Miyama Aya,alpha,-0.4354591402760794
+2014_WP|coach#Boquete Veronica,alpha,-1.2667771704454298
+2014_WP|coach#Fischer Nilla,alpha,-1.356344061414948
+2014_WP|coach#Kawasumi Nahomi,alpha,-0.750747570526962
+2014_WP|coach#Kessler Nadine,alpha,-0.5452821674471221
+2014_WP|coach#Schelin Lotta,alpha,-1.1638957634905251
+2014_WP|coach#Necib Louisa,alpha,-0.8168248981478379
+2014_WP|coach#Marta,alpha,-0.32761826698064267
+2014_WP|media#Wambach Abby,alpha,-1.4204413714318223
+2014_WP|media#Angerer Nadine,alpha,-0.8504166546420885
+2014_WP|media#Miyama Aya,alpha,-1.3744788443587632
+2014_WP|media#Boquete Veronica,alpha,-1.886471451887582
+2014_WP|media#Fischer Nilla,alpha,-1.6287606993585095
+2014_WP|media#Kawasumi Nahomi,alpha,-1.9763761386305263
+2014_WP|media#Schelin Lotta,alpha,-1.6360509602947646
+2014_WP|media#Necib Louisa,alpha,-1.6777377199379975
+2014_WP|media#Marta,alpha,-0.891040807584384
+2015_MP|captain#Agüero Sergio,alpha,-3.6654093591574037
+2015_MP|captain#Sanchez Alexis,alpha,-4.106486707616167
+2015_MP|captain#Iniesta Andrés,alpha,-3.8715686768609974
+2015_MP|captain#Robben Arjen,alpha,-4.975257881542828
+2015_MP|captain#Vidal Arturo,alpha,-4.291830590871969
+2015_MP|captain#Bale Gareth,alpha,-4.70145899548878
+2015_MP|captain#Karim Benzema,alpha,-4.743928668720178
+2015_MP|captain#Kevin De Bruyne,alpha,-4.718389549644813
+2015_MP|captain#Cristiano Ronaldo,alpha,-0.6548746653157401
+2015_MP|captain#Hazard Eden,alpha,-3.590651845306732
+2015_MP|captain#Ibrahimovic Zlatan,alpha,-3.665966360549778
+2015_MP|captain#Rakitic Ivan,alpha,-6.152475463910428
+2015_MP|captain#Rodríguez James,alpha,-4.2847152454070665
+2015_MP|captain#Mascherano Javier,alpha,-4.354538853074619
+2015_MP|captain#Toni Kroos,alpha,-5.009282887144666
+2015_MP|captain#Robert Lewandowski,alpha,-2.9532911666354122
+2015_MP|captain#Suárez Luis,alpha,-2.6651222568154735
+2015_MP|captain#Neuer Manuel,alpha,-3.2972317248609877
+2015_MP|captain#Müller Thomas,alpha,-3.1450077890609687
+2015_MP|captain#Neymar,alpha,-1.7900820825453179
+2015_MP|captain#Pogba Paul,alpha,-4.339790691755527
+2015_MP|captain#Touré Yaya,alpha,-4.386274261948885
+2015_MP|coach#Agüero Sergio,alpha,-3.8150660380949613
+2015_MP|coach#Sanchez Alexis,alpha,-3.8228127979606734
+2015_MP|coach#Iniesta Andrés,alpha,-3.708858856502986
+2015_MP|coach#Robben Arjen,alpha,-4.328166019328458
+2015_MP|coach#Vidal Arturo,alpha,-4.335313045487698
+2015_MP|coach#Bale Gareth,alpha,-4.255089742111244
+2015_MP|coach#Karim Benzema,alpha,-5.4205142494464065
+2015_MP|coach#Kevin De Bruyne,alpha,-4.4600686952031525
+2015_MP|coach#Cristiano Ronaldo,alpha,-0.6328315488149605
+2015_MP|coach#Hazard Eden,alpha,-3.5970018447395313
+2015_MP|coach#Ibrahimovic Zlatan,alpha,-4.106461280220719
+2015_MP|coach#Rakitic Ivan,alpha,-6.136799713175471
+2015_MP|coach#Rodríguez James,alpha,-4.305384552380629
+2015_MP|coach#Mascherano Javier,alpha,-4.835351922214513
+2015_MP|coach#Toni Kroos,alpha,-4.464851107120433
+2015_MP|coach#Robert Lewandowski,alpha,-2.8457219635193107
+2015_MP|coach#Suárez Luis,alpha,-2.946749117659053
+2015_MP|coach#Neuer Manuel,alpha,-3.3252508258308677
+2015_MP|coach#Müller Thomas,alpha,-2.6502296572947195
+2015_MP|coach#Neymar,alpha,-1.8614223401077372
+2015_MP|coach#Pogba Paul,alpha,-4.1674071704210105
+2015_MP|coach#Touré Yaya,alpha,-3.9505874210266807
+2015_MP|media#Agüero Sergio,alpha,-6.454104238932027
+2015_MP|media#Sanchez Alexis,alpha,-4.726412747510135
+2015_MP|media#Iniesta Andrés,alpha,-6.1859857088401755
+2015_MP|media#Vidal Arturo,alpha,-5.348336069854241
+2015_MP|media#Bale Gareth,alpha,-7.273815566142166
+2015_MP|media#Cristiano Ronaldo,alpha,-1.6071609414699892
+2015_MP|media#Hazard Eden,alpha,-5.33228392069267
+2015_MP|media#Ibrahimovic Zlatan,alpha,-5.878050066635578
+2015_MP|media#Rodríguez James,alpha,-6.457398660116024
+2015_MP|media#Mascherano Javier,alpha,-6.048149393190276
+2015_MP|media#Toni Kroos,alpha,-7.272621680835657
+2015_MP|media#Robert Lewandowski,alpha,-3.627502286261317
+2015_MP|media#Suárez Luis,alpha,-3.572581561646356
+2015_MP|media#Neuer Manuel,alpha,-6.579802196005008
+2015_MP|media#Müller Thomas,alpha,-5.316900169147664
+2015_MP|media#Neymar,alpha,-2.6887116923413763
+2015_MP|media#Pogba Paul,alpha,-5.3327812946622695
+2015_MP|media#Touré Yaya,alpha,-6.185047273175739
+2015_WP|captain#Henry Amandine,alpha,-2.087860652340658
+2015_WP|captain#Angerer Nadine,alpha,-1.5427169966744545
+2015_WP|captain#Miyama Aya,alpha,-1.3104199407947945
+2015_WP|captain#Bachmann Ramona,alpha,-2.331903035413758
+2015_WP|captain#Buchanan Kadeisha,alpha,-2.7811379025233554
+2015_WP|captain#Šašic Célia,alpha,-1.3744806416750968
+2015_WP|captain#Le Sommer Eugénie,alpha,-2.143034352114589
+2015_WP|captain#Solo Hope,alpha,-1.1731902853768752
+2015_WP|captain#Rapinoe Megan,alpha,-1.465316307079125
+2015_WP|coach#Henry Amandine,alpha,-2.0879455093330197
+2015_WP|coach#Angerer Nadine,alpha,-1.6661291382202994
+2015_WP|coach#Miyama Aya,alpha,-1.067869061867972
+2015_WP|coach#Bachmann Ramona,alpha,-2.424894655070553
+2015_WP|coach#Buchanan Kadeisha,alpha,-2.4136666654630523
+2015_WP|coach#Šašic Célia,alpha,-1.4585534413577916
+2015_WP|coach#Le Sommer Eugénie,alpha,-1.9796267829250818
+2015_WP|coach#Solo Hope,alpha,-1.2934473292497384
+2015_WP|coach#Rapinoe Megan,alpha,-1.584548463169961
+2015_WP|media#Henry Amandine,alpha,-2.079910409812345
+2015_WP|media#Angerer Nadine,alpha,-2.3212986143358707
+2015_WP|media#Miyama Aya,alpha,-1.8123583818485025
+2015_WP|media#Bachmann Ramona,alpha,-3.8073527536587406
+2015_WP|media#Buchanan Kadeisha,alpha,-3.179821923113676
+2015_WP|media#Šašic Célia,alpha,-1.2188457910643309
+2015_WP|media#Le Sommer Eugénie,alpha,-3.013747883612036
+2015_WP|media#Solo Hope,alpha,-1.777508760289996
+2015_WP|media#Rapinoe Megan,alpha,-2.728991616733768
+2016_MP|captain#Agüero Sergio,alpha,-5.908639442698284
+2016_MP|captain#Sanchez Alexis,alpha,-4.722217009714025
+2016_MP|captain#Iniesta Andrés,alpha,-3.6746895655654743
+2016_MP|captain#Griezmann Antoine,alpha,-2.188882762871356
+2016_MP|captain#Bale Gareth,alpha,-3.118553560857185
+2016_MP|captain#Kevin De Bruyne,alpha,-5.398662765531155
+2016_MP|captain#Buffon Gianluigi,alpha,-3.7987905848639145
+2016_MP|captain#Ibrahimovic Zlatan,alpha,-4.4163904559247715
+2016_MP|captain#Vardy Jamie,alpha,-4.7023759849615825
+2016_MP|captain#N’Golo Kanté,alpha,-6.050877460382983
+2016_MP|captain#Toni Kroos,alpha,-4.224975935385436
+2016_MP|captain#Robert Lewandowski,alpha,-4.067458298066761
+2016_MP|captain#Lionel Messi,alpha,-0.25633506522801436
+2016_MP|captain#Suárez Luis,alpha,-2.361239315364038
+2016_MP|captain#Luka Modrić,alpha,-5.312425364568459
+2016_MP|captain#Mahrez Riyad,alpha,-4.390457240183198
+2016_MP|captain#Neuer Manuel,alpha,-4.624773213923074
+2016_MP|captain#Özil Mesut,alpha,-4.427836569040258
+2016_MP|captain#Neymar,alpha,-2.003503684809147
+2016_MP|captain#Pogba Paul,alpha,-4.952903962245822
+2016_MP|captain#Sergio Ramos,alpha,-4.2148633473519315
+2016_MP|coach#Agüero Sergio,alpha,-4.806882686036032
+2016_MP|coach#Sanchez Alexis,alpha,-3.072170018549478
+2016_MP|coach#Iniesta Andrés,alpha,-3.749388165043459
+2016_MP|coach#Griezmann Antoine,alpha,-1.5181909087107874
+2016_MP|coach#Bale Gareth,alpha,-2.320395978650138
+2016_MP|coach#Kevin De Bruyne,alpha,-4.332326579670232
+2016_MP|coach#Buffon Gianluigi,alpha,-3.3332643961924195
+2016_MP|coach#Payet Dimitri,alpha,-4.991605299727076
+2016_MP|coach#Ibrahimovic Zlatan,alpha,-4.553799949416704
+2016_MP|coach#Vardy Jamie,alpha,-3.5269859207883627
+2016_MP|coach#N’Golo Kanté,alpha,-3.890502881489595
+2016_MP|coach#Toni Kroos,alpha,-3.3258269619124676
+2016_MP|coach#Robert Lewandowski,alpha,-3.2422260434329844
+2016_MP|coach#Lionel Messi,alpha,-0.09520038400716774
+2016_MP|coach#Suárez Luis,alpha,-2.6767802806974172
+2016_MP|coach#Luka Modrić,alpha,-4.10520202727867
+2016_MP|coach#Mahrez Riyad,alpha,-3.6841624488705396
+2016_MP|coach#Neuer Manuel,alpha,-3.2929386665814695
+2016_MP|coach#Özil Mesut,alpha,-3.862042474250369
+2016_MP|coach#Neymar,alpha,-2.0504856814976065
+2016_MP|coach#Pogba Paul,alpha,-4.076923743244916
+2016_MP|coach#Sergio Ramos,alpha,-4.316430644966909
+2016_MP|media#Agüero Sergio,alpha,-5.106224612574597
+2016_MP|media#Sanchez Alexis,alpha,-4.205996257918741
+2016_MP|media#Iniesta Andrés,alpha,-4.839807433079888
+2016_MP|media#Griezmann Antoine,alpha,-1.8003737394096575
+2016_MP|media#Bale Gareth,alpha,-2.803752737261226
+2016_MP|media#Kevin De Bruyne,alpha,-5.259631599909217
+2016_MP|media#Buffon Gianluigi,alpha,-4.146594095824394
+2016_MP|media#Payet Dimitri,alpha,-5.251574201309742
+2016_MP|media#Vardy Jamie,alpha,-4.563145869055613
+2016_MP|media#N’Golo Kanté,alpha,-4.84758135907824
+2016_MP|media#Toni Kroos,alpha,-5.951976742696022
+2016_MP|media#Robert Lewandowski,alpha,-4.849379564247445
+2016_MP|media#Lionel Messi,alpha,-0.9482585609856036
+2016_MP|media#Suárez Luis,alpha,-2.4856271432774184
+2016_MP|media#Luka Modrić,alpha,-5.223036388165866
+2016_MP|media#Mahrez Riyad,alpha,-3.332707260945739
+2016_MP|media#Neuer Manuel,alpha,-4.337745888580543
+2016_MP|media#Özil Mesut,alpha,-5.258962679420809
+2016_MP|media#Neymar,alpha,-2.2897844971919032
+2016_MP|media#Pogba Paul,alpha,-4.8450851037715035
+2016_WP|captain#Abily Camille,alpha,-1.8472826878297948
+2016_WP|captain#Henry Amandine,alpha,-1.6724121974156518
+2016_WP|captain#Behringer Melanie,alpha,-1.2804054384212074
+2016_WP|captain#Christine Sinclair,alpha,-1.576640391107789
+2016_WP|captain#Däbritz Sara,alpha,-1.9773858448048258
+2016_WP|captain#Dzsenifer Marozsán,alpha,-1.1005981938195268
+2016_WP|captain#Saki Kumagai,alpha,-1.4694904761181247
+2016_WP|captain#Schelin Lotta,alpha,-1.6460189644749665
+2016_WP|captain#Marta,alpha,-0.6166801716948791
+2016_WP|coach#Abily Camille,alpha,-1.50481621281038
+2016_WP|coach#Henry Amandine,alpha,-1.463404132276431
+2016_WP|coach#Behringer Melanie,alpha,-0.9711035545998749
+2016_WP|coach#Christine Sinclair,alpha,-1.389610801677845
+2016_WP|coach#Däbritz Sara,alpha,-1.5943167814324848
+2016_WP|coach#Dzsenifer Marozsán,alpha,-0.9043294817496801
+2016_WP|coach#Saki Kumagai,alpha,-1.176753839191276
+2016_WP|coach#Schelin Lotta,alpha,-1.7600720832791734
+2016_WP|coach#Marta,alpha,-0.8106115076119226
+2016_WP|media#Abily Camille,alpha,-1.4104581059350418
+2016_WP|media#Henry Amandine,alpha,-1.4445898357720144
+2016_WP|media#Lloyd Carli,alpha,-0.38704685595435695
+2016_WP|media#Christine Sinclair,alpha,-0.6374770147987202
+2016_WP|media#Däbritz Sara,alpha,-0.9492863110088609
+2016_WP|media#Dzsenifer Marozsán,alpha,-0.6907599384993178
+2016_WP|media#Saki Kumagai,alpha,-1.0154711425429601
+2016_WP|media#Schelin Lotta,alpha,-0.41563072838609205
+2016_WP|media#Marta,alpha,-0.34325973813258936
+2017_MP|captain#Sanchez Alexis,alpha,-5.0926999978763465
+2017_MP|captain#Iniesta Andrés,alpha,-5.110313269981045
+2017_MP|captain#Griezmann Antoine,alpha,-4.851103136350728
+2017_MP|captain#Vidal Arturo,alpha,-5.088493138837218
+2017_MP|captain#Aubameyang Pierre-Emerick,alpha,-4.490183755935288
+2017_MP|captain#Bonucci Leonardo,alpha,-5.410686992442618
+2017_MP|captain#Buffon Gianluigi,alpha,-2.58152771031858
+2017_MP|captain#Dani Carvajal,alpha,-6.496288261079363
+2017_MP|captain#Dybala Paulo,alpha,-3.936927168005618
+2017_MP|captain#Hazard Eden,alpha,-5.712856064783525
+2017_MP|captain#Harry Kane,alpha,-5.408942313266577
+2017_MP|captain#Ibrahimovic Zlatan,alpha,-4.645776969492534
+2017_MP|captain#N’Golo Kanté,alpha,-4.249524238593924
+2017_MP|captain#Navas Keylor,alpha,-5.606264294484099
+2017_MP|captain#Toni Kroos,alpha,-4.105757313111681
+2017_MP|captain#Robert Lewandowski,alpha,-5.715670380258797
+2017_MP|captain#Lionel Messi,alpha,-1.3235484192273277
+2017_MP|captain#Suárez Luis,alpha,-4.583646225318891
+2017_MP|captain#Luka Modrić,alpha,-3.5507636281516053
+2017_MP|captain#Neuer Manuel,alpha,-5.306382520064529
+2017_MP|captain#Marcelo,alpha,-3.6604670083139146
+2017_MP|captain#Neymar,alpha,-2.244261139519513
+2017_MP|captain#Sergio Ramos,alpha,-3.109945566620742
+2017_MP|coach#Sanchez Alexis,alpha,-5.944572099172568
+2017_MP|coach#Iniesta Andrés,alpha,-4.56524391122358
+2017_MP|coach#Griezmann Antoine,alpha,-4.8071523582996685
+2017_MP|coach#Vidal Arturo,alpha,-4.547392853148266
+2017_MP|coach#Aubameyang Pierre-Emerick,alpha,-4.010510431394332
+2017_MP|coach#Bonucci Leonardo,alpha,-5.534262338472873
+2017_MP|coach#Buffon Gianluigi,alpha,-2.4788090396301716
+2017_MP|coach#Dani Carvajal,alpha,-5.466980327827261
+2017_MP|coach#Dybala Paulo,alpha,-4.41900729673984
+2017_MP|coach#Hazard Eden,alpha,-3.571473148776174
+2017_MP|coach#Harry Kane,alpha,-5.57662588392733
+2017_MP|coach#Ibrahimovic Zlatan,alpha,-4.796360057310131
+2017_MP|coach#N’Golo Kanté,alpha,-3.7931588879543336
+2017_MP|coach#Navas Keylor,alpha,-4.947293631391619
+2017_MP|coach#Toni Kroos,alpha,-3.4883863431196884
+2017_MP|coach#Robert Lewandowski,alpha,-4.196555343615605
+2017_MP|coach#Lionel Messi,alpha,-0.9386874108102354
+2017_MP|coach#Suárez Luis,alpha,-4.958353008325327
+2017_MP|coach#Luka Modrić,alpha,-3.002939972751685
+2017_MP|coach#Neuer Manuel,alpha,-5.077483971965141
+2017_MP|coach#Marcelo,alpha,-4.208215803090211
+2017_MP|coach#Neymar,alpha,-1.9477686032747956
+2017_MP|coach#Sergio Ramos,alpha,-3.3601413314859516
+2017_MP|media#Sanchez Alexis,alpha,-5.228673996199805
+2017_MP|media#Iniesta Andrés,alpha,-6.458999711400961
+2017_MP|media#Vidal Arturo,alpha,-6.33293777159723
+2017_MP|media#Aubameyang Pierre-Emerick,alpha,-5.219362338664589
+2017_MP|media#Bonucci Leonardo,alpha,-5.3665108559510015
+2017_MP|media#Buffon Gianluigi,alpha,-2.715833457337476
+2017_MP|media#Dybala Paulo,alpha,-5.897477664079685
+2017_MP|media#Hazard Eden,alpha,-5.084447494077823
+2017_MP|media#Harry Kane,alpha,-6.4702675212915075
+2017_MP|media#Ibrahimovic Zlatan,alpha,-6.069344040582445
+2017_MP|media#N’Golo Kanté,alpha,-5.2146876867946235
+2017_MP|media#Navas Keylor,alpha,-7.116421745854909
+2017_MP|media#Toni Kroos,alpha,-5.055237756071517
+2017_MP|media#Robert Lewandowski,alpha,-5.777183686468068
+2017_MP|media#Lionel Messi,alpha,-2.060314681604576
+2017_MP|media#Suárez Luis,alpha,-5.3829287543539435
+2017_MP|media#Luka Modrić,alpha,-4.432387705809269
+2017_MP|media#Neuer Manuel,alpha,-6.450346137124453
+2017_MP|media#Marcelo,alpha,-4.932197219942882
+2017_MP|media#Neymar,alpha,-3.3350824756912143
+2017_MP|media#Sergio Ramos,alpha,-4.240806286766268
+2017_WP|captain#Lucy Bronze,alpha,-1.2200984408755795
+2017_WP|captain#Lloyd Carli,alpha,-0.2599955607051582
+2017_WP|captain#Castellanos Deyna,alpha,-1.68534631424716
+2017_WP|captain#Dzsenifer Marozsán,alpha,-0.5571501525697431
+2017_WP|captain#Pernille Harder,alpha,-0.6454249097652922
+2017_WP|captain#Taylor Jodie,alpha,-1.2731606106600721
+2017_WP|captain#Sam Kerr,alpha,-1.4161818365334309
+2017_WP|captain#Vivianne Miedema,alpha,-1.5217315294733254
+2017_WP|captain#Wendie Renard,alpha,-1.3699085428186597
+2017_WP|coach#Lucy Bronze,alpha,-1.5745058700628942
+2017_WP|coach#Lloyd Carli,alpha,-0.2640442463124582
+2017_WP|coach#Castellanos Deyna,alpha,-1.5734758065197139
+2017_WP|coach#Dzsenifer Marozsán,alpha,-0.5765409321638317
+2017_WP|coach#Pernille Harder,alpha,-0.7148165083455854
+2017_WP|coach#Taylor Jodie,alpha,-1.263252621035435
+2017_WP|coach#Sam Kerr,alpha,-1.5027675027468015
+2017_WP|coach#Vivianne Miedema,alpha,-1.3989008379577739
+2017_WP|coach#Wendie Renard,alpha,-1.174010810277763
+2017_WP|media#Lucy Bronze,alpha,-1.8709737304695964
+2017_WP|media#Lloyd Carli,alpha,-0.3917439836821707
+2017_WP|media#Castellanos Deyna,alpha,-1.5596741415720152
+2017_WP|media#Dzsenifer Marozsán,alpha,-0.7900606558185632
+2017_WP|media#Pernille Harder,alpha,-0.7493655267441097
+2017_WP|media#Taylor Jodie,alpha,-1.3902260466648688
+2017_WP|media#Sam Kerr,alpha,-2.204181360258568
+2017_WP|media#Vivianne Miedema,alpha,-1.1250607279661786
+2017_WP|media#Wendie Renard,alpha,-1.3364698056310382
+2018_MP|captain#Griezmann Antoine,alpha,-1.9701138390781052
+2018_MP|captain#Kevin De Bruyne,alpha,-2.5186563002714353
+2018_MP|captain#Cristiano Ronaldo,alpha,-0.3648483266141048
+2018_MP|captain#Hazard Eden,alpha,-2.100008981757798
+2018_MP|captain#Harry Kane,alpha,-3.829994264865303
+2018_MP|captain#Kylian Mbappé,alpha,-1.1438646978542473
+2018_MP|captain#Lionel Messi,alpha,-1.2126408870535963
+2018_MP|captain#Mohamed Salah,alpha,-1.432302086571206
+2018_MP|captain#Varane Raphael,alpha,-2.6480441124531424
+2018_MP|coach#Griezmann Antoine,alpha,-1.7039701465589154
+2018_MP|coach#Kevin De Bruyne,alpha,-2.186518022091044
+2018_MP|coach#Cristiano Ronaldo,alpha,-1.1494107608251898
+2018_MP|coach#Hazard Eden,alpha,-1.5876068540053656
+2018_MP|coach#Harry Kane,alpha,-3.8100012419407183
+2018_MP|coach#Kylian Mbappé,alpha,-1.347876184779955
+2018_MP|coach#Lionel Messi,alpha,-1.9956966604501964
+2018_MP|coach#Mohamed Salah,alpha,-2.061671724935732
+2018_MP|coach#Varane Raphael,alpha,-2.892610738086654
+2018_MP|media#Griezmann Antoine,alpha,-1.5602071914346263
+2018_MP|media#Kevin De Bruyne,alpha,-2.784391603064583
+2018_MP|media#Cristiano Ronaldo,alpha,-0.8725719709567146
+2018_MP|media#Hazard Eden,alpha,-2.8864554412358348
+2018_MP|media#Harry Kane,alpha,-4.1366293991757805
+2018_MP|media#Kylian Mbappé,alpha,-1.3781338654915463
+2018_MP|media#Lionel Messi,alpha,-2.0260316364553668
+2018_MP|media#Mohamed Salah,alpha,-1.9480683912245975
+2018_MP|media#Varane Raphael,alpha,-2.6514993325833123
+2018_WP|captain#Ada Hegerberg,alpha,-0.9396562492934815
+2018_WP|captain#Henry Amandine,alpha,-0.725752148836595
+2018_WP|captain#Lucy Bronze,alpha,-0.9451005349622448
+2018_WP|captain#Dzsenifer Marozsán,alpha,-0.29566216582034144
+2018_WP|captain#Pernille Harder,alpha,-0.7492329168413598
+2018_WP|captain#Sam Kerr,alpha,-0.6691867875731853
+2018_WP|captain#Saki Kumagai,alpha,-0.8715692291117967
+2018_WP|captain#Marta,alpha,-0.03059581354073814
+2018_WP|captain#Wendie Renard,alpha,-0.8110865430953016
+2018_WP|coach#Ada Hegerberg,alpha,-0.5605997376109915
+2018_WP|coach#Henry Amandine,alpha,-0.6315270454036231
+2018_WP|coach#Lucy Bronze,alpha,-0.6839211679514585
+2018_WP|coach#Dzsenifer Marozsán,alpha,-0.29588566651796216
+2018_WP|coach#Pernille Harder,alpha,-0.36643523891754787
+2018_WP|coach#Sam Kerr,alpha,-0.7951241162484077
+2018_WP|coach#Saki Kumagai,alpha,-0.55980064274075
+2018_WP|coach#Marta,alpha,-0.11158772258395155
+2018_WP|coach#Wendie Renard,alpha,-0.8483134547613386
+2018_WP|media#Henry Amandine,alpha,-1.246481274462384
+2018_WP|media#Lucy Bronze,alpha,-0.5545344965409104
+2018_WP|media#Dzsenifer Marozsán,alpha,-0.6568513962496698
+2018_WP|media#Pernille Harder,alpha,-0.61791635481171
+2018_WP|media#Sam Kerr,alpha,-0.9988662983533914
+2018_WP|media#Saki Kumagai,alpha,-0.8275214862224394
+2018_WP|media#Marta,alpha,-0.6082726194310814
+2018_WP|media#Rapinoe Megan,alpha,-1.3117730346111542
+2018_WP|media#Wendie Renard,alpha,-0.9480735168719232
+2019_MP|captain#Cristiano Ronaldo,alpha,-0.38971966402220876
+2019_MP|captain#De Jong Frenkie,alpha,-2.1976258805519495
+2019_MP|captain#De Ligt Matthijs,alpha,-3.0420580837917743
+2019_MP|captain#Virgil van Dijk,alpha,-0.33258973873141395
+2019_MP|captain#Hazard Eden,alpha,-2.098134646666372
+2019_MP|captain#Harry Kane,alpha,-3.500509367841086
+2019_MP|captain#Kylian Mbappé,alpha,-1.8206340824711162
+2019_MP|captain#Sadio Mané,alpha,-1.3756770758311383
+2019_MP|captain#Mohamed Salah,alpha,-1.2940099755207484
+2019_MP|coach#Cristiano Ronaldo,alpha,-0.49876675186865616
+2019_MP|coach#De Jong Frenkie,alpha,-2.175361133454926
+2019_MP|coach#De Ligt Matthijs,alpha,-2.623347573783808
+2019_MP|coach#Virgil van Dijk,alpha,-0.6212392936985681
+2019_MP|coach#Hazard Eden,alpha,-1.8382353538263179
+2019_MP|coach#Harry Kane,alpha,-2.7912651639409733
+2019_MP|coach#Kylian Mbappé,alpha,-1.1815440503802097
+2019_MP|coach#Sadio Mané,alpha,-1.5248023459579563
+2019_MP|coach#Mohamed Salah,alpha,-1.437358712710758
+2019_MP|media#Cristiano Ronaldo,alpha,-0.6587941602321638
+2019_MP|media#De Jong Frenkie,alpha,-3.1099157215340973
+2019_MP|media#De Ligt Matthijs,alpha,-2.848493490644066
+2019_MP|media#Hazard Eden,alpha,-2.2610373820452825
+2019_MP|media#Harry Kane,alpha,-3.229296681971187
+2019_MP|media#Kylian Mbappé,alpha,-3.025962909870333
+2019_MP|media#Lionel Messi,alpha,-0.17226872826300027
+2019_MP|media#Sadio Mané,alpha,-1.2213241931732612
+2019_MP|media#Mohamed Salah,alpha,-1.377350851758291
+2019_WP|captain#Ada Hegerberg,alpha,-2.3157868133659285
+2019_WP|captain#Alex Morgan,alpha,-1.1211788279879107
+2019_WP|captain#Henry Amandine,alpha,-1.765954114945304
+2019_WP|captain#Lucy Bronze,alpha,-1.7459127855147616
+2019_WP|captain#Caroline Graham Hansen,alpha,-3.21284507216681
+2019_WP|captain#Ellen White,alpha,-2.05363811245588
+2019_WP|captain#Ertz Julie,alpha,-2.236027987388453
+2019_WP|captain#Sam Kerr,alpha,-2.3851296987856085
+2019_WP|captain#Lavelle Rose,alpha,-1.6418347715002177
+2019_WP|captain#Vivianne Miedema,alpha,-1.776295707496244
+2019_WP|captain#Wendie Renard,alpha,-2.0877556963664894
+2019_WP|coach#Ada Hegerberg,alpha,-2.4994192206877983
+2019_WP|coach#Alex Morgan,alpha,-0.753083739150603
+2019_WP|coach#Henry Amandine,alpha,-1.6873245121683762
+2019_WP|coach#Lucy Bronze,alpha,-1.9021989694141608
+2019_WP|coach#Caroline Graham Hansen,alpha,-2.9864136240089776
+2019_WP|coach#Ellen White,alpha,-1.9211666610857359
+2019_WP|coach#Ertz Julie,alpha,-1.9226373698062127
+2019_WP|coach#Sam Kerr,alpha,-2.6874046782205308
+2019_WP|coach#Lavelle Rose,alpha,-1.6414147235717547
+2019_WP|coach#Vivianne Miedema,alpha,-1.692177125356807
+2019_WP|coach#Wendie Renard,alpha,-2.1231647132729528
+2019_WP|media#Ada Hegerberg,alpha,-1.8647118872856734
+2019_WP|media#Alex Morgan,alpha,-1.2162866771671281
+2019_WP|media#Henry Amandine,alpha,-2.5651366691416
+2019_WP|media#Lucy Bronze,alpha,-1.8498392338711305
+2019_WP|media#Caroline Graham Hansen,alpha,-4.586577608082027
+2019_WP|media#Ellen White,alpha,-2.634979291657246
+2019_WP|media#Ertz Julie,alpha,-2.898840101232778
+2019_WP|media#Sam Kerr,alpha,-3.5852428382910686
+2019_WP|media#Lavelle Rose,alpha,-2.505202227091161
+2019_WP|media#Vivianne Miedema,alpha,-1.881691622639786
+2019_WP|media#Wendie Renard,alpha,-2.953961761052207
+2020_MP|captain#Thiago Alcântara,alpha,-2.152760155432938
+2020_MP|captain#Kevin De Bruyne,alpha,-1.9843308505633335
+2020_MP|captain#Cristiano Ronaldo,alpha,-1.1735757305432732
+2020_MP|captain#Virgil van Dijk,alpha,-2.765257884997706
+2020_MP|captain#Kylian Mbappé,alpha,-2.261132571901721
+2020_MP|captain#Lionel Messi,alpha,-1.3067517833225073
+2020_MP|captain#Sadio Mané,alpha,-1.6607752063799652
+2020_MP|captain#Mohamed Salah,alpha,-2.2919751020229944
+2020_MP|captain#Neymar,alpha,-2.6268816529749017
+2020_MP|captain#Sergio Ramos,alpha,-2.557404817904825
+2020_MP|coach#Thiago Alcântara,alpha,-2.2103350355794054
+2020_MP|coach#Kevin De Bruyne,alpha,-1.3677559841715385
+2020_MP|coach#Cristiano Ronaldo,alpha,-1.337069069476609
+2020_MP|coach#Virgil van Dijk,alpha,-1.8506661350474767
+2020_MP|coach#Kylian Mbappé,alpha,-1.9103996626000703
+2020_MP|coach#Lionel Messi,alpha,-1.1508918626450864
+2020_MP|coach#Sadio Mané,alpha,-1.3547162440323932
+2020_MP|coach#Mohamed Salah,alpha,-1.8303713119175118
+2020_MP|coach#Neymar,alpha,-2.37365154212436
+2020_MP|coach#Sergio Ramos,alpha,-2.3442562657869677
+2020_MP|media#Thiago Alcântara,alpha,-3.520270644372746
+2020_MP|media#Kevin De Bruyne,alpha,-2.8016468889234694
+2020_MP|media#Cristiano Ronaldo,alpha,-2.639998123213407
+2020_MP|media#Virgil van Dijk,alpha,-3.764736161591542
+2020_MP|media#Kylian Mbappé,alpha,-3.2212573685799324
+2020_MP|media#Lionel Messi,alpha,-2.970426122886378
+2020_MP|media#Sadio Mané,alpha,-2.4600267319268223
+2020_MP|media#Mohamed Salah,alpha,-3.127842958853044
+2020_MP|media#Neymar,alpha,-3.6211762792521145
+2020_MP|media#Sergio Ramos,alpha,-3.6060464570092363
+2020_WP|captain#Caroline Graham Hansen,alpha,-1.3217074444403658
+2020_WP|captain#Delphine Cascarino,alpha,-0.6123554890377186
+2020_WP|captain#Dzsenifer Marozsán,alpha,-1.3263720893901096
+2020_WP|captain#Pernille Harder,alpha,-0.4664457416582178
+2020_WP|captain#Jennifer Hermoso,alpha,-1.1801868131690547
+2020_WP|captain#So-Yun Ji,alpha,-1.6482689316505175
+2020_WP|captain#Sam Kerr,alpha,-0.9220515840383904
+2020_WP|captain#Saki Kumagai,alpha,-1.5694715549441087
+2020_WP|captain#Vivianne Miedema,alpha,-0.8189383463260032
+2020_WP|captain#Wendie Renard,alpha,-0.4678830473139002
+2020_WP|coach#Caroline Graham Hansen,alpha,-1.0075856534944911
+2020_WP|coach#Delphine Cascarino,alpha,-0.48697143272692156
+2020_WP|coach#Dzsenifer Marozsán,alpha,-0.8802936700544365
+2020_WP|coach#Pernille Harder,alpha,-0.4838773178787192
+2020_WP|coach#Jennifer Hermoso,alpha,-1.360001570734482
+2020_WP|coach#So-Yun Ji,alpha,-1.5000519424713832
+2020_WP|coach#Sam Kerr,alpha,-0.9169552988155997
+2020_WP|coach#Saki Kumagai,alpha,-1.6006724495635083
+2020_WP|coach#Vivianne Miedema,alpha,-0.7125680683123632
+2020_WP|coach#Wendie Renard,alpha,-0.3192390422509397
+2020_WP|media#Caroline Graham Hansen,alpha,-1.2611339562345583
+2020_WP|media#Delphine Cascarino,alpha,-0.33839029270860815
+2020_WP|media#Dzsenifer Marozsán,alpha,-0.7608036049651178
+2020_WP|media#Pernille Harder,alpha,-0.09752882936592636
+2020_WP|media#Jennifer Hermoso,alpha,-1.603869267041699
+2020_WP|media#So-Yun Ji,alpha,-1.5754230673372402
+2020_WP|media#Sam Kerr,alpha,-1.0726098272248754
+2020_WP|media#Saki Kumagai,alpha,-1.5921545721872605
+2020_WP|media#Vivianne Miedema,alpha,-0.4087726170432722
+2020_WP|media#Wendie Renard,alpha,-0.23462822951763818
+2021_MP|captain#Karim Benzema,alpha,-1.2872456280507794
+2021_MP|captain#Kevin De Bruyne,alpha,-3.1745684783349426
+2021_MP|captain#Cristiano Ronaldo,alpha,-1.5458980339117767
+2021_MP|captain#Erling Haaland,alpha,-3.8753082691970766
+2021_MP|captain#Jorginho,alpha,-1.6673881671437616
+2021_MP|captain#N’Golo Kanté,alpha,-1.744699761188963
+2021_MP|captain#Kylian Mbappé,alpha,-2.87203353280039
+2021_MP|captain#Lionel Messi,alpha,-0.5116232260339837
+2021_MP|captain#Mohamed Salah,alpha,-1.3467644729882309
+2021_MP|captain#Neymar,alpha,-3.3053485756568626
+2021_MP|coach#Karim Benzema,alpha,-1.2942238037558313
+2021_MP|coach#Kevin De Bruyne,alpha,-1.7878406338853854
+2021_MP|coach#Cristiano Ronaldo,alpha,-2.1749384855698093
+2021_MP|coach#Erling Haaland,alpha,-2.9093431200785997
+2021_MP|coach#Jorginho,alpha,-1.387703343690695
+2021_MP|coach#N’Golo Kanté,alpha,-1.39126417795582
+2021_MP|coach#Kylian Mbappé,alpha,-1.9287941418390313
+2021_MP|coach#Lionel Messi,alpha,-0.8081406670648935
+2021_MP|coach#Mohamed Salah,alpha,-0.8068031004188435
+2021_MP|coach#Neymar,alpha,-3.6662648103695394
+2021_MP|media#Karim Benzema,alpha,-1.7906207074863936
+2021_MP|media#Kevin De Bruyne,alpha,-2.680442658322481
+2021_MP|media#Cristiano Ronaldo,alpha,-2.463505580880422
+2021_MP|media#Erling Haaland,alpha,-3.6959951270404163
+2021_MP|media#Jorginho,alpha,-1.2910962639982146
+2021_MP|media#N’Golo Kanté,alpha,-2.0117211849190864
+2021_MP|media#Kylian Mbappé,alpha,-2.984907252192615
+2021_MP|media#Lionel Messi,alpha,-0.49360894321012133
+2021_MP|media#Mohamed Salah,alpha,-1.5282473661184592
+2021_WP|captain#Aitana Bonmatí,alpha,-1.3706944649322823
+2021_WP|captain#Stina Blackstenius,alpha,-2.1253361419097474
+2021_WP|captain#Lucy Bronze,alpha,-1.3785368525032797
+2021_WP|captain#Caroline Graham Hansen,alpha,-1.4038978127096564
+2021_WP|captain#Christine Sinclair,alpha,-1.3598024772254886
+2021_WP|captain#Ellen White,alpha,-1.6161709480164492
+2021_WP|captain#Magdalena Eriksson,alpha,-1.4965974624129557
+2021_WP|captain#Pernille Harder,alpha,-1.9337247606381454
+2021_WP|captain#Jennifer Hermoso,alpha,-1.6892353203938402
+2021_WP|captain#So-Yun Ji,alpha,-1.681010882657464
+2021_WP|captain#Sam Kerr,alpha,-0.7979545325728881
+2021_WP|captain#Vivianne Miedema,alpha,-1.0190540548257274
+2021_WP|coach#Aitana Bonmatí,alpha,-1.2467298176299888
+2021_WP|coach#Stina Blackstenius,alpha,-1.2617454285719023
+2021_WP|coach#Lucy Bronze,alpha,-0.9833186573150892
+2021_WP|coach#Caroline Graham Hansen,alpha,-1.2858367661345629
+2021_WP|coach#Christine Sinclair,alpha,-0.9687979314836282
+2021_WP|coach#Ellen White,alpha,-1.0365431898290258
+2021_WP|coach#Magdalena Eriksson,alpha,-1.1593121727531208
+2021_WP|coach#Pernille Harder,alpha,-1.2723943766830899
+2021_WP|coach#Jennifer Hermoso,alpha,-0.6880576167316262
+2021_WP|coach#So-Yun Ji,alpha,-1.3317420229434789
+2021_WP|coach#Sam Kerr,alpha,-0.3753640745237038
+2021_WP|coach#Vivianne Miedema,alpha,-0.4960123795215173
+2021_WP|media#Aitana Bonmatí,alpha,-1.465225148087302
+2021_WP|media#Stina Blackstenius,alpha,-2.3580270618032486
+2021_WP|media#Lucy Bronze,alpha,-1.483354501031093
+2021_WP|media#Caroline Graham Hansen,alpha,-1.6937185454195323
+2021_WP|media#Christine Sinclair,alpha,-0.9801789949853775
+2021_WP|media#Ellen White,alpha,-2.3686164194897437
+2021_WP|media#Magdalena Eriksson,alpha,-1.7562778665808896
+2021_WP|media#Pernille Harder,alpha,-2.2993058655910548
+2021_WP|media#Jennifer Hermoso,alpha,-0.6194319036913881
+2021_WP|media#So-Yun Ji,alpha,-2.393828485163512
+2021_WP|media#Sam Kerr,alpha,-0.84739907358938
+2021_WP|media#Vivianne Miedema,alpha,-1.1728971450808223
+2022_MP|captain#Achraf Hakimi,alpha,-4.9826959212484425
+2022_MP|captain#Julián Álvarez,alpha,-4.508181699085612
+2022_MP|captain#Jude Bellingham,alpha,-5.239504130616865
+2022_MP|captain#Karim Benzema,alpha,-1.6439681986226036
+2022_MP|captain#Kevin De Bruyne,alpha,-3.872172461344453
+2022_MP|captain#Erling Haaland,alpha,-3.4598735563768144
+2022_MP|captain#Vinícius Jr,alpha,-4.899117119688374
+2022_MP|captain#Kylian Mbappé,alpha,-1.2145690847355182
+2022_MP|captain#Robert Lewandowski,alpha,-4.63247356620734
+2022_MP|captain#Luka Modrić,alpha,-3.198454207962695
+2022_MP|captain#Sadio Mané,alpha,-3.557276208832475
+2022_MP|captain#Mohamed Salah,alpha,-5.189643111271345
+2022_MP|captain#Neymar,alpha,-3.7397723546404036
+2022_MP|coach#Achraf Hakimi,alpha,-4.175871420803699
+2022_MP|coach#Julián Álvarez,alpha,-4.184509460534234
+2022_MP|coach#Jude Bellingham,alpha,-4.2029446337946235
+2022_MP|coach#Karim Benzema,alpha,-1.9055074973117216
+2022_MP|coach#Kevin De Bruyne,alpha,-3.436547421497453
+2022_MP|coach#Erling Haaland,alpha,-2.9241494281950065
+2022_MP|coach#Vinícius Jr,alpha,-4.793320114223546
+2022_MP|coach#Kylian Mbappé,alpha,-0.853389969553311
+2022_MP|coach#Robert Lewandowski,alpha,-4.325552977684842
+2022_MP|coach#Luka Modrić,alpha,-2.522726593159377
+2022_MP|coach#Sadio Mané,alpha,-3.593932847111851
+2022_MP|coach#Mohamed Salah,alpha,-4.722001356224323
+2022_MP|coach#Neymar,alpha,-4.404097215998996
+2022_MP|media#Achraf Hakimi,alpha,-4.593446007132366
+2022_MP|media#Julián Álvarez,alpha,-4.478147442999118
+2022_MP|media#Jude Bellingham,alpha,-5.669222502818373
+2022_MP|media#Karim Benzema,alpha,-2.054899932475968
+2022_MP|media#Kevin De Bruyne,alpha,-5.448160798718905
+2022_MP|media#Erling Haaland,alpha,-3.7434113150675445
+2022_MP|media#Vinícius Jr,alpha,-4.888937194477116
+2022_MP|media#Kylian Mbappé,alpha,-1.4530630925819719
+2022_MP|media#Robert Lewandowski,alpha,-5.109292632805761
+2022_MP|media#Luka Modrić,alpha,-3.3799513121808906
+2022_MP|media#Sadio Mané,alpha,-4.501500747166621
+2022_MP|media#Mohamed Salah,alpha,-6.3823800726984175
+2022_MP|media#Neymar,alpha,-6.280202579791907
+2022_WP|captain#Ada Hegerberg,alpha,-1.1735040148764209
+2022_WP|captain#Aitana Bonmatí,alpha,-0.2753925853111021
+2022_WP|captain#Alexandra Popp,alpha,-0.38631868219520127
+2022_WP|captain#Alexia Putellas,alpha,-0.10259472596687337
+2022_WP|captain#Beth Mead,alpha,-0.18570334143290074
+2022_WP|captain#Debinha,alpha,-0.6010167831343974
+2022_WP|captain#Jessie Fleming,alpha,-1.9825497114956345
+2022_WP|captain#Keira Walsh,alpha,-1.5180941473351741
+2022_WP|captain#Sam Kerr,alpha,-0.03111265487194649
+2022_WP|captain#Leah Williamson,alpha,-0.4877735559121327
+2022_WP|captain#Lena Oberdorf,alpha,-1.2310017241334563
+2022_WP|captain#Vivianne Miedema,alpha,-1.217285911021349
+2022_WP|captain#Wendie Renard,alpha,-0.6706813766940006
+2022_WP|coach#Ada Hegerberg,alpha,-1.2365427720154956
+2022_WP|coach#Aitana Bonmatí,alpha,-0.5168445222964632
+2022_WP|coach#Alex Morgan,alpha,-0.164066212075295
+2022_WP|coach#Alexandra Popp,alpha,-0.5511044382653886
+2022_WP|coach#Alexia Putellas,alpha,-0.08257275559154259
+2022_WP|coach#Debinha,alpha,-0.6078081754897556
+2022_WP|coach#Jessie Fleming,alpha,-1.3690497279512246
+2022_WP|coach#Keira Walsh,alpha,-1.2733979617593312
+2022_WP|coach#Sam Kerr,alpha,-0.20737423033245977
+2022_WP|coach#Leah Williamson,alpha,-1.0374836893964754
+2022_WP|coach#Lena Oberdorf,alpha,-0.9140684289069677
+2022_WP|coach#Vivianne Miedema,alpha,-1.1812474912826654
+2022_WP|coach#Wendie Renard,alpha,-0.9755424118042924
+2022_WP|media#Ada Hegerberg,alpha,-1.6329676946520948
+2022_WP|media#Aitana Bonmatí,alpha,-1.4975240762547892
+2022_WP|media#Alex Morgan,alpha,-1.376081860247396
+2022_WP|media#Alexandra Popp,alpha,-1.8333474747999305
+2022_WP|media#Beth Mead,alpha,-0.18623987101199738
+2022_WP|media#Debinha,alpha,-1.4599474902155045
+2022_WP|media#Jessie Fleming,alpha,-2.594220584914828
+2022_WP|media#Keira Walsh,alpha,-3.000223096312384
+2022_WP|media#Sam Kerr,alpha,-1.0699409538809181
+2022_WP|media#Leah Williamson,alpha,-2.0802959926371547
+2022_WP|media#Lena Oberdorf,alpha,-2.4106499880557837
+2022_WP|media#Vivianne Miedema,alpha,-2.299360584751545
+2022_WP|media#Wendie Renard,alpha,-2.142881598413608
+2023_MP|captain#Julián Álvarez,alpha,-2.905546167375065
+2023_MP|captain#Bernardo Silva,alpha,-2.8826844757031553
+2023_MP|captain#Marcelo Brozović,alpha,-3.9613912057365717
+2023_MP|captain#Kevin De Bruyne,alpha,-1.5647274737660464
+2023_MP|captain#Declan Rice,alpha,-5.774322341707104
+2023_MP|captain#İlkay Gündoğan,alpha,-3.3054349657435274
+2023_MP|captain#Khvicha Kvaratskhelia,alpha,-4.367903051619536
+2023_MP|captain#Kylian Mbappé,alpha,-0.7782863286769285
+2023_MP|captain#Lionel Messi,alpha,0.38340143226281326
+2023_MP|captain#Victor Osimhen,alpha,-2.4288371348874183
+2023_MP|captain#Rodri,alpha,-2.567500956975366
+2023_MP|coach#Julián Álvarez,alpha,-2.617775886515908
+2023_MP|coach#Bernardo Silva,alpha,-2.52544051969107
+2023_MP|coach#Marcelo Brozović,alpha,-3.6660039149332118
+2023_MP|coach#Kevin De Bruyne,alpha,-1.1518145270831823
+2023_MP|coach#Declan Rice,alpha,-5.003173747787619
+2023_MP|coach#İlkay Gündoğan,alpha,-2.5334859698308865
+2023_MP|coach#Khvicha Kvaratskhelia,alpha,-3.6783513256389373
+2023_MP|coach#Kylian Mbappé,alpha,-0.7167794698825745
+2023_MP|coach#Lionel Messi,alpha,-0.2567924084952197
+2023_MP|coach#Victor Osimhen,alpha,-2.216550292487409
+2023_MP|coach#Rodri,alpha,-2.014584793553004
+2023_MP|media#Julián Álvarez,alpha,-3.2431776760087216
+2023_MP|media#Bernardo Silva,alpha,-4.035299549831152
+2023_MP|media#Marcelo Brozović,alpha,-5.04479919307077
+2023_MP|media#Kevin De Bruyne,alpha,-2.0698561030981306
+2023_MP|media#Declan Rice,alpha,-4.832195884254163
+2023_MP|media#İlkay Gündoğan,alpha,-3.5381783771498765
+2023_MP|media#Khvicha Kvaratskhelia,alpha,-3.519799231377612
+2023_MP|media#Kylian Mbappé,alpha,-1.9621300864740916
+2023_MP|media#Lionel Messi,alpha,-1.5101134736916288
+2023_MP|media#Victor Osimhen,alpha,-2.893951493729426
+2023_MP|media#Rodri,alpha,-2.7445237075126196
+2023_WP|captain#Alex Greenwood,alpha,-2.6663200828257834
+2023_WP|captain#Amanda Ilestedt,alpha,-2.9507860611969288
+2023_WP|captain#Linda Caicedo,alpha,-1.0651089925907833
+2023_WP|captain#Caitlin Foord,alpha,-3.0028615577523508
+2023_WP|captain#Rachel Daly,alpha,-2.8492718429056714
+2023_WP|captain#Kadidiatou Diani,alpha,-1.9779320287280662
+2023_WP|captain#Mary Fowler,alpha,-3.302486556886404
+2023_WP|captain#Jennifer Hermoso,alpha,-1.4268083904153124
+2023_WP|captain#Hinata Miyazawa,alpha,-1.863295294819017
+2023_WP|captain#Lindsey Heaps,alpha,-2.4447367110128195
+2023_WP|captain#Lauren James,alpha,-1.8051049459879396
+2023_WP|captain#Keira Walsh,alpha,-2.2904375953947844
+2023_WP|captain#Sam Kerr,alpha,-1.2124849638168023
+2023_WP|captain#Mapi León,alpha,-2.8425123968086217
+2023_WP|captain#Salma Paralluelo,alpha,-1.2714288350041887
+2023_WP|coach#Alex Greenwood,alpha,-2.522792416075462
+2023_WP|coach#Amanda Ilestedt,alpha,-3.095785684179692
+2023_WP|coach#Linda Caicedo,alpha,-1.1090508163358823
+2023_WP|coach#Caitlin Foord,alpha,-3.437418390078292
+2023_WP|coach#Rachel Daly,alpha,-2.2974623668485807
+2023_WP|coach#Kadidiatou Diani,alpha,-2.5042486496725997
+2023_WP|coach#Mary Fowler,alpha,-2.8821708929040657
+2023_WP|coach#Jennifer Hermoso,alpha,-1.4581555770812578
+2023_WP|coach#Hinata Miyazawa,alpha,-2.1567980746237314
+2023_WP|coach#Lindsey Heaps,alpha,-2.6101594880501824
+2023_WP|coach#Lauren James,alpha,-2.077168255675133
+2023_WP|coach#Keira Walsh,alpha,-2.5092765664204864
+2023_WP|coach#Sam Kerr,alpha,-1.5511092485078768
+2023_WP|coach#Mapi León,alpha,-2.897214777561657
+2023_WP|coach#Salma Paralluelo,alpha,-1.562276410082889
+2023_WP|media#Alex Greenwood,alpha,-3.5122005586990004
+2023_WP|media#Amanda Ilestedt,alpha,-3.897345539350242
+2023_WP|media#Linda Caicedo,alpha,-2.46491070781916
+2023_WP|media#Caitlin Foord,alpha,-4.286607950267459
+2023_WP|media#Rachel Daly,alpha,-2.7997494551370132
+2023_WP|media#Kadidiatou Diani,alpha,-3.0775838672601945
+2023_WP|media#Mary Fowler,alpha,-3.7717767918335947
+2023_WP|media#Jennifer Hermoso,alpha,-1.7766239437196474
+2023_WP|media#Hinata Miyazawa,alpha,-2.925720597264575
+2023_WP|media#Lindsey Heaps,alpha,-5.3782412765864915
+2023_WP|media#Lauren James,alpha,-2.6576315571843416
+2023_WP|media#Keira Walsh,alpha,-2.9712838033200275
+2023_WP|media#Sam Kerr,alpha,-2.154470091153076
+2023_WP|media#Mapi León,alpha,-3.0189856372995103
+2023_WP|media#Salma Paralluelo,alpha,-2.125710869155551
+2024_MP|captain#Jude Bellingham,alpha,-1.6670836078565816
+2024_MP|captain#Dani Carvajal,alpha,-1.728089182980763
+2024_MP|captain#Erling Haaland,alpha,-2.7330271530249886
+2024_MP|captain#Federico Valverde,alpha,-4.003704652474783
+2024_MP|captain#Florian Wirtz,alpha,-3.890537216544889
+2024_MP|captain#Toni Kroos,alpha,-2.694445951782157
+2024_MP|captain#Kylian Mbappé,alpha,-3.189379653936001
+2024_MP|captain#Lamine Yamal,alpha,-2.1353711141873815
+2024_MP|captain#Lionel Messi,alpha,-2.755910491524691
+2024_MP|captain#Rodri,alpha,-0.9703855176602819
+2024_MP|coach#Jude Bellingham,alpha,-0.8649040131243284
+2024_MP|coach#Dani Carvajal,alpha,-1.3624061816958775
+2024_MP|coach#Erling Haaland,alpha,-1.6230649522508673
+2024_MP|coach#Federico Valverde,alpha,-2.7358643151424675
+2024_MP|coach#Florian Wirtz,alpha,-2.5893881614548517
+2024_MP|coach#Vinícius Jr,alpha,0.06851066986789497
+2024_MP|coach#Toni Kroos,alpha,-1.6049242614871522
+2024_MP|coach#Kylian Mbappé,alpha,-2.216170754691505
+2024_MP|coach#Lamine Yamal,alpha,-1.1630391163290121
+2024_MP|coach#Lionel Messi,alpha,-1.7754837800670398
+2024_MP|media#Jude Bellingham,alpha,-1.3260297783665316
+2024_MP|media#Dani Carvajal,alpha,-1.6106708990525491
+2024_MP|media#Erling Haaland,alpha,-2.292802906057528
+2024_MP|media#Federico Valverde,alpha,-5.000261909716081
+2024_MP|media#Florian Wirtz,alpha,-3.3356802578244835
+2024_MP|media#Toni Kroos,alpha,-3.251404658037883
+2024_MP|media#Kylian Mbappé,alpha,-2.9787208984816425
+2024_MP|media#Lamine Yamal,alpha,-2.1664736611617297
+2024_MP|media#Lionel Messi,alpha,-3.215835024240026
+2024_MP|media#Rodri,alpha,-0.14332086403447977
+2024_WP|captain#Barbra Banda,alpha,-0.8360897131805883
+2024_WP|captain#Ona Batlle,alpha,-2.6678777133504226
+2024_WP|captain#Lucy Bronze,alpha,-1.927478504242368
+2024_WP|captain#Mariona Caldentey,alpha,-2.115597426296613
+2024_WP|captain#Caroline Graham Hansen,alpha,-1.3869859642667244
+2024_WP|captain#Tabitha Chawinga,alpha,-1.58926354321507
+2024_WP|captain#Naomi Girma,alpha,-1.785380376249766
+2024_WP|captain#Lauren Hemp,alpha,-3.199410155929039
+2024_WP|captain#Lindsey Heaps,alpha,-1.7601222201993356
+2024_WP|captain#Keira Walsh,alpha,-3.0945199930115095
+2024_WP|captain#Khadija Shaw,alpha,-1.6214779744661245
+2024_WP|captain#Mallory Swanson,alpha,-2.9090770964898227
+2024_WP|captain#Salma Paralluelo,alpha,-1.856705042524437
+2024_WP|captain#Trinity Rodman,alpha,-2.4290682149030327
+2024_WP|captain#Sophia Smith,alpha,-2.1341174282721695
+2024_WP|coach#Barbra Banda,alpha,-1.6068826494761608
+2024_WP|coach#Ona Batlle,alpha,-2.467111983965415
+2024_WP|coach#Lucy Bronze,alpha,-2.0425429483811617
+2024_WP|coach#Mariona Caldentey,alpha,-2.961896310276284
+2024_WP|coach#Caroline Graham Hansen,alpha,-1.7514957851870434
+2024_WP|coach#Tabitha Chawinga,alpha,-2.2671445323571042
+2024_WP|coach#Naomi Girma,alpha,-2.7507222643577336
+2024_WP|coach#Lauren Hemp,alpha,-3.294590644277522
+2024_WP|coach#Lindsey Heaps,alpha,-1.8491961620137285
+2024_WP|coach#Keira Walsh,alpha,-2.8969775169471315
+2024_WP|coach#Khadija Shaw,alpha,-1.9255012336639463
+2024_WP|coach#Mallory Swanson,alpha,-3.3852103535960345
+2024_WP|coach#Salma Paralluelo,alpha,-1.9672104244671338
+2024_WP|coach#Trinity Rodman,alpha,-2.9917272976692026
+2024_WP|coach#Sophia Smith,alpha,-2.625928046281077
+2024_WP|media#Barbra Banda,alpha,-2.437978389977856
+2024_WP|media#Ona Batlle,alpha,-3.554721439153245
+2024_WP|media#Lucy Bronze,alpha,-2.8209597425235935
+2024_WP|media#Mariona Caldentey,alpha,-3.6462947418568046
+2024_WP|media#Caroline Graham Hansen,alpha,-1.6773889716919512
+2024_WP|media#Tabitha Chawinga,alpha,-3.1594230635975378
+2024_WP|media#Naomi Girma,alpha,-3.3895968186240593
+2024_WP|media#Lauren Hemp,alpha,-4.607660257004114
+2024_WP|media#Lindsey Heaps,alpha,-2.134108520880951
+2024_WP|media#Keira Walsh,alpha,-4.267747421659283
+2024_WP|media#Khadija Shaw,alpha,-3.112920570794579
+2024_WP|media#Mallory Swanson,alpha,-5.429705726449793
+2024_WP|media#Salma Paralluelo,alpha,-2.5584602665883462
+2024_WP|media#Trinity Rodman,alpha,-4.173706306577712
+2024_WP|media#Sophia Smith,alpha,-2.984309161256496
+2025_MP|captain#Achraf Hakimi,alpha,-1.9576115320088918
+2025_MP|captain#Cole Palmer,alpha,-3.5973778830466987
+2025_MP|captain#Harry Kane,alpha,-2.841768970398254
+2025_MP|captain#Kylian Mbappé,alpha,-1.6662688173507365
+2025_MP|captain#Lamine Yamal,alpha,-1.4574618737050062
+2025_MP|captain#Nuno Mendes,alpha,-2.9367887347531023
+2025_MP|captain#Mohamed Salah,alpha,-3.0550783922002225
+2025_MP|captain#Pedri,alpha,-3.353326459513534
+2025_MP|captain#Raphinha,alpha,-2.4107127263873624
+2025_MP|captain#Vitinha,alpha,-1.9742426356636136
+2025_MP|coach#Achraf Hakimi,alpha,-1.1877597636946944
+2025_MP|coach#Cole Palmer,alpha,-3.1699321526900466
+2025_MP|coach#Harry Kane,alpha,-1.6187482715915622
+2025_MP|coach#Kylian Mbappé,alpha,-1.214991075186783
+2025_MP|coach#Lamine Yamal,alpha,-0.9002962427447585
+2025_MP|coach#Nuno Mendes,alpha,-2.6407920549613952
+2025_MP|coach#Mohamed Salah,alpha,-1.7280483988988073
+2025_MP|coach#Pedri,alpha,-2.2661100585466554
+2025_MP|coach#Raphinha,alpha,-2.1006341438915426
+2025_MP|coach#Vitinha,alpha,-1.3565952086535855
+2025_MP|media#Achraf Hakimi,alpha,-2.110777740588249
+2025_MP|media#Cole Palmer,alpha,-3.6373863854864417
+2025_MP|media#Harry Kane,alpha,-3.4334510538872016
+2025_MP|media#Kylian Mbappé,alpha,-2.4711856647452395
+2025_MP|media#Lamine Yamal,alpha,-1.4847335368670185
+2025_MP|media#Nuno Mendes,alpha,-3.2222596058127646
+2025_MP|media#Mohamed Salah,alpha,-2.190767692345791
+2025_MP|media#Pedri,alpha,-3.9810502699309716
+2025_MP|media#Raphinha,alpha,-2.4214354960381264
+2025_MP|media#Vitinha,alpha,-2.5526052085271997
+2025_WP|captain#Alessia Russo,alpha,-1.4439628932959092
+2025_WP|captain#Alexia Putellas,alpha,-1.2224677756828237
+2025_WP|captain#Sandy Baltimore,alpha,-2.252888761095242
+2025_WP|captain#Nathalie Björn,alpha,-3.1577465164354765
+2025_WP|captain#Lucy Bronze,alpha,-1.3155060149972035
+2025_WP|captain#Mariona Caldentey,alpha,-0.9805117602370172
+2025_WP|captain#Temwa Chawinga,alpha,-1.1285223293879068
+2025_WP|captain#Chloe Kelly,alpha,-1.5477760187946406
+2025_WP|captain#Clàudia Pina,alpha,-2.3543796548305003
+2025_WP|captain#Kadidiatou Diani,alpha,-1.8832178743703238
+2025_WP|captain#Melchie Dumornay,alpha,-2.025538317991557
+2025_WP|captain#Ewa Pajor,alpha,-2.8820837275667355
+2025_WP|captain#Patri Guijarro,alpha,-1.7999511242524153
+2025_WP|captain#Lindsey Heaps,alpha,-3.0041435482759535
+2025_WP|captain#Lauren James,alpha,-1.8561958048166247
+2025_WP|captain#Leah Williamson,alpha,-2.2272006742301333
+2025_WP|coach#Alessia Russo,alpha,-1.3758639188805855
+2025_WP|coach#Alexia Putellas,alpha,-1.5495545383836364
+2025_WP|coach#Sandy Baltimore,alpha,-2.0506182005557267
+2025_WP|coach#Nathalie Björn,alpha,-2.707893393586398
+2025_WP|coach#Lucy Bronze,alpha,-1.5159331890385808
+2025_WP|coach#Mariona Caldentey,alpha,-1.4362786882227698
+2025_WP|coach#Temwa Chawinga,alpha,-1.6099246739134556
+2025_WP|coach#Chloe Kelly,alpha,-1.9833214744216003
+2025_WP|coach#Clàudia Pina,alpha,-2.324271252902876
+2025_WP|coach#Kadidiatou Diani,alpha,-2.0618578911664414
+2025_WP|coach#Melchie Dumornay,alpha,-1.7900430279321375
+2025_WP|coach#Ewa Pajor,alpha,-2.3614881880063447
+2025_WP|coach#Patri Guijarro,alpha,-2.8946939883120932
+2025_WP|coach#Lindsey Heaps,alpha,-3.1427160043175215
+2025_WP|coach#Lauren James,alpha,-2.185927866032485
+2025_WP|coach#Leah Williamson,alpha,-2.5431078880983438
+2025_WP|media#Alessia Russo,alpha,-1.5468134212335365
+2025_WP|media#Alexia Putellas,alpha,-2.0892429574975764
+2025_WP|media#Sandy Baltimore,alpha,-3.213552085224478
+2025_WP|media#Nathalie Björn,alpha,-3.5845385546420645
+2025_WP|media#Lucy Bronze,alpha,-2.3728976611785533
+2025_WP|media#Mariona Caldentey,alpha,-1.5857098195939507
+2025_WP|media#Temwa Chawinga,alpha,-2.7431888284935253
+2025_WP|media#Chloe Kelly,alpha,-2.0069470428053604
+2025_WP|media#Clàudia Pina,alpha,-3.165025675367032
+2025_WP|media#Kadidiatou Diani,alpha,-4.281263098870352
+2025_WP|media#Melchie Dumornay,alpha,-3.105842454400253
+2025_WP|media#Ewa Pajor,alpha,-4.093788134988115
+2025_WP|media#Patri Guijarro,alpha,-3.9312786551083247
+2025_WP|media#Lindsey Heaps,alpha,-4.24198701769336
+2025_WP|media#Lauren James,alpha,-2.715538603769473
+2025_WP|media#Leah Williamson,alpha,-3.57068024405688
+2010_MP|captain#Lionel Messi,ref,0.0
+2010_MP|coach#Lionel Messi,ref,0.0
+2010_MP|media#Sneijder Wesley,ref,0.0
+2010_WP|captain#Marta,ref,0.0
+2010_WP|coach#Marta,ref,0.0
+2010_WP|media#Marta,ref,0.0
+2011_MP|captain#Lionel Messi,ref,0.0
+2011_MP|coach#Lionel Messi,ref,0.0
+2011_MP|media#Lionel Messi,ref,0.0
+2011_WP|captain#Sawa Homare,ref,0.0
+2011_WP|coach#Sawa Homare,ref,0.0
+2011_WP|media#Sawa Homare,ref,0.0
+2012_MP|captain#Lionel Messi,ref,0.0
+2012_MP|coach#Lionel Messi,ref,0.0
+2012_MP|media#Lionel Messi,ref,0.0
+2012_WP|captain#Wambach Abby,ref,0.0
+2012_WP|coach#Wambach Abby,ref,0.0
+2012_WP|media#Wambach Abby,ref,0.0
+2013_MP|captain#Cristiano Ronaldo,ref,0.0
+2013_MP|coach#Cristiano Ronaldo,ref,0.0
+2013_MP|media#Ribéry Franck,ref,0.0
+2013_WP|captain#Wambach Abby,ref,0.0
+2013_WP|coach#Wambach Abby,ref,0.0
+2013_WP|media#Angerer Nadine,ref,0.0
+2014_MP|captain#Cristiano Ronaldo,ref,0.0
+2014_MP|coach#Cristiano Ronaldo,ref,0.0
+2014_MP|media#Cristiano Ronaldo,ref,0.0
+2014_WP|captain#Wambach Abby,ref,0.0
+2014_WP|coach#Wambach Abby,ref,0.0
+2014_WP|media#Kessler Nadine,ref,0.0
+2015_MP|captain#Lionel Messi,ref,0.0
+2015_MP|coach#Lionel Messi,ref,0.0
+2015_MP|media#Lionel Messi,ref,0.0
+2015_WP|captain#Lloyd Carli,ref,0.0
+2015_WP|coach#Lloyd Carli,ref,0.0
+2015_WP|media#Lloyd Carli,ref,0.0
+2016_MP|captain#Cristiano Ronaldo,ref,0.0
+2016_MP|coach#Cristiano Ronaldo,ref,0.0
+2016_MP|media#Cristiano Ronaldo,ref,0.0
+2016_WP|captain#Lloyd Carli,ref,0.0
+2016_WP|coach#Lloyd Carli,ref,0.0
+2016_WP|media#Behringer Melanie,ref,0.0
+2017_MP|captain#Cristiano Ronaldo,ref,0.0
+2017_MP|coach#Cristiano Ronaldo,ref,0.0
+2017_MP|media#Cristiano Ronaldo,ref,0.0
+2017_WP|captain#Martens Lieke,ref,0.0
+2017_WP|coach#Martens Lieke,ref,0.0
+2017_WP|media#Martens Lieke,ref,0.0
+2018_MP|captain#Luka Modrić,ref,0.0
+2018_MP|coach#Luka Modrić,ref,0.0
+2018_MP|media#Luka Modrić,ref,0.0
+2018_WP|captain#Rapinoe Megan,ref,0.0
+2018_WP|coach#Rapinoe Megan,ref,0.0
+2018_WP|media#Ada Hegerberg,ref,0.0
+2019_MP|captain#Lionel Messi,ref,0.0
+2019_MP|coach#Lionel Messi,ref,0.0
+2019_MP|media#Virgil van Dijk,ref,0.0
+2019_WP|captain#Rapinoe Megan,ref,0.0
+2019_WP|coach#Rapinoe Megan,ref,0.0
+2019_WP|media#Rapinoe Megan,ref,0.0
+2020_MP|captain#Robert Lewandowski,ref,0.0
+2020_MP|coach#Robert Lewandowski,ref,0.0
+2020_MP|media#Robert Lewandowski,ref,0.0
+2020_WP|captain#Lucy Bronze,ref,0.0
+2020_WP|coach#Lucy Bronze,ref,0.0
+2020_WP|media#Lucy Bronze,ref,0.0
+2021_MP|captain#Robert Lewandowski,ref,0.0
+2021_MP|coach#Robert Lewandowski,ref,0.0
+2021_MP|media#Robert Lewandowski,ref,0.0
+2021_WP|captain#Alexia Putellas,ref,0.0
+2021_WP|coach#Alexia Putellas,ref,0.0
+2021_WP|media#Alexia Putellas,ref,0.0
+2022_MP|captain#Lionel Messi,ref,0.0
+2022_MP|coach#Lionel Messi,ref,0.0
+2022_MP|media#Lionel Messi,ref,0.0
+2022_WP|captain#Alex Morgan,ref,0.0
+2022_WP|coach#Beth Mead,ref,0.0
+2022_WP|media#Alexia Putellas,ref,0.0
+2023_MP|captain#Erling Haaland,ref,0.0
+2023_MP|coach#Erling Haaland,ref,0.0
+2023_MP|media#Erling Haaland,ref,0.0
+2023_WP|captain#Aitana Bonmatí,ref,0.0
+2023_WP|coach#Aitana Bonmatí,ref,0.0
+2023_WP|media#Aitana Bonmatí,ref,0.0
+2024_MP|captain#Vinícius Jr,ref,0.0
+2024_MP|coach#Rodri,ref,0.0
+2024_MP|media#Vinícius Jr,ref,0.0
+2024_WP|captain#Aitana Bonmatí,ref,0.0
+2024_WP|coach#Aitana Bonmatí,ref,0.0
+2024_WP|media#Aitana Bonmatí,ref,0.0
+2025_MP|captain#Ousmane Dembélé,ref,0.0
+2025_MP|coach#Ousmane Dembélé,ref,0.0
+2025_MP|media#Ousmane Dembélé,ref,0.0
+2025_WP|captain#Aitana Bonmatí,ref,0.0
+2025_WP|coach#Aitana Bonmatí,ref,0.0
+2025_WP|media#Aitana Bonmatí,ref,0.0
+same_nation[captain],beta,2.240198021242009
+same_nation[coach],beta,2.4968436910742056
+same_nation[media],beta,1.4615497989151482
+same_confed[captain],beta,0.6832699695317817
+same_confed[coach],beta,0.6802996721154975
+same_confed[media],beta,0.5409220804344732
+same_league[captain],beta,0.3109145726345467
+same_league[coach],beta,0.5121009433801996
+same_league[media],beta,0.024664293761623306

@@ -1,0 +1,465 @@
+year,award,raw,picks,person
+2010,MP,Alonso Xabi,19,Alonso Xabi
+2010,MP,Alves Daniel,2,Dani Alves
+2010,MP,Casillas Iker,43,Casillas Iker
+2010,MP,Cristiano Ronaldo,52,Cristiano Ronaldo
+2010,MP,Drogba Didier,26,Drogba Didier
+2010,MP,Eto'o Samuel,26,Eto'o Samuel
+2010,MP,Forlán Diego,139,Forlán Diego
+2010,MP,Fábregas Cesc,4,Fàbregas Cesc
+2010,MP,Gyan Asamoah,12,Gyan Asamoah
+2010,MP,Iniesta Andrés,200,Iniesta Andrés
+2010,MP,Júlio César,6,Júlio César
+2010,MP,Klose Miroslav,5,Klose Miroslav
+2010,MP,Lahm Philipp,2,Lahm Philipp
+2010,MP,Maicon,11,Maicon
+2010,MP,Messi Lionel,241,Lionel Messi
+2010,MP,Müller Thomas,18,Müller Thomas
+2010,MP,Puyol Carles,21,Puyol Carles
+2010,MP,Robben Arjen,20,Robben Arjen
+2010,MP,Schweinsteiger Bastian,14,Schweinsteiger Bastian
+2010,MP,Sneijder Wesley,183,Sneijder Wesley
+2010,MP,Villa David,27,Villa David
+2010,MP,Xavi,176,Xavi
+2010,MP,Özil Mesut,24,Özil Mesut
+2010,WP,Abily Camille,37,Abily Camille
+2010,WP,Bajramaj Fatmire,81,Bajramaj Fatmire
+2010,WP,Ji So Yun,59,So-Yun Ji
+2010,WP,Marta,212,Marta
+2010,WP,Prinz Birgit,120,Prinz Birgit
+2010,WP,Seger Caroline,35,Seger Caroline
+2010,WP,Sinclair Christine,43,Christine Sinclair
+2010,WP,Smith Kelly,79,Smith Kelly
+2010,WP,Solo Hope,52,Solo Hope
+2010,WP,Wambach Abby,71,Wambach Abby
+2011,MP,Abidal Éric,11,Abidal Éric
+2011,MP,Agüero Sergio,10,Agüero Sergio
+2011,MP,Benzema Karim,6,Karim Benzema
+2011,MP,Casillas Iker,22,Casillas Iker
+2011,MP,Cristiano Ronaldo,322,Cristiano Ronaldo
+2011,MP,Dani Alves,4,Dani Alves
+2011,MP,Eto'o Samuel,24,Eto'o Samuel
+2011,MP,Forlán Diego,32,Forlán Diego
+2011,MP,Fàbregas Cesc,6,Fàbregas Cesc
+2011,MP,Iniesta Andrés,119,Iniesta Andrés
+2011,MP,Messi Lionel,435,Lionel Messi
+2011,MP,Müller Thomas,15,Müller Thomas
+2011,MP,Nani,5,Nani
+2011,MP,Neymar,25,Neymar
+2011,MP,Piqué Gerard,7,Piqué Gerard
+2011,MP,Rooney Wayne,65,Rooney Wayne
+2011,MP,Schweinsteiger Bastian,13,Schweinsteiger Bastian
+2011,MP,Sneijder Wesley,14,Sneijder Wesley
+2011,MP,Suárez Luis,42,Suárez Luis
+2011,MP,Villa David,12,Villa David
+2011,MP,Xabi Alonso,8,Alonso Xabi
+2011,MP,Xavi,172,Xavi
+2011,MP,Özil Mesut,18,Özil Mesut
+2011,WP,Bompastor Sonia,33,Bompastor Sonia
+2011,WP,Garefrekes Kerstin,52,Garefrekes Kerstin
+2011,WP,Marta,155,Marta
+2011,WP,Miyama Aya,105,Miyama Aya
+2011,WP,Morgan Alex,50,Alex Morgan
+2011,WP,Nécib Louisa,41,Necib Louisa
+2011,WP,Sawa Homare,169,Sawa Homare
+2011,WP,Schelin Lotta,56,Schelin Lotta
+2011,WP,Solo Hope,82,Solo Hope
+2011,WP,Wambach Abby,127,Wambach Abby
+2012,MP,Agüero Sergio,10,Agüero Sergio
+2012,MP,Alonso Xabi,22,Alonso Xabi
+2012,MP,Balotelli Mario,3,Balotelli Mario
+2012,MP,Benzema Karim,1,Karim Benzema
+2012,MP,Buffon Gianluigi,6,Buffon Gianluigi
+2012,MP,Busquets Sergio,3,Busquets Sergio
+2012,MP,Casillas Iker,56,Casillas Iker
+2012,MP,Cristiano Ronaldo,363,Cristiano Ronaldo
+2012,MP,Drogba Didier,46,Drogba Didier
+2012,MP,Falcao Radamel,87,Falcao Radamel
+2012,MP,Ibrahimovic Zlatan,25,Ibrahimovic Zlatan
+2012,MP,Iniesta Andrés,202,Iniesta Andrés
+2012,MP,Messi Lionel,457,Lionel Messi
+2012,MP,Neuer Manuel,6,Neuer Manuel
+2012,MP,Neymar,18,Neymar
+2012,MP,Piqué Gerard,3,Piqué Gerard
+2012,MP,Pirlo Andrea,53,Pirlo Andrea
+2012,MP,Ramos Sergio,4,Sergio Ramos
+2012,MP,Rooney Wayne,8,Rooney Wayne
+2012,MP,Touré Yaya,15,Touré Yaya
+2012,MP,Xavi,78,Xavi
+2012,MP,van Persie Robin,36,van Persie Robin
+2012,MP,Özil Mesut,11,Özil Mesut
+2012,WP,Abily Camille,87,Abily Camille
+2012,WP,Fukumoto Miho,61,Fukumoto Miho
+2012,WP,Lloyd Carli,59,Lloyd Carli
+2012,WP,Marta,119,Marta
+2012,WP,Miyama Aya,82,Miyama Aya
+2012,WP,Morgan Alex,99,Alex Morgan
+2012,WP,Rapinoe Megan,37,Rapinoe Megan
+2012,WP,Sawa Homare,102,Sawa Homare
+2012,WP,Sinclair Christine,101,Christine Sinclair
+2012,WP,Wambach Abby,157,Wambach Abby
+2013,MP,Bale Gareth,25,Bale Gareth
+2013,MP,Cavani Edinson,10,Cavani Edinson
+2013,MP,Cristiano Ronaldo,413,Cristiano Ronaldo
+2013,MP,Falcao Radamel,25,Falcao Radamel
+2013,MP,Hazard Eden,6,Hazard Eden
+2013,MP,Ibrahimovic Zlatan,117,Ibrahimovic Zlatan
+2013,MP,Iniesta Andrés,37,Iniesta Andrés
+2013,MP,Lahm Philipp,18,Lahm Philipp
+2013,MP,Lewandowski Robert,23,Robert Lewandowski
+2013,MP,Messi Lionel,379,Lionel Messi
+2013,MP,Müller Thomas,9,Müller Thomas
+2013,MP,Neuer Manuel,2,Neuer Manuel
+2013,MP,Neymar,65,Neymar
+2013,MP,Pirlo Andrea,21,Pirlo Andrea
+2013,MP,Ribéry Franck,319,Ribéry Franck
+2013,MP,Robben Arjen,35,Robben Arjen
+2013,MP,Schweinsteiger Bastian,11,Schweinsteiger Bastian
+2013,MP,Silva Thiago,4,Silva Thiago
+2013,MP,Suárez Luis,9,Suárez Luis
+2013,MP,Touré Yaya,22,Touré Yaya
+2013,MP,Xavi,20,Xavi
+2013,MP,van Persie Robin,38,van Persie Robin
+2013,MP,Özil Mesut,15,Özil Mesut
+2013,WP,Angerer Nadine,175,Angerer Nadine
+2013,WP,Fischer Nilla,64,Fischer Nilla
+2013,WP,Goessling Lena,115,Goessling Lena
+2013,WP,Kumagai Saki,88,Saki Kumagai
+2013,WP,Marta,157,Marta
+2013,WP,Morgan Alex,138,Alex Morgan
+2013,WP,Ogimi Yuki,63,Ogimi Yuki
+2013,WP,Schelin Lotta,104,Schelin Lotta
+2013,WP,Sinclair Christine,54,Christine Sinclair
+2013,WP,Wambach Abby,179,Wambach Abby
+2014,MP,Bale Gareth,17,Bale Gareth
+2014,MP,Benzema Karim,19,Karim Benzema
+2014,MP,Costa Diego,24,Costa Diego
+2014,MP,Courtois Thibaut,7,Courtois Thibaut
+2014,MP,Cristiano Ronaldo,440,Cristiano Ronaldo
+2014,MP,Di Maria Angel,31,Di Maria Angel
+2014,MP,Goetze Mario,11,Goetze Mario
+2014,MP,Hazard Eden,15,Hazard Eden
+2014,MP,Ibrahimovic Zlatan,21,Ibrahimovic Zlatan
+2014,MP,Iniesta Andres,13,Iniesta Andrés
+2014,MP,Kroos Toni,28,Toni Kroos
+2014,MP,Lahm Philipp,60,Lahm Philipp
+2014,MP,Mascherano Javier,11,Mascherano Javier
+2014,MP,Messi Lionel,288,Lionel Messi
+2014,MP,Mueller Thomas,107,Müller Thomas
+2014,MP,Neuer Manuel,251,Neuer Manuel
+2014,MP,Neymar,58,Neymar
+2014,MP,Pogba Paul,8,Pogba Paul
+2014,MP,Ramos Sergio,8,Sergio Ramos
+2014,MP,Robben Arjen,145,Robben Arjen
+2014,MP,Rodriguez James,32,Rodríguez James
+2014,MP,Schweinsteiger Bastian,14,Schweinsteiger Bastian
+2014,MP,Toure Yaya,24,Touré Yaya
+2014,WP,Angerer Nadine,145,Angerer Nadine
+2014,WP,Boquete Veronica,77,Boquete Veronica
+2014,WP,Fischer Nilla,78,Fischer Nilla
+2014,WP,Kawasumi Nahomi,81,Kawasumi Nahomi
+2014,WP,Kessler Nadine,152,Kessler Nadine
+2014,WP,Marta,163,Marta
+2014,WP,Miyama Aya,114,Miyama Aya
+2014,WP,Necib Louisa,96,Necib Louisa
+2014,WP,Schelin Lotta,75,Schelin Lotta
+2014,WP,Wambach Abby,171,Wambach Abby
+2015,MP,Agüero Sergio,20,Agüero Sergio
+2015,MP,Bale Gareth,11,Bale Gareth
+2015,MP,Benzema Karim,6,Karim Benzema
+2015,MP,Cristiano Ronaldo,386,Cristiano Ronaldo
+2015,MP,De Bruyne Kevin,9,Kevin De Bruyne
+2015,MP,Hazard Eden,31,Hazard Eden
+2015,MP,Ibrahimovic Zlatan,22,Ibrahimovic Zlatan
+2015,MP,Iniesta Andrés,23,Iniesta Andrés
+2015,MP,Kroos Toni,9,Toni Kroos
+2015,MP,Lewandowski Robert,83,Robert Lewandowski
+2015,MP,Mascherano Javier,11,Mascherano Javier
+2015,MP,Messi Lionel,425,Lionel Messi
+2015,MP,Müller Thomas,56,Müller Thomas
+2015,MP,Neuer Manuel,33,Neuer Manuel
+2015,MP,Neymar,189,Neymar
+2015,MP,Pogba Paul,20,Pogba Paul
+2015,MP,Rakitic Ivan,2,Rakitic Ivan
+2015,MP,Robben Arjen,9,Robben Arjen
+2015,MP,Rodríguez James,12,Rodríguez James
+2015,MP,Suárez Luis,78,Suárez Luis
+2015,MP,Sánchez Alexis,25,Sanchez Alexis
+2015,MP,Touré Yaya,18,Touré Yaya
+2015,MP,Vidal Arturo,16,Vidal Arturo
+2015,WP,Angerer Nadine,105,Angerer Nadine
+2015,WP,Bachmann Ramona,46,Bachmann Ramona
+2015,WP,Buchanan Kadeisha,39,Buchanan Kadeisha
+2015,WP,Henry Amandine,81,Henry Amandine
+2015,WP,Le Sommer Eugénie,67,Le Sommer Eugénie
+2015,WP,Lloyd Carli,272,Lloyd Carli
+2015,WP,Miyama Aya,142,Miyama Aya
+2015,WP,Rapinoe Megan,90,Rapinoe Megan
+2015,WP,Solo Hope,134,Solo Hope
+2015,WP,Šašic Célia,155,Šašic Célia
+2016,MP,Agüero Sergio,5,Agüero Sergio
+2016,MP,Bale Gareth,67,Bale Gareth
+2016,MP,Buffon Gianluigi,25,Buffon Gianluigi
+2016,MP,Cristiano Ronaldo,375,Cristiano Ronaldo
+2016,MP,De Bruyne Kevin,8,Kevin De Bruyne
+2016,MP,Griezmann Antoine,157,Griezmann Antoine
+2016,MP,Ibrahimovic Zlatan,8,Ibrahimovic Zlatan
+2016,MP,Iniesta Andrés,21,Iniesta Andrés
+2016,MP,Kanté N'Golo,10,N’Golo Kanté
+2016,MP,Kroos Toni,17,Toni Kroos
+2016,MP,Lewandowski Robert,21,Robert Lewandowski
+2016,MP,Mahrez Riyad,25,Mahrez Riyad
+2016,MP,Messi Lionel,332,Lionel Messi
+2016,MP,Modric Luka,9,Luka Modrić
+2016,MP,Neuer Manuel,20,Neuer Manuel
+2016,MP,Neymar,106,Neymar
+2016,MP,Payet Dimitri,4,Payet Dimitri
+2016,MP,Pogba Paul,11,Pogba Paul
+2016,MP,Ramos Sergio,10,Sergio Ramos
+2016,MP,Suárez Luis,73,Suárez Luis
+2016,MP,Sánchez Alexis,19,Sanchez Alexis
+2016,MP,Vardy Jamie,17,Vardy Jamie
+2016,MP,Özil Mesut,13,Özil Mesut
+2016,WP,Abily Camille,71,Abily Camille
+2016,WP,Behringer Melanie,140,Behringer Melanie
+2016,WP,Däbritz Sara,75,Däbritz Sara
+2016,WP,Henry Amandine,78,Henry Amandine
+2016,WP,Kumagai Saki,92,Saki Kumagai
+2016,WP,Lloyd Carli,203,Lloyd Carli
+2016,WP,Marozsán Dzsenifer,125,Dzsenifer Marozsán
+2016,WP,Marta,139,Marta
+2016,WP,Schelin Lotta,98,Schelin Lotta
+2016,WP,Sinclair Christine,89,Christine Sinclair
+2017,MP,Aubameyang Pierre-Emerick,24,Aubameyang Pierre-Emerick
+2017,MP,Bonucci Leonardo,12,Bonucci Leonardo
+2017,MP,Buffon Gianluigi,153,Buffon Gianluigi
+2017,MP,Carvajal Dani,3,Dani Carvajal
+2017,MP,Cristiano Ronaldo,414,Cristiano Ronaldo
+2017,MP,Dybala Paulo,18,Dybala Paulo
+2017,MP,Griezmann Antoine,9,Griezmann Antoine
+2017,MP,Hazard Eden,24,Hazard Eden
+2017,MP,Ibrahimovic Zlatan,13,Ibrahimovic Zlatan
+2017,MP,Iniesta Andrés,11,Iniesta Andrés
+2017,MP,Kane Harry,7,Harry Kane
+2017,MP,Kanté N'Golo,27,N’Golo Kanté
+2017,MP,Kroos Toni,32,Toni Kroos
+2017,MP,Lewandowski Robert,13,Robert Lewandowski
+2017,MP,Marcelo,27,Marcelo
+2017,MP,Messi Lionel,291,Lionel Messi
+2017,MP,Modric Luka,55,Luka Modrić
+2017,MP,Navas Keylor,6,Navas Keylor
+2017,MP,Neuer Manuel,8,Neuer Manuel
+2017,MP,Neymar,138,Neymar
+2017,MP,Ramos Sergio,60,Sergio Ramos
+2017,MP,Sanchez Alexis,10,Sanchez Alexis
+2017,MP,Suárez Luis,13,Suárez Luis
+2017,MP,Vidal Arturo,9,Vidal Arturo
+2017,WP,Bronze Lucy,71,Lucy Bronze
+2017,WP,Castellanos Deyna,55,Castellanos Deyna
+2017,WP,Harder Pernille,142,Pernille Harder
+2017,WP,Kerr Sam,58,Sam Kerr
+2017,WP,Lloyd Carli,165,Lloyd Carli
+2017,WP,Marozsán Dzsenifer,152,Dzsenifer Marozsán
+2017,WP,Martens Lieke,223,Martens Lieke
+2017,WP,Miedema Vivianne,84,Vivianne Miedema
+2017,WP,Renard Wendie,88,Wendie Renard
+2017,WP,Taylor Jodie,87,Taylor Jodie
+2018,MP,Cristiano Ronaldo,285,Cristiano Ronaldo
+2018,MP,De Bruyne Kevin,70,Kevin De Bruyne
+2018,MP,Griezmann Antoine,139,Griezmann Antoine
+2018,MP,Hazard Eden,100,Hazard Eden
+2018,MP,Kane Harry,17,Harry Kane
+2018,MP,Mbappé Kylian,203,Kylian Mbappé
+2018,MP,Messi Lionel,121,Lionel Messi
+2018,MP,Modric Luka,401,Luka Modrić
+2018,MP,Salah Mohamed,129,Mohamed Salah
+2018,MP,Varane Raphael,53,Varane Raphael
+2018,WP,Bronze Lucy,122,Lucy Bronze
+2018,WP,Harder Pernille,130,Pernille Harder
+2018,WP,Hegerberg Ada,145,Ada Hegerberg
+2018,WP,Henry Amandine,106,Henry Amandine
+2018,WP,Kerr Sam,103,Sam Kerr
+2018,WP,Kumagai Saki,114,Saki Kumagai
+2018,WP,Maroszán Dzsenifer,153,Dzsenifer Marozsán
+2018,WP,Marta,151,Marta
+2018,WP,Rapinoe Megan,140,Rapinoe Megan
+2018,WP,Renard Wendie,105,Wendie Renard
+2019,MP,Cristiano Ronaldo,285,Cristiano Ronaldo
+2019,MP,De Jong Frenkie,56,De Jong Frenkie
+2019,MP,De Ligt Matthijs,38,De Ligt Matthijs
+2019,MP,Hazard Eden,78,Hazard Eden
+2019,MP,Kane Harry,28,Harry Kane
+2019,MP,Mané Sadio,143,Sadio Mané
+2019,MP,Mbappé Kylian,100,Kylian Mbappé
+2019,MP,Messi Lionel,328,Lionel Messi
+2019,MP,Salah Mohamed,146,Mohamed Salah
+2019,MP,Van Dijk Virgil,304,Virgil van Dijk
+2019,WP,Bronze Lucy,114,Lucy Bronze
+2019,WP,Ertz Julie,64,Ertz Julie
+2019,WP,Graham Hansen Caroline,25,Caroline Graham Hansen
+2019,WP,Hegerberg Ada,85,Ada Hegerberg
+2019,WP,Henry Amandine,100,Henry Amandine
+2019,WP,Kerr Sam,44,Sam Kerr
+2019,WP,Lavelle Rose,97,Lavelle Rose
+2019,WP,Miedema Vivianne,122,Vivianne Miedema
+2019,WP,Morgan Alex,193,Alex Morgan
+2019,WP,Rapinoe Megan,324,Rapinoe Megan
+2019,WP,Renard Wendie,72,Wendie Renard
+2019,WP,White Ellen,86,Ellen White
+2020,MP,Cristiano Ronaldo,210,Cristiano Ronaldo
+2020,MP,Kevin De Bruyne,161,Kevin De Bruyne
+2020,MP,Kylian Mbappé,110,Kylian Mbappé
+2020,MP,Lionel Messi,174,Lionel Messi
+2020,MP,Mohamed Salah,114,Mohamed Salah
+2020,MP,Neymar,64,Neymar
+2020,MP,Robert Lewandowski,456,Robert Lewandowski
+2020,MP,Sadio Mané,186,Sadio Mané
+2020,MP,Sergio Ramos,77,Sergio Ramos
+2020,MP,Thiago Alcântara,95,Thiago Alcântara
+2020,MP,Virgil van Dijk,83,Virgil van Dijk
+2020,WP,Caroline Graham Hansen,100,Caroline Graham Hansen
+2020,WP,Delphine Cascarino,184,Delphine Cascarino
+2020,WP,Dzsenifer Marozsán,121,Dzsenifer Marozsán
+2020,WP,Jennifer Hermoso,85,Jennifer Hermoso
+2020,WP,Ji So-yun,70,So-Yun Ji
+2020,WP,Lucy Bronze,274,Lucy Bronze
+2020,WP,Pernille Harder,198,Pernille Harder
+2020,WP,Saki Kumagai,67,Saki Kumagai
+2020,WP,Sam Kerr,120,Sam Kerr
+2020,WP,Vivianne Miedema,163,Vivianne Miedema
+2020,WP,Wendie Renard,208,Wendie Renard
+2021,MP,Cristiano Ronaldo,110,Cristiano Ronaldo
+2021,MP,Erling Haaland,28,Erling Haaland
+2021,MP,Jorginho,186,Jorginho
+2021,MP,Karim Benzema,182,Karim Benzema
+2021,MP,Kevin De Bruyne,73,Kevin De Bruyne
+2021,MP,Kylian Mbappé,67,Kylian Mbappé
+2021,MP,Lionel Messi,305,Lionel Messi
+2021,MP,Mohamed Salah,225,Mohamed Salah
+2021,MP,Neymar,15,Neymar
+2021,MP,N’Golo Kanté,147,N’Golo Kanté
+2021,MP,Robert Lewandowski,441,Robert Lewandowski
+2021,WP,Aitana Bonmatí,109,Aitana Bonmatí
+2021,WP,Alexia Putellas,293,Alexia Putellas
+2021,WP,Caroline Graham Hansen,101,Caroline Graham Hansen
+2021,WP,Christine Sinclair,132,Christine Sinclair
+2021,WP,Ellen White,88,Ellen White
+2021,WP,Jenni Hermoso,158,Jennifer Hermoso
+2021,WP,Lucy Bronze,119,Lucy Bronze
+2021,WP,Magdalena Eriksson,98,Magdalena Eriksson
+2021,WP,Pernille Harder,72,Pernille Harder
+2021,WP,Sam Kerr,195,Sam Kerr
+2021,WP,So-Yun Ji,76,So-Yun Ji
+2021,WP,Stina Blackstenius,68,Stina Blackstenius
+2021,WP,Vivianne Miedema,165,Vivianne Miedema
+2022,MP,Achraf Hakimi,28,Achraf Hakimi
+2022,MP,Erling Haaland,85,Erling Haaland
+2022,MP,Jude Bellingham,18,Jude Bellingham
+2022,MP,Julián Álvarez,29,Julián Álvarez
+2022,MP,Karim Benzema,326,Karim Benzema
+2022,MP,Kevin De Bruyne,41,Kevin De Bruyne
+2022,MP,Kylian Mbappé,461,Kylian Mbappé
+2022,MP,Lionel Messi,526,Lionel Messi
+2022,MP,Luka Modrić,118,Luka Modrić
+2022,MP,Mohamed Salah,12,Mohamed Salah
+2022,MP,Neymar,24,Neymar
+2022,MP,Robert Lewandowski,23,Robert Lewandowski
+2022,MP,Sadio Mané,52,Sadio Mané
+2022,MP,Vinícius Junior,18,Vinícius Jr
+2022,WP,Ada Hegerberg,83,Ada Hegerberg
+2022,WP,Aitana Bonmatí,141,Aitana Bonmatí
+2022,WP,Alex Morgan,169,Alex Morgan
+2022,WP,Alexandra Popp,123,Alexandra Popp
+2022,WP,Alexia Putellas,244,Alexia Putellas
+2022,WP,Beth Mead,226,Beth Mead
+2022,WP,Debinha,111,Debinha
+2022,WP,Jessie Fleming,44,Jessie Fleming
+2022,WP,Keira Walsh,50,Keira Walsh
+2022,WP,Leah Williamson,97,Leah Williamson
+2022,WP,Lena Oberdorf,72,Lena Oberdorf
+2022,WP,Sam Kerr,185,Sam Kerr
+2022,WP,Vivianne Miedema,68,Vivianne Miedema
+2022,WP,Wendie Renard,91,Wendie Renard
+2023,MP,Bernardo Silva,50,Bernardo Silva
+2023,MP,Declan Rice,8,Declan Rice
+2023,MP,Erling Haaland,513,Erling Haaland
+2023,MP,Julián Álvarez,55,Julián Álvarez
+2023,MP,Kevin De Bruyne,209,Kevin De Bruyne
+2023,MP,Khvicha Kvaratskhelia,29,Khvicha Kvaratskhelia
+2023,MP,Kylian Mbappé,308,Kylian Mbappé
+2023,MP,Lionel Messi,382,Lionel Messi
+2023,MP,Marcelo Brozović,17,Marcelo Brozović
+2023,MP,Rodri,95,Rodri
+2023,MP,Victor Osimhen,95,Victor Osimhen
+2023,MP,İlkay Gündoğan,51,İlkay Gündoğan
+2023,WP,Aitana Bonmatí,404,Aitana Bonmatí
+2023,WP,Alex Greenwood,52,Alex Greenwood
+2023,WP,Amanda Ilestedt,35,Amanda Ilestedt
+2023,WP,Caitlin Foord,27,Caitlin Foord
+2023,WP,Hinata Miyazawa,91,Hinata Miyazawa
+2023,WP,Jennifer Hermoso,176,Jennifer Hermoso
+2023,WP,Kadidiatou Diani,75,Kadidiatou Diani
+2023,WP,Keira Walsh,68,Keira Walsh
+2023,WP,Lauren James,103,Lauren James
+2023,WP,Linda Caicedo,163,Linda Caicedo
+2023,WP,Lindsey Horan,42,Lindsey Heaps
+2023,WP,Mapi León,50,Mapi León
+2023,WP,Mary Fowler,35,Mary Fowler
+2023,WP,Rachel Daly,67,Rachel Daly
+2023,WP,Salma Paralluelo,165,Salma Paralluelo
+2023,WP,Sam Kerr,166,Sam Kerr
+2024,MP,Dani Carvajal,177,Dani Carvajal
+2024,MP,Erling Haaland,100,Erling Haaland
+2024,MP,Federico Valverde,21,Federico Valverde
+2024,MP,Florian Wirtz,36,Florian Wirtz
+2024,MP,Jude Bellingham,230,Jude Bellingham
+2024,MP,Kylian Mbappé,56,Kylian Mbappé
+2024,MP,Lamine Yamal,145,Lamine Yamal
+2024,MP,Lionel Messi,63,Lionel Messi
+2024,MP,Rodri,387,Rodri
+2024,MP,Toni Kroos,80,Toni Kroos
+2024,MP,Vinícius Jr,433,Vinícius Jr
+2024,WP,Aitana Bonmatí,406,Aitana Bonmatí
+2024,WP,Barbra Banda,168,Barbra Banda
+2024,WP,Caroline Graham Hansen,172,Caroline Graham Hansen
+2024,WP,Keira Walsh,34,Keira Walsh
+2024,WP,Khadija Shaw,97,Khadija Shaw
+2024,WP,Lauren Hemp,26,Lauren Hemp
+2024,WP,Lindsey Horan,127,Lindsey Heaps
+2024,WP,Lucy Bronze,99,Lucy Bronze
+2024,WP,Mallory Swanson,23,Mallory Swanson
+2024,WP,Mariona Caldentey,55,Mariona Caldentey
+2024,WP,Naomi Girma,67,Naomi Girma
+2024,WP,Ona Batlle,55,Ona Batlle
+2024,WP,Salma Paralluelo,112,Salma Paralluelo
+2024,WP,Sophia Smith,68,Sophia Smith
+2024,WP,Tabitha Chawinga,95,Tabitha Chawinga
+2024,WP,Trinity Rodman,40,Trinity Rodman
+2025,MP,Achraf Hakimi,182,Achraf Hakimi
+2025,MP,Cole Palmer,38,Cole Palmer
+2025,MP,Harry Kane,91,Harry Kane
+2025,MP,Kylian Mbappé,185,Kylian Mbappé
+2025,MP,Lamine Yamal,277,Lamine Yamal
+2025,MP,Mohamed Salah,124,Mohamed Salah
+2025,MP,Nuno Mendes,63,Nuno Mendes
+2025,MP,Ousmane Dembélé,476,Ousmane Dembélé
+2025,MP,Pedri,52,Pedri
+2025,MP,Raphinha,104,Raphinha
+2025,MP,Vitinha,160,Vitinha
+2025,WP,Aitana Bonmatí,396,Aitana Bonmatí
+2025,WP,Alessia Russo,159,Alessia Russo
+2025,WP,Alexia Putellas,135,Alexia Putellas
+2025,WP,Chloe Kelly,110,Chloe Kelly
+2025,WP,Clàudia Pina,53,Clàudia Pina
+2025,WP,Ewa Pajor,37,Ewa Pajor
+2025,WP,Kadidiatou Diani,61,Kadidiatou Diani
+2025,WP,Lauren James,75,Lauren James
+2025,WP,Leah Williamson,46,Leah Williamson
+2025,WP,Lindsey Heaps,24,Lindsey Heaps
+2025,WP,Lucy Bronze,122,Lucy Bronze
+2025,WP,Mariona Caldentey,170,Mariona Caldentey
+2025,WP,Melchie Dumornay,72,Melchie Dumornay
+2025,WP,Nathalie Björn,33,Nathalie Björn
+2025,WP,Patri Guijarro,48,Patri Guijarro
+2025,WP,Sandy Baltimore,60,Sandy Baltimore
+2025,WP,Temwa Chawinga,124,Temwa Chawinga

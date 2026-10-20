@@ -1,0 +1,9 @@
+year,award,k,jurors_parsed,jurors_stated,stated_source,named_jurors,wikipedia_implied_jurors,wikipedia_nominees,wikipedia_max_abs_diff,wikipedia_n_diff,lequipe_implied_jurors,lequipe_nominees,lequipe_max_abs_diff,lequipe_n_diff
+2019,MP,5,176,176,"France Football print issue of 4 Dec 2019, as recorded in the JASA data dictionary",0,176.0,30,1,2,,,,
+2022,MP,5,93,93,L'Équipe 2022: Benzema 'premier du classement des jurés 89 fois sur 93',93,93.0,30,0,0,93.0,30,0,0
+2023,MP,5,92,,no stated count (L'Équipe page paywalled),0,92.0,30,0,0,,,,
+2023,WP,5,47,47,L'Équipe 2023: Bonmatí 'citée à la première place 42 fois sur 47',47,47.062,30,1,1,47.0,30,0,0
+2024,MP,10,99,99,JASA voter_source.csv: 'France Football 2024 (99 FIFA-ranked voters)',0,99.0,30,0,0,,,,
+2024,WP,10,49,49,L'Équipe 2024: 'l'intégralité des votes des 49 jurés',49,49.0,30,0,0,49.0,30,0,0
+2025,MP,10,100,100,L'Équipe 2025: 'l'unanimité parmi les 100 jurés',100,100.0,30,0,0,,,,
+2025,WP,10,50,,no stated count (50 countries invited),50,50.0,30,0,0,,,,

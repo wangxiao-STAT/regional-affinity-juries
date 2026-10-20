@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.npz
+data/raw/*
+!data/raw/fifa/
+data/raw/fifa/*
+!data/raw/fifa/manifest.csv
+manuscript/generated/
+jobs/logs/
+.pytest_cache/

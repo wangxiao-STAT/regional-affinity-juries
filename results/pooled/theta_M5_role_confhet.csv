@@ -1,0 +1,476 @@
+param,kind,value
+2010_MP#Alonso Xabi,alpha,-3.002371796954245
+2010_MP#Dani Alves,alpha,-5.136963750111475
+2010_MP#Iniesta Andrés,alpha,-0.4211715994610575
+2010_MP#Robben Arjen,alpha,-2.9638325373825256
+2010_MP#Gyan Asamoah,alpha,-3.753505106700701
+2010_MP#Schweinsteiger Bastian,alpha,-3.3221993496549547
+2010_MP#Puyol Carles,alpha,-2.904321169308643
+2010_MP#Casillas Iker,alpha,-2.1743914321088833
+2010_MP#Júlio César,alpha,-4.036502986072807
+2010_MP#Fàbregas Cesc,alpha,-4.575898298364504
+2010_MP#Cristiano Ronaldo,alpha,-1.9789097180141881
+2010_MP#Villa David,alpha,-2.642678877391445
+2010_MP#Drogba Didier,alpha,-2.973122652726005
+2010_MP#Forlán Diego,alpha,-0.8184847727331744
+2010_MP#Eto'o Samuel,alpha,-2.9597213929692665
+2010_MP#Klose Miroslav,alpha,-4.35522455673639
+2010_MP#Lahm Philipp,alpha,-5.272425022155925
+2010_MP#Maicon,alpha,-3.4268426614932785
+2010_MP#Özil Mesut,alpha,-2.7844542479964454
+2010_MP#Müller Thomas,alpha,-3.069097990076857
+2010_MP#Sneijder Wesley,alpha,-0.568465603929829
+2010_MP#Xavi,alpha,-0.5564214021570012
+2010_WP#Wambach Abby,alpha,-2.0479855693399918
+2010_WP#Abily Camille,alpha,-2.8349698760416167
+2010_WP#Bajramaj Fatmire,alpha,-1.9716158725884494
+2010_WP#Prinz Birgit,alpha,-1.4822536047845472
+2010_WP#Seger Caroline,alpha,-2.8800743997449016
+2010_WP#Christine Sinclair,alpha,-2.5801802994399026
+2010_WP#Solo Hope,alpha,-2.3991057142135648
+2010_WP#So-Yun Ji,alpha,-2.301436984401835
+2010_WP#Smith Kelly,alpha,-1.9898589824435091
+2011_MP#Abidal Éric,alpha,-5.751165715531366
+2011_MP#Agüero Sergio,alpha,-5.763764194361605
+2011_MP#Alonso Xabi,alpha,-6.032817780816801
+2011_MP#Dani Alves,alpha,-6.646704028931746
+2011_MP#Iniesta Andrés,alpha,-3.292354473914576
+2011_MP#Schweinsteiger Bastian,alpha,-5.581130119057276
+2011_MP#Karim Benzema,alpha,-6.357042877055933
+2011_MP#Casillas Iker,alpha,-5.013562440749196
+2011_MP#Fàbregas Cesc,alpha,-6.323106377610555
+2011_MP#Cristiano Ronaldo,alpha,-1.852626302285721
+2011_MP#Villa David,alpha,-5.628110286950591
+2011_MP#Forlán Diego,alpha,-4.554726335853366
+2011_MP#Eto'o Samuel,alpha,-5.234128366606645
+2011_MP#Piqué Gerard,alpha,-6.168839773946992
+2011_MP#Suárez Luis,alpha,-4.283410881595771
+2011_MP#Özil Mesut,alpha,-5.239320427165448
+2011_MP#Müller Thomas,alpha,-5.4388382882040744
+2011_MP#Nani,alpha,-6.507072058679532
+2011_MP#Neymar,alpha,-4.837092729657426
+2011_MP#Rooney Wayne,alpha,-3.959859940235395
+2011_MP#Sneijder Wesley,alpha,-5.48162990155111
+2011_MP#Xavi,alpha,-2.878745658876984
+2011_WP#Wambach Abby,alpha,-0.5403136488646917
+2011_WP#Alex Morgan,alpha,-1.588643161283017
+2011_WP#Miyama Aya,alpha,-0.813025366379041
+2011_WP#Bompastor Sonia,alpha,-2.2137139720083723
+2011_WP#Garefrekes Kerstin,alpha,-1.774983428700005
+2011_WP#Solo Hope,alpha,-1.072419417163815
+2011_WP#Schelin Lotta,alpha,-1.668937784632477
+2011_WP#Necib Louisa,alpha,-2.015413306652918
+2011_WP#Marta,alpha,-0.26572151800008353
+2012_MP#Agüero Sergio,alpha,-5.168415968690808
+2012_MP#Alonso Xabi,alpha,-4.437857951125677
+2012_MP#Pirlo Andrea,alpha,-3.544939184115799
+2012_MP#Iniesta Andrés,alpha,-2.1250758183014975
+2012_MP#Balotelli Mario,alpha,-6.456243260070535
+2012_MP#Karim Benzema,alpha,-7.571262369170443
+2012_MP#Buffon Gianluigi,alpha,-5.744514185117238
+2012_MP#Busquets Sergio,alpha,-6.437036720156868
+2012_MP#Casillas Iker,alpha,-3.478032763140931
+2012_MP#Cristiano Ronaldo,alpha,-1.1642962429859933
+2012_MP#Drogba Didier,alpha,-3.9920737187104907
+2012_MP#Falcao Radamel,alpha,-2.9312973823938173
+2012_MP#Piqué Gerard,alpha,-6.437642371405261
+2012_MP#Ibrahimovic Zlatan,alpha,-4.305119971596003
+2012_MP#Neuer Manuel,alpha,-5.772520377493755
+2012_MP#Özil Mesut,alpha,-5.147023692632418
+2012_MP#Neymar,alpha,-4.605143568341607
+2012_MP#van Persie Robin,alpha,-3.963701674983497
+2012_MP#Sergio Ramos,alpha,-6.145974291881276
+2012_MP#Rooney Wayne,alpha,-5.523263508311411
+2012_MP#Touré Yaya,alpha,-5.13293047595905
+2012_MP#Xavi,alpha,-3.145036941965992
+2012_WP#Abily Camille,alpha,-0.9840914236906219
+2012_WP#Alex Morgan,alpha,-0.6314307440312831
+2012_WP#Miyama Aya,alpha,-0.8823670960836806
+2012_WP#Lloyd Carli,alpha,-1.212976560061348
+2012_WP#Christine Sinclair,alpha,-0.601772863717216
+2012_WP#Fukumoto Miho,alpha,-1.2149552452633252
+2012_WP#Sawa Homare,alpha,-0.5962077675221505
+2012_WP#Marta,alpha,-0.35316850494363666
+2012_WP#Rapinoe Megan,alpha,-1.7236771746536257
+2013_MP#Pirlo Andrea,alpha,-3.4898134821643874
+2013_MP#Iniesta Andrés,alpha,-2.9282053520680207
+2013_MP#Robben Arjen,alpha,-2.977603273708195
+2013_MP#Bale Gareth,alpha,-3.3124953981703453
+2013_MP#Schweinsteiger Bastian,alpha,-4.14844649674663
+2013_MP#Cavani Edinson,alpha,-4.169577247656618
+2013_MP#Hazard Eden,alpha,-4.771571692815715
+2013_MP#Falcao Radamel,alpha,-3.2122989415054177
+2013_MP#Ribéry Franck,alpha,-0.4216621504327889
+2013_MP#Ibrahimovic Zlatan,alpha,-1.7235073015591602
+2013_MP#Lahm Philipp,alpha,-3.627012155474102
+2013_MP#Robert Lewandowski,alpha,-3.410650570290807
+2013_MP#Lionel Messi,alpha,-0.0499700267529968
+2013_MP#Suárez Luis,alpha,-4.264711224626445
+2013_MP#Neuer Manuel,alpha,-5.855074055000261
+2013_MP#Özil Mesut,alpha,-3.831551868834571
+2013_MP#Müller Thomas,alpha,-4.348425237745371
+2013_MP#Neymar,alpha,-2.27765559729485
+2013_MP#van Persie Robin,alpha,-2.8917826990191515
+2013_MP#Silva Thiago,alpha,-5.056419921433702
+2013_MP#Touré Yaya,alpha,-3.7935865575352596
+2013_MP#Xavi,alpha,-3.549514037521129
+2013_WP#Alex Morgan,alpha,-0.33666801173258304
+2013_WP#Angerer Nadine,alpha,-0.03899581142286487
+2013_WP#Christine Sinclair,alpha,-1.368602887852402
+2013_WP#Fischer Nilla,alpha,-1.3122835890684246
+2013_WP#Goessling Lena,alpha,-0.6122338350904867
+2013_WP#Saki Kumagai,alpha,-0.9482644293697403
+2013_WP#Schelin Lotta,alpha,-0.7638123283653971
+2013_WP#Marta,alpha,-0.12727650289941134
+2013_WP#Ogimi Yuki,alpha,-1.2785331687720989
+2014_MP#Iniesta Andrés,alpha,-4.488283706247144
+2014_MP#Di Maria Angel,alpha,-3.486751153262763
+2014_MP#Robben Arjen,alpha,-1.9784853529046837
+2014_MP#Bale Gareth,alpha,-4.183114116791985
+2014_MP#Schweinsteiger Bastian,alpha,-4.380625025887839
+2014_MP#Karim Benzema,alpha,-4.101953385629534
+2014_MP#Costa Diego,alpha,-3.8755031186771762
+2014_MP#Courtois Thibaut,alpha,-5.090203710373203
+2014_MP#Hazard Eden,alpha,-4.331700170402691
+2014_MP#Goetze Mario,alpha,-4.62602091966683
+2014_MP#Ibrahimovic Zlatan,alpha,-3.969187175446416
+2014_MP#Rodríguez James,alpha,-3.448182345066444
+2014_MP#Mascherano Javier,alpha,-4.5530530271282394
+2014_MP#Toni Kroos,alpha,-3.6880924255549776
+2014_MP#Lahm Philipp,alpha,-2.907112550117073
+2014_MP#Lionel Messi,alpha,-1.0075534385398106
+2014_MP#Neuer Manuel,alpha,-1.2931938824698712
+2014_MP#Müller Thomas,alpha,-2.308994506251203
+2014_MP#Neymar,alpha,-2.838141391298505
+2014_MP#Pogba Paul,alpha,-4.977718781054357
+2014_MP#Sergio Ramos,alpha,-4.969088416190364
+2014_MP#Touré Yaya,alpha,-4.186856289114502
+2014_WP#Angerer Nadine,alpha,-0.293910774523505
+2014_WP#Miyama Aya,alpha,-0.4921124303235753
+2014_WP#Boquete Veronica,alpha,-1.0122743951205093
+2014_WP#Fischer Nilla,alpha,-1.0293595731872973
+2014_WP#Kawasumi Nahomi,alpha,-0.9655051813951205
+2014_WP#Kessler Nadine,alpha,-0.18675393342604366
+2014_WP#Schelin Lotta,alpha,-1.05000236396723
+2014_WP#Necib Louisa,alpha,-0.7904657364240342
+2014_WP#Marta,alpha,-0.025132326295749026
+2015_MP#Agüero Sergio,alpha,-4.346531095361652
+2015_MP#Sanchez Alexis,alpha,-4.094274528125938
+2015_MP#Iniesta Andrés,alpha,-4.330856991255086
+2015_MP#Robben Arjen,alpha,-5.272664979223221
+2015_MP#Vidal Arturo,alpha,-4.560325207909798
+2015_MP#Bale Gareth,alpha,-5.047394860259586
+2015_MP#Karim Benzema,alpha,-5.693045556580149
+2015_MP#Kevin De Bruyne,alpha,-5.262188768731739
+2015_MP#Cristiano Ronaldo,alpha,-0.8586287329465193
+2015_MP#Hazard Eden,alpha,-4.018960795289648
+2015_MP#Ibrahimovic Zlatan,alpha,-4.347340810884194
+2015_MP#Rakitic Ivan,alpha,-6.8096365712748685
+2015_MP#Rodríguez James,alpha,-4.83947862557733
+2015_MP#Mascherano Javier,alpha,-4.9554689014041
+2015_MP#Toni Kroos,alpha,-5.2627987830522995
+2015_MP#Robert Lewandowski,alpha,-2.993190453136212
+2015_MP#Suárez Luis,alpha,-2.936707575077987
+2015_MP#Neuer Manuel,alpha,-3.940171147450304
+2015_MP#Müller Thomas,alpha,-3.4211747817910414
+2015_MP#Neymar,alpha,-2.003864949358042
+2015_MP#Pogba Paul,alpha,-4.487638648532869
+2015_MP#Touré Yaya,alpha,-4.928925971154449
+2015_WP#Henry Amandine,alpha,-2.033924996977684
+2015_WP#Angerer Nadine,alpha,-1.7707980603336975
+2015_WP#Miyama Aya,alpha,-1.392248453124139
+2015_WP#Bachmann Ramona,alpha,-2.6733915097136327
+2015_WP#Buchanan Kadeisha,alpha,-2.724980257697365
+2015_WP#Šašic Célia,alpha,-1.3125148505588409
+2015_WP#Le Sommer Eugénie,alpha,-2.2759796553621845
+2015_WP#Solo Hope,alpha,-1.3670249750053745
+2015_WP#Rapinoe Megan,alpha,-1.8028424434217345
+2016_MP#Agüero Sergio,alpha,-5.217210132605207
+2016_MP#Sanchez Alexis,alpha,-3.8466368190822684
+2016_MP#Iniesta Andrés,alpha,-3.922591958455699
+2016_MP#Griezmann Antoine,alpha,-1.7999173873601677
+2016_MP#Bale Gareth,alpha,-2.6977280561797787
+2016_MP#Kevin De Bruyne,alpha,-4.906494602590457
+2016_MP#Buffon Gianluigi,alpha,-3.6957715458883924
+2016_MP#Payet Dimitri,alpha,-5.5709058454277365
+2016_MP#Ibrahimovic Zlatan,alpha,-4.857927095018682
+2016_MP#Vardy Jamie,alpha,-4.156548934666622
+2016_MP#N’Golo Kanté,alpha,-4.653656702214976
+2016_MP#Toni Kroos,alpha,-4.090928905969222
+2016_MP#Robert Lewandowski,alpha,-3.881239960747967
+2016_MP#Lionel Messi,alpha,-0.4196695466974883
+2016_MP#Suárez Luis,alpha,-2.4638366168362875
+2016_MP#Luka Modrić,alpha,-4.750810987155213
+2016_MP#Mahrez Riyad,alpha,-3.9528973347156438
+2016_MP#Neuer Manuel,alpha,-3.948929771596157
+2016_MP#Özil Mesut,alpha,-4.375930549340639
+2016_MP#Neymar,alpha,-2.091473007377686
+2016_MP#Pogba Paul,alpha,-4.559257860293539
+2016_MP#Sergio Ramos,alpha,-4.64218338543376
+2016_WP#Abily Camille,alpha,-1.4873220438512031
+2016_WP#Henry Amandine,alpha,-1.4125248801323993
+2016_WP#Behringer Melanie,alpha,-0.6866204274208507
+2016_WP#Christine Sinclair,alpha,-1.1268565335974856
+2016_WP#Däbritz Sara,alpha,-1.4255898227018204
+2016_WP#Dzsenifer Marozsán,alpha,-0.8037940923208262
+2016_WP#Saki Kumagai,alpha,-1.185764667499683
+2016_WP#Schelin Lotta,alpha,-1.1701615880319602
+2016_WP#Marta,alpha,-0.532012588592777
+2017_MP#Sanchez Alexis,alpha,-5.144213242671871
+2017_MP#Iniesta Andrés,alpha,-5.2367687464263994
+2017_MP#Griezmann Antoine,alpha,-5.4379701668583404
+2017_MP#Vidal Arturo,alpha,-5.2462456673609905
+2017_MP#Aubameyang Pierre-Emerick,alpha,-4.778798404739071
+2017_MP#Bonucci Leonardo,alpha,-5.260457332132199
+2017_MP#Buffon Gianluigi,alpha,-2.485995700929489
+2017_MP#Dani Carvajal,alpha,-6.532395735836118
+2017_MP#Dybala Paulo,alpha,-4.590993298912387
+2017_MP#Hazard Eden,alpha,-4.461574091114136
+2017_MP#Harry Kane,alpha,-5.7323605475663895
+2017_MP#Ibrahimovic Zlatan,alpha,-5.058695820519585
+2017_MP#N’Golo Kanté,alpha,-4.333335527437956
+2017_MP#Navas Keylor,alpha,-5.713114717182807
+2017_MP#Toni Kroos,alpha,-4.120857267695917
+2017_MP#Robert Lewandowski,alpha,-5.03391479622265
+2017_MP#Lionel Messi,alpha,-1.4082197698707872
+2017_MP#Suárez Luis,alpha,-4.911652624180242
+2017_MP#Luka Modrić,alpha,-3.575852013802522
+2017_MP#Neuer Manuel,alpha,-5.524125075090893
+2017_MP#Marcelo,alpha,-4.1774496686431375
+2017_MP#Neymar,alpha,-2.4660477530731506
+2017_MP#Sergio Ramos,alpha,-3.4791353855290743
+2017_WP#Lucy Bronze,alpha,-1.535416613476099
+2017_WP#Lloyd Carli,alpha,-0.3114054297414622
+2017_WP#Castellanos Deyna,alpha,-1.6254500036737891
+2017_WP#Dzsenifer Marozsán,alpha,-0.6417076858015337
+2017_WP#Pernille Harder,alpha,-0.7032025079241484
+2017_WP#Taylor Jodie,alpha,-1.3083633485154726
+2017_WP#Sam Kerr,alpha,-1.73975850215441
+2017_WP#Vivianne Miedema,alpha,-1.3177061567897952
+2017_WP#Wendie Renard,alpha,-1.2887299130437277
+2018_MP#Griezmann Antoine,alpha,-1.7140321866809707
+2018_MP#Kevin De Bruyne,alpha,-2.46473806714149
+2018_MP#Cristiano Ronaldo,alpha,-0.7889870186812841
+2018_MP#Hazard Eden,alpha,-2.0710510546384624
+2018_MP#Harry Kane,alpha,-3.9147134734951945
+2018_MP#Kylian Mbappé,alpha,-1.2870159926215121
+2018_MP#Lionel Messi,alpha,-1.7444275116164747
+2018_MP#Mohamed Salah,alpha,-2.032879459665373
+2018_MP#Varane Raphael,alpha,-2.7200674938818348
+2018_WP#Ada Hegerberg,alpha,-0.04201138714456237
+2018_WP#Henry Amandine,alpha,-0.44185926601305103
+2018_WP#Lucy Bronze,alpha,-0.29849182242822414
+2018_WP#Pernille Harder,alpha,-0.16127375218953657
+2018_WP#Sam Kerr,alpha,-0.46067350811389424
+2018_WP#Saki Kumagai,alpha,-0.39565416948880694
+2018_WP#Marta,alpha,0.13157753833669728
+2018_WP#Rapinoe Megan,alpha,0.03974680684245655
+2018_WP#Wendie Renard,alpha,-0.4532734019140984
+2019_MP#Cristiano Ronaldo,alpha,-0.43960490987741374
+2019_MP#De Jong Frenkie,alpha,-2.3481650482562784
+2019_MP#De Ligt Matthijs,alpha,-2.7473286135841843
+2019_MP#Virgil van Dijk,alpha,-0.24486909921864708
+2019_MP#Hazard Eden,alpha,-1.9771014299021163
+2019_MP#Harry Kane,alpha,-3.046366704009623
+2019_MP#Kylian Mbappé,alpha,-1.7328644403635616
+2019_MP#Sadio Mané,alpha,-1.4747225886509272
+2019_MP#Mohamed Salah,alpha,-1.4984570673409199
+2019_WP#Ada Hegerberg,alpha,-2.138062313891577
+2019_WP#Alex Morgan,alpha,-1.0033441407008334
+2019_WP#Henry Amandine,alpha,-1.9413906958641471
+2019_WP#Lucy Bronze,alpha,-1.7963391979613914
+2019_WP#Caroline Graham Hansen,alpha,-3.403898663677637
+2019_WP#Ellen White,alpha,-2.152425916979028
+2019_WP#Ertz Julie,alpha,-2.2894692463036277
+2019_WP#Sam Kerr,alpha,-2.8425034525639252
+2019_WP#Lavelle Rose,alpha,-1.8672611847054699
+2019_WP#Vivianne Miedema,alpha,-1.7520426761829313
+2019_WP#Wendie Renard,alpha,-2.3150256223665178
+2020_MP#Thiago Alcântara,alpha,-2.516628964796556
+2020_MP#Kevin De Bruyne,alpha,-1.9505160318370898
+2020_MP#Cristiano Ronaldo,alpha,-1.6057758064588694
+2020_MP#Virgil van Dijk,alpha,-2.64760222621978
+2020_MP#Kylian Mbappé,alpha,-2.3672161305021198
+2020_MP#Lionel Messi,alpha,-1.7100116295866774
+2020_MP#Sadio Mané,alpha,-1.9172946477765982
+2020_MP#Mohamed Salah,alpha,-2.540163885073982
+2020_MP#Neymar,alpha,-2.7970991067898003
+2020_MP#Sergio Ramos,alpha,-2.7372674472125653
+2020_WP#Caroline Graham Hansen,alpha,-1.1901945876747362
+2020_WP#Delphine Cascarino,alpha,-0.48124276619525946
+2020_WP#Dzsenifer Marozsán,alpha,-0.9800663942883714
+2020_WP#Pernille Harder,alpha,-0.3493669901531983
+2020_WP#Jennifer Hermoso,alpha,-1.3540573969353527
+2020_WP#So-Yun Ji,alpha,-1.6179078415082109
+2020_WP#Sam Kerr,alpha,-1.007907983080343
+2020_WP#Saki Kumagai,alpha,-1.62874360464159
+2020_WP#Vivianne Miedema,alpha,-0.6448017683074004
+2020_WP#Wendie Renard,alpha,-0.3439845633130796
+2021_MP#Karim Benzema,alpha,-1.4456058992521812
+2021_MP#Kevin De Bruyne,alpha,-2.4307346355302553
+2021_MP#Cristiano Ronaldo,alpha,-2.000341759336618
+2021_MP#Erling Haaland,alpha,-3.4291442161804633
+2021_MP#Jorginho,alpha,-1.4235707556847825
+2021_MP#N’Golo Kanté,alpha,-1.7044067007950534
+2021_MP#Kylian Mbappé,alpha,-2.518672060259946
+2021_MP#Lionel Messi,alpha,-0.613798239855617
+2021_MP#Mohamed Salah,alpha,-1.4356708854354392
+2021_MP#Neymar,alpha,-3.9584204729623265
+2021_WP#Aitana Bonmatí,alpha,-1.3460711664800942
+2021_WP#Stina Blackstenius,alpha,-1.860961638177349
+2021_WP#Lucy Bronze,alpha,-1.2705877804080872
+2021_WP#Caroline Graham Hansen,alpha,-1.4414466826665384
+2021_WP#Christine Sinclair,alpha,-1.062517925529953
+2021_WP#Ellen White,alpha,-1.5869679363459088
+2021_WP#Magdalena Eriksson,alpha,-1.4552463501654744
+2021_WP#Pernille Harder,alpha,-1.7896303877241242
+2021_WP#Jennifer Hermoso,alpha,-0.9349345865745636
+2021_WP#So-Yun Ji,alpha,-1.7813926093746024
+2021_WP#Sam Kerr,alpha,-0.7092863027491054
+2021_WP#Vivianne Miedema,alpha,-0.8811415097130503
+2022_MP#Achraf Hakimi,alpha,-4.724242164511835
+2022_MP#Julián Álvarez,alpha,-4.350260316763276
+2022_MP#Jude Bellingham,alpha,-4.89716293292341
+2022_MP#Karim Benzema,alpha,-1.8194279662166566
+2022_MP#Kevin De Bruyne,alpha,-4.051268417619113
+2022_MP#Erling Haaland,alpha,-3.3212145567420808
+2022_MP#Vinícius Jr,alpha,-4.810303966072352
+2022_MP#Kylian Mbappé,alpha,-1.1304154434851001
+2022_MP#Robert Lewandowski,alpha,-4.641621047794159
+2022_MP#Luka Modrić,alpha,-2.9679854217445953
+2022_MP#Sadio Mané,alpha,-4.067806302908518
+2022_MP#Mohamed Salah,alpha,-5.538558863301043
+2022_MP#Neymar,alpha,-4.4898234678089075
+2022_WP#Ada Hegerberg,alpha,-1.299556626184275
+2022_WP#Aitana Bonmatí,alpha,-0.7149205168580833
+2022_WP#Alex Morgan,alpha,-0.44531377667442196
+2022_WP#Alexandra Popp,alpha,-0.8616137295965853
+2022_WP#Beth Mead,alpha,-0.07924058415109964
+2022_WP#Debinha,alpha,-0.8775640372037867
+2022_WP#Jessie Fleming,alpha,-1.8914096883716165
+2022_WP#Keira Walsh,alpha,-1.8243534601146725
+2022_WP#Sam Kerr,alpha,-0.4495437130405221
+2022_WP#Leah Williamson,alpha,-1.1203830611591772
+2022_WP#Lena Oberdorf,alpha,-1.445513091047806
+2022_WP#Vivianne Miedema,alpha,-1.5196824259104214
+2022_WP#Wendie Renard,alpha,-1.1970465384714466
+2023_MP#Julián Álvarez,alpha,-2.8467997200130952
+2023_MP#Bernardo Silva,alpha,-3.0262284859682853
+2023_MP#Marcelo Brozović,alpha,-4.116616816978536
+2023_MP#Kevin De Bruyne,alpha,-1.5154679011884555
+2023_MP#Declan Rice,alpha,-4.909345807152292
+2023_MP#İlkay Gündoğan,alpha,-3.003392354822147
+2023_MP#Khvicha Kvaratskhelia,alpha,-3.5788646897011165
+2023_MP#Kylian Mbappé,alpha,-1.06097221817606
+2023_MP#Lionel Messi,alpha,-0.4199857955399492
+2023_MP#Victor Osimhen,alpha,-2.69205032661069
+2023_MP#Rodri,alpha,-2.342227664603859
+2023_WP#Alex Greenwood,alpha,-2.826711257382371
+2023_WP#Amanda Ilestedt,alpha,-3.2500443076753416
+2023_WP#Linda Caicedo,alpha,-1.4671068451727045
+2023_WP#Caitlin Foord,alpha,-3.535156338027478
+2023_WP#Rachel Daly,alpha,-2.557337101071149
+2023_WP#Kadidiatou Diani,alpha,-2.4492998874368257
+2023_WP#Mary Fowler,alpha,-3.286761644966857
+2023_WP#Jennifer Hermoso,alpha,-1.5025153327235403
+2023_WP#Hinata Miyazawa,alpha,-2.2968883213392415
+2023_WP#Lindsey Heaps,alpha,-2.985508391729273
+2023_WP#Lauren James,alpha,-2.123385654215757
+2023_WP#Keira Walsh,alpha,-2.5385954450797654
+2023_WP#Sam Kerr,alpha,-1.6291371798619128
+2023_WP#Mapi León,alpha,-2.8518984057189214
+2023_WP#Salma Paralluelo,alpha,-1.595270240365844
+2024_MP#Jude Bellingham,alpha,-1.2619162732445202
+2024_MP#Dani Carvajal,alpha,-1.5340291485092654
+2024_MP#Erling Haaland,alpha,-2.1830152766211954
+2024_MP#Federico Valverde,alpha,-3.6719544021824877
+2024_MP#Florian Wirtz,alpha,-3.227911500324095
+2024_MP#Toni Kroos,alpha,-2.399086911723033
+2024_MP#Kylian Mbappé,alpha,-2.7651456112877817
+2024_MP#Lamine Yamal,alpha,-1.7820306156060557
+2024_MP#Lionel Messi,alpha,-2.5193500512972355
+2024_MP#Rodri,alpha,-0.3666467163046852
+2024_WP#Barbra Banda,alpha,-1.7294102006661882
+2024_WP#Ona Batlle,alpha,-2.7929166075188507
+2024_WP#Lucy Bronze,alpha,-2.192807333531374
+2024_WP#Mariona Caldentey,alpha,-2.7998155762688097
+2024_WP#Caroline Graham Hansen,alpha,-1.5276812580556383
+2024_WP#Tabitha Chawinga,alpha,-2.4548989021631145
+2024_WP#Naomi Girma,alpha,-2.5130589507920393
+2024_WP#Lauren Hemp,alpha,-3.576762770758838
+2024_WP#Lindsey Heaps,alpha,-1.8238146183752715
+2024_WP#Keira Walsh,alpha,-3.2879647246072086
+2024_WP#Khadija Shaw,alpha,-2.104501926906187
+2024_WP#Mallory Swanson,alpha,-3.593579353997642
+2024_WP#Salma Paralluelo,alpha,-2.059093222215056
+2024_WP#Trinity Rodman,alpha,-3.049062550539368
+2024_WP#Sophia Smith,alpha,-2.504885641070425
+2025_MP#Achraf Hakimi,alpha,-1.8950130565812542
+2025_MP#Cole Palmer,alpha,-3.4203183566266615
+2025_MP#Harry Kane,alpha,-2.4962231573407356
+2025_MP#Kylian Mbappé,alpha,-1.7149301317582186
+2025_MP#Lamine Yamal,alpha,-1.2401824540333863
+2025_MP#Nuno Mendes,alpha,-2.8832931855556416
+2025_MP#Mohamed Salah,alpha,-2.43459410301271
+2025_MP#Pedri,alpha,-3.0817199614543913
+2025_MP#Raphinha,alpha,-2.2722903011890763
+2025_MP#Vitinha,alpha,-1.8990223774393635
+2025_WP#Alessia Russo,alpha,-1.3981282498715109
+2025_WP#Alexia Putellas,alpha,-1.577840680909721
+2025_WP#Sandy Baltimore,alpha,-2.4324876803446633
+2025_WP#Nathalie Björn,alpha,-3.0767588129463577
+2025_WP#Lucy Bronze,alpha,-1.6822103203396743
+2025_WP#Mariona Caldentey,alpha,-1.289460372149963
+2025_WP#Temwa Chawinga,alpha,-1.9781014494878981
+2025_WP#Chloe Kelly,alpha,-1.7924186808931342
+2025_WP#Clàudia Pina,alpha,-2.5644410603091723
+2025_WP#Kadidiatou Diani,alpha,-2.4519208539601345
+2025_WP#Melchie Dumornay,alpha,-2.1895434453569815
+2025_WP#Ewa Pajor,alpha,-2.94337541003522
+2025_WP#Patri Guijarro,alpha,-2.662339861425557
+2025_WP#Lindsey Heaps,alpha,-3.3493083160584436
+2025_WP#Lauren James,alpha,-2.2094409982735566
+2025_WP#Leah Williamson,alpha,-2.7038295375584593
+2010_MP#Lionel Messi,ref,0.0
+2010_WP#Marta,ref,0.0
+2011_MP#Lionel Messi,ref,0.0
+2011_WP#Sawa Homare,ref,0.0
+2012_MP#Lionel Messi,ref,0.0
+2012_WP#Wambach Abby,ref,0.0
+2013_MP#Cristiano Ronaldo,ref,0.0
+2013_WP#Wambach Abby,ref,0.0
+2014_MP#Cristiano Ronaldo,ref,0.0
+2014_WP#Wambach Abby,ref,0.0
+2015_MP#Lionel Messi,ref,0.0
+2015_WP#Lloyd Carli,ref,0.0
+2016_MP#Cristiano Ronaldo,ref,0.0
+2016_WP#Lloyd Carli,ref,0.0
+2017_MP#Cristiano Ronaldo,ref,0.0
+2017_WP#Martens Lieke,ref,0.0
+2018_MP#Luka Modrić,ref,0.0
+2018_WP#Dzsenifer Marozsán,ref,0.0
+2019_MP#Lionel Messi,ref,0.0
+2019_WP#Rapinoe Megan,ref,0.0
+2020_MP#Robert Lewandowski,ref,0.0
+2020_WP#Lucy Bronze,ref,0.0
+2021_MP#Robert Lewandowski,ref,0.0
+2021_WP#Alexia Putellas,ref,0.0
+2022_MP#Lionel Messi,ref,0.0
+2022_WP#Alexia Putellas,ref,0.0
+2023_MP#Erling Haaland,ref,0.0
+2023_WP#Aitana Bonmatí,ref,0.0
+2024_MP#Vinícius Jr,ref,0.0
+2024_WP#Aitana Bonmatí,ref,0.0
+2025_MP#Ousmane Dembélé,ref,0.0
+2025_WP#Aitana Bonmatí,ref,0.0
+same_nation[captain],beta,2.256664519267415
+same_nation[coach],beta,2.5935805975816137
+same_nation[media],beta,1.2804894242076659
+same_confed[AFC],beta,0.7290818329247657
+same_confed[CAF],beta,1.1802751999069538
+same_confed[CONCACAF],beta,0.44712374037966224
+same_confed[CONMEBOL],beta,0.6116610316717539
+same_confed[UEFA],beta,0.53408422350455
+same_league[captain],beta,0.3534987479264218
+same_league[coach],beta,0.5472632956594401
+same_league[media],beta,0.007233136376042899

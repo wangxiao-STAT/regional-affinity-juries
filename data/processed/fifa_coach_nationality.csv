@@ -1,0 +1,2848 @@
+ballot,year,voter_country,voter_id,match,coach_nationality,conflict
+136,2010,Albania,F04705,window,Croatia,False
+137,2010,Algeria,F00087,,,False
+138,2010,Andorra,F00750,window,Andorra,False
+139,2010,Anguilla,F02514,,,False
+140,2010,Antigua and Barbuda,F01631,,,False
+141,2010,Armenia,F05616,window,Armenia,False
+142,2010,Aruba,F05394,,,False
+143,2010,Australia,F04218,,,False
+144,2010,Austria,F02539,window,Austria,False
+145,2010,Azerbaijan,F01682,window,Germany,False
+146,2010,Bahamas,F04474,,,False
+147,2010,Bangladesh,F06134,,,False
+148,2010,Barbados,F04639,,,False
+149,2010,Belarus,F01673,window,Germany,False
+150,2010,Belgium,F03763,window,Belgium,False
+151,2010,Belize,F02809,,,False
+152,2010,Bermuda,F05695,,,False
+153,2010,Bosnia and Herzegovina,F06177,window,Bosnia and Herzegovina,False
+154,2010,Brazil,F01069,,,False
+155,2010,British Virgin Islands,F01294,,,False
+156,2010,Bulgaria,F05233,window,Germany,False
+157,2010,Burkina Faso,F03073,,,False
+158,2010,Burundi,F00230,,,False
+159,2010,Cambodia,F04234,,,False
+160,2010,Cameroon,F02484,,,False
+161,2010,Canada,F04084,,,False
+162,2010,Cabo Verde,F01078,,,False
+163,2010,Chad,F00427,,,False
+164,2010,China PR,F03700,,,False
+165,2010,Chinese Taipei,F02324,,,False
+166,2010,Colombia,F02738,,,False
+167,2010,Cook Islands,F05509,,,False
+168,2010,Costa Rica,F05092,,,False
+169,2010,Croatia,F01734,window,Croatia,False
+170,2010,Cuba,F03879,,,False
+171,2010,Cyprus,F00850,,,False
+172,2010,Czechia,F01732,window,Czechia,False
+173,2010,Djibouti,F05322,,,False
+174,2010,Ecuador,F06101,,,False
+175,2010,El Salvador,F04666,,,False
+176,2010,England,F02080,window,Italy,False
+177,2010,Equatorial Guinea,F02161,,,False
+178,2010,Estonia,F06172,window,Estonia,False
+179,2010,Fiji,F03109,,,False
+180,2010,Finland,F01533,window,,True
+181,2010,France,F01776,window,France,False
+182,2010,North Macedonia,F04637,window,North Macedonia,False
+183,2010,Gabon,F03787,,,False
+184,2010,The Gambia,F05943,,,False
+185,2010,Georgia,F04921,,,False
+186,2010,Germany,F04581,window,Germany,False
+187,2010,Ghana,F01092,,,False
+188,2010,Greece,F02576,window,Portugal,False
+189,2010,Guam,F05855,,,False
+190,2010,Guatemala,F00707,,,False
+191,2010,Guinea,F03107,any_date,France,False
+192,2010,Guyana,F03055,,,False
+193,2010,Honduras,F02157,,,False
+194,2010,"Hong Kong, China",F02436,,,False
+195,2010,Hungary,F03174,window,Hungary,False
+196,2010,Iceland,F04602,window,Iceland,False
+197,2010,India,F04244,,,False
+198,2010,IR Iran,F00274,,,False
+199,2010,Israel,F03510,window,France,False
+200,2010,Italy,F02203,window,Italy,False
+201,2010,Jamaica,F06328,,,False
+202,2010,Japan,F00496,,,False
+203,2010,Jordan,F00247,,,False
+204,2010,Korea Republic,F02352,,,False
+205,2010,Kuwait,F03889,,,False
+206,2010,Latvia,F00526,,,False
+207,2010,Lebanon,F03266,,,False
+208,2010,Lesotho,F05166,any_date,Lesotho,False
+209,2010,Liechtenstein,F01721,,,False
+210,2010,Lithuania,F06054,window,Lithuania,False
+211,2010,Luxembourg,F04220,window,Luxembourg,False
+212,2010,Macau,F05173,,,False
+213,2010,Madagascar,F03606,,,False
+214,2010,Malawi,F04981,,,False
+215,2010,Malaysia,F04751,,,False
+216,2010,Malta,F01999,window,Malta,False
+217,2010,Mauritania,F05707,,,False
+218,2010,Mauritius,F00374,,,False
+219,2010,Mexico,F02812,,,False
+220,2010,Moldova,F01418,window,Romania,False
+221,2010,Mongolia,F03321,,,False
+222,2010,Montenegro,F05039,window,Croatia,False
+223,2010,Montserrat,F03114,,,False
+224,2010,Mozambique,F02344,,,False
+225,2010,Myanmar,F01277,,,False
+226,2010,Namibia,F01911,,,False
+227,2010,Netherlands,F01679,window,Netherlands,False
+228,2010,New Caledonia,F02418,,,False
+229,2010,New Zealand,F04156,,,False
+230,2010,Nicaragua,F03309,,,False
+231,2010,Nigeria,F06200,,,False
+232,2010,Northern Ireland,F05827,window,Northern Ireland,False
+233,2010,Oman,F02463,,,False
+234,2010,Peru,F05442,,,False
+235,2010,Philippines,F05534,,,False
+236,2010,Poland,F03604,window,Poland,False
+237,2010,Portugal,F01640,window,Portugal,False
+238,2010,Romania,F05252,window,Romania,False
+239,2010,Russia,F00265,window,Netherlands,False
+240,2010,San Marino,F03814,window,,True
+241,2010,São Tomé and Príncipe,F02501,,,False
+242,2010,Scotland,F02599,window,Scotland,False
+243,2010,Senegal,F00793,,,False
+244,2010,Serbia,F05976,window,Serbia,False
+245,2010,Seychelles,F00919,,,False
+246,2010,Singapore,F01295,,,False
+247,2010,Slovakia,F06359,window,Slovakia,False
+248,2010,Slovenia,F04879,window,Slovenia,False
+249,2010,Solomon Islands,F04436,,,False
+250,2010,Somalia,F00147,,,False
+251,2010,Spain,F01858,window,Spain,False
+252,2010,Sri Lanka,F02233,,,False
+253,2010,Suriname,F01353,,,False
+254,2010,Eswatini,F05739,,,False
+255,2010,Sweden,F03336,window,Sweden,False
+256,2010,Switzerland,F04199,window,Germany,False
+257,2010,Tahiti,F03138,,,False
+258,2010,Tajikistan,F04998,,,False
+259,2010,Thailand,F01955,,,False
+260,2010,Trinidad and Tobago,F05118,,,False
+261,2010,Tunisia,F01687,,,False
+262,2010,Türkiye,F03984,window,Netherlands,False
+263,2010,Turks and Caicos Islands,F01936,,,False
+264,2010,Uganda,F06135,,,False
+265,2010,Ukraine,F04781,window,Ukraine,False
+266,2010,Uruguay,F05900,,,False
+267,2010,United States,F01885,,,False
+268,2010,Uzbekistan,F00190,,,False
+269,2010,Vanuatu,F06276,,,False
+270,2010,Venezuela,F02198,,,False
+271,2010,Vietnam,F02030,,,False
+844,2011,Albania,F03119,,,False
+845,2011,Algeria,F04028,,,False
+846,2011,Andorra,F00753,window,Andorra,False
+847,2011,Argentina,F00515,,,False
+848,2011,Armenia,F05616,window,Armenia,False
+849,2011,Australia,F04218,,,False
+850,2011,Austria,F05008,window,Switzerland,False
+851,2011,Azerbaijan,F04055,,,False
+852,2011,Bangladesh,F04345,,,False
+853,2011,Belarus,F01673,window,Germany,False
+854,2011,Belgium,F03763,window,Belgium,False
+855,2011,Bermuda,F05243,,,False
+856,2011,Bhutan,F04195,,,False
+857,2011,Bolivia,F03980,,,False
+858,2011,Bosnia and Herzegovina,F06177,window,Bosnia and Herzegovina,False
+859,2011,Brazil,F05369,,,False
+860,2011,British Virgin Islands,F01294,,,False
+861,2011,Brunei Darussalam,F00626,,,False
+862,2011,Bulgaria,F05246,window,Bulgaria,False
+863,2011,Burkina Faso,F03073,,,False
+864,2011,Burundi,F00230,,,False
+865,2011,Cameroon,F02863,,,False
+866,2011,Canada,F04084,,,False
+867,2011,Cabo Verde,F01078,,,False
+868,2011,Cayman Islands,F01937,,,False
+869,2011,Chad,F05313,,,False
+870,2011,Chile,F01842,,,False
+871,2011,China PR,F01047,,,False
+872,2011,Chinese Taipei,F04206,,,False
+873,2011,Colombia,F00754,,,False
+874,2011,Congo,F05618,,,False
+875,2011,Congo DR,F02463,,,False
+876,2011,Cook Islands,F06166,,,False
+877,2011,Costa Rica,F04644,,,False
+878,2011,Croatia,F01734,window,Croatia,False
+879,2011,Cuba,F03872,,,False
+880,2011,Cyprus,F05834,window,Greece,False
+881,2011,Czechia,F01732,window,Czechia,False
+882,2011,Denmark,F05693,window,Denmark,False
+883,2011,Djibouti,F05322,,,False
+884,2011,Dominican Republic,F02483,,,False
+885,2011,Ecuador,F06101,,,False
+886,2011,Egypt,F03463,,,False
+887,2011,El Salvador,F04399,,,False
+888,2011,England,F02080,window,Italy,False
+889,2011,Eritrea,F05800,,,False
+890,2011,Estonia,F06172,window,Estonia,False
+891,2011,Ethiopia,F01762,,,False
+892,2011,Faroe Islands,F05111,window,Denmark,False
+893,2011,Finland,F05636,window,Finland,False
+894,2011,France,F01776,window,France,False
+895,2011,North Macedonia,F04620,window,Wales,False
+896,2011,Georgia,F04922,,,False
+897,2011,Germany,F04580,,,False
+898,2011,Ghana,F03888,,,False
+899,2011,Greece,F03519,window,Portugal,False
+900,2011,Guinea,F03107,any_date,France,False
+901,2011,Guinea-Bissau,F02817,,,False
+902,2011,Honduras,F03517,,,False
+903,2011,"Hong Kong, China",F02431,,,False
+904,2011,Hungary,F03174,window,Hungary,False
+905,2011,Iceland,F04602,window,Iceland,False
+906,2011,India,F05543,,,False
+907,2011,Indonesia,F06118,,,False
+908,2011,IR Iran,F02126,,,False
+909,2011,Israel,F03510,window,France,False
+910,2011,Italy,F02203,window,Italy,False
+911,2011,Jamaica,F06328,,,False
+912,2011,Japan,F00496,,,False
+913,2011,Jordan,F00248,,,False
+914,2011,Kazakhstan,F01644,window,Czechia,False
+915,2011,Kyrgyz Republic,F02986,,,False
+916,2011,Laos,F04058,,,False
+917,2011,Latvia,F00533,window,Latvia,False
+918,2011,Lebanon,F01963,,,False
+919,2011,Liberia,F05104,,,False
+920,2011,Liechtenstein,F01721,,,False
+921,2011,Lithuania,F06036,window,Lithuania,False
+922,2011,Luxembourg,F04220,window,Luxembourg,False
+923,2011,Macau,F05173,,,False
+924,2011,Madagascar,F03606,,,False
+925,2011,Malawi,F04982,,,False
+926,2011,Malaysia,F05048,,,False
+927,2011,Maldives,F04402,,,False
+928,2011,Malta,F03734,any_date,Malta,False
+929,2011,Mauritania,F01755,,,False
+930,2011,Mauritius,F00374,,,False
+931,2011,Mexico,F02813,,,False
+932,2011,Moldova,F01417,window,Romania,False
+933,2011,Mongolia,F03322,,,False
+934,2011,Montserrat,F03114,,,False
+935,2011,Morocco,F03325,,,False
+936,2011,Mozambique,F03292,,,False
+937,2011,Myanmar,F04064,,,False
+938,2011,Netherlands,F01679,window,Netherlands,False
+939,2011,New Caledonia,F02418,,,False
+940,2011,New Zealand,F04156,,,False
+941,2011,Nicaragua,F03310,,,False
+942,2011,Nigeria,F04916,,,False
+943,2011,Northern Ireland,F05827,window,Northern Ireland,False
+944,2011,Norway,F03175,window,Norway,False
+945,2011,Pakistan,F05611,,,False
+946,2011,Palestine,F04464,,,False
+947,2011,Panama,F02196,,,False
+948,2011,Papua New Guinea,F03449,,,False
+949,2011,Paraguay,F01106,,,False
+950,2011,Peru,F05442,,,False
+951,2011,Philippines,F04056,,,False
+952,2011,Poland,F03604,window,Poland,False
+953,2011,Portugal,F01640,window,Portugal,False
+954,2011,Puerto Rico,F02060,,,False
+955,2011,Qatar,F05135,,,False
+956,2011,Republic of Ireland,F03832,window,Italy,False
+957,2011,Romania,F06014,window,Romania,False
+958,2011,Russia,F00266,window,Netherlands,False
+959,2011,Rwanda,F05614,,,False
+960,2011,San Marino,F03814,window,Italy,False
+961,2011,São Tomé and Príncipe,F03975,,,False
+962,2011,Saudi Arabia,F03613,,,False
+963,2011,Scotland,F02599,window,Scotland,False
+964,2011,Senegal,F00793,,,False
+965,2011,Serbia,F02631,window,Serbia,False
+966,2011,Seychelles,F04533,any_date,Seychelles,False
+967,2011,Singapore,F01295,,,False
+968,2011,Slovakia,F06359,window,Slovakia,False
+969,2011,Slovenia,F06270,window,Slovenia,False
+970,2011,Solomon Islands,F04436,,,False
+971,2011,Somalia,F00030,any_date,Somalia,False
+972,2011,South Africa,F05699,,,False
+973,2011,Spain,F01858,window,Spain,False
+974,2011,Sri Lanka,F04492,,,False
+975,2011,Saint Lucia,F00455,,,False
+976,2011,Sudan,F00064,,,False
+977,2011,Eswatini,F02027,,,False
+978,2011,Sweden,F03336,window,Sweden,False
+979,2011,Switzerland,F04199,window,Germany,False
+980,2011,Tahiti,F03138,,,False
+981,2011,Tajikistan,F00660,,,False
+982,2011,Tanzania,F04485,,,False
+983,2011,Thailand,F06222,,,False
+984,2011,Tonga,F02376,,,False
+985,2011,Trinidad and Tobago,F05905,,,False
+986,2011,Tunisia,F06195,any_date,Tunisia,False
+987,2011,Türkiye,F03984,window,Netherlands,False
+988,2011,Turks and Caicos Islands,F01936,,,False
+989,2011,Ukraine,F01785,,,False
+990,2011,Uruguay,F05900,,,False
+991,2011,US Virgin Islands,F04633,any_date,US Virgin Islands,False
+992,2011,United States,F04718,,,False
+993,2011,Uzbekistan,F00190,,,False
+994,2011,Vanuatu,F05784,,,False
+995,2011,Venezuela,F02198,,,False
+996,2011,Vietnam,F03438,,,False
+997,2011,Wales,F03724,window,Wales,False
+998,2011,Yemen,F00398,,,False
+999,2011,Zimbabwe,F05381,any_date,Zimbabwe,False
+1620,2012,Albania,F01710,,,False
+1621,2012,Algeria,F04028,,,False
+1622,2012,American Samoa,F04371,,,False
+1623,2012,Andorra,F00749,,,False
+1624,2012,Anguilla,F02513,,,False
+1625,2012,Antigua and Barbuda,F02632,,,False
+1626,2012,Argentina,F00515,,,False
+1627,2012,Armenia,F05616,window,Armenia,False
+1628,2012,Aruba,F01557,,,False
+1629,2012,Australia,F04218,,,False
+1630,2012,Austria,F05008,window,Switzerland,False
+1631,2012,Azerbaijan,F04055,,,False
+1632,2012,Bahamas,F02787,,,False
+1633,2012,Bangladesh,F00026,,,False
+1634,2012,Barbados,F02511,,,False
+1635,2012,Belarus,F04153,,,False
+1636,2012,Belgium,F05389,window,Belgium,False
+1637,2012,Belize,F05137,,,False
+1638,2012,Bermuda,F00917,,,False
+1639,2012,Bhutan,F04867,,,False
+1640,2012,Bolivia,F01332,,,False
+1641,2012,Bosnia and Herzegovina,F06177,window,Bosnia and Herzegovina,False
+1642,2012,Botswana,F06294,,,False
+1643,2012,Brazil,F01070,,,False
+1644,2012,Brunei Darussalam,F05084,,,False
+1645,2012,Bulgaria,F05284,,,False
+1646,2012,Burkina Faso,F05943,,,False
+1647,2012,Burundi,F05232,,,False
+1648,2012,Cambodia,F04217,,,False
+1649,2012,Cameroon,F00387,,,False
+1650,2012,Canada,F04084,,,False
+1651,2012,Cabo Verde,F01079,,,False
+1652,2012,Cayman Islands,F05400,,,False
+1653,2012,Chad,F05314,,,False
+1654,2012,China PR,F02035,,,False
+1655,2012,Colombia,F04674,,,False
+1656,2012,Comoros,F00640,,,False
+1657,2012,Congo,F01482,,,False
+1658,2012,Congo DR,F02463,,,False
+1659,2012,Costa Rica,F04644,,,False
+1660,2012,Croatia,F04329,window,Croatia,False
+1661,2012,Cuba,F01615,,,False
+1662,2012,Curaçao,F03368,,,False
+1663,2012,Cyprus,F05833,,,False
+1664,2012,Czechia,F01732,window,Czechia,False
+1665,2012,Denmark,F05693,window,Denmark,False
+1666,2012,Djibouti,F00319,,,False
+1667,2012,Dominican Republic,F02482,,,False
+1668,2012,Ecuador,F06100,,,False
+1669,2012,Egypt,F01795,,,False
+1670,2012,El Salvador,F02158,,,False
+1671,2012,England,F04212,window,England,False
+1672,2012,Eritrea,F05800,,,False
+1673,2012,Estonia,F06172,window,Estonia,False
+1674,2012,Ethiopia,F01762,,,False
+1675,2012,Faroe Islands,F05111,window,Denmark,False
+1676,2012,Fiji,F02000,,,False
+1677,2012,Finland,F05636,window,Finland,False
+1678,2012,France,F02887,window,France,False
+1679,2012,North Macedonia,F02180,window,North Macedonia,False
+1680,2012,Georgia,F04921,,,False
+1681,2012,Germany,F04581,window,Germany,False
+1682,2012,Ghana,F00395,,,False
+1683,2012,Greece,F03519,window,Portugal,False
+1684,2012,Grenada,F00676,,,False
+1685,2012,Guam,F03725,,,False
+1686,2012,Guatemala,F00699,,,False
+1687,2012,Guinea,F03107,any_date,France,False
+1688,2012,Guyana,F04463,any_date,Trinidad and Tobago,False
+1689,2012,Honduras,F05268,,,False
+1690,2012,"Hong Kong, China",F03863,,,False
+1691,2012,Hungary,F03174,window,Hungary,False
+1692,2012,Iceland,F05093,window,Sweden,False
+1693,2012,India,F05001,,,False
+1694,2012,Italy,F02203,window,Italy,False
+1695,2012,Jamaica,F06328,,,False
+1696,2012,Japan,F00496,,,False
+1697,2012,Jordan,F00248,,,False
+1698,2012,Kazakhstan,F01644,window,Czechia,False
+1699,2012,Korea DPR,F04635,,,False
+1700,2012,Korea Republic,F02360,,,False
+1701,2012,Kuwait,F03890,,,False
+1702,2012,Kyrgyz Republic,F03110,,,False
+1703,2012,Laos,F04980,,,False
+1704,2012,Latvia,F00533,window,Latvia,False
+1705,2012,Lebanon,F01959,,,False
+1706,2012,Liberia,F04422,,,False
+1707,2012,Liechtenstein,F05953,any_date,Austria,False
+1708,2012,Lithuania,F02617,window,Hungary,False
+1709,2012,Luxembourg,F04220,window,Luxembourg,False
+1710,2012,Macau,F05173,,,False
+1711,2012,Madagascar,F05696,,,False
+1712,2012,Malawi,F04982,,,False
+1713,2012,Maldives,F04402,,,False
+1714,2012,Mali,F02141,,,False
+1715,2012,Malta,F03806,window,Italy,False
+1716,2012,Mauritania,F05809,,,False
+1717,2012,Mauritius,F00374,,,False
+1718,2012,Mexico,F02812,,,False
+1719,2012,Moldova,F02083,window,Moldova,False
+1720,2012,Mongolia,F03322,,,False
+1721,2012,Montenegro,F01897,window,Montenegro,False
+1722,2012,Montserrat,F03115,,,False
+1723,2012,Morocco,F06041,,,False
+1724,2012,Mozambique,F03293,,,False
+1725,2012,Myanmar,F05931,,,False
+1726,2012,Namibia,F01675,,,False
+1727,2012,Netherlands,F03660,window,Netherlands,False
+1728,2012,New Caledonia,F00452,,,False
+1729,2012,New Zealand,F04156,,,False
+1730,2012,Nicaragua,F03309,,,False
+1731,2012,Niger,F03787,,,False
+1732,2012,Nigeria,F04916,,,False
+1733,2012,Northern Ireland,F05584,window,Northern Ireland,False
+1734,2012,Norway,F03175,window,Norway,False
+1735,2012,Pakistan,F05611,,,False
+1736,2012,Palestine,F04037,,,False
+1737,2012,Panama,F02848,,,False
+1738,2012,Papua New Guinea,F03449,,,False
+1739,2012,Philippines,F04056,,,False
+1740,2012,Poland,F03590,window,Poland,False
+1741,2012,Portugal,F01640,window,Portugal,False
+1742,2012,Puerto Rico,F02060,,,False
+1743,2012,Republic of Ireland,F03832,window,Italy,False
+1744,2012,Romania,F06015,,,False
+1745,2012,Russia,F02080,any_date,Italy,False
+1746,2012,Rwanda,F05600,,,False
+1747,2012,Samoa,F05354,,,False
+1748,2012,San Marino,F03814,window,Italy,False
+1749,2012,São Tomé and Príncipe,F03975,,,False
+1750,2012,Saudi Arabia,F03613,,,False
+1751,2012,Scotland,F06296,,,False
+1752,2012,Senegal,F05384,,,False
+1753,2012,Serbia,F05602,window,Serbia,False
+1754,2012,Seychelles,F03737,,,False
+1755,2012,Singapore,F01295,,,False
+1756,2012,Slovakia,F04193,window,Slovakia,False
+1757,2012,Slovenia,F06270,window,Slovenia,False
+1758,2012,Somalia,F00097,,,False
+1759,2012,South Africa,F03892,,,False
+1760,2012,South Sudan,F02982,,,False
+1761,2012,Spain,F01858,window,Spain,False
+1762,2012,Sri Lanka,F05963,,,False
+1763,2012,Suriname,F04461,,,False
+1764,2012,Eswatini,F01738,,,False
+1765,2012,Sweden,F03336,window,Sweden,False
+1766,2012,Switzerland,F04199,window,Germany,False
+1767,2012,Syria,F00509,,,False
+1768,2012,Tahiti,F03138,,,False
+1769,2012,Tajikistan,F04856,,,False
+1770,2012,Thailand,F06220,,,False
+1771,2012,Trinidad and Tobago,F02250,,,False
+1772,2012,Tunisia,F06195,any_date,Tunisia,False
+1773,2012,Türkiye,F00153,,,False
+1774,2012,Turkmenistan,F04216,,,False
+1775,2012,Turks and Caicos Islands,F04283,,,False
+1776,2012,Uganda,F01798,,,False
+1777,2012,Ukraine,F05883,,,False
+1778,2012,United Arab Emirates,F00637,,,False
+1779,2012,Uruguay,F05901,,,False
+1780,2012,US Virgin Islands,F01387,,,False
+1781,2012,United States,F04718,,,False
+1782,2012,Uzbekistan,F04834,,,False
+1783,2012,Vanuatu,F01292,,,False
+1784,2012,Venezuela,F00513,,,False
+1785,2012,Vietnam,F04281,,,False
+1786,2012,Wales,F02371,window,Wales,False
+1787,2012,Yemen,F00188,,,False
+1788,2012,Zambia,F04174,,,False
+1789,2012,Zimbabwe,F03951,,,False
+2445,2013,Afghanistan,F04811,,,False
+2446,2013,Albania,F01710,,,False
+2447,2013,Algeria,F04028,,,False
+2448,2013,American Samoa,F00677,,,False
+2449,2013,Andorra,F00749,,,False
+2450,2013,Angola,F04660,,,False
+2451,2013,Anguilla,F02514,,,False
+2452,2013,Antigua and Barbuda,F06146,,,False
+2453,2013,Argentina,F00515,,,False
+2454,2013,Armenia,F05616,window,Armenia,False
+2455,2013,Aruba,F03617,,,False
+2456,2013,Australia,F00950,,,False
+2457,2013,Austria,F05008,window,Switzerland,False
+2458,2013,Azerbaijan,F04055,,,False
+2459,2013,Bahamas,F05700,,,False
+2460,2013,Bahrain,F01027,,,False
+2461,2013,Bangladesh,F02742,,,False
+2462,2013,Barbados,F02511,,,False
+2463,2013,Belarus,F04153,,,False
+2464,2013,Belgium,F05389,window,Belgium,False
+2465,2013,Belize,F04299,,,False
+2466,2013,Bermuda,F00917,,,False
+2467,2013,Bhutan,F03042,,,False
+2468,2013,Bolivia,F01325,,,False
+2469,2013,Bosnia and Herzegovina,F06177,window,Bosnia and Herzegovina,False
+2470,2013,Brazil,F06225,,,False
+2471,2013,British Virgin Islands,F01294,,,False
+2472,2013,Brunei Darussalam,F05084,,,False
+2473,2013,Bulgaria,F05284,,,False
+2474,2013,Cambodia,F04234,,,False
+2475,2013,Cameroon,F03539,,,False
+2476,2013,Canada,F01620,,,False
+2477,2013,Cabo Verde,F01078,,,False
+2478,2013,Cayman Islands,F05400,,,False
+2479,2013,Chile,F04643,,,False
+2480,2013,China PR,F01786,,,False
+2481,2013,Chinese Taipei,F02296,,,False
+2482,2013,Colombia,F04674,,,False
+2483,2013,Congo,F02974,,,False
+2484,2013,Congo DR,F05737,,,False
+2485,2013,Cook Islands,F06338,any_date,New Zealand,False
+2486,2013,Costa Rica,F04651,,,False
+2487,2013,Côte d'Ivoire,F05102,,,False
+2488,2013,Croatia,F05037,window,Croatia,False
+2489,2013,Cuba,F01617,,,False
+2490,2013,Curaçao,F00493,,,False
+2491,2013,Cyprus,F04006,,,False
+2492,2013,Czechia,F01732,window,Czechia,False
+2493,2013,Denmark,F05693,window,Denmark,False
+2494,2013,Djibouti,F04247,,,False
+2495,2013,Dominica,F03973,,,False
+2496,2013,Dominican Republic,F03002,,,False
+2497,2013,Ecuador,F06100,,,False
+2498,2013,Egypt,F01795,,,False
+2499,2013,El Salvador,F00305,,,False
+2500,2013,England,F04212,window,England,False
+2501,2013,Eritrea,F05800,,,False
+2502,2013,Estonia,F06172,window,Estonia,False
+2503,2013,Ethiopia,F01763,,,False
+2504,2013,Faroe Islands,F05111,window,Denmark,False
+2505,2013,Fiji,F02000,,,False
+2506,2013,Finland,F05636,window,Finland,False
+2507,2013,France,F02887,window,France,False
+2508,2013,North Macedonia,F06304,,,False
+2509,2013,Gabon,F03073,,,False
+2510,2013,The Gambia,F01831,,,False
+2511,2013,Georgia,F04921,,,False
+2512,2013,Greece,F03519,window,Portugal,False
+2513,2013,Grenada,F02455,,,False
+2514,2013,Guam,F03725,,,False
+2515,2013,Guatemala,F03650,,,False
+2516,2013,Guinea,F03107,any_date,France,False
+2517,2013,Guinea-Bissau,F00193,,,False
+2518,2013,Guyana,F03055,,,False
+2519,2013,Honduras,F03517,,,False
+2520,2013,"Hong Kong, China",F04972,,,False
+2521,2013,Iceland,F05093,window,Sweden,False
+2522,2013,India,F04441,,,False
+2523,2013,Indonesia,F03404,,,False
+2524,2013,IR Iran,F01928,,,False
+2525,2013,Iraq,F00404,,,False
+2526,2013,Israel,F03217,,,False
+2527,2013,Italy,F02202,window,Italy,False
+2528,2013,Jamaica,F06221,,,False
+2529,2013,Japan,F00496,,,False
+2530,2013,Kazakhstan,F01644,window,Czechia,False
+2531,2013,Kenya,F00230,,,False
+2532,2013,Korea DPR,F04635,,,False
+2533,2013,Korea Republic,F01787,any_date,Korea Republic,False
+2534,2013,Kuwait,F04659,,,False
+2535,2013,Kyrgyz Republic,F03110,,,False
+2536,2013,Laos,F04980,,,False
+2537,2013,Latvia,F05415,window,Latvia,False
+2538,2013,Lebanon,F03816,,,False
+2539,2013,Lesotho,F05166,any_date,Lesotho,False
+2540,2013,Liberia,F05003,,,False
+2541,2013,Liechtenstein,F05953,window,Austria,False
+2542,2013,Lithuania,F04331,,,False
+2543,2013,Luxembourg,F04220,window,Luxembourg,False
+2544,2013,Macau,F05173,,,False
+2545,2013,Madagascar,F03606,,,False
+2546,2013,Malawi,F04607,,,False
+2547,2013,Malaysia,F05046,,,False
+2548,2013,Maldives,F00644,,,False
+2549,2013,Mali,F00777,,,False
+2550,2013,Malta,F03806,window,Italy,False
+2551,2013,Mauritania,F05809,,,False
+2552,2013,Mauritius,F00373,,,False
+2553,2013,Mexico,F00300,,,False
+2554,2013,Moldova,F02083,window,Moldova,False
+2555,2013,Mongolia,F03322,,,False
+2556,2013,Montenegro,F01897,window,Montenegro,False
+2557,2013,Montserrat,F04182,,,False
+2558,2013,Mozambique,F01048,,,False
+2559,2013,Myanmar,F05930,,,False
+2560,2013,Namibia,F05368,,,False
+2561,2013,Nepal,F04427,,,False
+2562,2013,Netherlands,F03660,window,Netherlands,False
+2563,2013,New Caledonia,F00452,,,False
+2564,2013,New Zealand,F04157,,,False
+2565,2013,Nicaragua,F03310,,,False
+2566,2013,Niger,F03787,,,False
+2567,2013,Nigeria,F04916,,,False
+2568,2013,Northern Ireland,F05584,window,Northern Ireland,False
+2569,2013,Norway,F04183,any_date,Norway,False
+2570,2013,Oman,F03940,,,False
+2571,2013,Pakistan,F05656,,,False
+2572,2013,Palestine,F04464,,,False
+2573,2013,Paraguay,F03752,,,False
+2574,2013,Peru,F05442,,,False
+2575,2013,Philippines,F04056,,,False
+2576,2013,Poland,F00213,,,False
+2577,2013,Portugal,F01640,window,Portugal,False
+2578,2013,Puerto Rico,F02060,,,False
+2579,2013,Qatar,F00410,,,False
+2580,2013,Republic of Ireland,F05463,window,Northern Ireland,False
+2581,2013,Romania,F06014,window,Romania,False
+2582,2013,Russia,F02080,window,Italy,False
+2583,2013,Samoa,F05354,,,False
+2584,2013,San Marino,F03814,window,Italy,False
+2585,2013,São Tomé and Príncipe,F03975,,,False
+2586,2013,Saudi Arabia,F02131,,,False
+2587,2013,Scotland,F03895,window,Scotland,False
+2588,2013,Senegal,F00449,,,False
+2589,2013,Serbia,F05602,window,Serbia,False
+2590,2013,Singapore,F01673,,,False
+2591,2013,Slovakia,F04481,window,Slovakia,False
+2592,2013,Slovenia,F04838,window,Slovenia,False
+2593,2013,Solomon Islands,F04436,,,False
+2594,2013,Somalia,F00157,,,False
+2595,2013,South Africa,F03893,,,False
+2596,2013,South Sudan,F06191,,,False
+2597,2013,Spain,F01858,window,Spain,False
+2598,2013,Sri Lanka,F05963,,,False
+2599,2013,Saint Kitts and Nevis,F04120,,,False
+2600,2013,Saint Lucia,F03595,,,False
+2601,2013,Saint Vincent and the Grenadines,F02564,,,False
+2602,2013,Sudan,F00063,,,False
+2603,2013,Suriname,F03849,,,False
+2604,2013,Eswatini,F01974,,,False
+2605,2013,Sweden,F03336,window,Sweden,False
+2606,2013,Switzerland,F04199,window,Germany,False
+2607,2013,Syria,F00733,,,False
+2608,2013,Tahiti,F03138,,,False
+2609,2013,Tajikistan,F05724,,,False
+2610,2013,Tanzania,F04973,,,False
+2611,2013,Thailand,F04519,,,False
+2612,2013,Togo,F02939,,,False
+2613,2013,Trinidad and Tobago,F04084,,,False
+2614,2013,Tunisia,F05052,,,False
+2615,2013,Türkiye,F03464,window,Türkiye,False
+2616,2013,Turks and Caicos Islands,F03550,,,False
+2617,2013,Uganda,F05614,,,False
+2618,2013,Ukraine,F03582,,,False
+2619,2013,United Arab Emirates,F00637,,,False
+2620,2013,Uruguay,F05900,,,False
+2621,2013,US Virgin Islands,F01387,,,False
+2622,2013,United States,F04742,,,False
+2623,2013,Uzbekistan,F04835,,,False
+2624,2013,Vanuatu,F01292,,,False
+2625,2013,Venezuela,F00206,,,False
+2626,2013,Vietnam,F04209,,,False
+2627,2013,Wales,F02371,window,Wales,False
+2628,2013,Zimbabwe,F03899,,,False
+3363,2014,Afghanistan,F04811,,,False
+3364,2014,Albania,F01710,,,False
+3365,2014,Algeria,F02387,,,False
+3366,2014,American Samoa,F00677,,,False
+3367,2014,Andorra,F00749,,,False
+3368,2014,Angola,F03530,,,False
+3369,2014,Anguilla,F02514,,,False
+3370,2014,Antigua and Barbuda,F06146,,,False
+3371,2014,Argentina,F03778,,,False
+3372,2014,Armenia,F01666,window,Switzerland,False
+3373,2014,Aruba,F03617,,,False
+3374,2014,Australia,F00950,,,False
+3375,2014,Austria,F05008,window,Switzerland,False
+3376,2014,Azerbaijan,F03967,,,False
+3377,2014,Bahamas,F04535,any_date,Bahamas,False
+3378,2014,Bahrain,F00246,,,False
+3379,2014,Bangladesh,F00031,,,False
+3380,2014,Barbados,F03441,,,False
+3381,2014,Belarus,F00904,,,False
+3382,2014,Belgium,F05389,window,Belgium,False
+3383,2014,Belize,F04650,,,False
+3384,2014,Bermuda,F00917,,,False
+3385,2014,Bhutan,F02364,,,False
+3386,2014,Bolivia,F02475,,,False
+3387,2014,Bosnia and Herzegovina,F06177,window,Bosnia and Herzegovina,False
+3388,2014,Brazil,F01780,,,False
+3389,2014,British Virgin Islands,F01294,,,False
+3390,2014,Brunei Darussalam,F00624,,,False
+3391,2014,Bulgaria,F05284,,,False
+3392,2014,Burkina Faso,F03609,,,False
+3393,2014,Burundi,F06055,,,False
+3394,2014,Cambodia,F04234,,,False
+3395,2014,Cameroon,F03539,,,False
+3396,2014,Canada,F01620,,,False
+3397,2014,Cabo Verde,F00285,,,False
+3398,2014,Chad,F03285,,,False
+3399,2014,Chile,F04654,,,False
+3400,2014,China PR,F00444,,,False
+3401,2014,Chinese Taipei,F02296,,,False
+3402,2014,Colombia,F04673,,,False
+3403,2014,Comoros,F00108,,,False
+3404,2014,Congo,F02460,,,False
+3405,2014,Congo DR,F03568,,,False
+3406,2014,Cook Islands,F06338,any_date,New Zealand,False
+3407,2014,Costa Rica,F05949,,,False
+3408,2014,Côte d'Ivoire,F04173,,,False
+3409,2014,Croatia,F05037,window,Croatia,False
+3410,2014,Cuba,F01615,,,False
+3411,2014,Curaçao,F04359,,,False
+3412,2014,Cyprus,F02241,,,False
+3413,2014,Czechia,F05955,window,Czechia,False
+3414,2014,Denmark,F05693,window,Denmark,False
+3415,2014,Djibouti,F00322,,,False
+3416,2014,Dominica,F05453,,,False
+3417,2014,Dominican Republic,F02481,,,False
+3418,2014,Ecuador,F06049,,,False
+3419,2014,Egypt,F03801,,,False
+3420,2014,El Salvador,F00479,,,False
+3421,2014,England,F04212,window,England,False
+3422,2014,Estonia,F05311,window,Sweden,False
+3423,2014,Ethiopia,F01469,,,False
+3424,2014,Faroe Islands,F05111,window,Denmark,False
+3425,2014,Fiji,F02000,,,False
+3426,2014,Finland,F05636,window,Finland,False
+3427,2014,France,F02887,window,France,False
+3428,2014,North Macedonia,F01854,,,False
+3429,2014,Gabon,F02578,,,False
+3430,2014,Georgia,F04921,,,False
+3431,2014,Germany,F04581,window,Germany,False
+3432,2014,Ghana,F05012,,,False
+3433,2014,Greece,F02473,,,False
+3434,2014,Grenada,F01032,,,False
+3435,2014,Guam,F03725,,,False
+3436,2014,Guatemala,F04410,,,False
+3437,2014,Guyana,F02874,,,False
+3438,2014,Honduras,F01953,,,False
+3439,2014,"Hong Kong, China",F03863,,,False
+3440,2014,Hungary,F02734,window,,False
+3441,2014,Iceland,F04032,any_date,Iceland,False
+3442,2014,India,F05542,,,False
+3443,2014,Indonesia,F00594,,,False
+3444,2014,IR Iran,F02126,,,False
+3445,2014,Israel,F03218,window,Israel,False
+3446,2014,Italy,F01050,window,Italy,False
+3447,2014,Jamaica,F06221,,,False
+3448,2014,Japan,F00302,,,False
+3449,2014,Jordan,F06084,,,False
+3450,2014,Kazakhstan,F04743,,,False
+3451,2014,Kenya,F06135,,,False
+3452,2014,Korea Republic,F05906,,,False
+3453,2014,Kuwait,F04659,,,False
+3454,2014,Kyrgyz Republic,F00529,,,False
+3455,2014,Laos,F01833,,,False
+3456,2014,Latvia,F05415,window,Latvia,False
+3457,2014,Lebanon,F03817,,,False
+3458,2014,Lesotho,F05488,,,False
+3459,2014,Liberia,F05003,,,False
+3460,2014,Liechtenstein,F05953,window,Austria,False
+3461,2014,Lithuania,F04330,window,Lithuania,False
+3462,2014,Luxembourg,F04220,window,Luxembourg,False
+3463,2014,Macau,F05173,,,False
+3464,2014,Madagascar,F03606,,,False
+3465,2014,Malawi,F02331,,,False
+3466,2014,Maldives,F03061,,,False
+3467,2014,Mali,F04146,,,False
+3468,2014,Malta,F03806,window,Italy,False
+3469,2014,Mauritania,F02560,,,False
+3470,2014,Mauritius,F00205,,,False
+3471,2014,Mexico,F00300,,,False
+3472,2014,Moldova,F00567,,,False
+3473,2014,Mongolia,F03044,,,False
+3474,2014,Montenegro,F01897,window,Montenegro,False
+3475,2014,Montserrat,F04182,,,False
+3476,2014,Morocco,F01371,,,False
+3477,2014,Mozambique,F01048,,,False
+3478,2014,Myanmar,F01296,,,False
+3479,2014,Namibia,F05368,,,False
+3480,2014,Nepal,F04426,,,False
+3481,2014,Netherlands,F03984,window,Netherlands,False
+3482,2014,New Caledonia,F00452,,,False
+3483,2014,New Zealand,F01027,,,False
+3484,2014,Nicaragua,F04524,,,False
+3485,2014,Niger,F02910,,,False
+3486,2014,Nigeria,F04916,,,False
+3487,2014,Norway,F04183,any_date,Norway,False
+3488,2014,Oman,F03940,,,False
+3489,2014,Palestine,F00318,,,False
+3490,2014,Panama,F02739,,,False
+3491,2014,Paraguay,F03752,,,False
+3492,2014,Peru,F01613,,,False
+3493,2014,Philippines,F02869,,,False
+3494,2014,Poland,F00213,,,False
+3495,2014,Portugal,F03519,window,Portugal,False
+3496,2014,Puerto Rico,F01477,,,False
+3497,2014,Qatar,F01591,,,False
+3498,2014,Republic of Ireland,F05463,window,Northern Ireland,False
+3499,2014,Romania,F00973,window,Romania,False
+3500,2014,Russia,F02080,window,Italy,False
+3501,2014,Rwanda,F02538,,,False
+3502,2014,Samoa,F05993,,,False
+3503,2014,San Marino,F05380,window,San Marino,False
+3504,2014,Saudi Arabia,F02131,,,False
+3505,2014,Scotland,F03895,window,Scotland,False
+3506,2014,Senegal,F00449,,,False
+3507,2014,Serbia,F02631,window,Serbia,False
+3508,2014,Seychelles,F05492,,,False
+3509,2014,Sierra Leone,F00365,,,False
+3510,2014,Singapore,F01673,,,False
+3511,2014,Slovakia,F04481,window,Slovakia,False
+3512,2014,Slovenia,F04838,window,Slovenia,False
+3513,2014,Solomon Islands,F04436,,,False
+3514,2014,South Africa,F03317,,,False
+3515,2014,South Sudan,F04529,,,False
+3516,2014,Spain,F01858,window,Spain,False
+3517,2014,Sri Lanka,F04855,,,False
+3518,2014,Saint Kitts and Nevis,F04119,,,False
+3519,2014,Saint Lucia,F03595,,,False
+3520,2014,Saint Vincent and the Grenadines,F02564,,,False
+3521,2014,Sudan,F00064,,,False
+3522,2014,Suriname,F03849,,,False
+3523,2014,Eswatini,F01973,,,False
+3524,2014,Sweden,F03336,window,Sweden,False
+3525,2014,Switzerland,F05973,window,Switzerland,False
+3526,2014,Syria,F00411,,,False
+3527,2014,Tahiti,F03138,,,False
+3528,2014,Tajikistan,F05731,,,False
+3529,2014,Tanzania,F05454,,,False
+3530,2014,Thailand,F04962,,,False
+3531,2014,Türkiye,F03464,window,Türkiye,False
+3532,2014,Turks and Caicos Islands,F02598,,,False
+3533,2014,Ukraine,F03583,,,False
+3534,2014,United Arab Emirates,F05320,,,False
+3535,2014,Uruguay,F05900,,,False
+3536,2014,US Virgin Islands,F01093,,,False
+3537,2014,United States,F04742,,,False
+3538,2014,Uzbekistan,F04834,,,False
+3539,2014,Venezuela,F05848,,,False
+3540,2014,Vietnam,F05635,,,False
+3541,2014,Wales,F02421,,,False
+3542,2014,Zambia,F04228,,,False
+3543,2014,Zimbabwe,F04780,,,False
+4271,2015,Afghanistan,F05967,,,False
+4272,2015,Albania,F01710,,,False
+4273,2015,Algeria,F02387,,,False
+4274,2015,American Samoa,F05110,,,False
+4275,2015,Andorra,F00749,,,False
+4276,2015,Angola,F03530,,,False
+4277,2015,Antigua and Barbuda,F06146,,,False
+4278,2015,Argentina,F03778,,,False
+4279,2015,Armenia,F04251,,,False
+4280,2015,Aruba,F02551,,,False
+4281,2015,Australia,F00950,,,False
+4282,2015,Austria,F05008,window,Switzerland,False
+4283,2015,Azerbaijan,F06026,window,Croatia,False
+4284,2015,Bahamas,F02964,,,False
+4285,2015,Bangladesh,F03414,,,False
+4286,2015,Belarus,F00654,,,False
+4287,2015,Belgium,F05389,window,Belgium,False
+4288,2015,Belize,F04650,,,False
+4289,2015,Bermuda,F00917,,,False
+4290,2015,Bhutan,F05960,any_date,Bhutan,False
+4291,2015,Bosnia and Herzegovina,F01541,window,Bosnia and Herzegovina,False
+4292,2015,Botswana,F01996,,,False
+4293,2015,Brazil,F01780,,,False
+4294,2015,British Virgin Islands,F01294,,,False
+4295,2015,Brunei Darussalam,F04142,,,False
+4296,2015,Bulgaria,F04412,window,Bulgaria,False
+4297,2015,Burkina Faso,F03786,,,False
+4298,2015,Burundi,F00072,,,False
+4299,2015,Cambodia,F04234,,,False
+4300,2015,Cameroon,F00572,,,False
+4301,2015,Canada,F01620,,,False
+4302,2015,Cabo Verde,F00285,,,False
+4303,2015,Cayman Islands,F00558,,,False
+4304,2015,Chad,F05314,,,False
+4305,2015,Chile,F04654,,,False
+4306,2015,China PR,F00454,,,False
+4307,2015,Colombia,F04661,,,False
+4308,2015,Congo DR,F03568,,,False
+4309,2015,Cook Islands,F03064,,,False
+4310,2015,Costa Rica,F05897,,,False
+4311,2015,Côte d'Ivoire,F03107,,,False
+4312,2015,Croatia,F01023,window,Croatia,False
+4313,2015,Cuba,F03880,,,False
+4314,2015,Curaçao,F04992,,,False
+4315,2015,Cyprus,F02241,,,False
+4316,2015,Czechia,F05955,window,Czechia,False
+4317,2015,Denmark,F05693,window,Denmark,False
+4318,2015,Djibouti,F03812,,,False
+4319,2015,Dominica,F05453,,,False
+4320,2015,Dominican Republic,F04714,,,False
+4321,2015,Ecuador,F03980,,,False
+4322,2015,Egypt,F02629,,,False
+4323,2015,England,F04212,window,England,False
+4324,2015,Estonia,F05311,window,Sweden,False
+4325,2015,Faroe Islands,F05111,window,Denmark,False
+4326,2015,Fiji,F03449,,,False
+4327,2015,Finland,F04795,window,Finland,False
+4328,2015,France,F02887,window,France,False
+4329,2015,North Macedonia,F00970,any_date,North Macedonia,False
+4330,2015,Georgia,F04773,window,Georgia,False
+4331,2015,Germany,F04581,window,Germany,False
+4332,2015,Ghana,F00187,,,False
+4333,2015,Guam,F03725,,,False
+4334,2015,Guatemala,F03607,,,False
+4335,2015,Guinea,F03510,,,False
+4336,2015,Honduras,F00269,,,False
+4337,2015,"Hong Kong, China",F04972,,,False
+4338,2015,Hungary,F01674,window,Germany,False
+4339,2015,Iceland,F04032,any_date,Iceland,False
+4340,2015,India,F02537,,,False
+4341,2015,IR Iran,F02126,,,False
+4342,2015,Israel,F03217,,,False
+4343,2015,Jamaica,F06220,,,False
+4344,2015,Japan,F04028,,,False
+4345,2015,Jordan,F05943,,,False
+4346,2015,Kazakhstan,F05040,window,Russia,False
+4347,2015,Korea Republic,F05906,,,False
+4348,2015,Kyrgyz Republic,F00529,,,False
+4349,2015,Laos,F02733,,,False
+4350,2015,Latvia,F05415,window,Latvia,False
+4351,2015,Lebanon,F05623,any_date,Montenegro,False
+4352,2015,Lesotho,F05350,,,False
+4353,2015,Liberia,F02826,,,False
+4354,2015,Liechtenstein,F05953,window,Austria,False
+4355,2015,Lithuania,F04330,window,Lithuania,False
+4356,2015,Luxembourg,F04220,window,Luxembourg,False
+4357,2015,Macau,F04302,,,False
+4358,2015,Madagascar,F03606,,,False
+4359,2015,Malaysia,F04971,,,False
+4360,2015,Maldives,F04154,,,False
+4361,2015,Malta,F03806,window,Italy,False
+4362,2015,Mauritania,F02560,,,False
+4363,2015,Mauritius,F04586,,,False
+4364,2015,Mexico,F01104,,,False
+4365,2015,Moldova,F06297,,,False
+4366,2015,Mongolia,F06029,,,False
+4367,2015,Montenegro,F01897,window,Montenegro,False
+4368,2015,Montserrat,F03077,,,False
+4369,2015,Morocco,F01370,,,False
+4370,2015,Mozambique,F02111,,,False
+4371,2015,Myanmar,F03780,,,False
+4372,2015,Namibia,F05368,,,False
+4373,2015,Nepal,F01283,,,False
+4374,2015,Netherlands,F01784,any_date,,False
+4375,2015,New Caledonia,F06211,,,False
+4376,2015,New Zealand,F01027,,,False
+4377,2015,Nicaragua,F03070,,,False
+4378,2015,Nigeria,F05885,,,False
+4379,2015,Northern Ireland,F05584,window,Northern Ireland,False
+4380,2015,Norway,F04183,window,Norway,False
+4381,2015,Pakistan,F00408,,,False
+4382,2015,Palestine,F00091,,,False
+4383,2015,Panama,F02739,,,False
+4384,2015,Paraguay,F02933,,,False
+4385,2015,Peru,F03714,,,False
+4386,2015,Philippines,F02869,,,False
+4387,2015,Poland,F00213,,,False
+4388,2015,Portugal,F03519,window,Portugal,False
+4389,2015,Puerto Rico,F01289,,,False
+4390,2015,Qatar,F02139,,,False
+4391,2015,Republic of Ireland,F05463,window,Northern Ireland,False
+4392,2015,Romania,F00973,window,Romania,False
+4393,2015,Russia,F05163,,,False
+4394,2015,Samoa,F05993,,,False
+4395,2015,San Marino,F05380,window,San Marino,False
+4396,2015,São Tomé and Príncipe,F01053,,,False
+4397,2015,Scotland,F03895,window,Scotland,False
+4398,2015,Senegal,F00664,any_date,Senegal,False
+4399,2015,Serbia,F02631,window,Serbia,False
+4400,2015,Seychelles,F04533,any_date,Seychelles,False
+4401,2015,Sierra Leone,F06229,,,False
+4402,2015,Singapore,F01673,,,False
+4403,2015,Slovakia,F04481,window,Slovakia,False
+4404,2015,Slovenia,F04838,window,Slovenia,False
+4405,2015,Solomon Islands,F05698,,,False
+4406,2015,Somalia,F02254,,,False
+4407,2015,South Africa,F03316,,,False
+4408,2015,Spain,F01857,window,Spain,False
+4409,2015,Sri Lanka,F05963,,,False
+4410,2015,Sudan,F04035,,,False
+4411,2015,Eswatini,F01974,,,False
+4412,2015,Sweden,F03336,window,Sweden,False
+4413,2015,Switzerland,F05973,window,,True
+4414,2015,Syria,F03132,,,False
+4415,2015,Tahiti,F03916,,,False
+4416,2015,Tajikistan,F03324,,,False
+4417,2015,Thailand,F04962,,,False
+4418,2015,Togo,F06185,,,False
+4419,2015,Tunisia,F04146,,,False
+4420,2015,Türkiye,F03464,window,Türkiye,False
+4421,2015,Turkmenistan,F00782,,,False
+4422,2015,Turks and Caicos Islands,F05886,,,False
+4423,2015,Uganda,F05614,,,False
+4424,2015,Ukraine,F03583,,,False
+4425,2015,United Arab Emirates,F00637,,,False
+4426,2015,Uruguay,F05900,,,False
+4427,2015,US Virgin Islands,F02681,,,False
+4428,2015,United States,F04718,,,False
+4429,2015,Uzbekistan,F01356,,,False
+4430,2015,Vanuatu,F05662,,,False
+4431,2015,Venezuela,F01122,,,False
+4432,2015,Vietnam,F05635,,,False
+4433,2015,Wales,F02421,,,False
+4434,2015,Zambia,F03762,,,False
+4435,2015,Zimbabwe,F04780,,,False
+5143,2016,Albania,F01710,,,False
+5144,2016,American Samoa,F05110,,,False
+5145,2016,Andorra,F00749,,,False
+5146,2016,Angola,F04660,,,False
+5147,2016,Antigua and Barbuda,F06146,,,False
+5148,2016,Argentina,F01531,,,False
+5149,2016,Armenia,F01186,any_date,,False
+5150,2016,Aruba,F02551,,,False
+5151,2016,Australia,F00950,,,False
+5152,2016,Austria,F05008,window,Switzerland,False
+5153,2016,Azerbaijan,F06026,window,Croatia,False
+5154,2016,Bahamas,F02964,,,False
+5155,2016,Bahrain,F05630,,,False
+5156,2016,Belgium,F05470,window,Spain,False
+5157,2016,Bermuda,F00917,,,False
+5158,2016,Bosnia and Herzegovina,F01541,window,Bosnia and Herzegovina,False
+5159,2016,Botswana,F01997,,,False
+5160,2016,Brazil,F00236,,,False
+5161,2016,British Virgin Islands,F01294,,,False
+5162,2016,Bulgaria,F04243,,,False
+5163,2016,Burundi,F00453,,,False
+5164,2016,Cambodia,F05148,,,False
+5165,2016,Cameroon,F01935,,,False
+5166,2016,Canada,F03535,,,False
+5167,2016,Chad,F05314,,,False
+5168,2016,Chile,F01064,,,False
+5169,2016,China PR,F05212,,,False
+5170,2016,Chinese Taipei,F04868,,,False
+5171,2016,Colombia,F04674,,,False
+5172,2016,Congo,F00004,,,False
+5173,2016,Cook Islands,F01933,,,False
+5174,2016,Costa Rica,F05897,,,False
+5175,2016,Côte d'Ivoire,F03107,,,False
+5176,2016,Croatia,F01023,window,Croatia,False
+5177,2016,Cuba,F05544,,,False
+5178,2016,Curaçao,F01718,,,False
+5179,2016,Cyprus,F02379,window,,False
+5180,2016,Czechia,F04509,window,,False
+5181,2016,Denmark,F00277,window,Norway,False
+5182,2016,Djibouti,F00116,,,False
+5183,2016,Dominica,F03241,any_date,Dominica,False
+5184,2016,Dominican Republic,F01664,,,False
+5185,2016,Egypt,F02629,,,False
+5186,2016,El Salvador,F03158,,,False
+5187,2016,England,F03715,window,England,False
+5188,2016,Estonia,F05465,window,,False
+5189,2016,Faroe Islands,F05111,window,Denmark,False
+5190,2016,Fiji,F03109,,,False
+5191,2016,Finland,F01364,window,,False
+5192,2016,France,F02887,window,France,False
+5193,2016,North Macedonia,F00970,window,North Macedonia,False
+5194,2016,The Gambia,F05798,any_date,The Gambia,False
+5195,2016,Georgia,F06359,window,Slovakia,False
+5196,2016,Germany,F04581,window,Germany,False
+5197,2016,Ghana,F00187,,,False
+5198,2016,Gibraltar,F04550,window,England,False
+5199,2016,Greece,F05589,window,,False
+5200,2016,Grenada,F05870,,,False
+5201,2016,Guam,F02749,,,False
+5202,2016,Guinea,F01435,,,False
+5203,2016,Guinea-Bissau,F01363,any_date,Guinea-Bissau,False
+5204,2016,Haiti,F05809,,,False
+5205,2016,Honduras,F00269,,,False
+5206,2016,"Hong Kong, China",F04972,,,False
+5207,2016,Hungary,F01674,window,Germany,False
+5208,2016,Iceland,F04032,window,Iceland,False
+5209,2016,India,F02537,,,False
+5210,2016,IR Iran,F02126,,,False
+5211,2016,Israel,F03235,,,False
+5212,2016,Italy,F03815,window,,False
+5213,2016,Jamaica,F06328,,,False
+5214,2016,Japan,F04028,,,False
+5215,2016,Jordan,F03749,,,False
+5216,2016,Kazakhstan,F01393,,,False
+5217,2016,Kenya,F05880,,,False
+5218,2016,Korea DPR,F00866,,,False
+5219,2016,Korea Republic,F05906,,,False
+5220,2016,Kosovo,F00472,window,,False
+5221,2016,Kyrgyz Republic,F00559,,,False
+5222,2016,Laos,F05997,,,False
+5223,2016,Latvia,F05415,window,Latvia,False
+5224,2016,Lebanon,F05623,any_date,Montenegro,False
+5225,2016,Liberia,F02826,,,False
+5226,2016,Liechtenstein,F05953,window,Austria,False
+5227,2016,Lithuania,F03145,window,Lithuania,False
+5228,2016,Luxembourg,F04220,window,Luxembourg,False
+5229,2016,Macau,F04302,,,False
+5230,2016,Madagascar,F01271,,,False
+5231,2016,Malaysia,F04971,,,False
+5232,2016,Maldives,F02748,,,False
+5233,2016,Malta,F03806,window,Italy,False
+5234,2016,Mauritania,F02560,,,False
+5235,2016,Mauritius,F04266,,,False
+5236,2016,Mexico,F02117,,,False
+5237,2016,Moldova,F02993,,,False
+5238,2016,Mongolia,F01523,,,False
+5239,2016,Montenegro,F05220,window,Serbia,False
+5240,2016,Montserrat,F04736,,,False
+5241,2016,Morocco,F04174,,,False
+5242,2016,Mozambique,F00171,,,False
+5243,2016,Myanmar,F03637,,,False
+5244,2016,Namibia,F05368,,,False
+5245,2016,Nepal,F03991,,,False
+5246,2016,Netherlands,F01784,window,,False
+5247,2016,New Caledonia,F06211,,,False
+5248,2016,New Zealand,F01027,,,False
+5249,2016,Nigeria,F03787,,,False
+5250,2016,Northern Ireland,F05584,window,Northern Ireland,False
+5251,2016,Norway,F04183,window,Norway,False
+5252,2016,Oman,F02131,,,False
+5253,2016,Pakistan,F05549,,,False
+5254,2016,Palestine,F00076,,,False
+5255,2016,Panama,F02739,,,False
+5256,2016,Papua New Guinea,F03553,,,False
+5257,2016,Paraguay,F01107,,,False
+5258,2016,Peru,F03713,,,False
+5259,2016,Philippines,F03030,,,False
+5260,2016,Poland,F00213,,,False
+5261,2016,Portugal,F03519,window,Portugal,False
+5262,2016,Puerto Rico,F02074,,,False
+5263,2016,Qatar,F02700,,,False
+5264,2016,Republic of Ireland,F05463,window,Northern Ireland,False
+5265,2016,Romania,F02417,window,,False
+5266,2016,Russia,F02304,window,Russia,False
+5267,2016,Rwanda,F04576,,,False
+5268,2016,Samoa,F03127,,,False
+5269,2016,San Marino,F05380,window,San Marino,False
+5270,2016,São Tomé and Príncipe,F01072,,,False
+5271,2016,Saudi Arabia,F05101,,,False
+5272,2016,Scotland,F03895,window,Scotland,False
+5273,2016,Senegal,F00664,any_date,Senegal,False
+5274,2016,Serbia,F05741,window,,False
+5275,2016,Singapore,F05686,,,False
+5276,2016,Slovakia,F04481,window,Slovakia,False
+5277,2016,Slovenia,F04838,window,Slovenia,False
+5278,2016,Somalia,F00158,,,False
+5279,2016,Spain,F00284,window,Spain,False
+5280,2016,Sri Lanka,F03085,,,False
+5281,2016,Saint Kitts and Nevis,F04120,,,False
+5282,2016,Sudan,F00063,,,False
+5283,2016,Suriname,F03849,,,False
+5284,2016,Sweden,F00872,,,False
+5285,2016,Switzerland,F05973,window,,True
+5286,2016,Syria,F00403,,,False
+5287,2016,Tahiti,F03916,,,False
+5288,2016,Tajikistan,F03656,,,False
+5289,2016,Tanzania,F02258,,,False
+5290,2016,Thailand,F04962,,,False
+5291,2016,Togo,F02463,,,False
+5292,2016,Trinidad and Tobago,F04084,,,False
+5293,2016,Türkiye,F03464,window,Türkiye,False
+5294,2016,Turkmenistan,F00782,,,False
+5295,2016,Turks and Caicos Islands,F05886,,,False
+5296,2016,Uganda,F05614,,,False
+5297,2016,Ukraine,F00934,,,False
+5298,2016,Uruguay,F05900,,,False
+5299,2016,United States,F01116,,,False
+5300,2016,Uzbekistan,F01356,,,False
+5301,2016,Venezuela,F03082,,,False
+5302,2016,Vietnam,F04288,,,False
+5303,2016,Wales,F02421,,,False
+5304,2016,Zambia,F05869,,,False
+5305,2016,Zimbabwe,F04780,,,False
+5957,2017,Albania,F02393,window,,False
+5958,2017,Algeria,F00505,,,False
+5959,2017,American Samoa,F00827,,,False
+5960,2017,Andorra,F00749,,,False
+5961,2017,Angola,F01708,,,False
+5962,2017,Argentina,F04654,,,False
+5963,2017,Armenia,F01186,window,,False
+5964,2017,Aruba,F05019,,,False
+5965,2017,Australia,F00950,,,False
+5966,2017,Austria,F05008,window,Switzerland,False
+5967,2017,Azerbaijan,F06026,window,Croatia,False
+5968,2017,Bahamas,F02964,,,False
+5969,2017,Bahrain,F05630,,,False
+5970,2017,Bangladesh,F00921,,,False
+5971,2017,Barbados,F00330,,,False
+5972,2017,Belarus,F04325,window,,False
+5973,2017,Belgium,F05470,window,Spain,False
+5974,2017,Belize,F05894,,,False
+5975,2017,Bermuda,F05088,,,False
+5976,2017,Bhutan,F06290,,,False
+5977,2017,Bosnia and Herzegovina,F01541,window,Bosnia and Herzegovina,False
+5978,2017,Brazil,F00236,,,False
+5979,2017,British Virgin Islands,F03441,,,False
+5980,2017,Burkina Faso,F03072,,,False
+5981,2017,Burundi,F00453,,,False
+5982,2017,Cambodia,F05162,,,False
+5983,2017,Cameroon,F01935,,,False
+5984,2017,Canada,F05872,,,False
+5985,2017,Chad,F05314,,,False
+5986,2017,China PR,F05212,,,False
+5987,2017,Chinese Taipei,F04868,,,False
+5988,2017,Colombia,F04674,,,False
+5989,2017,Congo,F01667,,,False
+5990,2017,Cook Islands,F04315,any_date,New Zealand,False
+5991,2017,Costa Rica,F04167,,,False
+5992,2017,Croatia,F01023,window,Croatia,False
+5993,2017,Cuba,F04671,,,False
+5994,2017,Cyprus,F01605,window,Israel,False
+5995,2017,Czechia,F04509,window,,False
+5996,2017,Denmark,F00277,window,Norway,False
+5997,2017,Djibouti,F04941,,,False
+5998,2017,Dominica,F05119,,,False
+5999,2017,Dominican Republic,F04714,,,False
+6000,2017,Ecuador,F03001,,,False
+6001,2017,Egypt,F02629,,,False
+6002,2017,El Salvador,F03159,,,False
+6003,2017,England,F03715,window,England,False
+6004,2017,Estonia,F05465,window,,False
+6005,2017,Ethiopia,F06247,,,False
+6006,2017,Faroe Islands,F05111,window,Denmark,False
+6007,2017,Finland,F04795,window,Finland,False
+6008,2017,France,F02887,window,France,False
+6009,2017,North Macedonia,F00970,window,North Macedonia,False
+6010,2017,Gabon,F00589,,,False
+6011,2017,The Gambia,F05798,any_date,The Gambia,False
+6012,2017,Georgia,F06359,window,Slovakia,False
+6013,2017,Germany,F04581,window,Germany,False
+6014,2017,Gibraltar,F04550,window,England,False
+6015,2017,Greece,F04136,window,,False
+6016,2017,Guinea-Bissau,F01363,any_date,Guinea-Bissau,False
+6017,2017,Honduras,F00269,,,False
+6018,2017,"Hong Kong, China",F04972,,,False
+6019,2017,Hungary,F01674,window,Germany,False
+6020,2017,Iceland,F04032,window,Iceland,False
+6021,2017,India,F02536,,,False
+6022,2017,Indonesia,F01236,,,False
+6023,2017,IR Iran,F02126,,,False
+6024,2017,Iraq,F01500,,,False
+6025,2017,Israel,F03234,,,False
+6026,2017,Italy,F03815,window,,False
+6027,2017,Jamaica,F06328,,,False
+6028,2017,Japan,F04028,,,False
+6029,2017,Jordan,F00148,,,False
+6030,2017,Kazakhstan,F00527,window,,False
+6031,2017,Korea Republic,F06252,,,False
+6032,2017,Kosovo,F00473,,,False
+6033,2017,Kyrgyz Republic,F00559,,,False
+6034,2017,Laos,F05604,,,False
+6035,2017,Latvia,F00533,window,Latvia,False
+6036,2017,Lebanon,F05623,any_date,Montenegro,False
+6037,2017,Liberia,F02826,,,False
+6038,2017,Liechtenstein,F05953,window,Austria,False
+6039,2017,Lithuania,F03145,window,Lithuania,False
+6040,2017,Luxembourg,F04220,window,Luxembourg,False
+6041,2017,Macau,F02223,,,False
+6042,2017,Madagascar,F03101,,,False
+6043,2017,Maldives,F02748,,,False
+6044,2017,Malta,F03806,window,Italy,False
+6045,2017,Mauritius,F03531,,,False
+6046,2017,Mexico,F02117,,,False
+6047,2017,Moldova,F02993,,,False
+6048,2017,Mongolia,F05590,,,False
+6049,2017,Montenegro,F05220,window,Serbia,False
+6050,2017,Montserrat,F04737,,,False
+6051,2017,Morocco,F04174,,,False
+6052,2017,Mozambique,F00171,,,False
+6053,2017,Myanmar,F03780,,,False
+6054,2017,Namibia,F05368,,,False
+6055,2017,Nepal,F03991,,,False
+6056,2017,Netherlands,F00266,window,Netherlands,False
+6057,2017,New Caledonia,F06211,,,False
+6058,2017,Nicaragua,F03070,,,False
+6059,2017,Nigeria,F03787,,,False
+6060,2017,Northern Ireland,F05584,window,Northern Ireland,False
+6061,2017,Norway,F04060,,,False
+6062,2017,Oman,F05971,,,False
+6063,2017,Pakistan,F05549,,,False
+6064,2017,Palestine,F00090,,,False
+6065,2017,Papua New Guinea,F03553,,,False
+6066,2017,Peru,F03713,,,False
+6067,2017,Poland,F00213,,,False
+6068,2017,Portugal,F03519,window,Portugal,False
+6069,2017,Qatar,F01484,,,False
+6070,2017,Republic of Ireland,F05463,window,Northern Ireland,False
+6071,2017,Romania,F02417,window,,False
+6072,2017,Russia,F02304,window,Russia,False
+6073,2017,Samoa,F06039,,,False
+6074,2017,San Marino,F05380,window,San Marino,False
+6075,2017,Saudi Arabia,F05101,,,False
+6076,2017,Scotland,F03895,window,Scotland,False
+6077,2017,Serbia,F05741,window,,False
+6078,2017,Sierra Leone,F00194,,,False
+6079,2017,Singapore,F05687,,,False
+6080,2017,Slovakia,F04481,window,,False
+6081,2017,Slovenia,F04838,window,Slovenia,False
+6082,2017,South Africa,F01533,,,False
+6083,2017,Spain,F00284,window,Spain,False
+6084,2017,Saint Lucia,F03595,,,False
+6085,2017,Sudan,F00064,,,False
+6086,2017,Sweden,F00872,,,False
+6087,2017,Switzerland,F05973,window,Switzerland,False
+6088,2017,Syria,F00601,,,False
+6089,2017,Tahiti,F03916,,,False
+6090,2017,Tajikistan,F03656,,,False
+6091,2017,Tanzania,F05516,,,False
+6092,2017,Thailand,F05613,,,False
+6093,2017,Togo,F02463,,,False
+6094,2017,Tonga,F05666,any_date,Tonga,False
+6095,2017,Trinidad and Tobago,F02870,,,False
+6096,2017,Tunisia,F05353,,,False
+6097,2017,Türkiye,F05251,window,Romania,False
+6098,2017,Turkmenistan,F04216,,,False
+6099,2017,Uganda,F01488,,,False
+6100,2017,Ukraine,F00940,window,Ukraine,False
+6101,2017,Uruguay,F05901,,,False
+6102,2017,United States,F01116,,,False
+6103,2017,Uzbekistan,F01356,,,False
+6104,2017,Venezuela,F03081,,,False
+6105,2017,Vietnam,F04288,,,False
+6106,2017,Wales,F02421,,,False
+6107,2017,Zambia,F05869,,,False
+6108,2017,Zimbabwe,F05381,any_date,Zimbabwe,False
+6806,2018,Afghanistan,F01017,,,False
+6807,2018,Albania,F02393,window,,False
+6808,2018,Algeria,F01591,,,False
+6809,2018,American Samoa,F05278,any_date,American Samoa,False
+6810,2018,Andorra,F00749,,,False
+6811,2018,Angola,F06292,,,False
+6812,2018,Argentina,F05210,any_date,Argentina,False
+6813,2018,Armenia,F05616,window,Armenia,False
+6814,2018,Aruba,F05019,,,False
+6815,2018,Australia,F01166,any_date,Australia,False
+6816,2018,Austria,F03580,window,Germany,False
+6817,2018,Azerbaijan,F03966,window,,False
+6818,2018,Bahamas,F02964,,,False
+6819,2018,Bahrain,F05630,,,False
+6820,2018,Bangladesh,F02797,,,False
+6821,2018,Belarus,F04325,window,,False
+6822,2018,Belgium,F05470,window,Spain,False
+6823,2018,Bermuda,F05089,,,False
+6824,2018,Bhutan,F05690,,,False
+6825,2018,Bolivia,F00206,,,False
+6826,2018,Bosnia and Herzegovina,F06026,window,Croatia,False
+6827,2018,Brazil,F00236,,,False
+6828,2018,British Virgin Islands,F00943,,,False
+6829,2018,Brunei Darussalam,F04205,,,False
+6830,2018,Bulgaria,F04243,,,False
+6831,2018,Burkina Faso,F03073,,,False
+6832,2018,Burundi,F00453,,,False
+6833,2018,Cambodia,F06021,,,False
+6834,2018,Canada,F04158,,,False
+6835,2018,Cabo Verde,F00285,,,False
+6836,2018,Cayman Islands,F03201,,,False
+6837,2018,Chad,F04726,,,False
+6838,2018,Chile,F06100,,,False
+6839,2018,China PR,F05212,,,False
+6840,2018,Chinese Taipei,F03725,any_date,England,False
+6841,2018,Colombia,F04674,,,False
+6842,2018,Comoros,F00108,,,False
+6843,2018,Congo,F02071,,,False
+6844,2018,Congo DR,F03569,,,False
+6845,2018,Costa Rica,F01906,,,False
+6846,2018,Côte d'Ivoire,F04312,,,False
+6847,2018,Croatia,F02684,window,Croatia,False
+6848,2018,Cuba,F05544,,,False
+6849,2018,Cyprus,F01605,window,Israel,False
+6850,2018,Czechia,F04509,window,,False
+6851,2018,Denmark,F00277,window,Norway,False
+6852,2018,Dominica,F05119,,,False
+6853,2018,Dominican Republic,F01117,,,False
+6854,2018,Ecuador,F02739,,,False
+6855,2018,Egypt,F00303,,,False
+6856,2018,El Salvador,F02102,,,False
+6857,2018,England,F03715,window,England,False
+6858,2018,Equatorial Guinea,F00174,,,False
+6859,2018,Estonia,F05465,window,,False
+6860,2018,Ethiopia,F00192,,,False
+6861,2018,Faroe Islands,F05111,window,Denmark,False
+6862,2018,Fiji,F02420,,,False
+6863,2018,Finland,F04795,window,Finland,False
+6864,2018,France,F02887,window,France,False
+6865,2018,North Macedonia,F00970,window,North Macedonia,False
+6866,2018,The Gambia,F06185,,,False
+6867,2018,Georgia,F06359,window,Slovakia,False
+6868,2018,Germany,F04581,window,Germany,False
+6869,2018,Gibraltar,F04728,window,Uruguay,False
+6870,2018,Greece,F04136,window,,False
+6871,2018,Guam,F02995,,,False
+6872,2018,Guatemala,F00745,,,False
+6873,2018,Guinea,F05943,,,False
+6874,2018,Guinea-Bissau,F01363,any_date,Guinea-Bissau,False
+6875,2018,Haiti,F02516,,,False
+6876,2018,Honduras,F02112,,,False
+6877,2018,"Hong Kong, China",F02431,,,False
+6878,2018,Hungary,F05395,window,Italy,False
+6879,2018,Iceland,F04032,window,Iceland,False
+6880,2018,India,F02537,,,False
+6881,2018,IR Iran,F01928,,,False
+6882,2018,Iraq,F01499,,,False
+6883,2018,Israel,F00717,any_date,Israel,False
+6884,2018,Italy,F05364,window,Italy,False
+6885,2018,Jamaica,F06328,,,False
+6886,2018,Japan,F04023,any_date,Japan,False
+6887,2018,Jordan,F00166,,,False
+6888,2018,Kazakhstan,F06293,window,Bulgaria,False
+6889,2018,Korea DPR,F04733,,,False
+6890,2018,Korea Republic,F00006,,,False
+6891,2018,Kosovo,F01666,window,Switzerland,False
+6892,2018,Kyrgyz Republic,F00559,,,False
+6893,2018,Laos,F00005,,,False
+6894,2018,Latvia,F05636,window,Finland,False
+6895,2018,Lebanon,F05623,any_date,Montenegro,False
+6896,2018,Liechtenstein,F05953,window,Austria,False
+6897,2018,Lithuania,F03145,window,Lithuania,False
+6898,2018,Luxembourg,F04220,window,Luxembourg,False
+6899,2018,Macau,F02351,,,False
+6900,2018,Madagascar,F03101,,,False
+6901,2018,Malawi,F03753,,,False
+6902,2018,Maldives,F05969,,,False
+6903,2018,Mali,F05308,,,False
+6904,2018,Malta,F03457,window,,False
+6905,2018,Mauritania,F02558,,,False
+6906,2018,Mauritius,F03531,,,False
+6907,2018,Mexico,F02117,,,False
+6908,2018,Moldova,F00580,window,,False
+6909,2018,Mongolia,F05590,,,False
+6910,2018,Montenegro,F05220,window,Serbia,False
+6911,2018,Montserrat,F03018,,,False
+6912,2018,Morocco,F04174,,,False
+6913,2018,Mozambique,F00168,,,False
+6914,2018,Myanmar,F01038,,,False
+6915,2018,Namibia,F05368,,,False
+6916,2018,Nepal,F03991,,,False
+6917,2018,Netherlands,F05000,window,Netherlands,False
+6918,2018,New Caledonia,F06211,,,False
+6919,2018,New Zealand,F03641,,,False
+6920,2018,Niger,F02912,,,False
+6921,2018,Nigeria,F03787,,,False
+6922,2018,Northern Ireland,F05584,window,Northern Ireland,False
+6923,2018,Norway,F04060,,,False
+6924,2018,Oman,F05971,,,False
+6925,2018,Pakistan,F01059,,,False
+6926,2018,Palestine,F00645,,,False
+6927,2018,Panama,F02589,,,False
+6928,2018,Peru,F03713,,,False
+6929,2018,Poland,F01957,window,Poland,False
+6930,2018,Portugal,F03519,window,Portugal,False
+6931,2018,Puerto Rico,F00775,,,False
+6932,2018,Republic of Ireland,F05463,window,Northern Ireland,False
+6933,2018,Romania,F02548,window,,False
+6934,2018,Russia,F02304,window,Russia,False
+6935,2018,Samoa,F05947,,,False
+6936,2018,San Marino,F03608,window,Italy,False
+6937,2018,Saudi Arabia,F01065,,,False
+6938,2018,Scotland,F00561,,,False
+6939,2018,Senegal,F00664,any_date,Senegal,False
+6940,2018,Serbia,F05054,window,Serbia,False
+6941,2018,Sierra Leone,F04609,,,False
+6942,2018,Singapore,F00313,,,False
+6943,2018,Slovakia,F04481,window,,False
+6944,2018,Slovenia,F04857,window,,False
+6945,2018,South Africa,F01533,,,False
+6946,2018,Spain,F03306,,,False
+6947,2018,Sri Lanka,F00641,,,False
+6948,2018,Saint Kitts and Nevis,F04447,,,False
+6949,2018,Saint Lucia,F03595,,,False
+6950,2018,Sudan,F05264,,,False
+6951,2018,Suriname,F02823,,,False
+6952,2018,Eswatini,F01030,,,False
+6953,2018,Sweden,F00872,,,False
+6954,2018,Switzerland,F05973,window,Switzerland,False
+6955,2018,Syria,F01673,,,False
+6956,2018,Tajikistan,F03324,,,False
+6957,2018,Tanzania,F04140,,,False
+6958,2018,Thailand,F05613,,,False
+6959,2018,Timor-Leste,F05855,,,False
+6960,2018,Togo,F02463,,,False
+6961,2018,Türkiye,F05251,window,Romania,False
+6962,2018,Turkmenistan,F04216,,,False
+6963,2018,Turks and Caicos Islands,F01462,,,False
+6964,2018,Uganda,F02886,,,False
+6965,2018,Ukraine,F00934,,,False
+6966,2018,United Arab Emirates,F00496,,,False
+6967,2018,Uruguay,F05901,,,False
+6968,2018,US Virgin Islands,F05393,,,False
+6969,2018,United States,F02760,,,False
+6970,2018,Uzbekistan,F02629,,,False
+6971,2018,Vanuatu,F04017,,,False
+6972,2018,Venezuela,F03081,,,False
+6973,2018,Vietnam,F04049,,,False
+6974,2018,Wales,F03821,window,Wales,False
+6975,2018,Zambia,F06311,,,False
+7735,2019,Afghanistan,F01017,,,False
+7736,2019,Albania,F03151,window,Italy,False
+7737,2019,Algeria,F01591,,,False
+7738,2019,American Samoa,F05265,,,False
+7739,2019,Andorra,F00747,,,False
+7740,2019,Angola,F06292,,,False
+7741,2019,Argentina,F05210,any_date,Argentina,False
+7742,2019,Australia,F01166,any_date,Australia,False
+7743,2019,Austria,F03580,window,Germany,False
+7744,2019,Azerbaijan,F04740,window,,False
+7745,2019,Bahamas,F04536,,,False
+7746,2019,Bahrain,F02808,,,False
+7747,2019,Bangladesh,F02797,,,False
+7748,2019,Barbados,F00330,,,False
+7749,2019,Belarus,F05443,window,Belarus,False
+7750,2019,Belgium,F05470,window,Spain,False
+7751,2019,Bermuda,F05088,,,False
+7752,2019,Bhutan,F03043,any_date,Bhutan,False
+7753,2019,Bosnia and Herzegovina,F06026,window,Croatia,False
+7754,2019,Botswana,F05647,,,False
+7755,2019,Brazil,F00236,,,False
+7756,2019,British Virgin Islands,F04617,,,False
+7757,2019,Brunei Darussalam,F06132,,,False
+7758,2019,Bulgaria,F01409,,,False
+7759,2019,Burkina Faso,F03542,,,False
+7760,2019,Burundi,F00453,,,False
+7761,2019,Cambodia,F00306,any_date,Argentina,False
+7762,2019,Canada,F04158,,,False
+7763,2019,Cabo Verde,F00285,,,False
+7764,2019,Cayman Islands,F01604,,,False
+7765,2019,Central African Republic,F03326,,,False
+7766,2019,Chad,F02980,,,False
+7767,2019,Chile,F06102,,,False
+7768,2019,China PR,F05212,,,False
+7769,2019,Chinese Taipei,F00459,,,False
+7770,2019,Colombia,F01928,,,False
+7771,2019,Comoros,F00108,,,False
+7772,2019,Congo,F02071,,,False
+7773,2019,Costa Rica,F03978,,,False
+7774,2019,Croatia,F02684,window,Croatia,False
+7775,2019,Cuba,F03229,,,False
+7776,2019,Cyprus,F01605,window,Israel,False
+7777,2019,Czechia,F04512,window,Czechia,False
+7778,2019,Denmark,F00277,window,Norway,False
+7779,2019,Djibouti,F04725,,,False
+7780,2019,Dominica,F05119,,,False
+7781,2019,Dominican Republic,F02767,,,False
+7782,2019,Ecuador,F02184,,,False
+7783,2019,El Salvador,F00484,,,False
+7784,2019,England,F03715,window,England,False
+7785,2019,Eritrea,F00540,,,False
+7786,2019,Estonia,F04807,window,Estonia,False
+7787,2019,Eswatini,F05026,,,False
+7788,2019,Faroe Islands,F05111,window,Denmark,False
+7789,2019,Finland,F04795,window,Finland,False
+7790,2019,France,F02887,window,France,False
+7791,2019,Gabon,F05809,any_date,France,False
+7792,2019,The Gambia,F06185,,,False
+7793,2019,Georgia,F06359,window,Slovakia,False
+7794,2019,Germany,F04581,window,Germany,False
+7795,2019,Ghana,F01092,,,False
+7796,2019,Gibraltar,F04728,window,Uruguay,False
+7797,2019,Greece,F04600,,,False
+7798,2019,Guinea-Bissau,F01363,any_date,Guinea-Bissau,False
+7799,2019,Guyana,F04624,,,False
+7800,2019,Haiti,F02516,,,False
+7801,2019,Honduras,F02505,,,False
+7802,2019,"Hong Kong, China",F05501,,,False
+7803,2019,Hungary,F05395,window,Italy,False
+7804,2019,Iceland,F03336,window,Sweden,False
+7805,2019,India,F04329,any_date,Croatia,False
+7806,2019,Indonesia,F00562,,,False
+7807,2019,IR Iran,F05389,,,False
+7808,2019,Israel,F00893,window,,False
+7809,2019,Italy,F05364,window,Italy,False
+7810,2019,Jamaica,F06329,,,False
+7811,2019,Japan,F04023,any_date,Japan,False
+7812,2019,Jordan,F01846,,,False
+7813,2019,Kazakhstan,F01732,window,Czechia,False
+7814,2019,Korea DPR,F04635,,,False
+7815,2019,Korea Republic,F01640,,,False
+7816,2019,Kosovo,F01666,window,Switzerland,False
+7817,2019,Kyrgyz Republic,F00523,,,False
+7818,2019,Laos,F05686,,,False
+7819,2019,Latvia,F06270,window,Slovenia,False
+7820,2019,Lebanon,F02441,,,False
+7821,2019,Lesotho,F05350,,,False
+7822,2019,Liechtenstein,F04137,,,False
+7823,2019,Lithuania,F06349,window,Lithuania,False
+7824,2019,Luxembourg,F04220,window,Luxembourg,False
+7825,2019,Macau,F02351,,,False
+7826,2019,Malawi,F05541,,,False
+7827,2019,Malaysia,F02301,,,False
+7828,2019,Maldives,F04257,,,False
+7829,2019,Mali,F05308,,,False
+7830,2019,Malta,F03457,window,,False
+7831,2019,Mauritania,F02559,,,False
+7832,2019,Mauritius,F03531,,,False
+7833,2019,Mexico,F03778,,,False
+7834,2019,Moldova,F00744,,,False
+7835,2019,Mongolia,F04057,,,False
+7836,2019,Montenegro,F03459,window,Bosnia and Herzegovina,False
+7837,2019,Mozambique,F05493,,,False
+7838,2019,Myanmar,F05623,,,False
+7839,2019,Namibia,F01797,,,False
+7840,2019,Nepal,F04594,,,False
+7841,2019,Netherlands,F05000,window,Netherlands,False
+7842,2019,New Caledonia,F06211,,,False
+7843,2019,New Zealand,F01960,,,False
+7844,2019,Nicaragua,F03069,,,False
+7845,2019,Niger,F03051,,,False
+7846,2019,Nigeria,F03787,,,False
+7847,2019,North Macedonia,F00970,window,North Macedonia,False
+7848,2019,Northern Ireland,F05584,window,Northern Ireland,False
+7849,2019,Norway,F04060,,,False
+7850,2019,Pakistan,F03856,,,False
+7851,2019,Panama,F00809,,,False
+7852,2019,Papua New Guinea,F01796,,,False
+7853,2019,Paraguay,F01659,,,False
+7854,2019,Peru,F03713,,,False
+7855,2019,Philippines,F03885,,,False
+7856,2019,Poland,F01957,window,Poland,False
+7857,2019,Portugal,F03519,window,Portugal,False
+7858,2019,Puerto Rico,F03213,,,False
+7859,2019,Qatar,F01484,,,False
+7860,2019,Republic of Ireland,F05527,window,Republic of Ireland,False
+7861,2019,Romania,F02548,window,,False
+7862,2019,Russia,F02304,window,Russia,False
+7863,2019,Rwanda,F05481,,,False
+7864,2019,San Marino,F03608,window,Italy,False
+7865,2019,Saudi Arabia,F04174,any_date,France,False
+7866,2019,Scotland,F02457,,,False
+7867,2019,Senegal,F00664,any_date,Senegal,False
+7868,2019,Serbia,F05220,window,Serbia,False
+7869,2019,Sierra Leone,F06229,,,False
+7870,2019,Singapore,F06318,,,False
+7871,2019,Slovakia,F04070,window,Czechia,False
+7872,2019,Slovenia,F04879,window,Slovenia,False
+7873,2019,Somalia,F01493,,,False
+7874,2019,South Africa,F01533,,,False
+7875,2019,Spain,F03876,window,,False
+7876,2019,Saint Kitts and Nevis,F03125,,,False
+7877,2019,Saint Lucia,F04462,,,False
+7878,2019,Saint Vincent and the Grenadines,F04892,,,False
+7879,2019,Sudan,F05263,,,False
+7880,2019,Suriname,F02823,,,False
+7881,2019,Sweden,F00872,,,False
+7882,2019,Switzerland,F05973,window,Switzerland,False
+7883,2019,Tahiti,F03711,any_date,Tahiti,False
+7884,2019,Tajikistan,F06346,,,False
+7885,2019,Tanzania,F03364,,,False
+7886,2019,Thailand,F00382,,,False
+7887,2019,Togo,F02463,,,False
+7888,2019,Trinidad and Tobago,F02870,,,False
+7889,2019,Tunisia,F00449,,,False
+7890,2019,Türkiye,F03961,window,Türkiye,False
+7891,2019,Turkmenistan,F01025,,,False
+7892,2019,Uganda,F00069,,,False
+7893,2019,Ukraine,F00934,,,False
+7894,2019,United Arab Emirates,F05101,,,False
+7895,2019,Uruguay,F05898,,,False
+7896,2019,US Virgin Islands,F05393,,,False
+7897,2019,United States,F01655,any_date,United States,False
+7898,2019,Uzbekistan,F02630,,,False
+7899,2019,Vanuatu,F05735,,,False
+7900,2019,Venezuela,F03082,,,False
+7901,2019,Vietnam,F04049,,,False
+7902,2019,Wales,F03821,window,Wales,False
+7903,2019,Zambia,F00279,,,False
+8706,2020,Afghanistan,F01017,,,False
+8707,2020,Albania,F03151,window,Italy,False
+8708,2020,Algeria,F01591,,,False
+8709,2020,American Samoa,F05218,,,False
+8710,2020,Andorra,F00748,window,Andorra,False
+8711,2020,Angola,F03869,any_date,Portugal,False
+8712,2020,Anguilla,F02532,any_date,Anguilla,False
+8713,2020,Antigua and Barbuda,F02752,,,False
+8714,2020,Argentina,F05209,any_date,Argentina,False
+8715,2020,Armenia,F02051,window,Spain,False
+8716,2020,Aruba,F01661,any_date,Aruba,False
+8717,2020,Australia,F01166,any_date,Australia,False
+8718,2020,Austria,F03580,window,Germany,False
+8719,2020,Azerbaijan,F01710,,,False
+8720,2020,Bahamas,F04536,,,False
+8721,2020,Bahrain,F02927,,,False
+8722,2020,Bangladesh,F02798,,,False
+8723,2020,Barbados,F05118,,,False
+8724,2020,Belarus,F05443,window,Belarus,False
+8725,2020,Belgium,F05470,window,Spain,False
+8726,2020,Belize,F02680,,,False
+8727,2020,Benin,F03107,,,False
+8728,2020,Bermuda,F05088,,,False
+8729,2020,Bhutan,F03043,any_date,Bhutan,False
+8730,2020,Bolivia,F00206,,,False
+8731,2020,Bosnia and Herzegovina,F01395,,,False
+8732,2020,Brazil,F00235,,,False
+8733,2020,British Virgin Islands,F02709,,,False
+8734,2020,Brunei Darussalam,F00819,,,False
+8735,2020,Bulgaria,F02881,window,Bulgaria,False
+8736,2020,Burkina Faso,F04793,,,False
+8737,2020,Burundi,F04577,,,False
+8738,2020,Cabo Verde,F01929,,,False
+8739,2020,Cambodia,F00306,any_date,Argentina,False
+8740,2020,Cameroon,F01049,,,False
+8741,2020,Canada,F04158,,,False
+8742,2020,Cayman Islands,F01630,,,False
+8743,2020,Chile,F06100,,,False
+8744,2020,China PR,F05176,,,False
+8745,2020,Chinese Taipei,F02010,,,False
+8746,2020,Congo DR,F01725,,,False
+8747,2020,Costa Rica,F03881,,,False
+8748,2020,Côte d'Ivoire,F01552,,,False
+8749,2020,Croatia,F02684,window,Croatia,False
+8750,2020,Cuba,F03229,,,False
+8751,2020,Cyprus,F04597,window,Belgium,False
+8752,2020,Czechia,F04512,window,Czechia,False
+8753,2020,Denmark,F04200,window,Denmark,False
+8754,2020,Djibouti,F04725,,,False
+8755,2020,Dominica,F05119,,,False
+8756,2020,Dominican Republic,F04446,,,False
+8757,2020,Ecuador,F00590,,,False
+8758,2020,Egypt,F03200,,,False
+8759,2020,El Salvador,F00485,,,False
+8760,2020,England,F03715,window,England,False
+8761,2020,Eritrea,F00539,any_date,Eritrea,False
+8762,2020,Estonia,F04807,window,Estonia,False
+8763,2020,Eswatini,F03009,any_date,Eswatini,False
+8764,2020,Ethiopia,F00049,,,False
+8765,2020,Faroe Islands,F03334,window,Sweden,False
+8766,2020,Fiji,F03553,,,False
+8767,2020,Finland,F04795,window,Finland,False
+8768,2020,France,F02887,window,France,False
+8769,2020,Gabon,F05809,any_date,France,False
+8770,2020,The Gambia,F06185,,,False
+8771,2020,Georgia,F04950,,,False
+8772,2020,Germany,F04581,window,Germany,False
+8773,2020,Ghana,F00394,,,False
+8774,2020,Gibraltar,F04728,window,Uruguay,False
+8775,2020,Greece,F04621,,,False
+8776,2020,Grenada,F00587,,,False
+8777,2020,Guam,F02995,,,False
+8778,2020,Guatemala,F00797,,,False
+8779,2020,Guinea,F02939,,,False
+8780,2020,Guyana,F01456,,,False
+8781,2020,Honduras,F02504,,,False
+8782,2020,"Hong Kong, China",F05501,,,False
+8783,2020,Hungary,F05395,window,Italy,False
+8784,2020,Iceland,F03336,window,Sweden,False
+8785,2020,India,F04329,any_date,Croatia,False
+8786,2020,Indonesia,F06251,any_date,Korea Republic,False
+8787,2020,IR Iran,F03057,,,False
+8788,2020,Iraq,F04839,,,False
+8789,2020,Israel,F06171,,,False
+8790,2020,Italy,F05364,window,Italy,False
+8791,2020,Jamaica,F06328,,,False
+8792,2020,Japan,F04023,any_date,Japan,False
+8793,2020,Jordan,F01846,,,False
+8794,2020,Kazakhstan,F01732,window,Czechia,False
+8795,2020,Kenya,F04437,,,False
+8796,2020,Korea DPR,F04635,,,False
+8797,2020,Korea Republic,F01639,,,False
+8798,2020,Kosovo,F01666,window,Switzerland,False
+8799,2020,Kuwait,F00908,,,False
+8800,2020,Kyrgyz Republic,F00559,,,False
+8801,2020,Laos,F05686,,,False
+8802,2020,Latvia,F02676,window,Latvia,False
+8803,2020,Lebanon,F04466,,,False
+8804,2020,Lesotho,F06231,,,False
+8805,2020,Liberia,F01997,,,False
+8806,2020,Libya,F00627,,,False
+8807,2020,Liechtenstein,F04137,,,False
+8808,2020,Lithuania,F06349,window,Lithuania,False
+8809,2020,Luxembourg,F04220,window,Luxembourg,False
+8810,2020,Macau,F05134,any_date,Angola,False
+8811,2020,Madagascar,F03101,,,False
+8812,2020,Malawi,F05541,,,False
+8813,2020,Malaysia,F02301,,,False
+8814,2020,Maldives,F03993,,,False
+8815,2020,Mali,F05308,,,False
+8816,2020,Malta,F02902,window,Italy,False
+8817,2020,Mauritania,F02560,,,False
+8818,2020,Mauritius,F01865,,,False
+8819,2020,Mexico,F02703,,,False
+8820,2020,Moldova,F03295,,,False
+8821,2020,Mongolia,F01881,,,False
+8822,2020,Montenegro,F03459,window,Bosnia and Herzegovina,False
+8823,2020,Montserrat,F03018,,,False
+8824,2020,Morocco,F04028,,,False
+8825,2020,Mozambique,F03865,,,False
+8826,2020,Myanmar,F01037,,,False
+8827,2020,Namibia,F01799,,,False
+8828,2020,Nepal,F01405,,,False
+8829,2020,Netherlands,F01806,window,Netherlands,False
+8830,2020,New Zealand,F02724,,,False
+8831,2020,Nicaragua,F04716,,,False
+8832,2020,Niger,F02171,,,False
+8833,2020,Nigeria,F03787,,,False
+8834,2020,North Macedonia,F00970,window,North Macedonia,False
+8835,2020,Northern Ireland,F01445,window,England,False
+8836,2020,Norway,F06277,window,Norway,False
+8837,2020,Oman,F01896,,,False
+8838,2020,Pakistan,F02701,,,False
+8839,2020,Palestine,F05857,,,False
+8840,2020,Panama,F02402,any_date,,True
+8841,2020,Papua New Guinea,F01796,,,False
+8842,2020,Paraguay,F01659,,,False
+8843,2020,Peru,F03714,,,False
+8844,2020,Philippines,F02553,,,False
+8845,2020,Poland,F01957,window,Poland,False
+8846,2020,Portugal,F03519,window,Portugal,False
+8847,2020,Puerto Rico,F03213,,,False
+8848,2020,Qatar,F01484,,,False
+8849,2020,Republic of Ireland,F04901,window,Republic of Ireland,False
+8850,2020,Romania,F05486,window,Romania,False
+8851,2020,Russia,F02304,window,Russia,False
+8852,2020,Rwanda,F05481,,,False
+8853,2020,Samoa,F05947,,,False
+8854,2020,San Marino,F03608,window,Italy,False
+8855,2020,São Tomé and Príncipe,F00260,any_date,São Tomé and Príncipe,False
+8856,2020,Saudi Arabia,F04174,any_date,France,False
+8857,2020,Scotland,F02458,window,Scotland,False
+8858,2020,Senegal,F00664,any_date,Senegal,False
+8859,2020,Serbia,F05220,window,Serbia,False
+8860,2020,Seychelles,F04533,any_date,Seychelles,False
+8861,2020,Sierra Leone,F03165,,,False
+8862,2020,Singapore,F06318,,,False
+8863,2020,Slovakia,F06298,window,Slovakia,False
+8864,2020,Slovenia,F04879,window,Slovenia,False
+8865,2020,Solomon Islands,F03135,,,False
+8866,2020,South Africa,F05665,,,False
+8867,2020,South Sudan,F01225,,,False
+8868,2020,Spain,F03311,window,Spain,False
+8869,2020,Sri Lanka,F00443,,,False
+8870,2020,Saint Kitts and Nevis,F04121,,,False
+8871,2020,Saint Lucia,F04463,,,False
+8872,2020,Suriname,F02823,,,False
+8873,2020,Sweden,F00872,,,False
+8874,2020,Switzerland,F05973,window,Switzerland,False
+8875,2020,Syria,F05286,,,False
+8876,2020,Tahiti,F03711,any_date,Tahiti,False
+8877,2020,Tajikistan,F06346,,,False
+8878,2020,Tanzania,F03373,,,False
+8879,2020,Thailand,F00382,,,False
+8880,2020,Tonga,F01585,,,False
+8881,2020,Trinidad and Tobago,F03501,,,False
+8882,2020,Tunisia,F04872,,,False
+8883,2020,Türkiye,F03961,window,Türkiye,False
+8884,2020,Turks and Caicos Islands,F03167,,,False
+8885,2020,Uganda,F04623,,,False
+8886,2020,Ukraine,F00940,window,Ukraine,False
+8887,2020,United Arab Emirates,F04658,,,False
+8888,2020,Uruguay,F05900,,,False
+8889,2020,US Virgin Islands,F02688,any_date,Brazil,False
+8890,2020,United States,F01655,any_date,United States,False
+8891,2020,Uzbekistan,F00190,,,False
+8892,2020,Vanuatu,F03366,,,False
+8893,2020,Venezuela,F04675,,,False
+8894,2020,Vietnam,F04049,,,False
+8895,2020,Wales,F03821,window,Wales,False
+8896,2020,Yemen,F00599,,,False
+8897,2020,Zambia,F05614,,,False
+8898,2020,Zimbabwe,F05224,,,False
+9813,2021,Afghanistan,F01016,,,False
+9814,2021,Albania,F03151,window,Italy,False
+9815,2021,Algeria,F01591,,,False
+9816,2021,American Samoa,F05265,,,False
+9817,2021,Andorra,F00750,window,Andorra,False
+9818,2021,Angola,F03869,any_date,Portugal,False
+9819,2021,Anguilla,F04618,,,False
+9820,2021,Antigua and Barbuda,F04182,,,False
+9821,2021,Argentina,F05209,any_date,Argentina,False
+9822,2021,Armenia,F02051,window,Spain,False
+9823,2021,Aruba,F05565,,,False
+9824,2021,Australia,F01166,any_date,Australia,False
+9825,2021,Austria,F03580,window,Germany,False
+9826,2021,Azerbaijan,F01709,window,Italy,False
+9827,2021,Bahamas,F04536,,,False
+9828,2021,Bahrain,F02928,,,False
+9829,2021,Bangladesh,F05944,,,False
+9830,2021,Barbados,F05118,,,False
+9831,2021,Belarus,F04153,,,False
+9832,2021,Belgium,F05470,window,Spain,False
+9833,2021,Belize,F02658,,,False
+9834,2021,Benin,F03107,,,False
+9835,2021,Bermuda,F05088,,,False
+9836,2021,Bhutan,F03043,any_date,Bhutan,False
+9837,2021,Bolivia,F00513,,,False
+9838,2021,Bosnia and Herzegovina,F01807,window,Bulgaria,False
+9839,2021,Botswana,F04928,,,False
+9840,2021,Brazil,F00235,,,False
+9841,2021,British Virgin Islands,F02373,any_date,England,False
+9842,2021,Brunei Darussalam,F05047,,,False
+9843,2021,Bulgaria,F05975,window,Bulgaria,False
+9844,2021,Burkina Faso,F04793,,,False
+9845,2021,Burundi,F04577,,,False
+9846,2021,Cabo Verde,F01929,,,False
+9847,2021,Cambodia,F04196,,,False
+9848,2021,Cameroon,F01049,,,False
+9849,2021,Canada,F04158,,,False
+9850,2021,Cayman Islands,F00557,,,False
+9851,2021,Central African Republic,F06072,any_date,Switzerland,False
+9852,2021,Chad,F00254,,,False
+9853,2021,Chile,F01172,,,False
+9854,2021,China PR,F05176,,,False
+9855,2021,Chinese Taipei,F02433,,,False
+9856,2021,Colombia,F06100,,,False
+9857,2021,Comoros,F00108,,,False
+9858,2021,Congo,F03405,,,False
+9859,2021,Cook Islands,F03374,,,False
+9860,2021,Costa Rica,F03517,,,False
+9861,2021,Côte d'Ivoire,F01552,,,False
+9862,2021,Croatia,F02684,window,Croatia,False
+9863,2021,Cuba,F03228,,,False
+9864,2021,Curaçao,F04993,,,False
+9865,2021,Cyprus,F05028,,,False
+9866,2021,Czechia,F04512,window,Czechia,False
+9867,2021,Denmark,F04200,window,Denmark,False
+9868,2021,Djibouti,F04106,,,False
+9869,2021,Dominica,F05119,,,False
+9870,2021,Dominican Republic,F01619,,,False
+9871,2021,Ecuador,F00590,,,False
+9872,2021,Egypt,F02126,,,False
+9873,2021,El Salvador,F04274,,,False
+9874,2021,England,F03715,window,England,False
+9875,2021,Equatorial Guinea,F01719,any_date,Equatorial Guinea,False
+9876,2021,Eritrea,F00541,,,False
+9877,2021,Estonia,F03996,window,Switzerland,False
+9878,2021,Eswatini,F03008,any_date,Eswatini,False
+9879,2021,Ethiopia,F00049,,,False
+9880,2021,Faroe Islands,F03334,window,Sweden,False
+9881,2021,Fiji,F03553,,,False
+9882,2021,Finland,F04795,window,Finland,False
+9883,2021,France,F02887,window,France,False
+9884,2021,Gabon,F05809,any_date,France,False
+9885,2021,The Gambia,F06185,,,False
+9886,2021,Georgia,F06180,window,France,False
+9887,2021,Germany,F03558,window,Germany,False
+9888,2021,Ghana,F05613,,,False
+9889,2021,Gibraltar,F04728,window,Uruguay,False
+9890,2021,Greece,F04601,,,False
+9891,2021,Grenada,F03535,,,False
+9892,2021,Guam,F04233,any_date,Korea Republic,False
+9893,2021,Guatemala,F05229,,,False
+9894,2021,Guinea,F02931,any_date,Guinea,False
+9895,2021,Guyana,F04463,any_date,Trinidad and Tobago,False
+9896,2021,Haiti,F04445,,,False
+9897,2021,Honduras,F02740,,,False
+9898,2021,"Hong Kong, China",F02312,,,False
+9899,2021,Hungary,F05395,window,Italy,False
+9900,2021,Iceland,F01163,,,False
+9901,2021,India,F04329,any_date,Croatia,False
+9902,2021,Indonesia,F06252,,,False
+9903,2021,IR Iran,F03057,,,False
+9904,2021,Iraq,F05977,,,False
+9905,2021,Israel,F06171,,,False
+9906,2021,Italy,F05364,window,Italy,False
+9907,2021,Jamaica,F06328,,,False
+9908,2021,Japan,F04023,any_date,Japan,False
+9909,2021,Jordan,F00248,,,False
+9910,2021,Kazakhstan,F01393,,,False
+9911,2021,Kenya,F03295,,,False
+9912,2021,Korea DPR,F04635,,,False
+9913,2021,Korea Republic,F01639,,,False
+9914,2021,Kosovo,F03840,any_date,Slovenia,False
+9915,2021,Kuwait,F02109,,,False
+9916,2021,Kyrgyz Republic,F00559,,,False
+9917,2021,Laos,F06230,,,False
+9918,2021,Latvia,F02676,window,Latvia,False
+9919,2021,Lebanon,F04093,,,False
+9920,2021,Lesotho,F05165,any_date,Lesotho,False
+9921,2021,Liberia,F01997,,,False
+9922,2021,Libya,F02484,,,False
+9923,2021,Liechtenstein,F05468,window,Liechtenstein,False
+9924,2021,Lithuania,F04411,window,Lithuania,False
+9925,2021,Luxembourg,F04220,window,Luxembourg,False
+9926,2021,Macau,F05134,any_date,Angola,False
+9927,2021,Madagascar,F03328,,,False
+9928,2021,Malawi,F05541,,,False
+9929,2021,Malaysia,F02301,,,False
+9930,2021,Maldives,F03594,any_date,Italy,False
+9931,2021,Mali,F02930,,,False
+9932,2021,Malta,F02902,window,Italy,False
+9933,2021,Mauritania,F02643,,,False
+9934,2021,Mauritius,F03611,,,False
+9935,2021,Mexico,F03778,,,False
+9936,2021,Moldova,F02493,any_date,Moldova,False
+9937,2021,Mongolia,F05480,,,False
+9938,2021,Montenegro,F05623,window,Montenegro,False
+9939,2021,Montserrat,F03017,,,False
+9940,2021,Morocco,F03826,,,False
+9941,2021,Mozambique,F02526,,,False
+9942,2021,Myanmar,F01037,,,False
+9943,2021,Namibia,F01799,,,False
+9944,2021,Nepal,F00132,,,False
+9945,2021,Netherlands,F03660,window,Netherlands,False
+9946,2021,New Caledonia,F03016,,,False
+9947,2021,New Zealand,F02724,,,False
+9948,2021,Nicaragua,F04716,,,False
+9949,2021,Niger,F02911,,,False
+9950,2021,Nigeria,F06189,,,False
+9951,2021,North Macedonia,F01771,window,North Macedonia,False
+9952,2021,Northern Ireland,F01445,window,England,False
+9953,2021,Norway,F06277,window,Norway,False
+9954,2021,Oman,F01898,any_date,Croatia,False
+9955,2021,Palestine,F02656,any_date,Tunisia,False
+9956,2021,Panama,F02402,any_date,,True
+9957,2021,Papua New Guinea,F03971,,,False
+9958,2021,Paraguay,F01476,,,False
+9959,2021,Peru,F03714,,,False
+9960,2021,Philippines,F04030,,,False
+9961,2021,Poland,F05948,window,Portugal,False
+9962,2021,Portugal,F03519,window,Portugal,False
+9963,2021,Puerto Rico,F02779,,,False
+9964,2021,Qatar,F01484,,,False
+9965,2021,Republic of Ireland,F04901,window,Republic of Ireland,False
+9966,2021,Romania,F05625,window,Romania,False
+9967,2021,Russia,F04825,window,Russia,False
+9968,2021,Rwanda,F05481,,,False
+9969,2021,Samoa,F02025,,,False
+9970,2021,San Marino,F03608,window,Italy,False
+9971,2021,Saudi Arabia,F04174,any_date,France,False
+9972,2021,Scotland,F02458,window,Scotland,False
+9973,2021,Senegal,F00664,any_date,Senegal,False
+9974,2021,Serbia,F03058,window,Serbia,False
+9975,2021,Seychelles,F01862,,,False
+9976,2021,Sierra Leone,F03165,,,False
+9977,2021,Singapore,F06318,,,False
+9978,2021,Slovakia,F06298,window,Slovakia,False
+9979,2021,Slovenia,F04879,window,Slovenia,False
+9980,2021,Solomon Islands,F01099,any_date,Spain,False
+9981,2021,Somalia,F00102,,,False
+9982,2021,South Africa,F01935,any_date,Belgium,False
+9983,2021,South Sudan,F02633,,,False
+9984,2021,Spain,F03311,window,Spain,False
+9985,2021,Saint Kitts and Nevis,F00330,,,False
+9986,2021,Saint Lucia,F03595,,,False
+9987,2021,Saint Vincent and the Grenadines,F04892,,,False
+9988,2021,Suriname,F01765,,,False
+9989,2021,Sweden,F00872,,,False
+9990,2021,Switzerland,F05738,window,Switzerland,False
+9991,2021,Syria,F06339,,,False
+9992,2021,Tahiti,F03711,any_date,Tahiti,False
+9993,2021,Tajikistan,F03324,,,False
+9994,2021,Tanzania,F04973,,,False
+9995,2021,Thailand,F00573,,,False
+9996,2021,Timor-Leste,F02647,,,False
+9997,2021,Togo,F03073,any_date,Portugal,False
+9998,2021,Tonga,F01585,,,False
+9999,2021,Trinidad and Tobago,F00974,any_date,Trinidad and Tobago,False
+10000,2021,Tunisia,F04872,,,False
+10001,2021,Türkiye,F05068,window,Germany,False
+10002,2021,Turks and Caicos Islands,F06245,,,False
+10003,2021,Uganda,F05614,,,False
+10004,2021,Ukraine,F05882,window,Ukraine,False
+10005,2021,United Arab Emirates,F05101,,,False
+10006,2021,Uruguay,F01925,,,False
+10007,2021,US Virgin Islands,F02687,any_date,Brazil,False
+10008,2021,United States,F01655,any_date,United States,False
+10009,2021,Uzbekistan,F04838,any_date,Slovenia,False
+10010,2021,Vanuatu,F03366,,,False
+10011,2021,Venezuela,F04674,,,False
+10012,2021,Vietnam,F04050,,,False
+10013,2021,Wales,F05918,,,False
+10014,2021,Yemen,F00317,,,False
+10015,2021,Zambia,F00684,,,False
+10016,2021,Zimbabwe,F05382,any_date,Zimbabwe,False
+10957,2022,Afghanistan,F01017,,,False
+10958,2022,Albania,F02057,,,False
+10959,2022,Algeria,F01591,,,False
+10960,2022,American Samoa,F05277,,,False
+10961,2022,Andorra,F00750,window,Andorra,False
+10962,2022,Angola,F03868,any_date,Portugal,False
+10963,2022,Anguilla,F02532,any_date,Anguilla,False
+10964,2022,Antigua and Barbuda,F05153,any_date,Antigua and Barbuda,False
+10965,2022,Argentina,F05209,any_date,Argentina,False
+10966,2022,Armenia,F05882,window,Ukraine,False
+10967,2022,Aruba,F01661,any_date,Aruba,False
+10968,2022,Australia,F01166,any_date,Australia,False
+10969,2022,Austria,F06062,window,Germany,False
+10970,2022,Azerbaijan,F01709,window,Italy,False
+10971,2022,Bahrain,F02800,,,False
+10972,2022,Bangladesh,F02014,any_date,Spain,False
+10973,2022,Barbados,F02580,,,False
+10974,2022,Belarus,F04153,,,False
+10975,2022,Belgium,F01637,,,False
+10976,2022,Belize,F01204,any_date,Spain,False
+10977,2022,Benin,F05120,,,False
+10978,2022,Bermuda,F05088,,,False
+10979,2022,Bhutan,F03043,any_date,Bhutan,False
+10980,2022,Bolivia,F00253,,,False
+10981,2022,Bosnia and Herzegovina,F03459,window,Bosnia and Herzegovina,False
+10982,2022,Botswana,F05647,,,False
+10983,2022,Brazil,F00235,,,False
+10984,2022,British Virgin Islands,F02373,any_date,England,False
+10985,2022,Brunei Darussalam,F05426,any_date,Spain,False
+10986,2022,Bulgaria,F05054,window,,True
+10987,2022,Burkina Faso,F04267,any_date,France,False
+10988,2022,Burundi,F04577,,,False
+10989,2022,Cabo Verde,F01929,,,False
+10990,2022,Cambodia,F04196,,,False
+10991,2022,Cameroon,F01383,any_date,Cameroon,False
+10992,2022,Canada,F04158,,,False
+10993,2022,Cayman Islands,F02468,any_date,Portugal,False
+10994,2022,Central African Republic,F06072,any_date,Switzerland,False
+10995,2022,Chad,F00045,,,False
+10996,2022,Chile,F01659,,,False
+10997,2022,Chinese Taipei,F02433,,,False
+10998,2022,Colombia,F03668,any_date,Argentina,False
+10999,2022,Comoros,F06368,,,False
+11000,2022,Congo,F05943,,,False
+11001,2022,Congo DR,F02885,any_date,France,False
+11002,2022,Cook Islands,F00462,,,False
+11003,2022,Costa Rica,F03517,,,False
+11004,2022,Côte d'Ivoire,F03731,,,False
+11005,2022,Cuba,F03228,,,False
+11006,2022,Cyprus,F04921,window,Georgia,False
+11007,2022,Czechia,F04512,window,Czechia,False
+11008,2022,Denmark,F04200,window,Denmark,False
+11009,2022,Djibouti,F00105,,,False
+11010,2022,Dominica,F03241,any_date,Dominica,False
+11011,2022,Dominican Republic,F01619,,,False
+11012,2022,Ecuador,F00595,,,False
+11013,2022,Egypt,F06169,any_date,Portugal,False
+11014,2022,El Salvador,F03342,,,False
+11015,2022,England,F03715,window,England,False
+11016,2022,Equatorial Guinea,F01719,any_date,Equatorial Guinea,False
+11017,2022,Eritrea,F05553,,,False
+11018,2022,Estonia,F03996,window,Switzerland,False
+11019,2022,Eswatini,F03008,any_date,Eswatini,False
+11020,2022,Ethiopia,F00049,,,False
+11021,2022,Faroe Islands,F03334,window,Sweden,False
+11022,2022,Fiji,F03552,,,False
+11023,2022,Finland,F04795,window,Finland,False
+11024,2022,France,F02887,window,France,False
+11025,2022,Gabon,F05809,any_date,France,False
+11026,2022,The Gambia,F06185,,,False
+11027,2022,Georgia,F06180,window,France,False
+11028,2022,Germany,F03558,window,Germany,False
+11029,2022,Ghana,F01794,,,False
+11030,2022,Gibraltar,F04728,window,Uruguay,False
+11031,2022,Greece,F03979,,,False
+11032,2022,Grenada,F01032,,,False
+11033,2022,Guam,F01298,any_date,Guam,False
+11034,2022,Guatemala,F03514,any_date,Mexico,False
+11035,2022,Guinea,F02931,any_date,Guinea,False
+11036,2022,Guyana,F04463,any_date,Trinidad and Tobago,False
+11037,2022,Haiti,F04445,,,False
+11038,2022,Honduras,F02949,,,False
+11039,2022,"Hong Kong, China",F00867,,,False
+11040,2022,Hungary,F05395,window,Italy,False
+11041,2022,Iceland,F01162,window,Iceland,False
+11042,2022,India,F04329,any_date,Croatia,False
+11043,2022,Indonesia,F06252,,,False
+11044,2022,IR Iran,F05339,,,False
+11045,2022,Iraq,F02145,any_date,Spain,False
+11046,2022,Israel,F00717,window,Israel,False
+11047,2022,Italy,F05364,window,Italy,False
+11048,2022,Jamaica,F04032,any_date,Iceland,False
+11049,2022,Japan,F04023,any_date,Japan,False
+11050,2022,Jordan,F00248,,,False
+11051,2022,Kazakhstan,F00241,,,False
+11052,2022,Kenya,F03295,,,False
+11053,2022,Korea DPR,F05760,any_date,Korea DPR,False
+11054,2022,Korea Republic,F03620,,,False
+11055,2022,Kosovo,F00449,window,France,False
+11056,2022,Kuwait,F01641,any_date,Portugal,False
+11057,2022,Kyrgyz Republic,F00559,,,False
+11058,2022,Laos,F04056,,,False
+11059,2022,Latvia,F02676,window,Latvia,False
+11060,2022,Lebanon,F00519,,,False
+11061,2022,Lesotho,F04554,any_date,Serbia,False
+11062,2022,Liberia,F01019,,,False
+11063,2022,Liechtenstein,F05468,window,Liechtenstein,False
+11064,2022,Lithuania,F01909,window,Germany,False
+11065,2022,Luxembourg,F04220,window,Luxembourg,False
+11066,2022,Macau,F05134,any_date,Angola,False
+11067,2022,Madagascar,F03101,,,False
+11068,2022,Malawi,F05424,,,False
+11069,2022,Malaysia,F03863,any_date,Korea Republic,False
+11070,2022,Maldives,F03594,any_date,Italy,False
+11071,2022,Mali,F02289,any_date,Mali,False
+11072,2022,Malta,F05399,window,Italy,False
+11073,2022,Mauritania,F00108,any_date,France,False
+11074,2022,Mauritius,F00183,,,False
+11075,2022,Mexico,F03005,,,False
+11076,2022,Moldova,F02493,window,Moldova,False
+11077,2022,Mongolia,F04316,any_date,Japan,False
+11078,2022,Montenegro,F05623,window,Montenegro,False
+11079,2022,Montserrat,F05223,,,False
+11080,2022,Morocco,F06095,any_date,Morocco,False
+11081,2022,Mozambique,F02525,,,False
+11082,2022,Myanmar,F01037,,,False
+11083,2022,Namibia,F01622,any_date,Namibia,False
+11084,2022,Nepal,F04851,,,False
+11085,2022,Netherlands,F05000,window,Netherlands,False
+11086,2022,New Caledonia,F04599,any_date,France,False
+11087,2022,New Zealand,F01542,any_date,England,False
+11088,2022,Nicaragua,F03527,,,False
+11089,2022,Niger,F02171,,,False
+11090,2022,Nigeria,F03048,any_date,Portugal,False
+11091,2022,North Macedonia,F01771,window,North Macedonia,False
+11092,2022,Northern Ireland,F05584,window,Northern Ireland,False
+11093,2022,Norway,F06277,window,Norway,False
+11094,2022,Oman,F01898,any_date,Croatia,False
+11095,2022,Pakistan,F01082,,,False
+11096,2022,Palestine,F02656,any_date,Tunisia,False
+11097,2022,Panama,F02402,any_date,,True
+11098,2022,Paraguay,F01476,,,False
+11099,2022,Peru,F03985,,,False
+11100,2022,Philippines,F03521,,,False
+11101,2022,Poland,F03519,window,Portugal,False
+11102,2022,Portugal,F05470,window,Spain,False
+11103,2022,Puerto Rico,F02779,,,False
+11104,2022,Republic of Ireland,F04901,window,Republic of Ireland,False
+11105,2022,Romania,F03163,window,Romania,False
+11106,2022,Russia,F04825,window,Russia,False
+11107,2022,Rwanda,F00721,,,False
+11108,2022,San Marino,F02582,window,,True
+11109,2022,Saudi Arabia,F04174,any_date,France,False
+11110,2022,Scotland,F02457,,,False
+11111,2022,Senegal,F00664,any_date,Senegal,False
+11112,2022,Serbia,F03058,window,Serbia,False
+11113,2022,Seychelles,F01862,,,False
+11114,2022,Sierra Leone,F04609,,,False
+11115,2022,Singapore,F05843,,,False
+11116,2022,Slovakia,F02034,window,Italy,False
+11117,2022,Slovenia,F04879,window,Slovenia,False
+11118,2022,Solomon Islands,F01099,any_date,Spain,False
+11119,2022,South Africa,F01935,any_date,Belgium,False
+11120,2022,South Sudan,F02633,,,False
+11121,2022,Spain,F02159,window,Spain,False
+11122,2022,Saint Kitts and Nevis,F01284,any_date,Saint Kitts and Nevis,False
+11123,2022,Saint Lucia,F04618,any_date,Trinidad and Tobago,False
+11124,2022,Saint Vincent and the Grenadines,F03896,any_date,Saint Vincent and the Grenadines,False
+11125,2022,Sudan,F01990,,,False
+11126,2022,Suriname,F03848,,,False
+11127,2022,Sweden,F00872,,,False
+11128,2022,Switzerland,F05738,window,Switzerland,False
+11129,2022,Syria,F00732,,,False
+11130,2022,Tahiti,F03711,any_date,Tahiti,False
+11131,2022,Tajikistan,F05967,any_date,Croatia,False
+11132,2022,Tanzania,F05513,,,False
+11133,2022,Thailand,F05370,,,False
+11134,2022,Timor-Leste,F03884,,,False
+11135,2022,Togo,F03073,any_date,Portugal,False
+11136,2022,Tonga,F04572,,,False
+11137,2022,Trinidad and Tobago,F00974,any_date,Trinidad and Tobago,False
+11138,2022,Tunisia,F04459,,,False
+11139,2022,Türkiye,F05068,window,Germany,False
+11140,2022,Turkmenistan,F05571,any_date,Turkmenistan,False
+11141,2022,Turks and Caicos Islands,F00036,,,False
+11142,2022,Uganda,F05614,,,False
+11143,2022,Ukraine,F06164,any_date,Ukraine,False
+11144,2022,United Arab Emirates,F01173,,,False
+11145,2022,Uruguay,F00720,,,False
+11146,2022,US Virgin Islands,F02688,any_date,Brazil,False
+11147,2022,United States,F01027,,,False
+11148,2022,Uzbekistan,F04838,any_date,Slovenia,False
+11149,2022,Vanuatu,F03366,,,False
+11150,2022,Venezuela,F04673,,,False
+11151,2022,Vietnam,F04049,,,False
+11152,2022,Wales,F05918,,,False
+11153,2022,Yemen,F05630,any_date,Czechia,False
+11154,2022,Zambia,F05697,,,False
+12132,2023,Afghanistan,F00149,,,False
+12133,2023,Albania,F02062,,,False
+12134,2023,Algeria,F01591,,,False
+12135,2023,American Samoa,F05265,,,False
+12136,2023,Andorra,F00750,window,Andorra,False
+12137,2023,Angola,F03869,window,Portugal,False
+12138,2023,Anguilla,F02532,window,Anguilla,False
+12139,2023,Antigua and Barbuda,F05153,window,Antigua and Barbuda,False
+12140,2023,Argentina,F05209,window,Argentina,False
+12141,2023,Armenia,F05882,window,Ukraine,False
+12142,2023,Aruba,F01661,window,Aruba,False
+12143,2023,Australia,F01166,window,Australia,False
+12144,2023,Austria,F06062,window,Germany,False
+12145,2023,Azerbaijan,F01710,,,False
+12146,2023,Bahamas,F04536,,,False
+12147,2023,Bahrain,F01064,window,Argentina,False
+12148,2023,Bangladesh,F02014,window,Spain,False
+12149,2023,Barbados,F02580,,,False
+12150,2023,Belarus,F00721,window,Spain,False
+12151,2023,Belgium,F03000,window,,True
+12152,2023,Belize,F01204,window,Spain,False
+12153,2023,Benin,F03787,window,Germany,False
+12154,2023,Bermuda,F03535,window,Canada,False
+12155,2023,Bhutan,F03043,window,Bhutan,False
+12156,2023,Bolivia,F02583,,,False
+12157,2023,Bosnia and Herzegovina,F04999,,,False
+12158,2023,Botswana,F05647,,,False
+12159,2023,Brazil,F02963,,,False
+12160,2023,Brunei Darussalam,F02053,window,Spain,False
+12161,2023,Bulgaria,F05054,window,Serbia,False
+12162,2023,Burkina Faso,F04267,window,France,False
+12163,2023,Burundi,F03367,window,Burundi,False
+12164,2023,Cabo Verde,F01929,,,False
+12165,2023,Cambodia,F00306,window,Argentina,False
+12166,2023,Cameroon,F01383,window,Cameroon,False
+12167,2023,Canada,F01723,window,Canada,False
+12168,2023,Cayman Islands,F02468,window,Portugal,False
+12169,2023,Central African Republic,F06072,window,Switzerland,False
+12170,2023,Chad,F04926,any_date,Chad,False
+12171,2023,Chile,F01659,,,False
+12172,2023,China PR,F00520,window,Serbia,False
+12173,2023,Chinese Taipei,F03719,window,England,False
+12174,2023,Colombia,F02816,window,Argentina,False
+12175,2023,Comoros,F02633,window,Italy,False
+12176,2023,Congo,F04689,,,False
+12177,2023,Congo DR,F02885,window,France,False
+12178,2023,Cook Islands,F00462,,,False
+12179,2023,Costa Rica,F00514,,,False
+12180,2023,Côte d'Ivoire,F03731,,,False
+12181,2023,Cuba,F02130,window,Cuba,False
+12182,2023,Curaçao,F02823,,,False
+12183,2023,Cyprus,F04921,window,Georgia,False
+12184,2023,Czechia,F04512,window,Czechia,False
+12185,2023,Denmark,F04200,window,Denmark,False
+12186,2023,Djibouti,F00106,,,False
+12187,2023,Dominica,F03241,window,Dominica,False
+12188,2023,Dominican Republic,F05392,window,Argentina,False
+12189,2023,Ecuador,F01484,window,Spain,False
+12190,2023,Egypt,F06169,window,Portugal,False
+12191,2023,El Salvador,F01466,,,False
+12192,2023,England,F03715,window,England,False
+12193,2023,Equatorial Guinea,F01719,window,Equatorial Guinea,False
+12194,2023,Eritrea,F01233,,,False
+12195,2023,Estonia,F03996,window,Switzerland,False
+12196,2023,Eswatini,F03009,window,Eswatini,False
+12197,2023,Ethiopia,F02715,,,False
+12198,2023,Faroe Islands,F03334,window,Sweden,False
+12199,2023,Fiji,F04496,,,False
+12200,2023,Finland,F04795,window,Finland,False
+12201,2023,France,F02887,window,France,False
+12202,2023,Georgia,F06180,window,France,False
+12203,2023,Germany,F04723,window,Germany,False
+12204,2023,Ghana,F02425,,,False
+12205,2023,Gibraltar,F02199,window,Uruguay,False
+12206,2023,Greece,F03979,,,False
+12207,2023,Grenada,F02533,window,England,False
+12208,2023,Guam,F01297,any_date,Guam,False
+12209,2023,Guatemala,F03514,window,Mexico,False
+12210,2023,Guinea,F02931,window,Guinea,False
+12211,2023,Guinea-Bissau,F01363,window,Guinea-Bissau,False
+12212,2023,Guyana,F04463,window,Trinidad and Tobago,False
+12213,2023,Haiti,F02026,window,Spain,False
+12214,2023,Honduras,F06100,window,Colombia,False
+12215,2023,"Hong Kong, China",F00867,,,False
+12216,2023,Hungary,F05395,window,Italy,False
+12217,2023,Iceland,F03935,,,False
+12218,2023,India,F04329,window,Croatia,False
+12219,2023,Indonesia,F06252,,,False
+12220,2023,IR Iran,F01114,,,False
+12221,2023,Iraq,F02145,window,Spain,False
+12222,2023,Israel,F00717,window,Israel,False
+12223,2023,Italy,F05257,window,Italy,False
+12224,2023,Jamaica,F04622,,,False
+12225,2023,Japan,F04023,window,Japan,False
+12226,2023,Jordan,F00831,,,False
+12227,2023,Kazakhstan,F00241,,,False
+12228,2023,Kenya,F03295,,,False
+12229,2023,Korea DPR,F05760,window,Korea DPR,False
+12230,2023,Korea Republic,F04718,,,False
+12231,2023,Kosovo,F03840,window,Slovenia,False
+12232,2023,Kuwait,F01641,window,Portugal,False
+12233,2023,Kyrgyz Republic,F06298,window,Slovakia,False
+12234,2023,Laos,F04798,window,Laos,False
+12235,2023,Latvia,F02676,window,Latvia,False
+12236,2023,Lebanon,F00519,,,False
+12237,2023,Lesotho,F05165,any_date,Lesotho,False
+12238,2023,Liberia,F01019,,,False
+12239,2023,Libya,F03195,,,False
+12240,2023,Liechtenstein,F03651,window,Germany,False
+12241,2023,Lithuania,F03145,window,Lithuania,False
+12242,2023,Luxembourg,F04220,window,Luxembourg,False
+12243,2023,Macau,F02573,window,Angola,False
+12244,2023,Madagascar,F03498,window,Madagascar,False
+12245,2023,Malawi,F05288,window,Malawi,False
+12246,2023,Malaysia,F03863,window,Korea Republic,False
+12247,2023,Maldives,F00650,any_date,Maldives,False
+12248,2023,Mali,F02289,window,Mali,False
+12249,2023,Malta,F05399,window,Italy,False
+12250,2023,Mauritania,F00108,window,France,False
+12251,2023,Mauritius,F03365,window,Madagascar,False
+12252,2023,Mexico,F01188,window,Mexico,False
+12253,2023,Moldova,F02493,window,Moldova,False
+12254,2023,Mongolia,F04316,window,Japan,False
+12255,2023,Montenegro,F05623,window,Montenegro,False
+12256,2023,Montserrat,F01877,window,England,False
+12257,2023,Morocco,F04208,,,False
+12258,2023,Mozambique,F02526,,,False
+12259,2023,Myanmar,F03488,window,Germany,False
+12260,2023,Namibia,F01622,window,Namibia,False
+12261,2023,Nepal,F00483,window,Italy,False
+12262,2023,Netherlands,F05000,window,Netherlands,False
+12263,2023,New Caledonia,F04599,window,France,False
+12264,2023,New Zealand,F01542,window,England,False
+12265,2023,Nicaragua,F01056,window,Chile,False
+12266,2023,Niger,F04304,,,False
+12267,2023,Nigeria,F03048,window,Portugal,False
+12268,2023,North Macedonia,F01771,window,North Macedonia,False
+12269,2023,Northern Ireland,F05586,,,False
+12270,2023,Norway,F06277,window,Norway,False
+12271,2023,Oman,F01898,window,Croatia,False
+12272,2023,Pakistan,F02538,window,England,False
+12273,2023,Palestine,F02656,window,Tunisia,False
+12274,2023,Panama,F02401,window,Denmark,False
+12275,2023,Papua New Guinea,F04081,,,False
+12276,2023,Paraguay,F02702,window,Argentina,False
+12277,2023,Peru,F03986,,,False
+12278,2023,Philippines,F05590,,,False
+12279,2023,Poland,F05581,window,Poland,False
+12280,2023,Portugal,F05470,window,Spain,False
+12281,2023,Puerto Rico,F02264,window,England,False
+12282,2023,Qatar,F02126,,,False
+12283,2023,Republic of Ireland,F04901,window,Republic of Ireland,False
+12284,2023,Romania,F03164,window,Romania,False
+12285,2023,Russia,F04825,any_date,Russia,False
+12286,2023,Rwanda,F00446,,,False
+12287,2023,Samoa,F06173,window,Northern Ireland,False
+12288,2023,San Marino,F02582,window,San Marino,False
+12289,2023,São Tomé and Príncipe,F00261,window,São Tomé and Príncipe,False
+12290,2023,Saudi Arabia,F05364,window,Italy,False
+12291,2023,Scotland,F02458,window,Scotland,False
+12292,2023,Senegal,F00664,window,Senegal,False
+12293,2023,Serbia,F03058,window,Serbia,False
+12294,2023,Seychelles,F04533,window,Seychelles,False
+12295,2023,Sierra Leone,F00810,window,Sierra Leone,False
+12296,2023,Singapore,F05843,,,False
+12297,2023,Slovakia,F02034,window,Italy,False
+12298,2023,Slovenia,F04879,window,Slovenia,False
+12299,2023,Solomon Islands,F01099,window,Spain,False
+12300,2023,Somalia,F05240,any_date,Morocco,False
+12301,2023,South Africa,F01935,window,Belgium,False
+12302,2023,South Sudan,F02633,,,False
+12303,2023,Spain,F02159,window,Spain,False
+12304,2023,Sri Lanka,F00919,,,False
+12305,2023,Saint Kitts and Nevis,F01284,window,Saint Kitts and Nevis,False
+12306,2023,Saint Lucia,F04618,window,Trinidad and Tobago,False
+12307,2023,Saint Vincent and the Grenadines,F03896,window,Saint Vincent and the Grenadines,False
+12308,2023,Suriname,F01170,window,Netherlands,False
+12309,2023,Sweden,F00872,,,False
+12310,2023,Switzerland,F05738,window,Switzerland,False
+12311,2023,Syria,F02630,window,Argentina,False
+12312,2023,Tahiti,F03711,window,Tahiti,False
+12313,2023,Tajikistan,F05967,window,Croatia,False
+12314,2023,Tanzania,F00230,,,False
+12315,2023,Thailand,F05370,,,False
+12316,2023,The Gambia,F06185,,,False
+12317,2023,Timor-Leste,F05932,,,False
+12318,2023,Togo,F03073,window,Portugal,False
+12319,2023,Tonga,F05666,window,Tonga,False
+12320,2023,Trinidad and Tobago,F00974,window,Trinidad and Tobago,False
+12321,2023,Tunisia,F04459,,,False
+12322,2023,Türkiye,F05680,window,Italy,False
+12323,2023,Turkmenistan,F05571,window,Turkmenistan,False
+12324,2023,Turks and Caicos Islands,F04190,window,England,False
+12325,2023,Uganda,F02004,,,False
+12326,2023,Ukraine,F06092,window,Ukraine,False
+12327,2023,United Arab Emirates,F01639,window,Portugal,False
+12328,2023,Uruguay,F01724,window,Argentina,False
+12329,2023,US Virgin Islands,F02688,window,Brazil,False
+12330,2023,United States,F01655,window,United States,False
+12331,2023,Uzbekistan,F04838,window,Slovenia,False
+12332,2023,Vanuatu,F03366,,,False
+12333,2023,Venezuela,F01515,window,Argentina,False
+12334,2023,Vietnam,F01669,window,France,False
+12335,2023,Wales,F05918,,,False
+12336,2023,Yemen,F05630,window,Czechia,False
+12337,2023,Zambia,F00187,,,False
+12338,2023,Zimbabwe,F01422,window,Brazil,False
+13294,2024,Afghanistan,F06346,window,Uzbekistan,False
+13295,2024,Albania,F02062,,,False
+13296,2024,Algeria,F05973,window,Switzerland,False
+13297,2024,Andorra,F00750,window,Andorra,False
+13298,2024,Angola,F03869,window,Portugal,False
+13299,2024,Antigua and Barbuda,F05153,window,Antigua and Barbuda,False
+13300,2024,Argentina,F05209,window,Argentina,False
+13301,2024,Armenia,F02209,,,False
+13302,2024,Aruba,F01661,window,Aruba,False
+13303,2024,Australia,F06019,window,Australia,False
+13304,2024,Austria,F06062,window,Germany,False
+13305,2024,Azerbaijan,F03519,window,Portugal,False
+13306,2024,Bahamas,F04536,,,False
+13307,2024,Bahrain,F03059,window,Croatia,False
+13308,2024,Bangladesh,F02014,window,Spain,False
+13309,2024,Barbados,F03162,window,Barbados,False
+13310,2024,Belarus,F00721,window,Spain,False
+13311,2024,Belgium,F03000,window,Italy,False
+13312,2024,Belize,F02129,,,False
+13313,2024,Benin,F03787,window,Germany,False
+13314,2024,Bermuda,F03535,window,Canada,False
+13315,2024,Bhutan,F01251,any_date,Japan,False
+13316,2024,Bolivia,F05902,window,Bolivia,False
+13317,2024,Bosnia and Herzegovina,F01450,window,Bosnia and Herzegovina,False
+13318,2024,Botswana,F05689,any_date,South Africa,False
+13319,2024,Brazil,F03041,window,Brazil,False
+13320,2024,Brunei Darussalam,F03375,,,False
+13321,2024,Bulgaria,F04343,window,Bulgaria,False
+13322,2024,Burkina Faso,F01892,window,Burkina Faso,False
+13323,2024,Burundi,F05942,any_date,Belgium,False
+13324,2024,Cabo Verde,F01929,,,False
+13325,2024,Cambodia,F03991,any_date,Japan,False
+13326,2024,Cameroon,F03495,,,False
+13327,2024,Canada,F04562,window,United States,False
+13328,2024,Cayman Islands,F04502,any_date,Netherlands,False
+13329,2024,Central African Republic,F03252,window,Central African Republic,False
+13330,2024,Chad,F02981,,,False
+13331,2024,Chile,F00489,window,Argentina,False
+13332,2024,China PR,F01898,window,Croatia,False
+13333,2024,Chinese Taipei,F03725,window,England,False
+13334,2024,Colombia,F05230,window,Argentina,False
+13335,2024,Comoros,F02633,window,,True
+13336,2024,Congo,F01481,,,False
+13337,2024,Congo DR,F02885,window,France,False
+13338,2024,Cook Islands,F06338,window,New Zealand,False
+13339,2024,Costa Rica,F05949,,,False
+13340,2024,Côte d'Ivoire,F03263,window,Côte d'Ivoire,False
+13341,2024,Cuba,F02130,window,Cuba,False
+13342,2024,Cyprus,F01290,window,Cyprus,False
+13343,2024,Czechia,F04093,window,Czechia,False
+13344,2024,Denmark,F01914,window,Denmark,False
+13345,2024,Djibouti,F00106,,,False
+13346,2024,Dominican Republic,F05392,window,Argentina,False
+13347,2024,Ecuador,F01554,window,Argentina,False
+13348,2024,Egypt,F04098,window,Egypt,False
+13349,2024,El Salvador,F02762,window,Spain,False
+13350,2024,England,F02140,window,Republic of Ireland,False
+13351,2024,Equatorial Guinea,F01719,window,Equatorial Guinea,False
+13352,2024,Estonia,F04144,window,Estonia,False
+13353,2024,Eswatini,F05224,,,False
+13354,2024,Ethiopia,F05574,,,False
+13355,2024,Faroe Islands,F03397,any_date,Faroe Islands,False
+13356,2024,Fiji,F06130,window,Wales,False
+13357,2024,Finland,F04795,window,Finland,False
+13358,2024,France,F02887,window,France,False
+13359,2024,Gabon,F05708,window,Gabon,False
+13360,2024,The Gambia,F04623,,,False
+13361,2024,Georgia,F06180,window,France,False
+13362,2024,Germany,F04723,window,Germany,False
+13363,2024,Ghana,F00224,window,Ghana,False
+13364,2024,Gibraltar,F04728,window,Uruguay,False
+13365,2024,Greece,F04408,window,Serbia,False
+13366,2024,Guam,F01298,any_date,Guam,False
+13367,2024,Guatemala,F03514,window,Mexico,False
+13368,2024,Guinea,F03107,any_date,France,False
+13369,2024,Guinea-Bissau,F01788,window,Portugal,False
+13370,2024,Guyana,F03055,,,False
+13371,2024,Haiti,F05601,window,France,False
+13372,2024,Honduras,F06100,window,Colombia,False
+13373,2024,"Hong Kong, China",F01219,window,England,False
+13374,2024,Hungary,F05395,window,Italy,False
+13375,2024,Iceland,F02769,,,False
+13376,2024,India,F05371,window,Spain,False
+13377,2024,Indonesia,F06252,,,False
+13378,2024,IR Iran,F01114,,,False
+13379,2024,Iraq,F02145,window,Spain,False
+13380,2024,Israel,F01606,,,False
+13381,2024,Italy,F05257,window,Italy,False
+13382,2024,Jamaica,F05529,,,False
+13383,2024,Japan,F04023,window,Japan,False
+13384,2024,Jordan,F04465,window,Morocco,False
+13385,2024,Kazakhstan,F02304,window,Russia,False
+13386,2024,Kenya,F03295,,,False
+13387,2024,Korea DPR,F05760,window,Korea DPR,False
+13388,2024,Korea Republic,F01787,window,Korea Republic,False
+13389,2024,Kosovo,F03580,window,Germany,False
+13390,2024,Kuwait,F01066,window,Spain,False
+13391,2024,Kyrgyz Republic,F05214,,,False
+13392,2024,Laos,F03994,any_date,Korea Republic,False
+13393,2024,Latvia,F05824,window,Italy,False
+13394,2024,Lebanon,F05623,window,Montenegro,False
+13395,2024,Lesotho,F05166,window,Lesotho,False
+13396,2024,Liberia,F05002,,,False
+13397,2024,Libya,F00198,,,False
+13398,2024,Liechtenstein,F03651,window,Germany,False
+13399,2024,Lithuania,F03145,window,Lithuania,False
+13400,2024,Luxembourg,F04220,window,Luxembourg,False
+13401,2024,Macau,F04801,window,"Hong Kong, China",False
+13402,2024,Madagascar,F03498,window,Madagascar,False
+13403,2024,Malawi,F04780,any_date,Zimbabwe,False
+13404,2024,Malaysia,F05461,,,False
+13405,2024,Maldives,F00650,any_date,Maldives,False
+13406,2024,Mali,F06185,window,Belgium,False
+13407,2024,Malta,F02783,,,False
+13408,2024,Mauritania,F01141,,,False
+13409,2024,Mauritius,F03942,window,France,False
+13410,2024,Mexico,F00302,window,Mexico,False
+13411,2024,Moldova,F02493,window,Moldova,False
+13412,2024,Mongolia,F01537,,,False
+13413,2024,Montenegro,F06026,window,Croatia,False
+13414,2024,Morocco,F06095,window,Morocco,False
+13415,2024,Mozambique,F02526,,,False
+13416,2024,Myanmar,F04201,any_date,Myanmar,False
+13417,2024,Namibia,F01622,window,Namibia,False
+13418,2024,Nepal,F05751,,,False
+13419,2024,Netherlands,F05000,window,Netherlands,False
+13420,2024,New Caledonia,F04599,window,France,False
+13421,2024,New Zealand,F01542,window,England,False
+13422,2024,Nicaragua,F01056,window,Chile,False
+13423,2024,Niger,F04311,,,False
+13424,2024,Nigeria,F01272,window,Nigeria,False
+13425,2024,North Macedonia,F01771,window,North Macedonia,False
+13426,2024,Norway,F06277,window,Norway,False
+13427,2024,Oman,F03256,,,False
+13428,2024,Pakistan,F02538,window,England,False
+13429,2024,Palestine,F02656,window,Tunisia,False
+13430,2024,Panama,F02402,window,,True
+13431,2024,Papua New Guinea,F00719,any_date,Spain,False
+13432,2024,Paraguay,F00590,window,Argentina,False
+13433,2024,Peru,F02700,window,Uruguay,False
+13434,2024,Philippines,F00475,window,Spain,False
+13435,2024,Poland,F05581,window,Poland,False
+13436,2024,Portugal,F05470,window,Spain,False
+13437,2024,Puerto Rico,F02264,window,England,False
+13438,2024,Qatar,F03707,any_date,Spain,False
+13439,2024,Republic of Ireland,F04032,window,Iceland,False
+13440,2024,Romania,F05251,window,Romania,False
+13441,2024,Rwanda,F04576,,,False
+13442,2024,Samoa,F04315,any_date,New Zealand,False
+13443,2024,San Marino,F02204,window,Italy,False
+13444,2024,São Tomé and Príncipe,F04648,any_date,Portugal,False
+13445,2024,Saudi Arabia,F04174,window,France,False
+13446,2024,Scotland,F02457,,,False
+13447,2024,Senegal,F01869,any_date,Senegal,False
+13448,2024,Serbia,F03058,window,Serbia,False
+13449,2024,Seychelles,F04533,window,Seychelles,False
+13450,2024,Sierra Leone,F00810,window,Sierra Leone,False
+13451,2024,Singapore,F05874,window,Japan,False
+13452,2024,Slovakia,F02034,window,Italy,False
+13453,2024,Slovenia,F04879,window,Slovenia,False
+13454,2024,Solomon Islands,F04704,,,False
+13455,2024,Somalia,F00652,any_date,Somalia,False
+13456,2024,South Africa,F01935,window,Belgium,False
+13457,2024,South Sudan,F03101,window,France,False
+13458,2024,Spain,F02159,window,Spain,False
+13459,2024,Sri Lanka,F00149,,,False
+13460,2024,Saint Lucia,F04618,window,Trinidad and Tobago,False
+13461,2024,Saint Vincent and the Grenadines,F03402,window,Saint Vincent and the Grenadines,False
+13462,2024,Suriname,F05566,window,Netherlands,False
+13463,2024,Sweden,F02674,window,Denmark,False
+13464,2024,Switzerland,F05738,window,Switzerland,False
+13465,2024,Syria,F04662,window,Spain,False
+13466,2024,Tahiti,F03711,window,Tahiti,False
+13467,2024,Tajikistan,F03748,window,Georgia,False
+13468,2024,Tanzania,F00631,,,False
+13469,2024,Thailand,F04391,window,Japan,False
+13470,2024,Timor-Leste,F03236,window,Chile,False
+13471,2024,Togo,F02735,window,Togo,False
+13472,2024,Tonga,F04968,,,False
+13473,2024,Tunisia,F04863,,,False
+13474,2024,Türkiye,F05680,window,Italy,False
+13475,2024,Turkmenistan,F05571,window,Turkmenistan,False
+13476,2024,Turks and Caicos Islands,F00036,,,False
+13477,2024,Uganda,F03405,window,Belgium,False
+13478,2024,Ukraine,F06090,,,False
+13479,2024,United Arab Emirates,F01639,window,Portugal,False
+13480,2024,Uruguay,F01724,window,Argentina,False
+13481,2024,US Virgin Islands,F04631,window,US Virgin Islands,False
+13482,2024,United States,F05510,window,Argentina,False
+13483,2024,Uzbekistan,F04838,window,Slovenia,False
+13484,2024,Vanuatu,F01067,,,False
+13485,2024,Venezuela,F01515,window,Argentina,False
+13486,2024,Vietnam,F04974,window,Korea Republic,False
+13487,2024,Wales,F01586,window,Wales,False
+13488,2024,Yemen,F05857,,,False
+13489,2024,Zimbabwe,F05583,window,Germany,False
+14423,2025,Afghanistan,F00312,,,False
+14424,2025,Albania,F02061,,,False
+14425,2025,Algeria,F05973,window,Switzerland,False
+14426,2025,American Samoa,F06268,,,False
+14427,2025,Andorra,F00750,window,Andorra,False
+14428,2025,Angola,F00445,,,False
+14429,2025,Anguilla,F02492,,,False
+14430,2025,Argentina,F05209,window,Argentina,False
+14431,2025,Armenia,F04319,,,False
+14432,2025,Aruba,F01661,window,Aruba,False
+14433,2025,Australia,F06019,window,Australia,False
+14434,2025,Austria,F06062,window,Germany,False
+14435,2025,Azerbaijan,F00054,,,False
+14436,2025,Bahrain,F03059,window,Croatia,False
+14437,2025,Bangladesh,F02014,window,Spain,False
+14438,2025,Barbados,F03162,window,Barbados,False
+14439,2025,Belarus,F00721,window,Spain,False
+14440,2025,Belgium,F03709,window,France,False
+14441,2025,Belize,F03211,,,False
+14442,2025,Benin,F03787,window,Germany,False
+14443,2025,Bermuda,F03535,window,Canada,False
+14444,2025,Bhutan,F01251,window,Japan,False
+14445,2025,Bolivia,F05902,window,Bolivia,False
+14446,2025,Bosnia and Herzegovina,F01450,window,Bosnia and Herzegovina,False
+14447,2025,Botswana,F05689,window,South Africa,False
+14448,2025,Brazil,F00861,window,Italy,False
+14449,2025,British Virgin Islands,F01204,window,Spain,False
+14450,2025,Brunei Darussalam,F02647,,,False
+14451,2025,Bulgaria,F00518,window,Bulgaria,False
+14452,2025,Burkina Faso,F01892,window,Burkina Faso,False
+14453,2025,Burundi,F05517,window,Belgium,False
+14454,2025,Cabo Verde,F01929,,,False
+14455,2025,Cambodia,F03991,window,Japan,False
+14456,2025,Cameroon,F03495,,,False
+14457,2025,Canada,F04562,window,United States,False
+14458,2025,Cayman Islands,F02515,,,False
+14459,2025,Central African Republic,F03252,window,Central African Republic,False
+14460,2025,Chad,F06072,window,Switzerland,False
+14461,2025,Chile,F02557,window,Chile,False
+14462,2025,China PR,F04571,,,False
+14463,2025,Chinese Taipei,F01480,,,False
+14464,2025,Colombia,F05230,window,Argentina,False
+14465,2025,Comoros,F02633,window,,True
+14466,2025,Congo,F02195,,,False
+14467,2025,Congo DR,F02885,window,France,False
+14468,2025,Cook Islands,F06338,window,New Zealand,False
+14469,2025,Costa Rica,F00301,window,Mexico,False
+14470,2025,Côte d'Ivoire,F03263,window,Côte d'Ivoire,False
+14471,2025,Croatia,F02684,window,Croatia,False
+14472,2025,Cuba,F05572,,,False
+14473,2025,Curaçao,F02823,,,False
+14474,2025,Cyprus,F01091,,,False
+14475,2025,Czechia,F04511,,,False
+14476,2025,Denmark,F01914,window,Denmark,False
+14477,2025,Djibouti,F05752,,,False
+14478,2025,Dominica,F03241,window,Dominica,False
+14479,2025,Dominican Republic,F05392,window,Argentina,False
+14480,2025,Ecuador,F01554,window,Argentina,False
+14481,2025,Egypt,F04098,window,Egypt,False
+14482,2025,El Salvador,F03861,window,Colombia,False
+14483,2025,England,F06332,window,Germany,False
+14484,2025,Equatorial Guinea,F01719,window,Equatorial Guinea,False
+14485,2025,Estonia,F04144,window,Estonia,False
+14486,2025,Eswatini,F05860,window,Eswatini,False
+14487,2025,Ethiopia,F04836,window,Ethiopia,False
+14488,2025,Faroe Islands,F03393,,,False
+14489,2025,Fiji,F01286,window,Guadeloupe,False
+14490,2025,Finland,F03639,window,Denmark,False
+14491,2025,France,F02887,window,France,False
+14492,2025,The Gambia,F04623,,,False
+14493,2025,Georgia,F06180,window,France,False
+14494,2025,Germany,F04723,window,Germany,False
+14495,2025,Ghana,F00223,window,Ghana,False
+14496,2025,Gibraltar,F06227,window,Gibraltar,False
+14497,2025,Greece,F04408,window,Serbia,False
+14498,2025,Grenada,F01032,,,False
+14499,2025,Guam,F01297,window,Guam,False
+14500,2025,Guatemala,F03514,window,Mexico,False
+14501,2025,Guinea,F03073,window,Portugal,False
+14502,2025,Guinea-Bissau,F03267,,,False
+14503,2025,Guyana,F03030,,,False
+14504,2025,Haiti,F05601,window,France,False
+14505,2025,Honduras,F06100,window,Colombia,False
+14506,2025,"Hong Kong, China",F01219,window,England,False
+14507,2025,Hungary,F05395,window,Italy,False
+14508,2025,Iceland,F01161,window,Iceland,False
+14509,2025,India,F04480,window,India,False
+14510,2025,Indonesia,F01127,,,False
+14511,2025,IR Iran,F01115,,,False
+14512,2025,Iraq,F01166,window,Australia,False
+14513,2025,Israel,F01606,,,False
+14514,2025,Italy,F03735,window,Italy,False
+14515,2025,Japan,F04023,window,Japan,False
+14516,2025,Jordan,F04465,window,Morocco,False
+14517,2025,Kazakhstan,F01393,,,False
+14518,2025,Kenya,F01635,window,South Africa,False
+14519,2025,Korea DPR,F04635,,,False
+14520,2025,Korea Republic,F01787,window,Korea Republic,False
+14521,2025,Kosovo,F03580,window,Germany,False
+14522,2025,Kuwait,F02800,window,Portugal,False
+14523,2025,Kyrgyz Republic,F00121,window,Kyrgyz Republic,False
+14524,2025,Laos,F03995,,,False
+14525,2025,Latvia,F05824,window,Italy,False
+14526,2025,Lebanon,F05623,window,Montenegro,False
+14527,2025,Lesotho,F05166,window,Lesotho,False
+14528,2025,Libya,F00516,,,False
+14529,2025,Liechtenstein,F03651,window,Germany,False
+14530,2025,Lithuania,F03145,window,Lithuania,False
+14531,2025,Luxembourg,F04549,window,Luxembourg,False
+14532,2025,Macau,F04801,window,"Hong Kong, China",False
+14533,2025,Madagascar,F02560,window,France,False
+14534,2025,Malawi,F04780,window,Zimbabwe,False
+14535,2025,Malaysia,F02445,window,Australia,False
+14536,2025,Maldives,F05657,,,False
+14537,2025,Mali,F06185,window,Belgium,False
+14538,2025,Malta,F02803,window,Italy,False
+14539,2025,Mauritania,F01141,,,False
+14540,2025,Mauritius,F03942,window,France,False
+14541,2025,Mexico,F00304,window,Mexico,False
+14542,2025,Moldova,F05191,window,Moldova,False
+14543,2025,Mongolia,F01537,,,False
+14544,2025,Montenegro,F05628,window,Montenegro,False
+14545,2025,Montserrat,F00974,,,False
+14546,2025,Morocco,F04208,,,False
+14547,2025,Mozambique,F02526,,,False
+14548,2025,Myanmar,F04201,window,Myanmar,False
+14549,2025,Namibia,F01622,window,Namibia,False
+14550,2025,Nepal,F04076,,,False
+14551,2025,Netherlands,F05000,window,Netherlands,False
+14552,2025,New Caledonia,F04596,,,False
+14553,2025,New Zealand,F01542,window,England,False
+14554,2025,Nicaragua,F03529,,,False
+14555,2025,Niger,F04311,,,False
+14556,2025,North Macedonia,F01771,window,North Macedonia,False
+14557,2025,Northern Ireland,F05586,,,False
+14558,2025,Norway,F06277,window,Norway,False
+14559,2025,Oman,F02126,window,Portugal,False
+14560,2025,Pakistan,F00502,window,Peru,False
+14561,2025,Palestine,F00195,window,Palestine,False
+14562,2025,Panama,F02401,window,Spain,False
+14563,2025,Papua New Guinea,F02774,,,False
+14564,2025,Paraguay,F00590,window,Argentina,False
+14565,2025,Peru,F01470,,,False
+14566,2025,Philippines,F02097,window,Spain,False
+14567,2025,Poland,F04487,window,Poland,False
+14568,2025,Portugal,F05470,window,Spain,False
+14569,2025,Puerto Rico,F02264,window,England,False
+14570,2025,Qatar,F04721,window,Spain,False
+14571,2025,Republic of Ireland,F04032,window,Iceland,False
+14572,2025,Romania,F05251,window,Romania,False
+14573,2025,Russia,F04825,any_date,Russia,False
+14574,2025,Rwanda,F00230,window,Algeria,False
+14575,2025,Samoa,F06039,,,False
+14576,2025,San Marino,F02204,window,Italy,False
+14577,2025,São Tomé and Príncipe,F05677,window,Portugal,False
+14578,2025,Saudi Arabia,F04174,window,France,False
+14579,2025,Scotland,F02458,window,Scotland,False
+14580,2025,Senegal,F01869,window,Senegal,False
+14581,2025,Serbia,F05952,,,False
+14582,2025,Seychelles,F04532,window,Seychelles,False
+14583,2025,Sierra Leone,F04784,window,Sierra Leone,False
+14584,2025,Singapore,F03738,window,Singapore,False
+14585,2025,Slovakia,F02034,window,Italy,False
+14586,2025,Slovenia,F04879,window,Slovenia,False
+14587,2025,Solomon Islands,F04700,window,Australia,False
+14588,2025,Somalia,F00652,window,Somalia,False
+14589,2025,South Africa,F01935,window,Belgium,False
+14590,2025,South Sudan,F04468,,,False
+14591,2025,Spain,F02159,window,Spain,False
+14592,2025,Sri Lanka,F00149,,,False
+14593,2025,Saint Kitts and Nevis,F06143,,,False
+14594,2025,Saint Lucia,F04618,window,Trinidad and Tobago,False
+14595,2025,Saint Vincent and the Grenadines,F03402,window,Saint Vincent and the Grenadines,False
+14596,2025,Sudan,F01092,window,Ghana,False
+14597,2025,Suriname,F05566,window,Netherlands,False
+14598,2025,Sweden,F03913,window,England,False
+14599,2025,Switzerland,F05738,window,Switzerland,False
+14600,2025,Syria,F03509,window,Spain,False
+14601,2025,Tahiti,F01972,,,False
+14602,2025,Tajikistan,F03888,window,Serbia,False
+14603,2025,Tanzania,F00953,,,False
+14604,2025,Thailand,F01027,window,England,False
+14605,2025,Timor-Leste,F00761,,,False
+14606,2025,Togo,F02735,window,Togo,False
+14607,2025,Tonga,F04968,,,False
+14608,2025,Trinidad and Tobago,F03111,window,Trinidad and Tobago,False
+14609,2025,Tunisia,F06195,window,Tunisia,False
+14610,2025,Türkiye,F05680,window,Italy,False
+14611,2025,Turkmenistan,F05570,window,Turkmenistan,False
+14612,2025,Turks and Caicos Islands,F00036,,,False
+14613,2025,Uganda,F03405,window,Belgium,False
+14614,2025,Ukraine,F06091,,,False
+14615,2025,United Arab Emirates,F02570,window,Romania,False
+14616,2025,Uruguay,F01724,window,Argentina,False
+14617,2025,US Virgin Islands,F04633,window,US Virgin Islands,False
+14618,2025,United States,F05510,window,Argentina,False
+14619,2025,Uzbekistan,F02073,window,Italy,False
+14620,2025,Vanuatu,F04236,window,Germany,False
+14621,2025,Venezuela,F05903,window,Venezuela,False
+14622,2025,Vietnam,F04974,window,Korea Republic,False
+14623,2025,Yemen,F00645,window,Algeria,False
+14624,2025,Zambia,F05697,,,False
+14625,2025,Zimbabwe,F05424,,,False

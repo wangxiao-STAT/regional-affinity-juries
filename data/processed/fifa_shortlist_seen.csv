@@ -1,0 +1,464 @@
+year,award,name
+2010,MP,Alonso Xabi
+2010,MP,Alves Daniel
+2010,MP,Casillas Iker
+2010,MP,Cristiano Ronaldo
+2010,MP,Drogba Didier
+2010,MP,Eto'o Samuel
+2010,MP,Forlán Diego
+2010,MP,Fábregas Cesc
+2010,MP,Gyan Asamoah
+2010,MP,Iniesta Andrés
+2010,MP,Júlio César
+2010,MP,Klose Miroslav
+2010,MP,Lahm Philipp
+2010,MP,Maicon
+2010,MP,Messi Lionel
+2010,MP,Müller Thomas
+2010,MP,Puyol Carles
+2010,MP,Robben Arjen
+2010,MP,Schweinsteiger Bastian
+2010,MP,Sneijder Wesley
+2010,MP,Villa David
+2010,MP,Xavi
+2010,MP,Özil Mesut
+2010,WP,Abily Camille
+2010,WP,Bajramaj Fatmire
+2010,WP,Ji So Yun
+2010,WP,Marta
+2010,WP,Prinz Birgit
+2010,WP,Seger Caroline
+2010,WP,Sinclair Christine
+2010,WP,Smith Kelly
+2010,WP,Solo Hope
+2010,WP,Wambach Abby
+2011,MP,Abidal Éric
+2011,MP,Agüero Sergio
+2011,MP,Benzema Karim
+2011,MP,Casillas Iker
+2011,MP,Cristiano Ronaldo
+2011,MP,Dani Alves
+2011,MP,Eto'o Samuel
+2011,MP,Forlán Diego
+2011,MP,Fàbregas Cesc
+2011,MP,Iniesta Andrés
+2011,MP,Messi Lionel
+2011,MP,Müller Thomas
+2011,MP,Nani
+2011,MP,Neymar
+2011,MP,Piqué Gerard
+2011,MP,Rooney Wayne
+2011,MP,Schweinsteiger Bastian
+2011,MP,Sneijder Wesley
+2011,MP,Suárez Luis
+2011,MP,Villa David
+2011,MP,Xabi Alonso
+2011,MP,Xavi
+2011,MP,Özil Mesut
+2011,WP,Bompastor Sonia
+2011,WP,Garefrekes Kerstin
+2011,WP,Marta
+2011,WP,Miyama Aya
+2011,WP,Morgan Alex
+2011,WP,Nécib Louisa
+2011,WP,Sawa Homare
+2011,WP,Schelin Lotta
+2011,WP,Solo Hope
+2011,WP,Wambach Abby
+2012,MP,Agüero Sergio
+2012,MP,Alonso Xabi
+2012,MP,Balotelli Mario
+2012,MP,Buffon Gianluigi
+2012,MP,Busquets Sergio
+2012,MP,Casillas Iker
+2012,MP,Cristiano Ronaldo
+2012,MP,Drogba Didier
+2012,MP,Falcao Radamel
+2012,MP,Ibrahimovic Zlatan
+2012,MP,Iniesta Andrés
+2012,MP,Messi Lionel
+2012,MP,Neuer Manuel
+2012,MP,Neymar
+2012,MP,Piqué Gerard
+2012,MP,Pirlo Andrea
+2012,MP,Ramos Sergio
+2012,MP,Rooney Wayne
+2012,MP,Touré Yaya
+2012,MP,Xavi
+2012,MP,van Persie Robin
+2012,MP,Özil Mesut
+2012,WP,Abily Camille
+2012,WP,Fukumoto Miho
+2012,WP,Lloyd Carli
+2012,WP,Marta
+2012,WP,Miyama Aya
+2012,WP,Morgan Alex
+2012,WP,Rapinoe Megan
+2012,WP,Sawa Homare
+2012,WP,Sinclair Christine
+2012,WP,Wambach Abby
+2013,MP,Bale Gareth
+2013,MP,Cavani Edinson
+2013,MP,Cristiano Ronaldo
+2013,MP,Falcao Radamel
+2013,MP,Hazard Eden
+2013,MP,Ibrahimovic Zlatan
+2013,MP,Iniesta Andrés
+2013,MP,Lahm Philipp
+2013,MP,Lewandowski Robert
+2013,MP,Messi Lionel
+2013,MP,Müller Thomas
+2013,MP,Neuer Manuel
+2013,MP,Neymar
+2013,MP,Pirlo Andrea
+2013,MP,Ribéry Franck
+2013,MP,Robben Arjen
+2013,MP,Schweinsteiger Bastian
+2013,MP,Silva Thiago
+2013,MP,Suárez Luis
+2013,MP,Touré Yaya
+2013,MP,Van Persie Robin
+2013,MP,Xavi
+2013,MP,Özil Mesut
+2013,WP,Angerer Nadine
+2013,WP,Fischer Nilla
+2013,WP,Goessling Lena
+2013,WP,Kumagai Saki
+2013,WP,Marta
+2013,WP,Morgan Alex
+2013,WP,Ogimi Yuki
+2013,WP,Schelin Lotta
+2013,WP,Sinclair Christine
+2013,WP,Wambach Abby
+2014,MP,Bale Gareth
+2014,MP,Benzema Karim
+2014,MP,Costa Diego
+2014,MP,Courtois Thibaut
+2014,MP,Cristiano Ronaldo
+2014,MP,Di Maria Angel
+2014,MP,Goetze Mario
+2014,MP,Hazard Eden
+2014,MP,Ibrahimovic Zlatan
+2014,MP,Iniesta Andres
+2014,MP,Kroos Toni
+2014,MP,Lahm Philipp
+2014,MP,Mascherano Javier
+2014,MP,Messi Lionel
+2014,MP,Mueller Thomas
+2014,MP,Neuer Manuel
+2014,MP,Neymar
+2014,MP,Pogba Paul
+2014,MP,Ramos Sergio
+2014,MP,Robben Arjen
+2014,MP,Rodriguez James
+2014,MP,Schweinsteiger Bastian
+2014,MP,Toure Yaya
+2014,WP,Angerer Nadine
+2014,WP,Boquete Veronica
+2014,WP,Fischer Nilla
+2014,WP,Kawasumi Nahomi
+2014,WP,Kessler Nadine
+2014,WP,Marta
+2014,WP,Miyama Aya
+2014,WP,Necib Louisa
+2014,WP,Schelin Lotta
+2014,WP,Wambach Abby
+2015,MP,Agüero Sergio
+2015,MP,Bale Gareth
+2015,MP,Benzema Karim
+2015,MP,Cristiano Ronaldo
+2015,MP,De Bruyne Kevin
+2015,MP,Hazard Eden
+2015,MP,Ibrahimovic Zlatan
+2015,MP,Iniesta Andrés
+2015,MP,Kroos Toni
+2015,MP,Lewandowski Robert
+2015,MP,Mascherano Javier
+2015,MP,Messi Lionel
+2015,MP,Müller Thomas
+2015,MP,Neuer Manuel
+2015,MP,Neymar
+2015,MP,Pogba Paul
+2015,MP,Rakitic Ivan
+2015,MP,Robben Arjen
+2015,MP,Rodríguez James
+2015,MP,Suárez Luis
+2015,MP,Sánchez Alexis
+2015,MP,Touré Yaya
+2015,MP,Vidal Arturo
+2015,WP,Angerer Nadine
+2015,WP,Bachmann Ramona
+2015,WP,Buchanan Kadeisha
+2015,WP,Henry Amandine
+2015,WP,Le Sommer Eugénie
+2015,WP,Lloyd Carli
+2015,WP,Miyama Aya
+2015,WP,Rapinoe Megan
+2015,WP,Solo Hope
+2015,WP,Šašic Célia
+2016,MP,Agüero Sergio
+2016,MP,Bale Gareth
+2016,MP,Buffon Gianluigi
+2016,MP,Cristiano Ronaldo
+2016,MP,De Bruyne Kevin
+2016,MP,Griezmann Antoine
+2016,MP,Ibrahimovic Zlatan
+2016,MP,Iniesta Andrés
+2016,MP,Kanté N'Golo
+2016,MP,Kroos Toni
+2016,MP,Lewandowski Robert
+2016,MP,Mahrez Riyad
+2016,MP,Messi Lionel
+2016,MP,Modric Luka
+2016,MP,Neuer Manuel
+2016,MP,Neymar
+2016,MP,Payet Dimitri
+2016,MP,Pogba Paul
+2016,MP,Ramos Sergio
+2016,MP,Suárez Luis
+2016,MP,Sánchez Alexis
+2016,MP,Vardy Jamie
+2016,MP,Özil Mesut
+2016,WP,Abily Camille
+2016,WP,Behringer Melanie
+2016,WP,Däbritz Sara
+2016,WP,Henry Amandine
+2016,WP,Kumagai Saki
+2016,WP,Lloyd Carli
+2016,WP,Marozsán Dzsenifer
+2016,WP,Marta
+2016,WP,Schelin Lotta
+2016,WP,Sinclair Christine
+2017,MP,Aubameyang Pierre-Emerick
+2017,MP,Bonucci Leonardo
+2017,MP,Buffon Gianluigi
+2017,MP,Carvajal Dani
+2017,MP,Cristiano Ronaldo
+2017,MP,Dybala Paulo
+2017,MP,Griezmann Antoine
+2017,MP,Hazard Eden
+2017,MP,Ibrahimovic Zlatan
+2017,MP,Iniesta Andrés
+2017,MP,Kane Harry
+2017,MP,Kanté N'Golo
+2017,MP,Kroos Toni
+2017,MP,Lewandowski Robert
+2017,MP,Marcelo
+2017,MP,Messi Lionel
+2017,MP,Modric Luka
+2017,MP,Navas Keylor
+2017,MP,Neuer Manuel
+2017,MP,Neymar
+2017,MP,Ramos Sergio
+2017,MP,Sanchez Alexis
+2017,MP,Suárez Luis
+2017,MP,Vidal Arturo
+2017,WP,Bronze Lucy
+2017,WP,Castellanos Deyna
+2017,WP,Harder Pernille
+2017,WP,Kerr Sam
+2017,WP,Lloyd Carli
+2017,WP,Marozsán Dzsenifer
+2017,WP,Martens Lieke
+2017,WP,Miedema Vivianne
+2017,WP,Renard Wendie
+2017,WP,Taylor Jodie
+2018,MP,Cristiano Ronaldo
+2018,MP,De Bruyne Kevin
+2018,MP,Griezmann Antoine
+2018,MP,Hazard Eden
+2018,MP,Kane Harry
+2018,MP,Mbappé Kylian
+2018,MP,Messi Lionel
+2018,MP,Modric Luka
+2018,MP,Salah Mohamed
+2018,MP,Varane Raphael
+2018,WP,Bronze Lucy
+2018,WP,Harder Pernille
+2018,WP,Hegerberg Ada
+2018,WP,Henry Amandine
+2018,WP,Kerr Sam
+2018,WP,Kumagai Saki
+2018,WP,Maroszán Dzsenifer
+2018,WP,Marta
+2018,WP,Rapinoe Megan
+2018,WP,Renard Wendie
+2019,MP,Cristiano Ronaldo
+2019,MP,De Jong Frenkie
+2019,MP,De Ligt Matthijs
+2019,MP,Hazard Eden
+2019,MP,Kane Harry
+2019,MP,Mané Sadio
+2019,MP,Mbappé Kylian
+2019,MP,Messi Lionel
+2019,MP,Salah Mohamed
+2019,MP,Van Dijk Virgil
+2019,WP,Bronze Lucy
+2019,WP,Ertz Julie
+2019,WP,Graham Hansen Caroline
+2019,WP,Hegerberg Ada
+2019,WP,Henry Amandine
+2019,WP,Kerr Sam
+2019,WP,Lavelle Rose
+2019,WP,Miedema Vivianne
+2019,WP,Morgan Alex
+2019,WP,Rapinoe Megan
+2019,WP,Renard Wendie
+2019,WP,White Ellen
+2020,MP,Cristiano Ronaldo
+2020,MP,Kevin De Bruyne
+2020,MP,Kylian Mbappé
+2020,MP,Lionel Messi
+2020,MP,Mohamed Salah
+2020,MP,Neymar
+2020,MP,Robert Lewandowski
+2020,MP,Sadio Mané
+2020,MP,Sergio Ramos
+2020,MP,Thiago Alcântara
+2020,MP,Virgil van Dijk
+2020,WP,Caroline Graham Hansen
+2020,WP,Delphine Cascarino
+2020,WP,Dzsenifer Marozsán
+2020,WP,Jennifer Hermoso
+2020,WP,Ji So-yun
+2020,WP,Lucy Bronze
+2020,WP,Pernille Harder
+2020,WP,Saki Kumagai
+2020,WP,Sam Kerr
+2020,WP,Vivianne Miedema
+2020,WP,Wendie Renard
+2021,MP,Cristiano Ronaldo
+2021,MP,Erling Haaland
+2021,MP,Jorginho
+2021,MP,Karim Benzema
+2021,MP,Kevin De Bruyne
+2021,MP,Kylian Mbappé
+2021,MP,Lionel Messi
+2021,MP,Mohamed Salah
+2021,MP,Neymar
+2021,MP,N’Golo Kanté
+2021,MP,Robert Lewandowski
+2021,WP,Aitana Bonmatí
+2021,WP,Alexia Putellas
+2021,WP,Caroline Graham Hansen
+2021,WP,Christine Sinclair
+2021,WP,Ellen White
+2021,WP,Jenni Hermoso
+2021,WP,Lucy Bronze
+2021,WP,Magdalena Eriksson
+2021,WP,Pernille Harder
+2021,WP,Sam Kerr
+2021,WP,So-Yun Ji
+2021,WP,Stina Blackstenius
+2021,WP,Vivianne Miedema
+2022,MP,Achraf Hakimi
+2022,MP,Erling Haaland
+2022,MP,Jude Bellingham
+2022,MP,Julián Álvarez
+2022,MP,Karim Benzema
+2022,MP,Kevin De Bruyne
+2022,MP,Kylian Mbappé
+2022,MP,Lionel Messi
+2022,MP,Luka Modrić
+2022,MP,Mohamed Salah
+2022,MP,Neymar
+2022,MP,Robert Lewandowski
+2022,MP,Sadio Mané
+2022,MP,Vinícius Junior
+2022,WP,Ada Hegerberg
+2022,WP,Aitana Bonmatí
+2022,WP,Alex Morgan
+2022,WP,Alexandra Popp
+2022,WP,Alexia Putellas
+2022,WP,Beth Mead
+2022,WP,Debinha
+2022,WP,Jessie Fleming
+2022,WP,Keira Walsh
+2022,WP,Leah Williamson
+2022,WP,Lena Oberdorf
+2022,WP,Sam Kerr
+2022,WP,Vivianne Miedema
+2022,WP,Wendie Renard
+2023,MP,Bernardo Silva
+2023,MP,Declan Rice
+2023,MP,Erling Haaland
+2023,MP,Julián Álvarez
+2023,MP,Kevin De Bruyne
+2023,MP,Khvicha Kvaratskhelia
+2023,MP,Kylian Mbappé
+2023,MP,Lionel Messi
+2023,MP,Marcelo Brozović
+2023,MP,Rodri
+2023,MP,Victor Osimhen
+2023,MP,İlkay Gündoğan
+2023,WP,Aitana Bonmatí
+2023,WP,Alex Greenwood
+2023,WP,Amanda Ilestedt
+2023,WP,Caitlin Foord
+2023,WP,Hinata Miyazawa
+2023,WP,Jennifer Hermoso
+2023,WP,Kadidiatou Diani
+2023,WP,Keira Walsh
+2023,WP,Lauren James
+2023,WP,Linda Caicedo
+2023,WP,Lindsey Horan
+2023,WP,Mapi León
+2023,WP,Mary Fowler
+2023,WP,Rachel Daly
+2023,WP,Salma Paralluelo
+2023,WP,Sam Kerr
+2024,MP,Dani Carvajal
+2024,MP,Erling Haaland
+2024,MP,Federico Valverde
+2024,MP,Florian Wirtz
+2024,MP,Jude Bellingham
+2024,MP,Kylian Mbappé
+2024,MP,Lamine Yamal
+2024,MP,Lionel Messi
+2024,MP,Rodri
+2024,MP,Toni Kroos
+2024,MP,Vinícius Jr
+2024,WP,Aitana Bonmatí
+2024,WP,Barbra Banda
+2024,WP,Caroline Graham Hansen
+2024,WP,Keira Walsh
+2024,WP,Khadija Shaw
+2024,WP,Lauren Hemp
+2024,WP,Lindsey Horan
+2024,WP,Lucy Bronze
+2024,WP,Mallory Swanson
+2024,WP,Mariona Caldentey
+2024,WP,Naomi Girma
+2024,WP,Ona Batlle
+2024,WP,Salma Paralluelo
+2024,WP,Sophia Smith
+2024,WP,Tabitha Chawinga
+2024,WP,Trinity Rodman
+2025,MP,Achraf Hakimi
+2025,MP,Cole Palmer
+2025,MP,Harry Kane
+2025,MP,Kylian Mbappé
+2025,MP,Lamine Yamal
+2025,MP,Mohamed Salah
+2025,MP,Nuno Mendes
+2025,MP,Ousmane Dembélé
+2025,MP,Pedri
+2025,MP,Raphinha
+2025,MP,Vitinha
+2025,WP,Aitana Bonmatí
+2025,WP,Alessia Russo
+2025,WP,Alexia Putellas
+2025,WP,Chloe Kelly
+2025,WP,Clàudia Pina
+2025,WP,Ewa Pajor
+2025,WP,Kadidiatou Diani
+2025,WP,Lauren James
+2025,WP,Leah Williamson
+2025,WP,Lindsey Heaps
+2025,WP,Lucy Bronze
+2025,WP,Mariona Caldentey
+2025,WP,Melchie Dumornay
+2025,WP,Nathalie Björn
+2025,WP,Patri Guijarro
+2025,WP,Sandy Baltimore
+2025,WP,Temwa Chawinga
