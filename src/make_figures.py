@@ -139,14 +139,14 @@ def fig_outcomes():
         ax.annotate(name, (r.margin, r.p_flip), xytext=(4, 2), textcoords="offset points", fontsize=5.5, color=INK2)
     ax.set_xscale("log")
     ax.xaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:g}"))
-    ax.set_xlabel("Leader's margin over runner-up (percentage points of the jury vote, FIFA to 2022;\n"
-                  "of scoring points, FIFA from 2023; of all points cast, Ballon d'Or)")
+    ax.set_xlabel("Leader's margin over runner-up, percentage points: of the jury vote (FIFA to 2022),\n"
+                  "of scoring points (FIFA from 2023), of all points cast (Ballon d'Or)", fontsize=5.8)
     ax.set_ylabel("Probability that the bonuses\nchanged the leader")
     ax.set_ylim(-0.03, 1.03)
     ax.grid(color=GRID, lw=0.4)
     ax.legend(frameon=False, loc="upper right")
     fig.tight_layout()
-    fig.savefig(OUT / "fig_outcomes.pdf")
+    fig.savefig(OUT / "fig_outcomes.pdf", bbox_inches="tight", pad_inches=0.03)
     plt.close(fig)
 
 

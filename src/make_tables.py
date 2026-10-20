@@ -8,6 +8,7 @@ sup_bdo          Ballon d'Or validation: jurors parsed and stated, largest point
 sup_estimates    similarity bonuses of the combined models, clustered and model-based standard errors
 sup_fits         size, log-likelihood, condition number and extreme nominee effects of every fit
 sup_contests     every contest: rule, leader, margin and the probability that the bonuses decided it
+sup_contrasts    the coach contrasts quoted as z in the text, with clustered s.e. and two-sided P values
 A table whose inputs are missing is written as a \\Pending marker.
 """
 import json
@@ -167,28 +168,71 @@ def contest_name(c):
     return f"FIFA {c[:4]} {'men' if c.endswith('MP') else 'women'}"
 
 
+def display_names():
+    """Wikipedia display name of each nominee, as in the text (FIFA files print many surname-first)."""
+    out = {}
+    for f in ("fifa_nominee_meta.csv", "bdo_nominee_meta.csv"):
+        m = pd.read_csv(PROC / f, keep_default_na=False)
+        for r in m.itertuples(index=False):
+            if r.wiki_name:
+                out[(int(r.year), r.award, r.person)] = r.wiki_name
+    return out
+
+
 def sup_contests():
     base = pd.read_csv(RES / "combined" / "cf_C1_role_contests.csv").query("scenario == 'all'").set_index("contest")
     het = pd.read_csv(RES / "combined" / "cf_C2_confhet_contests.csv").query("scenario == 'all'").set_index("contest")
     reg = pd.read_csv(RES / "combined" / "cf_C1_role_contests.csv").query("scenario == 'confed'").set_index("contest")
     share = pd.read_csv(RES / "combined" / "cf_C1_role_share_contests.csv").query("scenario == 'all'").set_index("contest")
     order = sorted(base.index, key=lambda c: (c.startswith("BdO"), c[3:7] if c.startswith("BdO") else c[:4], c[-2:]))
+    names = display_names()
     rows = []
     for c in order:
         r = base.loc[c]
-        rows.append([contest_name(c), RULE[r.rule], r.winner, f"{r.margin:.2f}", f"{r.p_flip:.2f}",
+        year, award = (int(c[3:7]), c[-2:]) if c.startswith("BdO") else (int(c[:4]), c[-2:])
+        rows.append([contest_name(c), RULE[r.rule], names.get((year, award, r.winner), r.winner), f"{r.margin:.2f}",
+                     f"{r.p_flip:.2f}",
                      f"{r.p_flip_mle:.2f}", f"{reg.loc[c].p_flip:.2f}", f"{het.loc[c].p_flip:.2f}",
                      f"{share.loc[c].p_flip:.2f}" if c in share.index else "--"])
     return tabular(["Contest", "Rule", "Leader", "Margin", "P(all)", "P(all, estimates)", "P(regional)",
                     "P(all, by region)", "P(all, share rule)"], rows, "lllrrrrrr")
 
 
+CONTRASTS = [  # (model, contrast as in contrasts.csv, description)
+    ("A1_coaches", "nation_own_foreign - nation_team_foreign", "Foreign coaches: own nationality minus coached country"),
+    ("A1_coaches", "confed_own_foreign - confed_team_foreign", "Foreign coaches: confederation of origin minus of work"),
+    ("A1_coaches", "nation_team_domestic - nation_team_foreign", "Compatriot bonus: domestic minus foreign coaches"),
+    ("A1x_coaches", "nation_own_foreign[MP] - nation_team_foreign[MP]", "Own nationality minus coached country, men's award"),
+    ("A1x_coaches", "nation_own_foreign[WP] - nation_team_foreign[WP]", "Own nationality minus coached country, women's award"),
+    ("A1x_coaches", "confed_own_foreign[MP] - confed_team_foreign[MP]", "Origin minus work confederation, men's award"),
+    ("A1x_coaches", "confed_own_foreign[WP] - confed_team_foreign[WP]", "Origin minus work confederation, women's award"),
+    ("A1x_coaches", "(nation_team_domestic - nation_team_foreign)[WP] - [MP]", "Domestic minus foreign, women's minus men's award"),
+    ("A1x_coaches", "(nation_own_foreign - nation_team_foreign)[WP] - [MP]", "Own minus coached country, women's minus men's"),
+    ("A1x_coaches", "(confed_own_foreign - confed_team_foreign)[WP] - [MP]", "Origin minus work region, women's minus men's"),
+    ("A3_movers", "confed_team[mover] - confed_team_foreign[other]", "Workplace region: within movers minus between coaches"),
+]
+
+
+def sup_contrasts():
+    from scipy.stats import norm
+    c = pd.read_csv(RES / "mechanisms" / "contrasts.csv").set_index(["model", "contrast"])
+    rows = []
+    for model, name, desc in CONTRASTS:
+        r = c.loc[(model, name)]
+        p = 2 * norm.sf(abs(r.z))
+        rows.append([desc, f"{r['diff']:.2f}", f"{r.se_cluster:.2f}", f"{r.z:.1f}",
+                     f"{p:.4f}" if p >= 1e-4 else "<0.0001"])
+    return tabular(["Contrast", "Difference", "s.e. (clustered)", "z", "P (two-sided)"], rows, "lrrrr")
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     for name, fn in (("sup_sources", sup_sources), ("sup_coaches", sup_coaches), ("sup_bdo", sup_bdo),
-                     ("sup_estimates", sup_estimates), ("sup_fits", sup_fits), ("sup_contests", sup_contests)):
+                     ("sup_estimates", sup_estimates), ("sup_fits", sup_fits), ("sup_contests", sup_contests),
+                     ("sup_contrasts", sup_contrasts)):
         write(name, fn)
-    print("tables: sup_sources, sup_coaches, sup_bdo, sup_estimates, sup_fits, sup_contests", file=sys.stderr)
+    print("tables: sup_sources, sup_coaches, sup_bdo, sup_estimates, sup_fits, sup_contests, sup_contrasts",
+          file=sys.stderr)
 
 
 if __name__ == "__main__":

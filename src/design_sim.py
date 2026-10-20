@@ -1,7 +1,7 @@
 """Jury-design simulations: when does similarity bias change the winner?
 
 python -I nhb/src/design_sim.py [--model M1_role] [--reps 400] [--draws 40]
-    ->  nhb/results/design/design_contests.csv, design_summary.csv
+    ->  nhb/results/design/design_contests_<model>.csv, design_summary_<model>.csv
 
 For each FIFA contest, nominee appeal (alpha) and the affinity coefficients come from a pooled fit
 (fit_pooled.py). A jury is a list of voters (role, country); every voter ranks three nominees by
@@ -11,12 +11,20 @@ probability that similarity bias decides the award under that design. Designs:
   fifa          the contest's actual voters, FIFA's rule of that year (fifa_rules.py: group shares
                 to 2022, art. 11 scoring points from 2023), fans not included
   fifa_nocompat the same, but no voter may rank a compatriot (the bias-free jury keeps them)
-  media         the contest's journalists only, total points
-  size_n        n voters drawn at random from the actual voters in each replication, total points
-  uefa_s        100 voters with a share s from UEFA countries, drawn from the actual voters
+  media         the contest's journalists only (one group: total points order nominees as the rule does)
+  size_n        n voters drawn at random from the actual voters in each replication, FIFA's rule of the year
+  uefa_s        100 voters with a share s from UEFA countries, drawn from the actual voters, rule of the year
+  equal_confed  the same number of voters from each of the six confederations (EQUAL_K, or fewer when a
+                confederation has fewer voters, not below EQUAL_K_MIN), rule of the year
+  contenders_equal  the contest's voters with the larger of the two leading nominees' confederations
+                subsampled to the size of the smaller; only parameter draws whose leading nominees come
+                from different confederations
+Each row also records the contenders' bloc difference (bloc_gap), the modal pair of the contenders'
+confederations and the share of draws in which they differ (share_cross); --rule share / scoring_zero
+repeat FIFA's 2023+ contests under the 2010-2022 rule or with zero-point nominees scoring nothing.
 Closeness: the runner-up's appeal is moved to alpha_winner - d for a grid of d, which sets how
 close the bias-free race is; d = "obs" keeps the fitted appeals. Parameter uncertainty enters
-through draws from the clustered covariance of the fit; each draw gets reps / draws replications.
+through hybrid draws (fit_pooled.hybrid_draws); each draw gets reps / draws replications.
 """
 import argparse
 import sys
