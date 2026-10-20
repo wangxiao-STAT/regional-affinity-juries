@@ -329,6 +329,8 @@ def outcome_numbers(reg):
             "expected changed leaders, FIFA 2023-2025 under the share rule, C2")
     reg.add("NAllFlipHalfShareWord", lambda: word((with_share("C1_role")[0].p_flip > 0.5).sum()),
             "contests with P(flip) > 0.5, FIFA 2023-2025 under the share rule, C1")
+    reg.add("NAllFlipHalfShareHetWord", lambda: word((with_share("C2_confhet")[0].p_flip > 0.5).sum()),
+            "contests with P(flip) > 0.5, FIFA 2023-2025 under the share rule, C2")
     reg.add("ShareLeaderMenTwentyFour", lambda: disp(with_share("C1_role")[1].loc[k].winner, k),
             "2024_MP leader under the share rule")
     reg.add("ShareMarginMenTwentyFour", lambda: fmt(with_share("C1_role")[1].loc[k].margin, 2),
@@ -501,6 +503,25 @@ def design_numbers(reg):
         x = x[(x.gap.astype(str) == "0.0") & (x.design != "fifa_nocompat")]
         x = x[x.contest.isin(design_sim.cross_contests(x))]
         return np.corrcoef(x.bloc_gap.abs(), x.p_flip)[0, 1]
+    # contests near the half-of-draws threshold for a race between two confederations (R3-2)
+    def knife():
+        x = pd.read_csv(RES / "design" / "design_contests_M1_role.csv")
+        x = x[x.gap.astype(str) == "0.0"]
+        ce = x[x.design == "fifa"].set_index("contest").share_cross     # the FIFA design runs on every draw
+        base = set(design_sim.cross_contests(x))
+        near = sorted(c for c in ce.index if 0.4 <= ce[c] < 0.5)
+        diffs = []
+        for design in ("fifa", "equal_confed", "contenders_equal", "uefa_0.1", "uefa_0.9"):
+            m0 = x[(x.design == design) & x.contest.isin(base)].p_flip.mean()
+            m1 = x[(x.design == design) & x.contest.isin(base | set(near))].p_flip.mean()
+            diffs.append(abs(m1 - m0))
+        return near, ce, max(diffs)
+    aw = {"MP": "men's", "WP": "women's"}
+    reg.add("CrossNearContest", lambda: " and ".join(f"{c[:4]} {aw[c[5:]]}" for c in knife()[0]) or "none",
+            "contests with 40-50% of draws having contenders from two confederations, M1")
+    reg.add("CrossNearShare", lambda: ", ".join(fmt_int(100 * knife()[1][c]) + "\\%" for c in knife()[0]),
+            "their share of such draws")
+    reg.add("CrossNearMaxDiff", lambda: fmt(knife()[2], 3), "largest change of a cross-race design mean if they count")
     reg.add("DesignBlocCorr", lambda: fmt(bloc_corr(), 2), "correlation of |bloc difference| and P(flip) at a tie, M1")
 
     def bloc_corr_fifa():

@@ -128,7 +128,10 @@ It also follows these rules:
   ties within a group; tied nominees receive the scoring points of the best position they share.
   Subtracting the recomputed jury scores from the published totals of every nominee in 2023 and
   2024 leaves each nominee a distinct fan scoring value only under this convention (the average or
-  the worst of the shared positions fails in at least one contest).
+  the worst of the shared positions fails in at least one contest). Whether nominees without points
+  in a group share the next place or score nothing cannot be told apart from these totals.
+  `src/check_fifa_scoring.py` runs the comparison on the raw 2023 and 2024 result files and writes
+  `fifa_scoring_conventions.csv`.
 - Journalists' and captains' own nationalities are not recorded. Captains normally hold the
   nationality of their team.
 
