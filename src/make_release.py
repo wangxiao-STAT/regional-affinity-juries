@@ -48,7 +48,8 @@ LEAVE_OUT = {"coach_history_entries.csv", "manager_snapshots.csv",   # coaches l
 # the Slurm jobs that produce the reported results, in order (others were superseded during the review)
 RELEASE_JOBS = {"rv1_all.sbatch": "01_fits_and_analyses.sbatch", "robustness.sbatch": "02_robustness.sbatch",
                 "rv1_cf2.sbatch": "03_counterfactuals.sbatch", "rv2_all.sbatch": "04_rule_checks.sbatch",
-                "designs2.sbatch": "05_design_simulations.sbatch", "esc_r5.sbatch": "06_eurovision.sbatch"}
+                "designs2.sbatch": "05_design_simulations.sbatch", "esc_r5.sbatch": "06_eurovision.sbatch",
+                "misspec.sbatch": "07_error_distribution_checks.sbatch"}
 # lines left out of a released job: designs2's Eurovision designs are rerun, with the final groupings, by esc_r5
 SKIP_LINES = {"designs2.sbatch": ("src/esc_analysis.py",)}
 

@@ -339,7 +339,7 @@ def outcome_numbers(reg):
             "2024_MP P(flip) under the share rule, C1")
     reg.add("MaxFlipShareScoringYears", lambda: fmt(with_share("C1_role")[1].p_flip.max(), 2),
             "largest P(flip) among FIFA 2023-2025 under the share rule, C1")
-    # the same with the regional bonus specific to the juror's confederation (and organisation)
+    # the same with the regional bonus specific to the juror's confederation (and organization)
     het = lambda sc="all": pd.read_csv(RES / "combined" / "cf_C2_confhet_contests.csv").query("scenario == @sc")
     reg.add("NAllFlipHalfHet", lambda: fmt_int((het().p_flip > 0.5).sum()), "all contests, P(flip) > 0.5, C2")
     reg.add("NAllFlipTenthHet", lambda: fmt_int((het().p_flip > 0.1).sum()), "all contests, P(flip) > 0.1, C2")
@@ -705,8 +705,8 @@ def esc_numbers(reg):
     for g, gm in (("B", "Bloc"), ("E", "Region"), ("C", "Fine")):
         bonus(f"Esc{gm}", f"{g}1", "same_group", "common group bonus")
         bonus(f"Esc{gm}Top", f"{g}1_top10", "same_group", "common group bonus, top ten")
-        bonus(f"Esc{gm}Border", f"{g}1", "same_border", "neighbour bonus")
-        bonus(f"Esc{gm}BorderTop", f"{g}1_top10", "same_border", "neighbour bonus, top ten")
+        bonus(f"Esc{gm}Border", f"{g}1", "same_border", "neighbor bonus")
+        bonus(f"Esc{gm}BorderTop", f"{g}1_top10", "same_border", "neighbor bonus, top ten")
     for grp, mac in (("Balkan Bloc", "Balkan"), ("Viking Empire", "Viking"), ("Warsaw Pact", "Warsaw"),
                      ("Netherlands-Belgium", "Benelux")):
         bonus(f"EscBloc{mac}", "B2", f"same_group[{grp}]", "bloc-specific bonus")
@@ -857,6 +857,61 @@ def esc_numbers(reg):
         reg.add(f"DesignEsc{mac}TieFine", lambda a=design: fmt(dmean(a, "0.0", "C1"), 2), f"C1, {design}, tie, all finals")
 
 
+def misspec_numbers(reg):
+    """Error-distribution checks (misspec.py; design_sim.py --noise normal)."""
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import design_sim
+    M = RES / "misspec"
+    noises = {"gumbel": "Gumbel", "normal": "Normal"}
+
+    def per_set(noise, scen, col):
+        """Sum over contests of `col` in each simulated data set (seed file and replicate)."""
+        x = pd.concat(pd.read_csv(g).assign(seed=g.stem.split("_")[-1]) for g in sorted(M.glob(f"flips_{noise}_*.csv")))
+        x = x[x.scenario == scen]
+        return x.groupby(["seed", "rep"])[col].sum()
+    for noise, mac in noises.items():
+        reg.add(f"MisspecSets{mac}", lambda n=noise: fmt_int(len(per_set(n, "all", "true_flip"))),
+                f"simulated data sets, {noise} errors")
+        for scen, smac in (("all", "All"), ("nation", "Nation"), ("confed", "Confed")):
+            for col, cmac in (("true_flip", "True"), ("p_hat", "Hat")):
+                reg.add(f"Misspec{cmac}{smac}{mac}", lambda n=noise, sc=scen, c=col: fmt(per_set(n, sc, c).mean(), 2),
+                        f"mean per data set of the summed {col}, {scen} bonuses removed, {noise} errors")
+
+        def calib(n=noise):
+            f = sorted(M.glob(f"flips_{n}_*.csv"))
+            x = pd.concat(pd.read_csv(g) for g in f)
+            x = x[x.scenario == "all"].groupby("contest")[["true_flip", "p_hat"]].mean()
+            return float((x.p_hat - x.true_flip).abs().max())
+        reg.add(f"MisspecMaxGap{mac}", lambda c=calib: fmt(c(), 2),
+                f"largest |mean p_hat - frequency of true flips| over contests, {noise} errors")
+    import misspec
+    reg.add("MisspecClock", lambda: fmt_int(misspec.CLOCK), "misspec.CLOCK, clock draws per contest")
+
+    def bias(noise):
+        """Mean over data sets of (estimated - true) changed leaders, in per cent of the true number."""
+        e, t = per_set(noise, "all", "p_hat"), per_set(noise, "all", "true_flip")
+        return 100 * (e - t).mean() / t.mean()
+    for noise, mac in noises.items():
+        reg.add(f"MisspecBiasPct{mac}", lambda n=noise: fmt_int(abs(bias(n))), f"|bias| of the estimate, per cent, {noise}")
+        reg.add(f"MisspecBiasDir{mac}", lambda n=noise: "low" if bias(n) < 0 else "high", f"direction of the bias, {noise}")
+    reg.add("MisspecWithinPct", lambda: fmt_int(np.ceil(max(abs(bias(n)) for n in noises))),
+            "largest |bias| over the two error distributions, per cent, rounded up")
+    for model, suffix in (("M1_role", ""), ("M5_role_confhet", "Het")):
+        d = lambda m=model: pd.read_csv(RES / "design" / f"design_contests_{m}_normal.csv")
+
+        def flip(design, cross, d=d):
+            """As design_numbers: races between two confederations, or all contests."""
+            x = d()
+            x = x[x.gap.astype(str) == "0.0"]
+            if cross:
+                x = x[x.contest.isin(design_sim.cross_contests(d()))]
+            return x[x.design == design].p_flip.mean()
+        for design, cross, mac in (("fifa", True, "FifaCrossTie"), ("contenders_equal", True, "ContEqualTie"),
+                                   ("fifa", False, "FifaTie"), ("fifa_nocompat", False, "NoCompatTie")):
+            reg.add(f"Design{mac}{suffix}Normal", lambda a=design, c=cross, f=flip: fmt(f(a, c), 2),
+                    f"{model}, {design}, {'races between two confederations' if cross else 'all contests'}, tie, normal noise")
+
+
 def main():
     reg = Registry()
     data_numbers(reg)
@@ -868,6 +923,7 @@ def main():
     design_numbers(reg)
     jury_numbers(reg)
     esc_numbers(reg)
+    misspec_numbers(reg)
     pending = reg.write(OUT / "numbers.tex")
     return 0 if pending == 0 or "--allow-pending" in sys.argv else 1
 

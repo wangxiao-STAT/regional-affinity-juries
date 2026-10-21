@@ -1,4 +1,4 @@
-# Regional affinity, not compatriot favouritism, tips close votes of expert juries
+# Regional affinity, not compatriot favoritism, tips close votes of expert juries
 
 Code and de-identified data for the manuscript of the same title (Guanyu Hu and Xiao Wang), which
 analyses the published ballots of FIFA's player awards (2010-2025, men's and women's) and of France
@@ -27,8 +27,9 @@ parse the raw FIFA files.
    runs the main analyses; `02` placebo, strategic-ranking and specification analyses; `03`
    counterfactuals; `04` the rule checks for FIFA's 2023-2025 contests; `05` the football jury-design
    simulations, which replace those of `01`; `06` the Eurovision fits, counterfactuals, designs and
-   aggregation-rule checks). Each job runs the tests first. On a 16-core node the six jobs took about
-   an hour and a half in total. Then `src/make_numbers.py`, `src/make_tables.py` and
+   aggregation-rule checks; `07` the checks with normal instead of Gumbel ranking errors). Each job
+   runs the tests first. On a 16-core node the seven jobs took about an hour and three quarters in
+   total. Then `src/make_numbers.py`, `src/make_tables.py` and
    `src/make_figures.py` write the numbers, tables and figures of the manuscript.
 2. From the raw files: `src/manifest.py` and the fetch scripts download the ballot files and web
    pages; `parse_fifa.py`, `parse_bdo.py`, `build_fifa.py`, `build_bdo.py`, `build_bdo_long.py`,
@@ -43,7 +44,7 @@ reported results.
 
 ## De-identification
 
-Juror names are published by the award organisers, but the deposited tables identify jurors only by
+Juror names are published by the award organizers, but the deposited tables identify jurors only by
 association, role and a pseudonymous identifier (`voter_id`, `juror_id`, `coach_id`) that is stable
 across files. Raw text lines of the source files, coaches' Wikipedia page titles and the two
 Wikipedia manager tables (which list coaches by name) are left out; `src/fetch_managers.py` and
@@ -52,8 +53,8 @@ on the jury; the table of their names (`esc_jurors.csv`) is left out. `src/make_
 working data. FIFA's PDFs and the downloaded web pages (including the Wikipedia pages) are not
 redistributed.
 
-## Licence
+## License
 
-Code: MIT licence (`LICENSE`). Processed data and results: CC BY 4.0 (`data/LICENSE`). The underlying
+Code: MIT license (`LICENSE`). Processed data and results: CC BY 4.0 (`data/LICENSE`). The underlying
 ballots are published by FIFA and France Football; the Eurovision rankings by the European
 Broadcasting Union, as reproduced on Wikipedia.

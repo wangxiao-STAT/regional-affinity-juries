@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite it as below."
 type: software
-title: "Regional affinity, not compatriot favouritism, tips close votes of expert juries: code and data"
+title: "Regional affinity, not compatriot favoritism, tips close votes of expert juries: code and data"
 authors:
   - family-names: Hu
     given-names: Guanyu
@@ -13,7 +13,7 @@ repository-code: "https://github.com/wangxiao-STAT/regional-affinity-juries"
 license: MIT
 keywords:
   - expert juries
-  - favouritism
+  - favoritism
   - ranked ballots
   - Plackett-Luce
   - FIFA

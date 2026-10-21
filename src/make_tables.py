@@ -9,10 +9,11 @@ sup_estimates    similarity bonuses of the combined models, clustered and model-
 sup_fits         size, log-likelihood, condition number and extreme nominee effects of every fit
 sup_contests     every contest: rule, leader, margin and the probability that the bonuses decided it
 sup_contrasts    the coach contrasts quoted as z in the text, with clustered s.e. and two-sided P values
-sup_esc_common   Eurovision: common group and neighbour bonuses under three groupings, all places and top ten
+sup_esc_common   Eurovision: common group and neighbor bonuses under three groupings, all places and top ten
 sup_esc_groups   Eurovision: group-specific bonuses under the three groupings
 sup_esc_finals   Eurovision: every final, official jury leader and margin, probability the bonuses decided it
 sup_esc_bases    Eurovision: the same under other national aggregation rules (finals from 2018)
+sup_misspec      error-distribution check: true and estimated changed leaders in simulated FIFA ballots
 A table whose inputs are missing is written as a \\Pending marker.
 """
 import json
@@ -63,8 +64,8 @@ def sup_sources():
     bb = pd.read_csv(PROC / "bdo_ballots.csv", keep_default_na=False)
     for (y, a), g in bb.groupby(["year", "award"]):
         src = g.source.iloc[0].split(":")[0]
-        label = {"companion": "companion study (France Football)", "lequipe": "L'Équipe (Wayback copy)",
-                 "wikipedia": "Wikipedia per-country table"}.get(src, src)
+        label = {"companion": "France Football (print issue)" if y == 2019 else "France Football",
+                 "lequipe": "L'Équipe (Wayback copy)", "wikipedia": "Wikipedia per-country table"}.get(src, src)
         rows.append([y, f"{AWARD[a]} (Ballon d'Or)", "", "", len(g), label])
     return tabular(["Year", "Award", "Coaches", "Captains", "Journalists", "Source"], rows, "llrrrl")
 
@@ -248,7 +249,7 @@ def sup_esc_common():
     r = est.loc[("B1_region", "same_region")]
     rows.append(["Blocs plus UN subregion", "all", ci(est.loc[("B1_region", "same_group")]) + "; subregion " + ci(r),
                  ci(est.loc[("B1_region", "same_border")]), f"{fits['B1_region']['loglik']:,.1f}"])
-    return tabular(["Grouping", "Places", "Group bonus (95\\% CI)", "Neighbour bonus (95\\% CI)", "Log-likelihood"],
+    return tabular(["Grouping", "Places", "Group bonus (95\\% CI)", "Neighbor bonus (95\\% CI)", "Log-likelihood"],
                    rows, "llllr")
 
 
@@ -260,7 +261,7 @@ def sup_esc_groups():
         for _, r in e.sort_values("beta", ascending=False).iterrows():
             rows.append([ESC_GROUPING[g], r.term[11:-1], ci(r)])
         b = est[(est.model == f"{g}2") & (est.term == "same_border")].iloc[0]
-        rows.append([ESC_GROUPING[g], "Neighbour (common)", ci(b)])
+        rows.append([ESC_GROUPING[g], "Neighbor (common)", ci(b)])
     return tabular(["Grouping", "Juror's group", "Bonus (95\\% CI)"], rows, "lll")
 
 
@@ -293,12 +294,36 @@ def sup_esc_bases():
     return tabular(head, rows, "llrrrrr")
 
 
+def sup_misspec():
+    M = RES / "misspec"
+    rows = []
+    for noise, lab in (("gumbel", "Gumbel (assumed)"), ("normal", "Normal (not assumed)")):
+        files = sorted(M.glob(f"flips_{noise}_*.csv"))
+        if not files:
+            raise FileNotFoundError(noise)
+        x = pd.concat(pd.read_csv(f).assign(seed=f.stem.split("_")[-1]) for f in files)
+        b = pd.concat(pd.read_csv(f) for f in sorted(M.glob(f"betas_{noise}_*.csv")))
+        conf = b[b.term.str.startswith("same_confed")]
+        ratio = (conf.groupby("term").beta_hat.mean() / conf.groupby("term").beta_true.first()).mean()
+        for scen, slab in (("all", "all"), ("nation", "compatriot"), ("confed", "regional")):
+            y = x[x.scenario == scen]
+            per = y.groupby(["seed", "rep"])[["true_flip", "p_hat"]].sum()
+            gap = (y.groupby("contest").p_hat.mean() - y.groupby("contest").true_flip.mean()).abs().max()
+            rows.append([lab if scen == "all" else "", slab, f"{len(per)}",
+                         f"{per.true_flip.mean():.2f} ({per.true_flip.std():.2f})",
+                         f"{per.p_hat.mean():.2f} ({per.p_hat.std():.2f})", f"{gap:.2f}",
+                         f"{ratio:.2f}" if scen == "all" else ""])
+    return tabular(["Errors", "Bonuses removed", "Data sets", "True changes", "Estimated", "Largest gap",
+                    "Regional bonus ratio"], rows, "llrrrrr")
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     for name, fn in (("sup_sources", sup_sources), ("sup_coaches", sup_coaches), ("sup_bdo", sup_bdo),
                      ("sup_estimates", sup_estimates), ("sup_fits", sup_fits), ("sup_contests", sup_contests),
                      ("sup_contrasts", sup_contrasts), ("sup_esc_common", sup_esc_common),
-                     ("sup_esc_groups", sup_esc_groups), ("sup_esc_finals", sup_esc_finals), ("sup_esc_bases", sup_esc_bases)):
+                     ("sup_esc_groups", sup_esc_groups), ("sup_esc_finals", sup_esc_finals), ("sup_esc_bases", sup_esc_bases),
+                     ("sup_misspec", sup_misspec)):
         write(name, fn)
     print("tables: sup_sources, sup_coaches, sup_bdo, sup_estimates, sup_fits, sup_contests, sup_contrasts, sup_esc_*",
           file=sys.stderr)

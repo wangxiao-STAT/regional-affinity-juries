@@ -2,9 +2,9 @@
 
 python -I nhb/src/make_figures.py
 
-Colour: FIFA juries blue and Ballon d'Or juries orange (categorical slots 1-2 of the reference
+Color: FIFA juries blue and Ballon d'Or juries orange (categorical slots 1-2 of the reference
 palette, validated all-pairs: CVD dE 24.7, normal-vision dE 33.6); magnitudes (jury size, European
-share) on the single-hue blue ramp. Juror types are labelled on the axis, never by colour alone.
+share) on the single-hue blue ramp. Juror types are labeled on the axis, never by color alone.
 A figure whose results are missing is skipped with a message.
 """
 import sys
@@ -24,7 +24,7 @@ OUT = ROOT / "manuscript" / "generated"
 MM = 1 / 25.4
 FIFA, BDO = "#2a78d6", "#eb6834"
 INK, INK2, GRID = "#0b0b0b", "#52514e", "#d9d8d4"
-LABEL_P = 0.1          # contests above this flip probability are labelled in fig_outcomes
+LABEL_P = 0.1          # contests above this flip probability are labeled in fig_outcomes
 PLACEBO_Q = (0.025, 0.975)   # range of the placebo coefficients drawn in ed_placebo
 SYMLOG_LIN = 0.1       # ed_placebo's symmetric-log axis is linear on (-SYMLOG_LIN, SYMLOG_LIN)
 RAMP = ["#9ec5f4", "#6da7ec", "#2a78d6", "#1c5cab", "#104281"]
@@ -227,7 +227,7 @@ def fig_esc():
             rows.append((f"Eurovision, {lab} ({places})", e.beta, e.se_cluster, INK if g == "B" else INK2))
     for model, places in (("B1", "all places"), ("B1_top10", "top ten")):
         e = est[est.model == model].set_index("term").loc["same_border"]
-        rows.append((f"Eurovision, neighbour ({places})", e.beta, e.se_cluster, INK2))
+        rows.append((f"Eurovision, neighbor ({places})", e.beta, e.se_cluster, INK2))
     for k, (lab, b, se, col) in enumerate(rows):
         ax.errorbar(b, k, xerr=1.96 * se, fmt="o", ms=3, color=col, elinewidth=1, capsize=0)
     ax.set_yticks(range(len(rows)), [r[0] for r in rows], fontsize=5.3)
@@ -256,7 +256,7 @@ def fig_esc():
     x = d[(d.gap.astype(str) != "obs") & d.contest.isin(cross)].copy()
     x["gap"] = x.gap.astype(float)
     x["w"] = x.p_flip * x.reps
-    for name, lab, col, ls in (("actual", "Actual juries", INK, "-"), ("border_ban", "Neighbours barred", INK2, "--"),
+    for name, lab, col, ls in (("actual", "Actual juries", INK, "-"), ("border_ban", "Neighbors barred", INK2, "--"),
                                ("equal_groups", "Equal countries per group", BDO, "-"),
                                ("contenders_equal", "Contenders' groups equal", FIFA, ":"),
                                ("tilt_lead_full", "Runner-up's group removed", INK2, "-."),

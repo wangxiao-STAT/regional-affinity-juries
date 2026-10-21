@@ -23,6 +23,9 @@ probability that similarity bias decides the award under that design. Designs:
 Each row also records the contenders' bloc difference (bloc_gap), the modal pair of the contenders'
 confederations and the share of draws in which they differ (share_cross); --rule share / scoring_zero
 repeat FIFA's 2023+ contests under the 2010-2022 rule or with zero-point nominees scoring nothing.
+--noise normal replaces the Gumbel noise by normal noise with the same variance (pi^2/6), a Thurstone
+ranking model, to check that the design results do not rest on the Plackett-Luce error distribution
+(outputs get a _normal suffix).
 Closeness: the runner-up's appeal is moved to alpha_winner - d for a grid of d, which sets how
 close the bias-free race is; d = "obs" keeps the fitted appeals. Parameter uncertainty enters
 through hybrid draws (fit_pooled.hybrid_draws); each draw gets reps / draws replications.
@@ -123,8 +126,12 @@ def cross_contests(df, gap="0.0"):
     return sorted(c for c in ce.index if ce[c] >= 0.5 * full[c])
 
 
+NOISE = "gumbel"      # or "normal" (--noise): the error distribution of the simulated ballots
+
+
 def run_design(ci, base, biased, rng, reps, rule, pick=None, compat_block=None, contenders=None):
-    """Replications with common Gumbel noise; `pick(rng)` selects voters for each replication.
+    """Replications with common noise (Gumbel, or normal with the same variance); `pick(rng)` selects
+    voters for each replication.
     With `contenders` (the two leading nominees' confederations) also returns, per replication, the
     share of jurors from the leader's confederation minus the share from the runner-up's."""
     out, gaps = [], []
@@ -133,7 +140,8 @@ def run_design(ci, base, biased, rng, reps, rule, pick=None, compat_block=None, 
         if contenders is not None:
             cf = ci["confed"][sel]
             gaps.append(float(np.mean(cf == contenders[0]) - np.mean(cf == contenders[1])))
-        G = rng.gumbel(size=(1, len(sel), ci["J"]))
+        G = (rng.gumbel(size=(1, len(sel), ci["J"])) if NOISE == "gumbel"
+             else rng.normal(scale=np.pi / np.sqrt(6.0), size=(1, len(sel), ci["J"])))
         ub = biased[sel][None] + G
         if compat_block is not None:
             ub = np.where(compat_block[sel][None], -np.inf, ub)
@@ -156,7 +164,10 @@ def main():
                     help="FIFA 2023+ contests: own (art. 11 scoring), share (2010-2022 rule) or scoring with "
                          "zero-point nominees scoring nothing; outputs get a _<rule> suffix")
     ap.add_argument("--tag", default=None, help="output suffix instead of _<rule> (e.g. a matched subset run)")
+    ap.add_argument("--noise", choices=["gumbel", "normal"], default="gumbel")
     a = ap.parse_args()
+    global NOISE
+    NOISE = a.noise
     out = RES / "design"
     out.mkdir(parents=True, exist_ok=True)
     split, fe_by, aff = SPECS[a.model]
@@ -242,6 +253,8 @@ def main():
         print(contest, flush=True, file=sys.stderr)
     df = pd.DataFrame(rows)
     tag = f"_{a.tag}" if a.tag else ("" if a.rule == "own" else f"_{a.rule}")
+    if a.noise != "gumbel":
+        tag += f"_{a.noise}"
     df.to_csv(out / f"design_contests_{a.model}{tag}.csv", index=False)
     summ = df.groupby(["design", "gap"], dropna=False).p_flip.agg(["mean", "median", "max"]).reset_index()
     summ.to_csv(out / f"design_summary_{a.model}{tag}.csv", index=False)

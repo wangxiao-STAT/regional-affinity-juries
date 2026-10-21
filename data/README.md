@@ -179,7 +179,9 @@ Points are 6-4-3-2-1 for k = 5 and 15-12-10-8-7-5-4-3-2-1 for k = 10.
 - **L'Équipe / France Football pages.** These are Wayback raw captures (`id_`), so they come
   without the toolbar. The women's 2024 and 2025 captures were stored gzip-encoded and are
   decoded on download.
-- **Companion-study ballots, men 2019 and 2024.** They are read, never modified, from
+- **Companion-study ballots, men 2019 and 2024.** The companion study is the authors' separate, unpublished
+  analysis of these two votes; its transcriptions of France Football's published ballots (print issue of
+  4 December 2019; the 2024 ballots) are reused here. They are read, never modified, from
   the companion study's `model_input/{2019,2024}/` (next to `nhb/`):
   - `rankings_long.csv` holds voter, rank, player key and points: 880 rows (176 × 5) and
     990 rows (99 × 10);
@@ -311,7 +313,7 @@ Montenegro, Poland, Romania, San Marino; "irregular voting patterns", replaced b
 results in the semi-final and the final). Ten national juries voted in a final without complete
 published rankings (Belarus 2019, the six of 2022, San Marino 2025, Poland and Serbia 2026); their
 points enter the jury standings as published, and they are left out of the ranking model. If the
-2022 patterns reflected favouritism within blocs, leaving them out makes the bloc bonuses smaller.
+2022 patterns reflected favoritism within blocs, leaving them out makes the bloc bonuses smaller.
 
 **Aggregation rule.** The EBU does not publish the weights it has used since 2018. 2016-2017: the
 national ranking is the order of the jurors' summed ranks; every published ranking is consistent with
