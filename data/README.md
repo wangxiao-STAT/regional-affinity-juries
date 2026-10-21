@@ -281,3 +281,64 @@ Points are 6-4-3-2-1 for k = 5 and 15-12-10-8-7-5-4-3-2-1 for k = 10.
   Munich"); those are not used.
 - **Missing contests.** Men 2016–2018 and 2021, and women 2018–2022, are not included: their
   per-juror lists are in print, images or paywalled pages (see `inventory_agents/ballon_dor.md`).
+
+## Eurovision Song Contest juries (second domain)
+
+**Source.** The EBU publishes, after every final, each national jury member's ranking of every song;
+Wikipedia's country pages ("<Country> in the Eurovision Song Contest <year>") reproduce them in a
+"Detailed voting results ... (Final)" table, with the national jury's rank and points and the
+televote. `src/fetch_eurovision.py` downloads these pages and the main contest pages (wikitext, via
+the MediaWiki API, 8 s between requests) for the finals of 2016-2019 and 2021-2026 (no contest in
+2020) into `data/raw/eurovision/wikipedia/`. The series starts in 2016, the first contest in which each
+country's jury awarded its own set of points, separately from the televote (Wikipedia, "Voting at the
+Eurovision Song Contest", section "Voting systems", read 2026-10-21); until 2015 jury and televote
+rankings were merged into one set of points, so no official jury standing exists to reproduce.
+
+| Step | Script | Output |
+|---|---|---|
+| 1 | `fetch_eurovision.py` | `data/raw/eurovision/wikipedia/*.json` |
+| 2 | `parse_eurovision.py` | `esc_juror_ranks.csv`, `esc_national.csv`, `esc_jurors.csv`, `esc_jury_totals.csv`, `esc_parse_issues.csv`, `esc_sources.csv` (page revisions) |
+| 3 | `validate_eurovision.py` | `esc_rule_fit.csv`, `esc_validation.csv` |
+| 4 | `build_eurovision.py` | `esc_long.csv`, `esc_regions.csv`, `esc_borders.csv` |
+
+**Coverage.** 383 national juries in 10 finals, 1,974 juror rankings from 45 countries (juries of five
+members, seven in 2026; three juries ranked with four members, 2023 Ireland and Latvia and 2025
+Estonia, and four in 2026 with six). Pages without a final table
+are legitimate absences (`esc_parse_issues.csv`): countries that did not take part in the final's
+vote (e.g. Romania 2016, Russia 2017 and 2022, Ukraine 2019, the 2026 withdrawals), Belarus 2019
+(jury dismissed) and 2021, and the six juries the EBU replaced in 2022 (Azerbaijan, Georgia,
+Montenegro, Poland, Romania, San Marino; "irregular voting patterns", replaced by substitute aggregated
+results in the semi-final and the final). Ten national juries voted in a final without complete
+published rankings (Belarus 2019, the six of 2022, San Marino 2025, Poland and Serbia 2026); their
+points enter the jury standings as published, and they are left out of the ranking model. If the
+2022 patterns reflected favouritism within blocs, leaving them out makes the bloc bonuses smaller.
+
+**Aggregation rule.** The EBU does not publish the weights it has used since 2018. 2016-2017: the
+national ranking is the order of the jurors' summed ranks; every published ranking is consistent with
+this order, but exact ties are broken in no consistent way (none of seven candidate tie-breaks fits),
+so 20 of 84 rankings and 54 of 84 sets of points are reproduced exactly; analyses break such ties at
+random. 2018-2026: each rank r scores 0.8269^(r-1) and the national ranking orders the sums; this
+base (fitted on a grid of step 0.0001, pooled over years) reproduces 295 of 299 national rankings
+and the points of all 299 juries. In 2024 the Netherlands was disqualified after the jury show; its
+song keeps its jurors' ranks but receives no points, and the songs ranked below it move up a place
+(`validate_eurovision.INELIGIBLE`).
+
+**Jury standings.** `esc_jury_totals.csv` gives the official jury score of every song from the
+scoreboards of the main contest pages; the juries without complete rankings contribute the official
+total minus the complete juries' published points, so recomputed standings start from the official
+numbers.
+
+**Similarity.** Three groupings of countries (`build_eurovision.py`). (i) Voting blocs, the main one:
+the five blocs that Gatherer (2006, JASSS 9(2):1) identified in the contests of 2001-2005, before
+these data (the "Viking Empire" of the Nordic and Baltic states, the "Balkan Bloc" of the former
+Yugoslav states with Greece, Cyprus, Romania and Albania, the "Warsaw Pact" of Russia, Ukraine and
+Poland, the "Pyrenean Axis" of Spain and Andorra, and the Netherlands with Belgium; Turkey, a Balkan
+member, has not competed since 2012). The bonus indicator `same_bloc` uses these blocs only; for the
+jury-design simulations a country in no bloc is grouped with the other such countries of its UN M49
+subregion (`voter_bloc`, `nominee_bloc`), and these residual groups carry no bonus. (ii) UN M49 subregions alone (checked against the UN Statistics
+Division's table on 2026-10-20). (iii) A finer grouping chosen after the main analysis, as a check
+(`FINE`). Shared land borders come from Wikipedia's "List of countries
+and territories by number of land borders" (two borders through overseas territories, Cyprus-United
+Kingdom and Spain-United Kingdom, excluded). Jurors may not rank their own country's song, so there is
+no compatriot term. Juror names are kept in `esc_jurors.csv` only for checking and are left out of
+the deposit.

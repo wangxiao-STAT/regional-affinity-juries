@@ -43,10 +43,14 @@ DROP_COLUMNS = {
     "fifa_coach_nationality.csv": ["listed", "matched_name", "page"],     # page: the coach's Wikipedia page
     "bdo_parse_issues.csv": ["text"],
 }
-LEAVE_OUT = {"coach_history_entries.csv", "manager_snapshots.csv"}   # coaches listed by name
+LEAVE_OUT = {"coach_history_entries.csv", "manager_snapshots.csv",   # coaches listed by name
+             "esc_jurors.csv"}                                       # Eurovision jurors by name
 # the Slurm jobs that produce the reported results, in order (others were superseded during the review)
 RELEASE_JOBS = {"rv1_all.sbatch": "01_fits_and_analyses.sbatch", "robustness.sbatch": "02_robustness.sbatch",
-                "rv1_cf2.sbatch": "03_counterfactuals.sbatch", "rv2_all.sbatch": "04_rule_checks.sbatch"}
+                "rv1_cf2.sbatch": "03_counterfactuals.sbatch", "rv2_all.sbatch": "04_rule_checks.sbatch",
+                "designs2.sbatch": "05_design_simulations.sbatch", "esc_r5.sbatch": "06_eurovision.sbatch"}
+# lines left out of a released job: designs2's Eurovision designs are rerun, with the final groupings, by esc_r5
+SKIP_LINES = {"designs2.sbatch": ("src/esc_analysis.py",)}
 
 
 def fold(s):
@@ -88,7 +92,8 @@ def main():
         for path in (str(ROOT), str(ROOT.parents[2])):        # the review copy, then the original nhb/
             text = text.replace(path, "${REPO:?set REPO to the repository root}")
         text = "\n".join(l for l in text.splitlines() if not l.startswith("#SBATCH --account")
-                         and not l.startswith("#SBATCH --output")) + "\n"
+                         and not l.startswith("#SBATCH --output")
+                         and not any(k in l for k in SKIP_LINES.get(src, ()))) + "\n"
         (out / "jobs" / dest).write_text(text)
     (out / "data" / "processed").mkdir(parents=True, exist_ok=True)
     (out / "data" / "raw" / "fifa").mkdir(parents=True, exist_ok=True)

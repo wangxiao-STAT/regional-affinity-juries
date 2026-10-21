@@ -1,0 +1,427 @@
+contest,design,gap,p_flip,reps,leader_group,runner_up_group,share_cross,bloc_gap
+ESC2016,actual,obs,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,obs,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,obs,0.0,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,obs,0.0,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,obs,0.0,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,obs,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,obs,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,actual,0.0,0.15375,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,0.0,0.00875,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,0.0,0.1325,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,0.0,0.11,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,0.0,0.0875,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,0.0,0.14125,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,0.0,0.14,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,actual,0.1,0.12125,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,0.1,0.005,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,0.1,0.1,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,0.1,0.08125,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,0.1,0.075,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,0.1,0.07125,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,0.1,0.0775,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,actual,0.2,0.045,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,0.2,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,0.2,0.05125,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,0.2,0.04625,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,0.2,0.04875,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,0.2,0.03625,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,0.2,0.02375,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,actual,0.4,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,0.4,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,0.4,0.00875,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,0.4,0.00125,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,0.4,0.00375,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,0.4,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,0.4,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,actual,0.8,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,border_ban,0.8,0.0,800,Australia,Western,1.0,-0.11904761904761903
+ESC2016,equal_groups,0.8,0.0,800,Australia,Western,1.0,-0.185
+ESC2016,tilt_lead_half,0.8,0.0,800,Australia,Western,1.0,-0.04665498173200356
+ESC2016,tilt_lead_full,0.8,0.0,800,Australia,Western,1.0,0.02781291878852855
+ESC2016,tilt_run_half,0.8,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2016,tilt_run_full,0.8,0.0,800,Australia,Western,1.0,-0.1463414634146341
+ESC2017,actual,obs,0.00125,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,obs,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,obs,0.0025,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,obs,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,obs,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,obs,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,obs,0.0,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2017,actual,0.0,0.1575,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,0.0,0.01625,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,0.0,0.125,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,0.0,0.15875,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,0.0,0.145,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,0.0,0.09375,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,0.0,0.115,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2017,actual,0.1,0.11375,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,0.1,0.0025,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,0.1,0.14,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,0.1,0.12875,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,0.1,0.1825,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,0.1,0.075,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,0.1,0.0375,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2017,actual,0.2,0.03,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,0.2,0.0025,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,0.2,0.1025,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,0.2,0.05375,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,0.2,0.085,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,0.2,0.02,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,0.2,0.01,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2017,actual,0.4,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,0.4,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,0.4,0.02375,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,0.4,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,0.4,0.0025,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,0.4,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,0.4,0.0,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2017,actual,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,border_ban,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.14285714285714282
+ESC2017,equal_groups,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_lead_half,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.17073170731707316
+ESC2017,tilt_lead_full,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.2
+ESC2017,tilt_run_half,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,0.05263157894736842
+ESC2017,tilt_run_full,0.8,0.0,800,Mediterranean,Bulgaria-Romania,1.0,-0.05882352941176471
+ESC2018,actual,obs,0.03875,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,obs,0.0575,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,obs,0.07125,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,obs,0.06666666666666667,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,obs,0.08636363636363636,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,obs,0.024242424242424242,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,obs,0.03939393939393939,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,obs,0.04696969696969697,660,Western,Nordic,1.0,0.0
+ESC2018,actual,0.0,0.08,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,0.0,0.05375,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,0.0,0.0975,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,0.0,0.11212121212121212,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,0.0,0.15,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,0.0,0.07575757575757576,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,0.0,0.11969696969696969,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,0.0,0.07727272727272727,660,Western,Nordic,1.0,0.0
+ESC2018,actual,0.1,0.07,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,0.1,0.07875,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,0.1,0.105,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,0.1,0.10909090909090909,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,0.1,0.11969696969696969,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,0.1,0.05303030303030303,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,0.1,0.08484848484848485,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,0.1,0.05303030303030303,660,Western,Nordic,1.0,0.0
+ESC2018,actual,0.2,0.03125,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,0.2,0.0725,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,0.2,0.0875,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,0.2,0.048484848484848485,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,0.2,0.06212121212121212,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,0.2,0.02727272727272727,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,0.2,0.048484848484848485,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,0.2,0.03333333333333333,660,Western,Nordic,1.0,0.0
+ESC2018,actual,0.4,0.01,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,0.4,0.0375,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,0.4,0.06,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,0.4,0.016666666666666666,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,0.4,0.012121212121212121,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,0.4,0.016666666666666666,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,0.4,0.010606060606060607,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,0.4,0.015151515151515152,660,Western,Nordic,1.0,0.0
+ESC2018,actual,0.8,0.02125,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,border_ban,0.8,0.03,800,Western,Nordic,0.825,0.019186046511627905
+ESC2018,equal_groups,0.8,0.0475,800,Western,Nordic,0.825,0.0
+ESC2018,tilt_lead_half,0.8,0.012121212121212121,660,Western,Nordic,1.0,0.1
+ESC2018,tilt_lead_full,0.8,0.019696969696969695,660,Western,Nordic,1.0,0.15789473684210528
+ESC2018,tilt_run_half,0.8,0.015151515151515152,660,Western,Nordic,1.0,-0.05
+ESC2018,tilt_run_full,0.8,0.013636363636363636,660,Western,Nordic,1.0,-0.1351351351351351
+ESC2018,contenders_equal,0.8,0.013636363636363636,660,Western,Nordic,1.0,0.0
+ESC2019,actual,obs,0.07125,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,obs,0.0625,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,obs,0.09375,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,obs,0.06625,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,obs,0.08125,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,obs,0.0875,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,obs,0.08875,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,obs,0.06625,800,Western,Nordic,1.0,0.0
+ESC2019,actual,0.0,0.10375,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,0.0,0.07375,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,0.0,0.12125,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,0.0,0.11875,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,0.0,0.1175,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,0.0,0.10625,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,0.0,0.1575,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,0.0,0.1,800,Western,Nordic,1.0,0.0
+ESC2019,actual,0.1,0.09375,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,0.1,0.08,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,0.1,0.11,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,0.1,0.10625,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,0.1,0.1225,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,0.1,0.085,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,0.1,0.105,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,0.1,0.07125,800,Western,Nordic,1.0,0.0
+ESC2019,actual,0.2,0.04625,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,0.2,0.04125,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,0.2,0.07625,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,0.2,0.05625,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,0.2,0.06625,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,0.2,0.0475,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,0.2,0.07375,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,0.2,0.045,800,Western,Nordic,1.0,0.0
+ESC2019,actual,0.4,0.0225,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,0.4,0.02,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,0.4,0.04875,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,0.4,0.02,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,0.4,0.02875,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,0.4,0.03125,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,0.4,0.03,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,0.4,0.02375,800,Western,Nordic,1.0,0.0
+ESC2019,actual,0.8,0.02125,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,border_ban,0.8,0.00875,800,Western,Nordic,1.0,0.019999999999999997
+ESC2019,equal_groups,0.8,0.04625,800,Western,Nordic,1.0,0.0
+ESC2019,tilt_lead_half,0.8,0.02,800,Western,Nordic,1.0,0.10270270270270271
+ESC2019,tilt_lead_full,0.8,0.02625,800,Western,Nordic,1.0,0.16899159663865546
+ESC2019,tilt_run_half,0.8,0.0275,800,Western,Nordic,1.0,-0.059459459459459456
+ESC2019,tilt_run_full,0.8,0.03875,800,Western,Nordic,1.0,-0.14949579831932772
+ESC2019,contenders_equal,0.8,0.02125,800,Western,Nordic,1.0,0.0
+ESC2021,actual,obs,0.09625,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,obs,0.10625,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,obs,0.14875,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,obs,0.1431818181818182,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,obs,0.15,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,obs,0.11136363636363636,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,obs,0.15454545454545454,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,obs,0.08863636363636364,440,Western,Mediterranean,1.0,0.0
+ESC2021,actual,0.0,0.0875,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,0.0,0.08875,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,0.0,0.13125,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,0.0,0.08863636363636364,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,0.0,0.16590909090909092,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,0.0,0.1159090909090909,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,0.0,0.20227272727272727,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,0.0,0.12727272727272726,440,Western,Mediterranean,1.0,0.0
+ESC2021,actual,0.1,0.10875,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,0.1,0.10625,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,0.1,0.10875,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,0.1,0.10681818181818181,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,0.1,0.16363636363636364,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,0.1,0.11136363636363636,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,0.1,0.14772727272727273,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,0.1,0.10227272727272728,440,Western,Mediterranean,1.0,0.0
+ESC2021,actual,0.2,0.0825,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,0.2,0.10625,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,0.2,0.0925,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,0.2,0.08863636363636364,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,0.2,0.15454545454545454,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,0.2,0.125,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,0.2,0.125,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,0.2,0.07272727272727272,440,Western,Mediterranean,1.0,0.0
+ESC2021,actual,0.4,0.05125,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,0.4,0.085,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,0.4,0.07875,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,0.4,0.04772727272727273,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,0.4,0.075,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,0.4,0.04772727272727273,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,0.4,0.06818181818181818,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,0.4,0.03409090909090909,440,Western,Mediterranean,1.0,0.0
+ESC2021,actual,0.8,0.06125,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,border_ban,0.8,0.075,800,Western,Western,0.55,-0.007692307692307689
+ESC2021,equal_groups,0.8,0.075,800,Western,Western,0.55,0.0
+ESC2021,tilt_lead_half,0.8,0.05909090909090909,440,Western,Mediterranean,1.0,0.08686868686868687
+ESC2021,tilt_lead_full,0.8,0.07045454545454545,440,Western,Mediterranean,1.0,0.2113214253976717
+ESC2021,tilt_run_half,0.8,0.04318181818181818,440,Western,Mediterranean,1.0,-0.10916305916305914
+ESC2021,tilt_run_full,0.8,0.075,440,Western,Mediterranean,1.0,-0.22465120412334483
+ESC2021,contenders_equal,0.8,0.04772727272727273,440,Western,Mediterranean,1.0,0.0
+ESC2022,actual,obs,0.075,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,obs,0.04,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,obs,0.115,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,obs,0.0575,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,obs,0.05125,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,obs,0.06125,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,obs,0.075,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2022,actual,0.0,0.09,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,0.0,0.06625,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,0.0,0.12625,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,0.0,0.0725,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,0.0,0.06875,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,0.0,0.12375,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,0.0,0.10125,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2022,actual,0.1,0.07625,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,0.1,0.05125,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,0.1,0.12375,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,0.1,0.085,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,0.1,0.06875,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,0.1,0.07375,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,0.1,0.09375,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2022,actual,0.2,0.04375,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,0.2,0.035,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,0.2,0.08125,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,0.2,0.04875,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,0.2,0.07,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,0.2,0.04375,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,0.2,0.03625,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2022,actual,0.4,0.00375,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,0.4,0.00375,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,0.4,0.04,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,0.4,0.00625,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,0.4,0.00875,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,0.4,0.00625,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,0.4,0.01,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2022,actual,0.8,0.0025,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,border_ban,0.8,0.0,800,British Isles,Nordic,1.0,-0.057352941176470586
+ESC2022,equal_groups,0.8,0.0175,800,British Isles,Nordic,1.0,-0.1625
+ESC2022,tilt_lead_half,0.8,0.00625,800,British Isles,Nordic,1.0,0.02121212121212121
+ESC2022,tilt_lead_full,0.8,0.005,800,British Isles,Nordic,1.0,0.08424030172413793
+ESC2022,tilt_run_half,0.8,0.0025,800,British Isles,Nordic,1.0,-0.09999999999999998
+ESC2022,tilt_run_full,0.8,0.0025,800,British Isles,Nordic,1.0,-0.14097521551724138
+ESC2023,actual,obs,0.0,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,obs,0.0,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,obs,0.0,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,obs,0.0,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,obs,0.0,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,obs,0.0,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,obs,0.0,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,obs,0.0,540,Nordic,Mediterranean,1.0,0.0
+ESC2023,actual,0.0,0.1425,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,0.0,0.0575,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,0.0,0.105,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,0.0,0.1075,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,0.0,0.125,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,0.0,0.15125,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,0.0,0.14375,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,0.0,0.11296296296296296,540,Nordic,Mediterranean,1.0,0.0
+ESC2023,actual,0.1,0.125,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,0.1,0.03375,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,0.1,0.13,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,0.1,0.1025,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,0.1,0.1175,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,0.1,0.08375,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,0.1,0.1025,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,0.1,0.10740740740740741,540,Nordic,Mediterranean,1.0,0.0
+ESC2023,actual,0.2,0.0575,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,0.2,0.025,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,0.2,0.11125,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,0.2,0.0825,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,0.2,0.08375,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,0.2,0.03875,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,0.2,0.03625,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,0.2,0.06666666666666667,540,Nordic,Mediterranean,1.0,0.0
+ESC2023,actual,0.4,0.0025,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,0.4,0.01,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,0.4,0.05125,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,0.4,0.00375,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,0.4,0.005,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,0.4,0.0025,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,0.4,0.005,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,0.4,0.014814814814814815,540,Nordic,Mediterranean,1.0,0.0
+ESC2023,actual,0.8,0.0,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,border_ban,0.8,0.0,800,Nordic,Mediterranean,1.0,-0.016216216216216217
+ESC2023,equal_groups,0.8,0.00125,800,Nordic,Mediterranean,1.0,0.0875
+ESC2023,tilt_lead_half,0.8,0.0,800,Nordic,Mediterranean,1.0,0.06769300144300143
+ESC2023,tilt_lead_full,0.8,0.0,800,Nordic,Mediterranean,1.0,0.1608843249943656
+ESC2023,tilt_run_half,0.8,0.0,800,Nordic,Mediterranean,1.0,-0.10588235294117648
+ESC2023,tilt_run_full,0.8,0.0,800,Nordic,Mediterranean,1.0,-0.175
+ESC2023,contenders_equal,0.8,0.0,540,Nordic,Mediterranean,1.0,0.0
+ESC2024,actual,obs,0.0,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,obs,0.0,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,obs,0.0,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,obs,0.0,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,obs,0.0,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,obs,0.0,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,obs,0.0,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,obs,0.0,220,Western,Mediterranean,1.0,0.0
+ESC2024,actual,0.0,0.11875,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,0.0,0.04,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,0.0,0.11125,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,0.0,0.11363636363636363,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,0.0,0.16363636363636364,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,0.0,0.1318181818181818,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,0.0,0.1590909090909091,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,0.0,0.12272727272727273,220,Western,Mediterranean,1.0,0.0
+ESC2024,actual,0.1,0.07875,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,0.1,0.03375,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,0.1,0.0875,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,0.1,0.1,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,0.1,0.2,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,0.1,0.11363636363636363,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,0.1,0.08181818181818182,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,0.1,0.12727272727272726,220,Western,Mediterranean,1.0,0.0
+ESC2024,actual,0.2,0.0575,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,0.2,0.015,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,0.2,0.065,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,0.2,0.09545454545454546,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,0.2,0.1409090909090909,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,0.2,0.05,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,0.2,0.02727272727272727,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,0.2,0.03636363636363636,220,Western,Mediterranean,1.0,0.0
+ESC2024,actual,0.4,0.0025,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,0.4,0.0,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,0.4,0.04125,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,0.4,0.00909090909090909,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,0.4,0.02727272727272727,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,0.4,0.013636363636363636,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,0.4,0.0,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,0.4,0.0,220,Western,Mediterranean,1.0,0.0
+ESC2024,actual,0.8,0.0,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,border_ban,0.8,0.0,800,Western,Western,0.275,-0.002027027027027027
+ESC2024,equal_groups,0.8,0.0,800,Western,Western,0.275,0.00625
+ESC2024,tilt_lead_half,0.8,0.0,220,Western,Mediterranean,1.0,0.10333356483089103
+ESC2024,tilt_lead_full,0.8,0.0,220,Western,Mediterranean,1.0,0.23609510418587495
+ESC2024,tilt_run_half,0.8,0.0,220,Western,Mediterranean,1.0,-0.1294765840220386
+ESC2024,tilt_run_full,0.8,0.0,220,Western,Mediterranean,1.0,-0.2424242424242424
+ESC2024,contenders_equal,0.8,0.0,220,Western,Mediterranean,1.0,0.0
+ESC2025,actual,obs,0.05625,800,Western,Western,0.0,0.0
+ESC2025,border_ban,obs,0.0525,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,obs,0.0875,800,Western,Western,0.0,0.0
+ESC2025,actual,0.0,0.08875,800,Western,Western,0.0,0.0
+ESC2025,border_ban,0.0,0.065,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,0.0,0.0925,800,Western,Western,0.0,0.0
+ESC2025,actual,0.1,0.075,800,Western,Western,0.0,0.0
+ESC2025,border_ban,0.1,0.05375,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,0.1,0.0925,800,Western,Western,0.0,0.0
+ESC2025,actual,0.2,0.045,800,Western,Western,0.0,0.0
+ESC2025,border_ban,0.2,0.04625,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,0.2,0.07625,800,Western,Western,0.0,0.0
+ESC2025,actual,0.4,0.02375,800,Western,Western,0.0,0.0
+ESC2025,border_ban,0.4,0.0175,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,0.4,0.06625,800,Western,Western,0.0,0.0
+ESC2025,actual,0.8,0.02375,800,Western,Western,0.0,0.0
+ESC2025,border_ban,0.8,0.02375,800,Western,Western,0.0,0.0
+ESC2025,equal_groups,0.8,0.0425,800,Western,Western,0.0,0.0
+ESC2026,actual,obs,0.1275,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,obs,0.07625,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,obs,0.17125,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,obs,0.13375,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,obs,0.13375,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,obs,0.1375,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,obs,0.1125,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936
+ESC2026,actual,0.0,0.15,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,0.0,0.0775,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,0.0,0.1675,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,0.0,0.115,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,0.0,0.12375,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,0.0,0.1275,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,0.0,0.12625,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936
+ESC2026,actual,0.1,0.13125,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,0.1,0.115,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,0.1,0.17,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,0.1,0.12625,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,0.1,0.14875,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,0.1,0.11375,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,0.1,0.15,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936
+ESC2026,actual,0.2,0.11375,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,0.2,0.0675,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,0.2,0.18625,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,0.2,0.11875,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,0.2,0.1325,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,0.2,0.1,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,0.2,0.105,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936
+ESC2026,actual,0.4,0.0875,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,0.4,0.0775,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,0.4,0.16625,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,0.4,0.10625,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,0.4,0.12625,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,0.4,0.11,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,0.4,0.0975,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936
+ESC2026,actual,0.8,0.095,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,border_ban,0.8,0.05375,800,Bulgaria-Romania,Australia,1.0,-0.0030303030303030294
+ESC2026,equal_groups,0.8,0.17,800,Bulgaria-Romania,Australia,1.0,-0.00625
+ESC2026,tilt_lead_half,0.8,0.11,800,Bulgaria-Romania,Australia,1.0,0.034952956989247316
+ESC2026,tilt_lead_full,0.8,0.1075,800,Bulgaria-Romania,Australia,1.0,0.06081493583405429
+ESC2026,tilt_run_half,0.8,0.085,800,Bulgaria-Romania,Australia,1.0,-0.03971774193548387
+ESC2026,tilt_run_full,0.8,0.11625,800,Bulgaria-Romania,Australia,1.0,-0.06380700778642936

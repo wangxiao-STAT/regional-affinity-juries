@@ -10,7 +10,8 @@ set to zero (a bias-free jury), so the share of replications whose winners diffe
 probability that similarity bias decides the award under that design. Designs:
   fifa          the contest's actual voters, FIFA's rule of that year (fifa_rules.py: group shares
                 to 2022, art. 11 scoring points from 2023), fans not included
-  fifa_nocompat the same, but no voter may rank a compatriot (the bias-free jury keeps them)
+  fifa_nocompat the same, but no voter may rank a compatriot, in the biased and the bias-free jury alike
+                (so the probability is that the bonuses still decide the award once compatriots are barred)
   media         the contest's journalists only (one group: total points order nominees as the rule does)
   size_n        n voters drawn at random from the actual voters in each replication, FIFA's rule of the year
   uefa_s        100 voters with a share s from UEFA countries, drawn from the actual voters, rule of the year
@@ -137,6 +138,8 @@ def run_design(ci, base, biased, rng, reps, rule, pick=None, compat_block=None, 
         if compat_block is not None:
             ub = np.where(compat_block[sel][None], -np.inf, ub)
         uf = base[sel][None] + G
+        if compat_block is not None:
+            uf = np.where(compat_block[sel][None], -np.inf, uf)
         f, _, _ = flips(ub, uf, ci["role"][sel], rule)
         out.append(f[0])
     return (np.array(out), gaps) if contenders is not None else np.array(out)

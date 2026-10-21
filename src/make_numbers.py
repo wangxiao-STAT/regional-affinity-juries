@@ -638,6 +638,8 @@ def jury_numbers(reg):
     k = "2018_WP"
     reg.add("JuryLeaderWomenEighteen", lambda: display(cf().loc[k, "winner"], k), "jury leader, 2018 women's award")
     reg.add("AwardWinnerWomenEighteen", lambda: display(award_winners()[k], k), "award winner, 2018 women's award")
+    reg.add("CfLeaderWomenEighteen", lambda: display(cf().loc[k, "cf_winner_mode"], k),
+            "most frequent counterfactual jury leader, 2018 women's award")
 
     def jury_rank():
         n = nom()
@@ -653,6 +655,208 @@ def jury_numbers(reg):
     reg.add("MoverConfedHiShare", hi_share, "upper 95% limit of the within-coach workplace bonus / between-coach bonus")
 
 
+def esc_numbers(reg):
+    """Eurovision juries (second domain): data, bonuses under three groupings (B literature blocs, the main
+    one; E UN subregions; C a finer grouping chosen after the main analysis), counterfactual jury
+    standings and designs. Means over finals in the designs are weighted by replications."""
+    E = RES / "eurovision"
+    long = lambda: csv("esc_long.csv")
+    val = lambda: csv("esc_validation.csv")
+    reg.add("EscBallots", lambda: fmt_int(long().ballot.nunique()), "Eurovision juror rankings")
+    reg.add("EscFinals", lambda: fmt_int(long().contest.nunique()), "Eurovision finals")
+    reg.add("EscCountries", lambda: fmt_int(long().voter_country.nunique()), "Eurovision jury countries")
+    reg.add("EscJuries", lambda: fmt_int(len(val())), "national juries with complete rankings")
+    reg.add("EscFirstYear", lambda: str(int(long().year.min())), "first final")
+    reg.add("EscLastYear", lambda: str(int(long().year.max())), "last final")
+    size = lambda k: (pd.to_numeric(val().jurors) == k).sum()
+    reg.add("NEscJuriesFourWord", lambda: word(size(4)), "juries with four ranked jurors (words)")
+    reg.add("NEscJuriesSixWord", lambda: word(size(6)), "juries with six ranked jurors, 2026 (words)")
+    tot = lambda: pd.read_csv(PROC / "esc_jury_totals.csv")
+
+    def incomplete():
+        n = tot().groupby("year").jury_score.sum() / sum(int(v) for v in __import__("esc_analysis").POINTS)
+        return int(round((n - val().groupby(pd.to_numeric(val().year)).size()).sum()))
+    reg.add("NEscIncomplete", lambda: fmt_int(incomplete()), "national juries that voted without complete published rankings")
+    for col, mac in (("same_region", "Region"), ("same_bloc", "Bloc"), ("same_fine", "Fine")):
+        reg.add(f"EscPairShare{mac}", lambda c=col: fmt_int(100 * long()[c].mean()) + "\\%", f"juror-song pairs, {col}")
+    reg.add("EscPairShareBorder", lambda: fmt(100 * long().same_border.mean(), 1) + "\\%", "pairs sharing a land border")
+    import build_eurovision
+    import esc_analysis
+    reg.add("NEscBlocsWord", lambda: word(len(build_eurovision.BLOCS)), "literature blocs (Gatherer 2006), words")
+    reg.add("EscEqualK", lambda: word(esc_analysis.EQUAL_K), "esc_analysis.EQUAL_K, countries per group (words)")
+    pts = [str(int(v)) for v in esc_analysis.POINTS]
+    reg.add("EscPoints", lambda: ", ".join(pts[:-1]) + " and " + pts[-1], "esc_analysis.POINTS")
+    bl = [fmt(b, 2) for b in esc_analysis.BASES if b is not None]
+    reg.add("EscBasesList", lambda: ", ".join(bl[:-1]) + " and " + bl[-1], "esc_analysis.BASES, other exponential bases")
+    reg.add("EscBase", lambda: fmt(pd.to_numeric(val().base, errors="coerce").dropna().iloc[0], 4),
+            "exponential base of the national jury rule")
+    late = lambda: val()[pd.to_numeric(val().year) >= 2018]
+    reg.add("EscRulePoints", lambda: fmt_int((late().points_match.astype(str) == "True").sum()),
+            "juries from 2018 whose points are reproduced")
+    reg.add("EscRuleJuries", lambda: fmt_int(len(late())), "juries from 2018")
+    # bonuses
+    est = lambda: pd.read_csv(E / "estimates.csv").set_index(["model", "term"])
+
+    def bonus(name, model, term, note):
+        r = lambda: est().loc[(model, term)]
+        reg.add(name, lambda: fmt(r().beta, 2), f"{note} ({model}, {term})")
+        reg.add(f"{name}Lo", lambda: fmt(r().beta - 1.96 * r().se_cluster, 2), "95% CI")
+        reg.add(f"{name}Hi", lambda: fmt(r().beta + 1.96 * r().se_cluster, 2), "95% CI")
+    for g, gm in (("B", "Bloc"), ("E", "Region"), ("C", "Fine")):
+        bonus(f"Esc{gm}", f"{g}1", "same_group", "common group bonus")
+        bonus(f"Esc{gm}Top", f"{g}1_top10", "same_group", "common group bonus, top ten")
+        bonus(f"Esc{gm}Border", f"{g}1", "same_border", "neighbour bonus")
+        bonus(f"Esc{gm}BorderTop", f"{g}1_top10", "same_border", "neighbour bonus, top ten")
+    for grp, mac in (("Balkan Bloc", "Balkan"), ("Viking Empire", "Viking"), ("Warsaw Pact", "Warsaw"),
+                     ("Netherlands-Belgium", "Benelux")):
+        bonus(f"EscBloc{mac}", "B2", f"same_group[{grp}]", "bloc-specific bonus")
+    for grp, mac in (("Former Yugoslavia", "Yugo"), ("Nordic", "Nordic"), ("Baltic", "Baltic"),
+                     ("British Isles", "Brit")):
+        bonus(f"EscFine{mac}", "C2", f"same_group[{grp}]", "finer-group bonus")
+    bonus("EscRegionGivenBloc", "B1_region", "same_region", "subregion bonus added to the bloc bonus")
+    fits = lambda: {f["model"]: f for f in json.loads((E / "fits.json").read_text())}
+    reg.add("EscLLBlocRegion", lambda: fmt(fits()["B1"]["loglik"] - fits()["E1"]["loglik"], 0),
+            "log-likelihood, blocs minus subregions (same parameters)")
+    reg.add("EscLLFineRegion", lambda: fmt(fits()["C1"]["loglik"] - fits()["E1"]["loglik"], 0),
+            "log-likelihood, finer grouping minus subregions (same parameters)")
+    fifa = lambda: pd.read_csv(RES / "combined" / "estimates.csv").query(
+        "model == 'C1_role' and term.str.startswith('same_confed[') and term != 'same_confed[bdo]'", engine="python")
+    reg.add("FifaConfedMin", lambda: fmt(fifa().beta.min(), 2), "smallest FIFA confederation bonus by profession (C1_role)")
+    reg.add("FifaConfedMax", lambda: fmt(fifa().beta.max(), 2), "largest FIFA confederation bonus by profession (C1_role)")
+    # counterfactual jury standings
+    MODELS = ("B1", "B2", "B1_top10", "E1", "E2", "E1_top10", "C1", "C2", "C1_top10")
+    cf = lambda m="B1", sc="all": pd.read_csv(E / f"cf_{m}_contests.csv").query("scenario == @sc")
+    reg.add("NEscSpecsWord", lambda: word(len(MODELS)), "Eurovision specifications (words)")
+    for m, mm in (("B1", ""), ("B2", "Het"), ("B1_top10", "Top")):
+        for sc, mac in (("all", "All"), ("group", "Bloc"), ("border", "Border")):
+            reg.add(f"ExpFlipsEsc{mac}{mm}", lambda m=m, sc=sc: fmt(cf(m, sc).p_flip.sum(), 2),
+                    f"Eurovision expected changed jury leaders, {m}, {sc}")
+    flips = lambda: pd.Series({m: cf(m).p_flip.sum() for m in MODELS})
+    reg.add("ExpFlipsEscMin", lambda: fmt(flips().min(), 2), "smallest expected number over the nine specifications")
+    reg.add("ExpFlipsEscMax", lambda: fmt(flips().max(), 2), "largest expected number over the nine specifications")
+    reg.add("ExpFlipsEscMaxPer", lambda: fmt(flips().max() / len(cf()), 3), "the same per final")
+    fifa_per = lambda f: pd.read_csv(RES / "combined" / f).query("scenario == 'all'").p_flip.mean()
+    reg.add("ExpFlipsFifaPer", lambda: fmt(fifa_per("cf_C1_role_contests.csv"), 3), "football: expected changed winners per contest, C1")
+    reg.add("ExpFlipsFifaPerHet", lambda: fmt(fifa_per("cf_C2_confhet_contests.csv"), 3), "the same, C2")
+    top = lambda m="B1": cf(m).set_index("contest").p_flip.idxmax()
+    one = lambda col, m="B1": cf(m).set_index("contest").loc[top(m), col]
+    reg.add("NEscFlipTenthWord", lambda: word((cf().p_flip > 0.1).sum()), "finals with P(flip) > 0.1, B1 (words)")
+    reg.add("MaxEscFlipYear", lambda: top()[3:], "final with the largest P(flip), B1")
+    reg.add("MaxEscFlip", lambda: fmt(cf().p_flip.max(), 2), "its P(flip), B1")
+    reg.add("MaxEscFlipHet", lambda: fmt(cf("B2").p_flip.max(), 2), "its P(flip), B2")
+    reg.add("MaxEscFlipTop", lambda: fmt(cf("B1_top10").p_flip.max(), 2), "its P(flip), B1_top10")
+    pmax = lambda: pd.Series({m: cf(m).set_index("contest").p_flip[top()] for m in MODELS})
+    reg.add("NEscSpecsHalfWord", lambda: word((pmax() > 0.5).sum()), "specifications with P(flip) of that final above one half (words)")
+    reg.add("MaxEscFlipMinModel", lambda: {"E1": "the United Nations' subregions with a common bonus"}.get(pmax().idxmin(), pmax().idxmin()),
+            "specification with the smallest P(flip) of that final")
+    reg.add("MaxEscFlipMin", lambda: fmt(pmax().min(), 2), "P(flip) of that final, smallest over nine specifications")
+    reg.add("MaxEscFlipMax", lambda: fmt(pmax().max(), 2), "P(flip) of that final, largest over nine specifications")
+    others = lambda: max(cf(m).set_index("contest").drop(top()).p_flip.max() for m in MODELS)
+    reg.add("EscOtherFlipCeil", lambda: fmt(np.ceil(100 * others()) / 100, 2),
+            "largest P(flip) of any other final, nine specifications, rounded up")
+    reg.add("MaxEscFlipMargin", lambda: fmt_int(one("official_margin_points")), "official jury margin (points) of that final")
+    reg.add("MaxEscFlipLeader", lambda: one("official_leader"), "its official jury leader")
+    reg.add("MaxEscFlipRunner", lambda: one("official_runner_up"), "its official jury runner-up")
+
+    def overall_place():
+        t = tot()[tot().year == int(top()[3:])]
+        lead = t.set_index("song_country").total.rank(ascending=False, method="min")[one("official_leader")]
+        return ORDINAL[int(lead)]
+    reg.add("MaxEscFlipOverall", lambda: overall_place(), "overall place (jury plus televote) of that jury leader")
+    bases = lambda: (lambda b: b[b.contest == top()])(pd.read_csv(E / "bases_B1.csv"))
+    alt = lambda: bases()[bases().fitted.astype(str) == "False"]
+    reg.add("EscBaseFlipMin", lambda: fmt(alt()[alt().rule != "sum of ranks"].p_flip.min(), 2),
+            "P(flip) of that final, other exponential bases, B1")
+    reg.add("EscBaseFlipMax", lambda: fmt(alt()[alt().rule != "sum of ranks"].p_flip.max(), 2), "the same, largest")
+    reg.add("EscBaseLo", lambda: fmt(float(alt()[alt().rule != "sum of ranks"].rule.astype(float).min()), 2), "smallest other base")
+    reg.add("EscBaseHi", lambda: fmt(float(alt()[alt().rule != "sum of ranks"].rule.astype(float).max()), 2), "largest other base")
+    reg.add("EscBaseFlipSum", lambda: fmt(alt()[alt().rule == "sum of ranks"].p_flip.iloc[0], 2),
+            "P(flip) of that final with summed ranks, B1")
+    chk = lambda: pd.read_csv(E / "standing_check_B1.csv")
+    reg.add("NEscLeaderReproduced", lambda: fmt_int((chk().official_leader == chk().recomputed_leader).sum()),
+            "finals whose recomputed jury leader is the official one")
+    # designs
+    d = lambda m="B1": pd.read_csv(E / f"design_{m}_contests.csv")
+
+    def cross(m="B1"):
+        """Finals whose two leading songs came from different groups in at least half the draws."""
+        x = d(m)
+        x = x[(x.gap.astype(str) == "0.0") & (x.design == "actual")]
+        return sorted(x[x.share_cross >= 0.5].contest)
+
+    def wmean(x, col="p_flip"):
+        if x.reps.sum() == 0:
+            raise ValueError("empty selection")
+        return float(np.average(x[col], weights=x.reps))
+
+    def dmean(design, gap="0.0", m="B1", only_cross=False):
+        x = d(m)
+        x = x[(x.gap.astype(str) == gap) & x.design.str.fullmatch(design)]
+        if only_cross:
+            x = x[x.contest.isin(cross(m))]
+        return wmean(x)
+    for design, mac in (("actual", "Actual"), ("border_ban", "BorderBan"), ("equal_groups", "EqualGroups")):
+        for m, mm in (("B1", ""), ("B2", "Het")):
+            reg.add(f"DesignEsc{mac}Tie{mm}", lambda a=design, m=m: fmt(dmean(a, "0.0", m), 2), f"{m}, {design}, tie, all finals")
+    for design, mac in (("actual", "Actual"), ("equal_groups", "EqualGroups"), ("contenders_equal", "ContEqual"),
+                        ("tilt_(lead|run)_half", "TiltHalf"), ("tilt_(lead|run)_full", "TiltFull")):
+        for m, mm in (("B1", ""), ("B2", "Het"), ("E1", "Region"), ("C1", "Fine")):
+            reg.add(f"DesignEsc{mac}CrossTie{mm}", lambda a=design, m=m: fmt(dmean(a, "0.0", m, True), 2),
+                    f"{m}, {design}, tie, finals with contenders from two groups")
+    reg.add("NDesignEscCrossWord", lambda: word(len(cross())), "finals with contenders from two blocs (words)")
+    reg.add("EscContKMinWord", lambda: word(esc_analysis.CONTENDER_K_MIN), "esc_analysis.CONTENDER_K_MIN (words)")
+
+    def one_bloc():
+        """Cross finals (B1) by how many of the modal contenders' groups are literature blocs; for those
+        with exactly one, the change in P(flip) at a tie when that contender's own bloc or the rival's
+        group is removed (tilt_run_full removes the leader's group, tilt_lead_full the runner-up's)."""
+        x = d()
+        x = x[(x.gap.astype(str) == "0.0") & x.contest.isin(cross())]
+        a = x[x.design == "actual"].set_index("contest")
+        nb = {c: int(r.leader_group in build_eurovision.BLOCS) + int(r.runner_up_group in build_eurovision.BLOCS)
+              for c, r in a.iterrows()}
+        own, rival = [], []
+        for c in [c for c, k in nb.items() if k == 1]:
+            p = x[x.contest == c].set_index("design").p_flip
+            lead_in = a.loc[c].leader_group in build_eurovision.BLOCS
+            own.append(p["tilt_run_full" if lead_in else "tilt_lead_full"] - p["actual"])
+            rival.append(p["tilt_lead_full" if lead_in else "tilt_run_full"] - p["actual"])
+        return nb, np.array(own), np.array(rival)
+    reg.add("NEscCrossNoBlocWord", lambda: word(sum(k == 0 for k in one_bloc()[0].values())),
+            "cross finals in which neither contender is in a literature bloc (words)")
+    reg.add("NEscCrossBothBlocWord", lambda: word(sum(k == 2 for k in one_bloc()[0].values())),
+            "cross finals with both contenders in a bloc (words)")
+    reg.add("NEscCrossOneBlocWord", lambda: word(sum(k == 1 for k in one_bloc()[0].values())),
+            "cross finals with exactly one contender in a bloc (words)")
+    reg.add("EscOwnBlocDropMin", lambda: fmt(-one_bloc()[1].max(), 2), "smallest fall in P(flip) when that contender's bloc is removed")
+    reg.add("EscOwnBlocDropMax", lambda: fmt(-one_bloc()[1].min(), 2), "largest fall in P(flip) when that contender's bloc is removed")
+    reg.add("EscRivalChangeCeil", lambda: fmt(np.ceil(100 * np.abs(one_bloc()[2]).max()) / 100, 2),
+            "largest absolute change when the rival's group is removed, rounded up")
+    reg.add("NDesignEscCrossRegionWord", lambda: word(len(cross("E1"))), "finals with contenders from two subregions (words)")
+    for design, mac in (("tilt_lead_full", "TiltLeadFull"), ("tilt_run_full", "TiltRunFull")):
+        for m, mm in (("B1", ""), ("B2", "Het"), ("E1", "Region")):
+            reg.add(f"DesignEsc{mac}CrossTie{mm}", lambda a=design, m=m: fmt(dmean(a, "0.0", m, True), 2),
+                    f"{m}, {design} (lead: runner-up's group removed; run: leader's group removed), tie, cross finals")
+    conteq = lambda: d()[(d().gap.astype(str) == "0.0") & (d().design == "contenders_equal") & d().contest.isin(cross())]
+    reg.add("DesignEscActualContEqTie", lambda: fmt(wmean(d()[(d().gap.astype(str) == "0.0") & (d().design == "actual")
+                                                            & d().contest.isin(set(conteq().contest))]), 2),
+            "B1, actual juries, tie, on the finals where the contenders' design ran")
+    reg.add("NDesignEscContEqWord", lambda: word(conteq().contest.nunique()), "of these, finals with the contenders' design (words)")
+
+    def bloc_abs(design, m="B1"):
+        x = d(m)
+        x = x[(x.gap.astype(str) == "0.0") & x.contest.isin(cross(m)) & x.design.str.fullmatch(design)]
+        return wmean(x.assign(abs_gap=x.bloc_gap.abs()), "abs_gap")
+    reg.add("DesignEscBlocAbsActual", lambda: fmt_int(100 * bloc_abs("actual")), "mean |bloc difference|, actual juries, pp")
+    reg.add("DesignEscBlocAbsTiltFull", lambda: fmt_int(100 * bloc_abs("tilt_(lead|run)_full")),
+            "mean |bloc difference| with one contender's group removed, pp")
+    reg.add("DesignEscBlocAbsActualRegion", lambda: fmt_int(100 * bloc_abs("actual", "E1")), "the same, UN subregions, pp")
+    reg.add("DesignEscBlocAbsTiltFullRegion", lambda: fmt_int(100 * bloc_abs("tilt_(lead|run)_full", "E1")),
+            "mean |bloc difference| with one contender's subregion removed, pp")
+    for design, mac in (("actual", "Actual"), ("border_ban", "BorderBan")):
+        reg.add(f"DesignEsc{mac}TieFine", lambda a=design: fmt(dmean(a, "0.0", "C1"), 2), f"C1, {design}, tie, all finals")
+
+
 def main():
     reg = Registry()
     data_numbers(reg)
@@ -663,6 +867,7 @@ def main():
     robustness_numbers(reg)
     design_numbers(reg)
     jury_numbers(reg)
+    esc_numbers(reg)
     pending = reg.write(OUT / "numbers.tex")
     return 0 if pending == 0 or "--allow-pending" in sys.argv else 1
 

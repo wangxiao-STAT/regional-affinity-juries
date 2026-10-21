@@ -206,6 +206,88 @@ def fig_design(model="M1_role", name="fig_design"):
     plt.close(fig)
 
 
+def fig_esc():
+    """Eurovision juries: group bonuses under three groupings next to FIFA's regional bonuses, bloc-specific
+    bonuses, jury design and bloc asymmetry (designs under B1, the literature blocs)."""
+    E = RES / "eurovision"
+    fe, fd, fc = E / "estimates.csv", E / "design_B1_contests.csv", RES / "combined" / "estimates.csv"
+    if not (need(fe) and need(fd) and need(fc)):
+        return
+    est, d, fifa = pd.read_csv(fe), pd.read_csv(fd), pd.read_csv(fc)
+    fig, axes = plt.subplots(2, 2, figsize=(180 * MM, 118 * MM))
+    ax = axes[0, 0]
+    rows = []
+    f = fifa[(fifa.model == "C1_role") & fifa.term.str.startswith("same_confed[")]
+    for _, r in f.iterrows():
+        role = r.term.split("[")[1][:-1]
+        rows.append((f"Region, {ROLE_LABEL[role]}", r.beta, r.se_cluster, FIFA if role != "bdo" else BDO))
+    for g, lab in (("B", "voting blocs"), ("E", "UN subregions"), ("C", "finer grouping")):
+        for model, places in ((f"{g}1", "all places"), (f"{g}1_top10", "top ten")):
+            e = est[est.model == model].set_index("term").loc["same_group"]
+            rows.append((f"Eurovision, {lab} ({places})", e.beta, e.se_cluster, INK if g == "B" else INK2))
+    for model, places in (("B1", "all places"), ("B1_top10", "top ten")):
+        e = est[est.model == model].set_index("term").loc["same_border"]
+        rows.append((f"Eurovision, neighbour ({places})", e.beta, e.se_cluster, INK2))
+    for k, (lab, b, se, col) in enumerate(rows):
+        ax.errorbar(b, k, xerr=1.96 * se, fmt="o", ms=3, color=col, elinewidth=1, capsize=0)
+    ax.set_yticks(range(len(rows)), [r[0] for r in rows], fontsize=5.3)
+    ax.invert_yaxis()
+    ax.axvline(0, color=INK2, lw=0.5, ls=(0, (2, 2)))
+    ax.set_xlabel("Bonus (log-odds per ranking step)")
+    ax.set_title("a  Common bonuses", loc="left", color=INK, fontweight="bold", fontsize=6.5)
+    ax.grid(axis="x", color=GRID, lw=0.4)
+    ax = axes[0, 1]
+    b2 = est[(est.model == "B2") & est.term.str.startswith("same_group[")].copy()
+    names = {"Balkan Bloc": "Balkan bloc", "Viking Empire": "Nordic and Baltic bloc",
+             "Warsaw Pact": "Russia, Ukraine, Poland", "Netherlands-Belgium": "Netherlands, Belgium"}
+    b2["group"] = b2.term.str.slice(11, -1).map(lambda g: names.get(g, g))
+    b2 = b2.sort_values("beta")
+    for k, (_, r) in enumerate(b2.iterrows()):
+        ax.errorbar(r.beta, k, xerr=1.96 * r.se_cluster, fmt="o", ms=3, elinewidth=1, capsize=0, color=INK)
+    ax.set_yticks(range(len(b2)), b2.group, fontsize=5.3)
+    ax.axvline(0, color=INK2, lw=0.5, ls=(0, (2, 2)))
+    ax.set_xlabel("Bonus within the juror's group (log-odds per ranking step)")
+    ax.set_title("b  Bloc-specific bonuses", loc="left", color=INK, fontweight="bold", fontsize=6.5)
+    ax.grid(axis="x", color=GRID, lw=0.4)
+    # finals whose two leading songs came from different blocs in at least half the draws
+    t0 = d[(d.gap.astype(str) == "0.0") & (d.design == "actual")]
+    cross = set(t0[t0.share_cross >= 0.5].contest)
+    ax = axes[1, 0]
+    x = d[(d.gap.astype(str) != "obs") & d.contest.isin(cross)].copy()
+    x["gap"] = x.gap.astype(float)
+    x["w"] = x.p_flip * x.reps
+    for name, lab, col, ls in (("actual", "Actual juries", INK, "-"), ("border_ban", "Neighbours barred", INK2, "--"),
+                               ("equal_groups", "Equal countries per group", BDO, "-"),
+                               ("contenders_equal", "Contenders' groups equal", FIFA, ":"),
+                               ("tilt_lead_full", "Runner-up's group removed", INK2, "-."),
+                               ("tilt_run_full", "Leader's group removed", FIFA, "-.")):
+        g = x[x.design.str.fullmatch(name)].groupby("gap")[["w", "reps"]].sum()
+        if len(g):
+            ax.plot(g.index, g.w / g.reps, ls, marker="o", ms=2.6, color=col, label=lab)
+    ax.set_xlabel("Gap in appeal (log-odds)")
+    ax.set_ylabel("Probability that similarity\ndecides the jury winner")
+    ax.set_ylim(0, None)
+    ax.set_title("c  Jury design", loc="left", color=INK, fontweight="bold", fontsize=6.5)
+    ax.grid(color=GRID, lw=0.4)
+    ax.legend(frameon=False, fontsize=5, loc="upper center", bbox_to_anchor=(0.5, -0.24), ncol=2)
+    ax = axes[1, 1]
+    t = d[(d.gap.astype(str) == "0.0") & (d.design != "border_ban")]
+    same = ~t.contest.isin(cross)
+    ax.plot(t[~same].bloc_gap.abs(), t[~same].p_flip, "o", ms=2.4, color=FIFA, alpha=0.7, mew=0,
+            label="Contenders from two groups")
+    ax.plot(t[same].bloc_gap.abs(), t[same].p_flip, "o", ms=2.4, color=INK2, alpha=0.7, mew=0,
+            label="Contenders from one group")
+    ax.set_xlabel("Difference in the jury shares of\nthe contenders' groups")
+    ax.set_ylabel("Probability that similarity\ndecides the jury winner (tie)")
+    ax.set_ylim(0, None)
+    ax.set_title("d  Bloc asymmetry (tied races)", loc="left", color=INK, fontweight="bold", fontsize=6.5)
+    ax.grid(color=GRID, lw=0.4)
+    ax.legend(frameon=False, fontsize=5, loc="upper center", bbox_to_anchor=(0.5, -0.3), ncol=2)
+    fig.tight_layout()
+    fig.savefig(OUT / "fig_esc.pdf", bbox_inches="tight", pad_inches=0.03)
+    plt.close(fig)
+
+
 def ed_design_het():
     fig_design("M5_role_confhet", "ed_design_het")
 
@@ -369,7 +451,7 @@ def ed_transfers():
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    for f in (fig_data, fig_bonuses, fig_coaches, fig_outcomes, fig_design, ed_placebo, ed_transfers,
+    for f in (fig_data, fig_bonuses, fig_coaches, fig_outcomes, fig_design, fig_esc, ed_placebo, ed_transfers,
               ed_design_het):
         f()
 

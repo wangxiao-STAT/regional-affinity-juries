@@ -1,0 +1,41 @@
+model,contest,rule,fitted,leader,runner_up,margin_points,p_flip,p_flip_mle,draws
+B1,ESC2018,sum of ranks,False,Austria,Sweden,35.0,0.0,0.0,1000
+B1,ESC2018,0.8,False,Austria,Sweden,18.0,0.0,0.0,1000
+B1,ESC2018,0.85,False,Austria,Sweden,27.0,0.0,0.0,1000
+B1,ESC2018,0.9,False,Austria,Sweden,35.0,0.0,0.0,1000
+B1,ESC2018,0.8269,True,Austria,Sweden,18.0,0.0,0.0,1000
+B1,ESC2019,sum of ranks,False,North Macedonia,Netherlands,5.0,0.984,0.985,1000
+B1,ESC2019,0.8,False,North Macedonia,Sweden,13.0,0.442,0.49,1000
+B1,ESC2019,0.85,False,North Macedonia,Sweden,4.0,0.87,0.925,1000
+B1,ESC2019,0.9,False,North Macedonia,Sweden,2.0,0.974,0.995,1000
+B1,ESC2019,0.8269,True,North Macedonia,Sweden,6.0,0.791,0.78,1000
+B1,ESC2021,sum of ranks,False,Switzerland,France,13.0,0.001,0.0,1000
+B1,ESC2021,0.8,False,Switzerland,France,17.0,0.001,0.0,1000
+B1,ESC2021,0.85,False,Switzerland,France,12.0,0.003,0.005,1000
+B1,ESC2021,0.9,False,Switzerland,France,23.0,0.0,0.0,1000
+B1,ESC2021,0.8269,True,Switzerland,France,19.0,0.0,0.0,1000
+B1,ESC2022,sum of ranks,False,United Kingdom,Sweden,26.0,0.0,0.0,1000
+B1,ESC2022,0.8,False,United Kingdom,Sweden,21.0,0.0,0.0,1000
+B1,ESC2022,0.85,False,United Kingdom,Sweden,25.0,0.0,0.0,1000
+B1,ESC2022,0.9,False,United Kingdom,Sweden,25.0,0.0,0.0,1000
+B1,ESC2022,0.8269,True,United Kingdom,Sweden,25.0,0.0,0.0,1000
+B1,ESC2023,sum of ranks,False,Sweden,Israel,152.0,0.0,0.0,1000
+B1,ESC2023,0.8,False,Sweden,Italy,157.0,0.0,0.0,1000
+B1,ESC2023,0.85,False,Sweden,Israel,159.0,0.0,0.0,1000
+B1,ESC2023,0.9,False,Sweden,Italy,156.0,0.0,0.0,1000
+B1,ESC2023,0.8269,True,Sweden,Israel,163.0,0.0,0.0,1000
+B1,ESC2024,sum of ranks,False,Switzerland,France,142.0,0.0,0.0,1000
+B1,ESC2024,0.8,False,Switzerland,France,143.0,0.0,0.0,1000
+B1,ESC2024,0.85,False,Switzerland,France,150.0,0.0,0.0,1000
+B1,ESC2024,0.9,False,Switzerland,France,154.0,0.0,0.0,1000
+B1,ESC2024,0.8269,True,Switzerland,France,147.0,0.0,0.0,1000
+B1,ESC2025,sum of ranks,False,Austria,Switzerland,32.0,0.0,0.0,1000
+B1,ESC2025,0.8,False,Austria,Switzerland,46.0,0.0,0.0,1000
+B1,ESC2025,0.85,False,Austria,Switzerland,39.0,0.0,0.0,1000
+B1,ESC2025,0.9,False,Austria,Switzerland,29.0,0.0,0.0,1000
+B1,ESC2025,0.8269,True,Austria,Switzerland,44.0,0.0,0.0,1000
+B1,ESC2026,sum of ranks,False,Bulgaria,Australia,23.0,0.0,0.0,1000
+B1,ESC2026,0.8,False,Bulgaria,Denmark,38.0,0.0,0.0,1000
+B1,ESC2026,0.85,False,Bulgaria,Australia,41.0,0.0,0.0,1000
+B1,ESC2026,0.9,False,Bulgaria,Australia,39.0,0.0,0.0,1000
+B1,ESC2026,0.8269,True,Bulgaria,Australia,39.0,0.0,0.0,1000

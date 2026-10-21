@@ -1,0 +1,415 @@
+contest,design,gap,p_flip,reps,leader_group,runner_up_group,share_cross,bloc_gap
+ESC2016,actual,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,obs,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,actual,0.0,0.14,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,0.0,0.01375,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,0.0,0.13375,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,0.0,0.0925,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,0.0,0.07875,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,0.0,0.13875,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,0.0,0.12375,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,actual,0.1,0.1175,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,0.1,0.00625,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,0.1,0.065,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,0.1,0.09375,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,0.1,0.1125,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,0.1,0.07125,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,0.1,0.065,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,actual,0.2,0.04,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,0.2,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,0.2,0.05,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,0.2,0.05,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,0.2,0.05875,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,0.2,0.025,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,0.2,0.02,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,actual,0.4,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,0.4,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,0.4,0.0025,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,0.4,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,0.4,0.00125,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,0.4,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,0.4,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,actual,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,border_ban,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.13095238095238096
+ESC2016,equal_groups,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.2
+ESC2016,tilt_lead_half,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.05831365272154747
+ESC2016,tilt_lead_full,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,0.028202614379084973
+ESC2016,tilt_run_half,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2016,tilt_run_full,0.8,0.0,800,Australia and New Zealand,Western Europe,1.0,-0.15853658536585363
+ESC2017,actual,obs,0.0,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,obs,0.0,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,obs,0.00125,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,obs,0.00125,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,obs,0.0,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,obs,0.0,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,obs,0.0,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,obs,0.0,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,actual,0.0,0.14625,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,0.0,0.01125,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,0.0,0.0975,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,0.0,0.14125,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,0.0,0.11125,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,0.0,0.1325,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,0.0,0.1125,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,0.0,0.1025,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,actual,0.1,0.08,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,0.1,0.00125,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,0.1,0.0875,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,0.1,0.105,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,0.1,0.14875,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,0.1,0.08375,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,0.1,0.06125,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,0.1,0.05875,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,actual,0.2,0.03625,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,0.2,0.00125,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,0.2,0.05875,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,0.2,0.06125,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,0.2,0.0875,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,0.2,0.0275,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,0.2,0.03875,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,0.2,0.02375,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,actual,0.4,0.00125,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,0.4,0.0,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,0.4,0.01375,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,0.4,0.005,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,0.4,0.00625,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,0.4,0.0,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,0.4,0.00125,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,0.4,0.0025,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,actual,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,border_ban,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.09404761904761905
+ESC2017,equal_groups,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2017,tilt_lead_half,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.20999288762446652
+ESC2017,tilt_lead_full,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.35349264705882355
+ESC2017,tilt_run_half,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,-0.056944444444444464
+ESC2017,tilt_run_full,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,-0.2683333333333333
+ESC2017,contenders_equal,0.8,0.0,800,Southern Europe,Eastern Europe,1.0,0.0
+ESC2018,actual,obs,0.03125,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,obs,0.04125,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,obs,0.06875,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,obs,0.04516129032258064,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,obs,0.07258064516129033,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,obs,0.04516129032258064,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,obs,0.037096774193548385,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,obs,0.0532258064516129,620,Western Europe,Northern Europe,1.0,0.0
+ESC2018,actual,0.0,0.07125,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,0.0,0.05,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,0.0,0.0925,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,0.0,0.10161290322580645,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,0.0,0.14677419354838708,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,0.0,0.09838709677419355,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,0.0,0.10806451612903226,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,0.0,0.08709677419354839,620,Western Europe,Northern Europe,1.0,0.0
+ESC2018,actual,0.1,0.06875,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,0.1,0.06625,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,0.1,0.09,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,0.1,0.06612903225806452,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,0.1,0.11612903225806452,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,0.1,0.07580645161290323,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,0.1,0.06935483870967742,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,0.1,0.06774193548387097,620,Western Europe,Northern Europe,1.0,0.0
+ESC2018,actual,0.2,0.02875,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,0.2,0.055,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,0.2,0.0625,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,0.2,0.054838709677419356,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,0.2,0.07258064516129033,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,0.2,0.02903225806451613,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,0.2,0.041935483870967745,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,0.2,0.03387096774193549,620,Western Europe,Northern Europe,1.0,0.0
+ESC2018,actual,0.4,0.01375,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,0.4,0.0325,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,0.4,0.05125,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,0.4,0.012903225806451613,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,0.4,0.012903225806451613,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,0.4,0.025806451612903226,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,0.4,0.00967741935483871,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,0.4,0.01129032258064516,620,Western Europe,Northern Europe,1.0,0.0
+ESC2018,actual,0.8,0.01,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,border_ban,0.8,0.025,800,Western Europe,Northern Europe,0.775,-0.06453488372093023
+ESC2018,equal_groups,0.8,0.06125,800,Western Europe,Northern Europe,0.775,0.0
+ESC2018,tilt_lead_half,0.8,0.00967741935483871,620,Western Europe,Northern Europe,1.0,0.03348896434634974
+ESC2018,tilt_lead_full,0.8,0.01129032258064516,620,Western Europe,Northern Europe,1.0,0.18389975096256936
+ESC2018,tilt_run_half,0.8,0.017741935483870968,620,Western Europe,Northern Europe,1.0,-0.1661714770797963
+ESC2018,tilt_run_full,0.8,0.00967741935483871,620,Western Europe,Northern Europe,1.0,-0.2630577791868114
+ESC2018,contenders_equal,0.8,0.012903225806451613,620,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,obs,0.0675,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,obs,0.0375,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,obs,0.07125,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,obs,0.06125,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,obs,0.07,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,obs,0.06625,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,obs,0.0925,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,obs,0.0575,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,0.0,0.08875,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,0.0,0.095,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,0.0,0.08375,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,0.0,0.07,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,0.0,0.12,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,0.0,0.11875,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,0.0,0.12,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,0.0,0.07,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,0.1,0.0775,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,0.1,0.06875,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,0.1,0.08375,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,0.1,0.0725,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,0.1,0.11125,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,0.1,0.07875,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,0.1,0.10625,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,0.1,0.08,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,0.2,0.04,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,0.2,0.04,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,0.2,0.0725,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,0.2,0.05,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,0.2,0.07,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,0.2,0.04375,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,0.2,0.07625,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,0.2,0.0475,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,0.4,0.01375,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,0.4,0.005,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,0.4,0.0375,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,0.4,0.0275,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,0.4,0.035,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,0.4,0.03625,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,0.4,0.02375,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,0.4,0.03,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,actual,0.8,0.01875,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,border_ban,0.8,0.01625,800,Western Europe,Northern Europe,1.0,-0.0975
+ESC2019,equal_groups,0.8,0.045,800,Western Europe,Northern Europe,1.0,0.0
+ESC2019,tilt_lead_half,0.8,0.0275,800,Western Europe,Northern Europe,1.0,0.03231660231660233
+ESC2019,tilt_lead_full,0.8,0.025,800,Western Europe,Northern Europe,1.0,0.20684873949579832
+ESC2019,tilt_run_half,0.8,0.02625,800,Western Europe,Northern Europe,1.0,-0.18926640926640928
+ESC2019,tilt_run_full,0.8,0.03375,800,Western Europe,Northern Europe,1.0,-0.29823529411764704
+ESC2019,contenders_equal,0.8,0.035,800,Western Europe,Northern Europe,1.0,0.0
+ESC2021,actual,obs,0.0825,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,obs,0.07625,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,obs,0.09625,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,obs,0.0921875,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,obs,0.1046875,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,obs,0.0984375,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,obs,0.1375,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,obs,0.0921875,640,Southern Europe,Western Europe,1.0,0.0
+ESC2021,actual,0.0,0.09,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,0.0,0.06125,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,0.0,0.10875,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,0.0,0.10625,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,0.0,0.11875,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,0.0,0.0984375,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,0.0,0.1265625,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,0.0,0.096875,640,Southern Europe,Western Europe,1.0,0.0
+ESC2021,actual,0.1,0.0725,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,0.1,0.05,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,0.1,0.10375,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,0.1,0.071875,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,0.1,0.11875,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,0.1,0.115625,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,0.1,0.1109375,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,0.1,0.0859375,640,Southern Europe,Western Europe,1.0,0.0
+ESC2021,actual,0.2,0.05875,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,0.2,0.07125,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,0.2,0.0875,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,0.2,0.0828125,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,0.2,0.090625,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,0.2,0.071875,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,0.2,0.0921875,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,0.2,0.0671875,640,Southern Europe,Western Europe,1.0,0.0
+ESC2021,actual,0.4,0.0875,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,0.4,0.0625,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,0.4,0.07625,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,0.4,0.059375,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,0.4,0.084375,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,0.4,0.0390625,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,0.4,0.078125,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,0.4,0.071875,640,Southern Europe,Western Europe,1.0,0.0
+ESC2021,actual,0.8,0.04,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,border_ban,0.8,0.05625,800,Southern Europe,Western Europe,0.8,0.00641025641025641
+ESC2021,equal_groups,0.8,0.06625,800,Southern Europe,Western Europe,0.8,0.0
+ESC2021,tilt_lead_half,0.8,0.0515625,640,Southern Europe,Western Europe,1.0,0.13226010101010105
+ESC2021,tilt_lead_full,0.8,0.0625,640,Southern Europe,Western Europe,1.0,0.2775297619047619
+ESC2021,tilt_run_half,0.8,0.0609375,640,Southern Europe,Western Europe,1.0,-0.12026515151515153
+ESC2021,tilt_run_full,0.8,0.0609375,640,Southern Europe,Western Europe,1.0,-0.2700892857142857
+ESC2021,contenders_equal,0.8,0.0578125,640,Southern Europe,Western Europe,1.0,0.0
+ESC2022,actual,obs,0.0625,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,obs,0.055,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,obs,0.06625,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,actual,0.0,0.0825,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,0.0,0.07,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,0.0,0.07875,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,actual,0.1,0.06375,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,0.1,0.045,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,0.1,0.07,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,actual,0.2,0.035,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,0.2,0.0325,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,0.2,0.06375,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,actual,0.4,0.00625,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,0.4,0.0075,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,0.4,0.03,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,actual,0.8,0.00625,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,border_ban,0.8,0.005,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2022,equal_groups,0.8,0.01875,800,Northern Europe,Northern Europe,0.0,0.0
+ESC2023,actual,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,obs,0.0,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,obs,0.0,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,obs,0.0,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,actual,0.0,0.09625,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,0.0,0.02625,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,0.0,0.085,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,0.0,0.10125,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,0.0,0.11,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,0.0,0.1275,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,0.0,0.1575,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,0.0,0.1125,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,actual,0.1,0.09625,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,0.1,0.015,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,0.1,0.085,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,0.1,0.09625,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,0.1,0.1175,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,0.1,0.09875,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,0.1,0.10875,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,0.1,0.0775,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,actual,0.2,0.0475,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,0.2,0.01,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,0.2,0.06875,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,0.2,0.0575,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,0.2,0.09375,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,0.2,0.0475,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,0.2,0.04625,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,0.2,0.035,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,actual,0.4,0.00375,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,0.4,0.00375,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,0.4,0.01,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,0.4,0.015,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,0.4,0.0125,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,0.4,0.00125,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,0.4,0.005,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,0.4,0.00125,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,actual,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,border_ban,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.01689189189189189
+ESC2023,equal_groups,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2023,tilt_lead_half,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.16613051470588236
+ESC2023,tilt_lead_full,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.36313657407407407
+ESC2023,tilt_run_half,0.8,0.0,800,Northern Europe,Southern Europe,1.0,-0.13671875
+ESC2023,tilt_run_full,0.8,0.0,800,Northern Europe,Southern Europe,1.0,-0.34722222222222215
+ESC2023,contenders_equal,0.8,0.0,800,Northern Europe,Southern Europe,1.0,0.0
+ESC2024,actual,obs,0.0,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,obs,0.0,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,obs,0.0,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,obs,0.0,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,obs,0.0,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,obs,0.0,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,obs,0.0,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,obs,0.0,300,Western Europe,Southern Europe,1.0,0.0
+ESC2024,actual,0.0,0.11,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,0.0,0.04375,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,0.0,0.085,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,0.0,0.09,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,0.0,0.09666666666666666,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,0.0,0.11333333333333333,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,0.0,0.18333333333333332,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,0.0,0.11,300,Western Europe,Southern Europe,1.0,0.0
+ESC2024,actual,0.1,0.09375,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,0.1,0.02625,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,0.1,0.08625,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,0.1,0.12333333333333334,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,0.1,0.11333333333333333,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,0.1,0.07666666666666666,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,0.1,0.08,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,0.1,0.09666666666666666,300,Western Europe,Southern Europe,1.0,0.0
+ESC2024,actual,0.2,0.04125,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,0.2,0.0075,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,0.2,0.07125,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,0.2,0.05,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,0.2,0.12666666666666668,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,0.2,0.06,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,0.2,0.02,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,0.2,0.05333333333333334,300,Western Europe,Southern Europe,1.0,0.0
+ESC2024,actual,0.4,0.00125,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,0.4,0.00125,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,0.4,0.01875,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,0.4,0.01,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,0.4,0.02666666666666667,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,0.4,0.006666666666666667,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,0.4,0.0,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,0.4,0.0033333333333333335,300,Western Europe,Southern Europe,1.0,0.0
+ESC2024,actual,0.8,0.0,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,border_ban,0.8,0.0,800,Western Europe,Western Europe,0.375,-0.030405405405405407
+ESC2024,equal_groups,0.8,0.0,800,Western Europe,Western Europe,0.375,0.0
+ESC2024,tilt_lead_half,0.8,0.0,300,Western Europe,Southern Europe,1.0,0.0625
+ESC2024,tilt_lead_full,0.8,0.0,300,Western Europe,Southern Europe,1.0,0.25925925925925924
+ESC2024,tilt_run_half,0.8,0.0,300,Western Europe,Southern Europe,1.0,-0.2121212121212121
+ESC2024,tilt_run_full,0.8,0.0,300,Western Europe,Southern Europe,1.0,-0.3333333333333333
+ESC2024,contenders_equal,0.8,0.0,300,Western Europe,Southern Europe,1.0,0.0
+ESC2025,actual,obs,0.05,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,obs,0.0425,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,obs,0.095,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,actual,0.0,0.07125,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,0.0,0.0675,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,0.0,0.06,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,actual,0.1,0.09,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,0.1,0.0525,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,0.1,0.08375,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,actual,0.2,0.04125,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,0.2,0.055,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,0.2,0.08,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,actual,0.4,0.03375,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,0.4,0.02375,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,0.4,0.07625,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,actual,0.8,0.02875,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,border_ban,0.8,0.035,800,Western Europe,Western Europe,0.0,0.0
+ESC2025,equal_groups,0.8,0.055,800,Western Europe,Western Europe,0.0,0.0
+ESC2026,actual,obs,0.1325,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,obs,0.06875,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,obs,0.1275,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,obs,0.1325,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,obs,0.135,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,obs,0.145,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,obs,0.14,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,obs,0.1125,80,Eastern Europe,Northern Europe,1.0,0.0
+ESC2026,actual,0.0,0.13375,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,0.0,0.0925,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,0.0,0.12875,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,0.0,0.13875,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,0.0,0.11875,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,0.0,0.1425,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,0.0,0.14125,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,0.0,0.1125,80,Eastern Europe,Northern Europe,1.0,0.0
+ESC2026,actual,0.1,0.13125,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,0.1,0.09,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,0.1,0.11875,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,0.1,0.1425,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,0.1,0.125,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,0.1,0.12125,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,0.1,0.1325,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,0.1,0.0875,80,Eastern Europe,Northern Europe,1.0,0.0
+ESC2026,actual,0.2,0.12375,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,0.2,0.05625,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,0.2,0.11625,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,0.2,0.1225,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,0.2,0.12375,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,0.2,0.1125,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,0.2,0.1175,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,0.2,0.15,80,Eastern Europe,Northern Europe,1.0,0.0
+ESC2026,actual,0.4,0.1,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,0.4,0.06125,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,0.4,0.10625,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,0.4,0.1075,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,0.4,0.11625,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,0.4,0.09875,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,0.4,0.09875,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,0.4,0.0875,80,Eastern Europe,Northern Europe,1.0,0.0
+ESC2026,actual,0.8,0.1,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,border_ban,0.8,0.05375,800,Australia and New Zealand,Eastern Europe,1.0,-0.05909090909090908
+ESC2026,equal_groups,0.8,0.11125,800,Australia and New Zealand,Eastern Europe,1.0,-0.07
+ESC2026,tilt_lead_half,0.8,0.1,800,Australia and New Zealand,Eastern Europe,1.0,0.021781609195402302
+ESC2026,tilt_lead_full,0.8,0.1125,800,Australia and New Zealand,Eastern Europe,1.0,0.09505820105820106
+ESC2026,tilt_run_half,0.8,0.08875,800,Australia and New Zealand,Eastern Europe,1.0,-0.11852011494252875
+ESC2026,tilt_run_full,0.8,0.09625,800,Australia and New Zealand,Eastern Europe,1.0,-0.1535357142857143
+ESC2026,contenders_equal,0.8,0.125,80,Eastern Europe,Northern Europe,1.0,0.0

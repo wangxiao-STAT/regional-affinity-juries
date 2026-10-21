@@ -1,0 +1,433 @@
+contest,design,gap,p_flip,reps,leader_group,runner_up_group,share_cross,bloc_gap
+ESC2016,actual,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,obs,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,actual,0.0,0.10875,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,0.0,0.0125,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,0.0,0.08625,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,0.0,0.10625,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,0.0,0.08375,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,0.0,0.10125,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,0.0,0.1125,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,actual,0.1,0.0875,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,0.1,0.0025,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,0.1,0.05625,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,0.1,0.10375,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,0.1,0.09375,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,0.1,0.0525,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,0.1,0.055,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,actual,0.2,0.0425,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,0.2,0.00125,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,0.2,0.02125,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,0.2,0.0425,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,0.2,0.04875,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,0.2,0.01,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,0.2,0.01875,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,actual,0.4,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,0.4,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,0.4,0.005,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,0.4,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,0.4,0.00375,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,0.4,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,0.4,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,actual,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,border_ban,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.06249999999999998
+ESC2016,equal_groups,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.14
+ESC2016,tilt_lead_half,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.01753205128205128
+ESC2016,tilt_lead_full,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,0.026068793996425574
+ESC2016,tilt_run_half,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2016,tilt_run_full,0.8,0.0,800,Australia and New Zealand (other),Western Europe (other),1.0,-0.08841463414634144
+ESC2017,actual,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,obs,0.00125,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,obs,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,actual,0.0,0.11375,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,0.0,0.0175,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,0.0,0.09625,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,0.0,0.09375,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,0.0,0.08625,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,0.0,0.11,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,0.0,0.0975,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,0.0,0.10875,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,actual,0.1,0.08125,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,0.1,0.00125,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,0.1,0.08875,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,0.1,0.10375,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,0.1,0.1275,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,0.1,0.065,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,0.1,0.04125,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,0.1,0.09625,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,actual,0.2,0.03375,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,0.2,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,0.2,0.05,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,0.2,0.06125,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,0.2,0.07625,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,0.2,0.01375,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,0.2,0.01625,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,0.2,0.03375,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,actual,0.4,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,0.4,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,0.4,0.00875,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,0.4,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,0.4,0.00375,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,0.4,0.00125,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,0.4,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,0.4,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,actual,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,border_ban,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.023809523809523808
+ESC2017,equal_groups,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2017,tilt_lead_half,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.05128205128205129
+ESC2017,tilt_lead_full,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.1081081081081081
+ESC2017,tilt_run_half,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.07499999999999998
+ESC2017,tilt_run_full,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,-0.13157894736842102
+ESC2017,contenders_equal,0.8,0.0,800,Southern Europe (other),Eastern Europe (other),1.0,0.0
+ESC2018,actual,obs,0.07,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,obs,0.13125,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,obs,0.095,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,obs,0.06166666666666667,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,obs,0.07333333333333333,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,obs,0.07166666666666667,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,obs,0.08833333333333333,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,obs,0.06333333333333334,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2018,actual,0.0,0.12,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,0.0,0.105,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,0.0,0.08,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,0.0,0.09666666666666666,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,0.0,0.09333333333333334,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,0.0,0.15333333333333332,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,0.0,0.12,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,0.0,0.07333333333333333,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2018,actual,0.1,0.1125,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,0.1,0.11375,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,0.1,0.08375,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,0.1,0.08166666666666667,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,0.1,0.08833333333333333,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,0.1,0.09166666666666666,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,0.1,0.12833333333333333,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,0.1,0.09833333333333333,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2018,actual,0.2,0.075,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,0.2,0.1225,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,0.2,0.0775,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,0.2,0.06666666666666667,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,0.2,0.055,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,0.2,0.07166666666666667,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,0.2,0.06,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,0.2,0.051666666666666666,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2018,actual,0.4,0.03125,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,0.4,0.05125,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,0.4,0.04625,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,0.4,0.03166666666666667,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,0.4,0.03833333333333333,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,0.4,0.035,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,0.4,0.03166666666666667,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,0.4,0.016666666666666666,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2018,actual,0.8,0.03375,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,border_ban,0.8,0.0375,800,Western Europe (other),Viking Empire,0.75,-0.06046511627906976
+ESC2018,equal_groups,0.8,0.035,800,Western Europe (other),Viking Empire,0.75,0.0
+ESC2018,tilt_lead_half,0.8,0.016666666666666666,600,Western Europe (other),Viking Empire,1.0,0.009756097560975611
+ESC2018,tilt_lead_full,0.8,0.023333333333333334,600,Western Europe (other),Viking Empire,1.0,0.12034188034188037
+ESC2018,tilt_run_half,0.8,0.02666666666666667,600,Western Europe (other),Viking Empire,1.0,-0.13658536585365857
+ESC2018,tilt_run_full,0.8,0.016666666666666666,600,Western Europe (other),Viking Empire,1.0,-0.19907203907203905
+ESC2018,contenders_equal,0.8,0.02,600,Western Europe (other),Viking Empire,1.0,0.0
+ESC2019,actual,obs,0.09875,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,obs,0.06375,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,obs,0.07125,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,obs,0.07625,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,obs,0.0875,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,obs,0.1125,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,obs,0.10875,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2019,actual,0.0,0.1475,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,0.0,0.13,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,0.0,0.11625,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,0.0,0.0975,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,0.0,0.1025,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,0.0,0.1525,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,0.0,0.14625,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2019,actual,0.1,0.125,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,0.1,0.1175,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,0.1,0.1175,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,0.1,0.08875,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,0.1,0.1225,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,0.1,0.1525,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,0.1,0.145,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2019,actual,0.2,0.09875,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,0.2,0.065,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,0.2,0.11,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,0.2,0.07375,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,0.2,0.0925,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,0.2,0.09375,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,0.2,0.115,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2019,actual,0.4,0.06,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,0.4,0.03125,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,0.4,0.05625,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,0.4,0.04,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,0.4,0.07125,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,0.4,0.04,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,0.4,0.04875,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2019,actual,0.8,0.02625,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,border_ban,0.8,0.02125,800,Netherlands-Belgium,Viking Empire,1.0,-0.15375
+ESC2019,equal_groups,0.8,0.05625,800,Netherlands-Belgium,Viking Empire,1.0,-0.2
+ESC2019,tilt_lead_half,0.8,0.04875,800,Netherlands-Belgium,Viking Empire,1.0,-0.05579365079365081
+ESC2019,tilt_lead_full,0.8,0.0425,800,Netherlands-Belgium,Viking Empire,1.0,0.0628024193548387
+ESC2019,tilt_run_half,0.8,0.0375,800,Netherlands-Belgium,Viking Empire,1.0,-0.18333333333333332
+ESC2019,tilt_run_full,0.8,0.0375,800,Netherlands-Belgium,Viking Empire,1.0,-0.2144736842105263
+ESC2021,actual,obs,0.10875,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,obs,0.06375,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,obs,0.12875,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,obs,0.10666666666666667,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,obs,0.085,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,obs,0.08833333333333333,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,obs,0.09833333333333333,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,obs,0.08833333333333333,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2021,actual,0.0,0.095,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,0.0,0.04125,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,0.0,0.13875,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,0.0,0.095,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,0.0,0.095,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,0.0,0.09333333333333334,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,0.0,0.1,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,0.0,0.10666666666666667,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2021,actual,0.1,0.10125,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,0.1,0.05875,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,0.1,0.15625,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,0.1,0.13,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,0.1,0.11166666666666666,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,0.1,0.10333333333333333,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,0.1,0.07333333333333333,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,0.1,0.1,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2021,actual,0.2,0.07625,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,0.2,0.0675,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,0.2,0.15,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,0.2,0.08,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,0.2,0.08666666666666667,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,0.2,0.08666666666666667,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,0.2,0.06,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,0.2,0.07666666666666666,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2021,actual,0.4,0.0475,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,0.4,0.08,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,0.4,0.11875,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,0.4,0.04833333333333333,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,0.4,0.07666666666666666,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,0.4,0.06666666666666667,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,0.4,0.055,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,0.4,0.06333333333333334,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2021,actual,0.8,0.0425,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,border_ban,0.8,0.07375,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,equal_groups,0.8,0.10125,800,Southern Europe (other),Western Europe (other),0.75,0.0
+ESC2021,tilt_lead_half,0.8,0.06333333333333334,600,Southern Europe (other),Western Europe (other),1.0,0.05405405405405406
+ESC2021,tilt_lead_full,0.8,0.08833333333333333,600,Southern Europe (other),Western Europe (other),1.0,0.11428571428571431
+ESC2021,tilt_run_half,0.8,0.07,600,Southern Europe (other),Western Europe (other),1.0,-0.05405405405405406
+ESC2021,tilt_run_full,0.8,0.065,600,Southern Europe (other),Western Europe (other),1.0,-0.11428571428571431
+ESC2021,contenders_equal,0.8,0.056666666666666664,600,Southern Europe (other),Western Europe (other),1.0,0.0
+ESC2022,actual,obs,0.13375,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,obs,0.105,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,obs,0.1525,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,obs,0.105,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,obs,0.0575,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,obs,0.1225,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,obs,0.1075,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2022,actual,0.0,0.17625,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,0.0,0.12125,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,0.0,0.1725,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,0.0,0.1025,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,0.0,0.04625,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,0.0,0.15125,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,0.0,0.18625,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2022,actual,0.1,0.16875,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,0.1,0.10875,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,0.1,0.145,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,0.1,0.12375,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,0.1,0.07125,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,0.1,0.15625,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,0.1,0.15,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2022,actual,0.2,0.10875,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,0.2,0.055,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,0.2,0.135,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,0.2,0.0625,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,0.2,0.0475,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,0.2,0.07,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,0.2,0.09375,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2022,actual,0.4,0.02125,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,0.4,0.0025,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,0.4,0.07875,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,0.4,0.0225,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,0.4,0.0175,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,0.4,0.01875,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,0.4,0.015,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2022,actual,0.8,0.00375,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,border_ban,0.8,0.0,800,Northern Europe (other),Viking Empire,1.0,-0.1411764705882353
+ESC2022,equal_groups,0.8,0.05,800,Northern Europe (other),Viking Empire,1.0,-0.26666666666666666
+ESC2022,tilt_lead_half,0.8,0.00875,800,Northern Europe (other),Viking Empire,1.0,-0.03878787878787878
+ESC2022,tilt_lead_full,0.8,0.00875,800,Northern Europe (other),Viking Empire,1.0,0.09423076923076922
+ESC2022,tilt_run_half,0.8,0.00625,800,Northern Europe (other),Viking Empire,1.0,-0.1842424242424242
+ESC2022,tilt_run_full,0.8,0.00375,800,Northern Europe (other),Viking Empire,1.0,-0.2326923076923077
+ESC2023,actual,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,obs,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,actual,0.0,0.15375,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,0.0,0.04,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,0.0,0.1125,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,0.0,0.16,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,0.0,0.1725,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,0.0,0.0975,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,0.0,0.07125,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,0.0,0.08875,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,actual,0.1,0.09625,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,0.1,0.03125,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,0.1,0.07125,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,0.1,0.13875,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,0.1,0.15125,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,0.1,0.06,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,0.1,0.04375,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,0.1,0.06875,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,actual,0.2,0.03375,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,0.2,0.03125,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,0.2,0.04125,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,0.2,0.0525,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,0.2,0.1025,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,0.2,0.02,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,0.2,0.0275,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,0.2,0.02875,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,actual,0.4,0.00375,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,0.4,0.00875,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,0.4,0.0025,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,0.4,0.00625,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,0.4,0.01,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,0.4,0.00125,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,0.4,0.0,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,0.4,0.00125,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,actual,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,border_ban,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.1081081081081081
+ESC2023,equal_groups,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_lead_half,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.17142857142857146
+ESC2023,tilt_lead_full,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.24242424242424235
+ESC2023,tilt_run_half,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2023,tilt_run_full,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,-0.13793103448275865
+ESC2023,contenders_equal,0.8,0.0,800,Viking Empire,Southern Europe (other),1.0,0.0
+ESC2024,actual,obs,0.0,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,obs,0.0,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,obs,0.0,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,obs,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,obs,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,obs,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,obs,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,obs,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2024,actual,0.0,0.1125,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,0.0,0.03375,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,0.0,0.08375,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,0.0,0.07692307692307693,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,0.0,0.05,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,0.0,0.06153846153846154,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,0.0,0.11538461538461539,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,0.0,0.06923076923076923,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2024,actual,0.1,0.08875,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,0.1,0.01375,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,0.1,0.08625,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,0.1,0.10384615384615385,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,0.1,0.07307692307692308,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,0.1,0.04230769230769231,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,0.1,0.026923076923076925,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,0.1,0.046153846153846156,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2024,actual,0.2,0.0375,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,0.2,0.0075,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,0.2,0.045,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,0.2,0.06923076923076923,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,0.2,0.07692307692307693,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,0.2,0.019230769230769232,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,0.2,0.011538461538461539,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,0.2,0.023076923076923078,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2024,actual,0.4,0.0025,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,0.4,0.0,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,0.4,0.00875,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,0.4,0.007692307692307693,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,0.4,0.0038461538461538464,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,0.4,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,0.4,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,0.4,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2024,actual,0.8,0.0,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,border_ban,0.8,0.0,800,Western Europe (other),Western Europe (other),0.325,0.008783783783783784
+ESC2024,equal_groups,0.8,0.00125,800,Western Europe (other),Western Europe (other),0.325,0.0
+ESC2024,tilt_lead_half,0.8,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.08571428571428572
+ESC2024,tilt_lead_full,0.8,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.15151515151515152
+ESC2024,tilt_run_half,0.8,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.05882352941176471
+ESC2024,tilt_run_full,0.8,0.0,260,Western Europe (other),Southern Europe (other),1.0,-0.125
+ESC2024,contenders_equal,0.8,0.0,260,Western Europe (other),Southern Europe (other),1.0,0.0
+ESC2025,actual,obs,0.04875,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,obs,0.04625,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,obs,0.0825,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,actual,0.0,0.05875,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,0.0,0.06125,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,0.0,0.09125,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,actual,0.1,0.07375,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,0.1,0.04125,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,0.1,0.08375,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,actual,0.2,0.04375,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,0.2,0.01875,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,0.2,0.06125,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,actual,0.4,0.0175,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,0.4,0.02625,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,0.4,0.075,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,actual,0.8,0.015,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,border_ban,0.8,0.0125,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2025,equal_groups,0.8,0.0625,800,Western Europe (other),Western Europe (other),0.0,0.0
+ESC2026,actual,obs,0.1775,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,obs,0.09375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,obs,0.13875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,obs,0.15875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,obs,0.1425,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,obs,0.1625,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,obs,0.16,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,obs,0.075,40,Eastern Europe (other),Viking Empire,1.0,0.0
+ESC2026,actual,0.0,0.165,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,0.0,0.105,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,0.0,0.14,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,0.0,0.15125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,0.0,0.14375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,0.0,0.14125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,0.0,0.13875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,0.0,0.125,40,Eastern Europe (other),Viking Empire,1.0,0.0
+ESC2026,actual,0.1,0.15375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,0.1,0.11375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,0.1,0.145,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,0.1,0.15125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,0.1,0.1675,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,0.1,0.14,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,0.1,0.1525,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,0.1,0.1,40,Eastern Europe (other),Viking Empire,1.0,0.0
+ESC2026,actual,0.2,0.13875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,0.2,0.1025,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,0.2,0.15,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,0.2,0.1625,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,0.2,0.15125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,0.2,0.145,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,0.2,0.13875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,0.2,0.025,40,Eastern Europe (other),Viking Empire,1.0,0.0
+ESC2026,actual,0.4,0.13375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,0.4,0.10625,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,0.4,0.12375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,0.4,0.165,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,0.4,0.14625,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,0.4,0.14,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,0.4,0.1375,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,0.4,0.05,40,Eastern Europe (other),Viking Empire,1.0,0.0
+ESC2026,actual,0.8,0.1225,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,border_ban,0.8,0.0875,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.02121212121212121
+ESC2026,equal_groups,0.8,0.15125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.025
+ESC2026,tilt_lead_half,0.8,0.1475,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.03618175287356322
+ESC2026,tilt_lead_full,0.8,0.1325,800,Australia and New Zealand (other),Eastern Europe (other),1.0,0.06658768315018315
+ESC2026,tilt_run_half,0.8,0.13125,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.06956954486466445
+ESC2026,tilt_run_full,0.8,0.12625,800,Australia and New Zealand (other),Eastern Europe (other),1.0,-0.08758356227106229
+ESC2026,contenders_equal,0.8,0.075,40,Eastern Europe (other),Viking Empire,1.0,0.0

@@ -9,6 +9,10 @@ sup_estimates    similarity bonuses of the combined models, clustered and model-
 sup_fits         size, log-likelihood, condition number and extreme nominee effects of every fit
 sup_contests     every contest: rule, leader, margin and the probability that the bonuses decided it
 sup_contrasts    the coach contrasts quoted as z in the text, with clustered s.e. and two-sided P values
+sup_esc_common   Eurovision: common group and neighbour bonuses under three groupings, all places and top ten
+sup_esc_groups   Eurovision: group-specific bonuses under the three groupings
+sup_esc_finals   Eurovision: every final, official jury leader and margin, probability the bonuses decided it
+sup_esc_bases    Eurovision: the same under other national aggregation rules (finals from 2018)
 A table whose inputs are missing is written as a \\Pending marker.
 """
 import json
@@ -40,7 +44,7 @@ def tabular(header, rows, spec):
 def write(name, fn):
     try:
         text = fn()
-    except (FileNotFoundError, KeyError, AttributeError) as e:
+    except (FileNotFoundError, KeyError, AttributeError, IndexError) as e:
         text = f"\\Pending{{{name}: {type(e).__name__}}}\n"
     (OUT / f"{name}.tex").write_text(text)
 
@@ -225,13 +229,78 @@ def sup_contrasts():
     return tabular(["Contrast", "Difference", "s.e. (clustered)", "z", "P (two-sided)"], rows, "lrrrr")
 
 
+ESC = RES / "eurovision"
+ESC_GROUPING = {"B": "Voting blocs", "E": "UN subregions", "C": "Finer grouping"}
+
+
+def ci(r):
+    return f"{r.beta:.2f} ({r.beta - 1.96 * r.se_cluster:.2f} to {r.beta + 1.96 * r.se_cluster:.2f})"
+
+
+def sup_esc_common():
+    est = pd.read_csv(ESC / "estimates.csv").set_index(["model", "term"])
+    fits = {f["model"]: f for f in json.loads((ESC / "fits.json").read_text())}
+    rows = []
+    for g in "BEC":
+        for m, places in ((f"{g}1", "all"), (f"{g}1_top10", "top ten")):
+            rows.append([ESC_GROUPING[g], places, ci(est.loc[(m, "same_group")]), ci(est.loc[(m, "same_border")]),
+                         f"{fits[m]['loglik']:,.1f}"])
+    r = est.loc[("B1_region", "same_region")]
+    rows.append(["Blocs plus UN subregion", "all", ci(est.loc[("B1_region", "same_group")]) + "; subregion " + ci(r),
+                 ci(est.loc[("B1_region", "same_border")]), f"{fits['B1_region']['loglik']:,.1f}"])
+    return tabular(["Grouping", "Places", "Group bonus (95\\% CI)", "Neighbour bonus (95\\% CI)", "Log-likelihood"],
+                   rows, "llllr")
+
+
+def sup_esc_groups():
+    est = pd.read_csv(ESC / "estimates.csv")
+    rows = []
+    for g in "BEC":
+        e = est[(est.model == f"{g}2") & est.term.str.startswith("same_group[")]
+        for _, r in e.sort_values("beta", ascending=False).iterrows():
+            rows.append([ESC_GROUPING[g], r.term[11:-1], ci(r)])
+        b = est[(est.model == f"{g}2") & (est.term == "same_border")].iloc[0]
+        rows.append([ESC_GROUPING[g], "Neighbour (common)", ci(b)])
+    return tabular(["Grouping", "Juror's group", "Bonus (95\\% CI)"], rows, "lll")
+
+
+def sup_esc_finals():
+    cf = {m: pd.read_csv(ESC / f"cf_{m}_contests.csv").query("scenario == 'all'").set_index("contest")
+          for m in ("B1", "B2", "B1_top10", "E1", "E2", "E1_top10", "C1", "C2", "C1_top10")}
+    rows = []
+    for c, r in cf["B1"].iterrows():
+        rows.append([c[3:], r.official_leader, r.official_runner_up, f"{r.official_margin_points:.0f}",
+                     f"{r.p_flip_mle:.2f}"] + [f"{cf[m].loc[c].p_flip:.2f}" for m in cf])
+    head = ["Final", "Jury leader", "Runner-up", "Margin", "Blocs (estimates)"] + [
+        f"{g}{v}" for g in ("Blocs", "Subregions", "Finer") for v in ("", ", by group", ", top ten")]
+    return "\\resizebox{\\textwidth}{!}{%\n" + tabular(head, rows, "lllr" + "r" * 10) + "}\n"
+
+
+def sup_esc_bases():
+    b = pd.read_csv(ESC / "bases_B1.csv")
+    rules = ["sum of ranks", "0.8", "0.85", "0.9"]
+    rows = []
+    for c, g in b.groupby("contest", sort=True):
+        fitted = g[g.fitted.astype(str) == "True"].iloc[0]
+        cells = [f"{fitted.margin_points:.0f}; {fitted.p_flip:.2f}"]
+        for rule in rules:
+            x = g[(g.rule.astype(str) == rule) & (g.fitted.astype(str) == "False")]
+            cells.append(f"{x.margin_points.iloc[0]:.0f}; {x.p_flip.iloc[0]:.2f}" + ("" if x.leader.iloc[0] == fitted.leader else "*")
+                         if len(x) else "--")
+        rows.append([c[3:], fitted.leader] + cells)
+    head = ["Final", "Jury leader", f"Base {b[b.fitted.astype(str) == 'True'].rule.iloc[0]} (fitted)", "Summed ranks",
+            "Base 0.80", "Base 0.85", "Base 0.90"]
+    return tabular(head, rows, "llrrrrr")
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     for name, fn in (("sup_sources", sup_sources), ("sup_coaches", sup_coaches), ("sup_bdo", sup_bdo),
                      ("sup_estimates", sup_estimates), ("sup_fits", sup_fits), ("sup_contests", sup_contests),
-                     ("sup_contrasts", sup_contrasts)):
+                     ("sup_contrasts", sup_contrasts), ("sup_esc_common", sup_esc_common),
+                     ("sup_esc_groups", sup_esc_groups), ("sup_esc_finals", sup_esc_finals), ("sup_esc_bases", sup_esc_bases)):
         write(name, fn)
-    print("tables: sup_sources, sup_coaches, sup_bdo, sup_estimates, sup_fits, sup_contests, sup_contrasts",
+    print("tables: sup_sources, sup_coaches, sup_bdo, sup_estimates, sup_fits, sup_contests, sup_contrasts, sup_esc_*",
           file=sys.stderr)
 
 
